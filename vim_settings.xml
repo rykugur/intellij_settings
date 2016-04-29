@@ -78,7 +78,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_document_list.xml" timestamp="1461876834810">
         <mark key="'" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" timestamp="1461942955321">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" timestamp="1461945670622">
+        <mark key="'" line="35" column="12" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -116,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="437" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="436" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="417" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
@@ -216,6 +216,7 @@
       <jump line="13" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="24" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/main/java/com/chrobinson/android/core/view/Toaster.java" />
       <jump line="368" column="76" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DocumentsActivity.java" />
+      <jump line="35" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -225,7 +226,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>mpresentation == null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5pKCJERVJQRkVTVCIsICJnZXRNeUxvYWRzKCkgY2FsbGVkLi4uIik7Cg==</text>
@@ -259,15 +260,14 @@
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>mpresentation == null</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>mpresentation == null</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUHJvZ3Jlc3NJbmRpY2F0b3JcPg==</entry>
         <entry>eye</entry>
         <entry>visibility</entry>
         <entry encoding="base64">XDx2aXNpYmlsaXR5XD4=</entry>
@@ -287,6 +287,7 @@
         <entry>getmyloads</entry>
         <entry>log</entry>
         <entry>min</entry>
+        <entry>mpresentation == null</entry>
       </history-search>
       <history-cmd />
       <history-expr />
