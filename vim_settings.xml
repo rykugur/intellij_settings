@@ -69,11 +69,7 @@
         <mark key="^" line="18" column="63" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" timestamp="1462301491002">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="62" />
-        <mark key="^" line="29" column="62" />
-        <mark key="." line="29" column="62" />
+        <mark key="'" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsMapPresenter.java" timestamp="1461863152024">
         <mark key="'" line="305" column="32" />
@@ -90,6 +86,9 @@
         <mark key="]" line="48" column="51" />
         <mark key="^" line="48" column="51" />
         <mark key="." line="48" column="51" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462303226471">
+        <mark key="'" line="194" column="45" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" timestamp="1462292886621">
         <mark key="'" line="160" column="27" />
@@ -112,10 +111,6 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_document_list.xml" timestamp="1461876834810">
         <mark key="'" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" timestamp="1462281104983">
-        <mark key="'" line="74" column="12" />
-        <mark key="[" line="59" column="5" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IDocumentListPresenter.java" timestamp="1462279587313">
         <mark key="[" line="7" column="23" />
@@ -177,15 +172,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1462301505972">
-        <mark key="'" line="192" column="0" />
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="51" />
+        <mark key="'" line="189" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="128" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="129" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="141" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
@@ -285,6 +275,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
       <jump line="107" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
       <jump line="8" column="8" filename="$USER_HOME$/personal/code/src/ArtifactorySpike/build.gradle" />
+      <jump line="194" column="45" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -294,7 +285,7 @@
         <text>remote-repos</text>
       </register>
       <register name="/" type="4">
-        <text>repo</text>
+        <text>optional</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsICdodHRwOi8vbG9jYWxob3N0OjgwODEvYXJ0aWZhY3RvcnkvcmVtb3RlLXJlcG9zLycK</text>
@@ -328,15 +319,14 @@
       </register>
     </registers>
     <search>
-      <last-search>repo</last-search>
+      <last-search>optional</last-search>
       <last-offset />
-      <last-pattern>repo</last-pattern>
+      <last-pattern>optional</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mmyloads</entry>
         <entry>mloads</entry>
         <entry encoding="base64">XDxtTG9hZHNcPg==</entry>
         <entry encoding="base64">XDxtTG9hZHNMaXN0ZW5lclw+</entry>
@@ -356,6 +346,7 @@
         <entry>presenter =</entry>
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry>repo</entry>
+        <entry>optional</entry>
       </history-search>
       <history-cmd />
       <history-expr />
