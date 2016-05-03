@@ -31,10 +31,11 @@
         <mark key="^" line="81" column="28" />
         <mark key="." line="81" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" timestamp="1461942786641">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="8" />
-        <mark key="." line="203" column="8" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" timestamp="1462279917453">
+        <mark key="[" line="111" column="34" />
+        <mark key="]" line="111" column="34" />
+        <mark key="." line="111" column="34" />
+        <mark key="^" line="111" column="34" />
       </file>
       <file name="$USER_HOME$/personal/code/src/Playground/app/src/main/java/com/example/jerodus/playground/MainActivity.java" timestamp="1461878796284">
         <mark key="[" line="18" column="63" />
@@ -84,11 +85,18 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_document_list.xml" timestamp="1461876834810">
         <mark key="'" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" timestamp="1462201427160">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" timestamp="1462279877771">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="63" column="28" />
+        <mark key="^" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IDocumentListPresenter.java" timestamp="1462279587313">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_main.xml" timestamp="1461695375970">
         <mark key="'" line="10" column="0" />
@@ -96,6 +104,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" timestamp="1461859620430">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentDetailPresenter.java" timestamp="1462279582031" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" timestamp="1461855424041">
         <mark key="'" line="31" column="4" />
       </file>
@@ -134,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="436" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="417" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
       <jump line="416" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" />
@@ -234,13 +242,14 @@
       <jump line="24" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/main/java/com/chrobinson/android/core/view/Toaster.java" />
       <jump line="368" column="76" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DocumentsActivity.java" />
       <jump line="35" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" />
+      <jump line="21" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DocumentListPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>buttony</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>mpresentation == null</text>
@@ -248,14 +257,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5pKCJERVJQRkVTVCIsICJnZXRNeUxvYWRzKCkgY2FsbGVkLi4uIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNTAwTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EZXRhY2hWaWV3KCkgewogICAgICAgIG1QcmVzZW50YXRpb24gPSBudWxsOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -264,16 +273,16 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoNTAwTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbmNsaWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>buttony</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
