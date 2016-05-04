@@ -1,11 +1,27 @@
 <keymap version="1" name="Mac OS X - CUSTOM" parent="Mac OS X">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
