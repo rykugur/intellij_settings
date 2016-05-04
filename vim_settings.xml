@@ -281,6 +281,9 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name=":" type="4">
+        <text>43</text>
+      </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxwcm92aWRlc0NvbXBsZXhQcmVmZXJlbmNlc1Byb3ZpZGVyXD4=</last-search>
@@ -312,7 +315,9 @@
         <entry encoding="base64">XDxtQ2FjaGVkRmlsdGVyU2VydmljZVw+</entry>
         <entry encoding="base64">XDxwcm92aWRlc0NvbXBsZXhQcmVmZXJlbmNlc1Byb3ZpZGVyXD4=</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>43</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
