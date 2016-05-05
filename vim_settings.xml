@@ -61,8 +61,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsMapPresenter.java" timestamp="1461863152024">
         <mark key="'" line="305" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462459971593">
-        <mark key="'" line="194" column="45" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462462668041">
+        <mark key="'" line="126" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" timestamp="1462292886621">
         <mark key="'" line="160" column="27" />
@@ -138,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" />
-      <jump line="145" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" />
       <jump line="181" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" />
       <jump line="70" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" />
       <jump line="9" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IFragmentPresenter.java" />
@@ -238,6 +236,8 @@
       <jump line="234" column="53" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="24" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
       <jump line="13" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
+      <jump line="181" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
+      <jump line="126" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -247,7 +247,7 @@
         <text encoding="base64">VE9ETzog</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtUHJlc2VudGVyXD4=</text>
+        <text encoding="base64">XDxtVG90YWxXZWlnaHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsICdodHRwOi8vbG9jYWxob3N0OjgwODEvYXJ0aWZhY3RvcnkvcmVtb3RlLXJlcG9zLycK</text>
@@ -284,15 +284,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtUHJlc2VudGVyXD4=</last-search>
+      <last-search encoding="base64">XDxtVG90YWxXZWlnaHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtUHJlc2VudGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtVG90YWxXZWlnaHRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>presenter =</entry>
         <entry>repo</entry>
         <entry>optional</entry>
         <entry>fabric</entry>
@@ -312,6 +311,7 @@
         <entry>inject</entry>
         <entry>injector</entry>
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
+        <entry encoding="base64">XDxtVG90YWxXZWlnaHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
