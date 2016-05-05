@@ -151,23 +151,22 @@
       <file name="/fragment.java" timestamp="1462377428745">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtils.java" timestamp="1462476599801">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtils.java" timestamp="1462481207732">
         <mark key="'" line="153" column="53" />
-        <mark key="[" line="164" column="9" />
-        <mark key="]" line="164" column="10" />
-        <mark key="." line="164" column="10" />
-        <mark key="^" line="170" column="38" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+        <mark key="^" line="167" column="102" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1462476696597">
-        <mark key="'" line="22" column="54" />
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="62" />
-        <mark key="." line="3" column="62" />
-        <mark key="^" line="3" column="62" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1462480880828">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="58" />
+        <mark key="." line="22" column="58" />
+        <mark key="^" line="22" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="47" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="35" column="122" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/CalendarPickerDialog.java" />
       <jump line="343" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="408" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
@@ -251,8 +250,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/build.gradle" />
       <jump line="29" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="4" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
-      <jump line="1" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
-      <jump line="20" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="22" column="54" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="108" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
       <jump line="25" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
@@ -267,61 +264,63 @@
       <jump line="82" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
       <jump line="83" column="42" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
       <jump line="90" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/build.gradle" />
+      <jump line="15" column="45" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
+      <jump line="1" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>remote-repos</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBOdW1iZXJGb3JtYXQgaW50ZWdlckluc3RhbmNlID0gTnVtYmVyRm9ybWF0LmdldEludGVnZXJJbnN0YW5jZSgpOwogICAgICAgIFN0cmluZyBmb3JtYXR0ZWREaXN0YW5jZSA9IGludGVnZXJJbnN0YW5jZS5mb3JtYXQobG9hZFN1bW1hcnlWaWV3TW9kZWwuZ2V0RGlzdGFuY2UoKSk7CiAgICAgICAgU3RyaW5nIGZvcm1hdHRlZFdlaWdodCA9IGludGVnZXJJbnN0YW5jZS5mb3JtYXQobG9hZFN1bW1hcnlWaWV3TW9kZWwuZ2V0V2VpZ2h0KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>remote-repos</text>
+        <text>formatte</text>
       </register>
       <register name="/" type="4">
-        <text>repo</text>
+        <text>repositories</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE51bWJlckZvcm1hdC5nZXRJbnRlZ2VySW5zdGFuY2UoKS5mb3JtYXQobVdyYXBwZWRMb2FkU3VtbWFyeS5nZXRXZWlnaHQoKSkgKyAiICIgKyBnZXREaXNwbGF5V2VpZ2h0VW5pdE9mTWVhc3VyZShhYmJyZXZpYXRlKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>remote-repos</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBOdW1iZXJGb3JtYXQgaW50ZWdlckluc3RhbmNlID0gTnVtYmVyRm9ybWF0LmdldEludGVnZXJJbnN0YW5jZSgpOwogICAgICAgIFN0cmluZyBmb3JtYXR0ZWREaXN0YW5jZSA9IGludGVnZXJJbnN0YW5jZS5mb3JtYXQobG9hZFN1bW1hcnlWaWV3TW9kZWwuZ2V0RGlzdGFuY2UoKSk7CiAgICAgICAgU3RyaW5nIGZvcm1hdHRlZFdlaWdodCA9IGludGVnZXJJbnN0YW5jZS5mb3JtYXQobG9hZFN1bW1hcnlWaWV3TW9kZWwuZ2V0V2VpZ2h0KCkpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>libs-release</text>
+        <text>formatte</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB1cmwgJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9hcnRpZmFjdG9yeS9yZW1vdGUtcmVwb3MvJwo=</text>
+      <register name="3" type="4">
+        <text>Distance</text>
       </register>
       <register name="4" type="4">
-        <text>libs-release</text>
+        <text>dWeight</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB1cmwgJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9hcnRpZmFjdG9yeS9yZW1vdGUtcmVwb3MvJwo=</text>
+      <register name="5" type="4">
+        <text>formattedDistance</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB1cmwgJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9hcnRpZmFjdG9yeS9yZW1vdGUtcmVwb3MvJwo=</text>
+      <register name="6" type="4">
+        <text>remote-repos</text>
       </register>
       <register name="7" type="4">
-        <text>String.valueOf((int) loadSummaryViewModel.getWeight())</text>
+        <text>remote</text>
       </register>
       <register name="8" type="4">
-        <text>(int</text>
+        <text>remote-repos</text>
       </register>
       <register name="9" type="4">
-        <text>getWeight());</text>
+        <text>libs-release</text>
       </register>
       <register name=":" type="4">
-        <text>43</text>
+        <text>159</text>
       </register>
     </registers>
     <search>
-      <last-search>repo</last-search>
+      <last-search>repositories</last-search>
       <last-offset />
-      <last-pattern>repo</last-pattern>
+      <last-pattern>repositories</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>optional</entry>
         <entry>fabric</entry>
         <entry>gradle</entry>
         <entry>appsee</entry>
@@ -341,9 +340,11 @@
         <entry encoding="base64">XDxtUHJlc2VudGVyXD4=</entry>
         <entry encoding="base64">XDxtVG90YWxXZWlnaHRcPg==</entry>
         <entry>repo</entry>
+        <entry>repositories</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
+        <entry>159</entry>
       </history-cmd>
       <history-expr />
       <history-input />
