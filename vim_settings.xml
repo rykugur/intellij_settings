@@ -61,7 +61,11 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsMapPresenter.java" timestamp="1461863152024">
         <mark key="'" line="305" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462462668041">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/MyLoadDetailViewModel.java" timestamp="1462472215091">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="143" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462471863915">
         <mark key="'" line="126" column="13" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" timestamp="1462292886621">
@@ -83,6 +87,7 @@
       <file name="/Dummy.txt" timestamp="1462309460703">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/LoadPreviewView.java" timestamp="1462472158452" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1461774040727">
         <mark key="'" line="341" column="19" />
       </file>
@@ -132,6 +137,12 @@
       </file>
       <file name="/fragment.java" timestamp="1462377428745">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtils.java" timestamp="1462472600548">
+        <mark key="[" line="164" column="9" />
+        <mark key="]" line="164" column="10" />
+        <mark key="." line="164" column="10" />
+        <mark key="^" line="170" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1462395045794">
         <mark key="'" line="13" column="28" />
@@ -241,43 +252,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VE9ETzog</text>
+        <text>String.valueOf((int) loadSummaryViewModel.getWeight())</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VE9ETzog</text>
+        <text>String.valueOf((int) loadSummaryViewModel.getWeight())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtVG90YWxXZWlnaHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsICdodHRwOi8vbG9jYWxob3N0OjgwODEvYXJ0aWZhY3RvcnkvcmVtb3RlLXJlcG9zLycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE51bWJlckZvcm1hdC5nZXRJbnRlZ2VySW5zdGFuY2UoKS5mb3JtYXQobVdyYXBwZWRMb2FkU3VtbWFyeS5nZXRXZWlnaHQoKSkgKyAiICIgKyBnZXREaXNwbGF5V2VpZ2h0VW5pdE9mTWVhc3VyZShhYmJyZXZpYXRlKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">VE9ETzog</text>
+        <text>String.valueOf((int) loadSummaryViewModel.getWeight())</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>(int</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtQXBwbGljYXRpb25Db21wb25lbnQuCg==</text>
+      <register name="3" type="4">
+        <text>getWeight());</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtVXNlclNlcnZpY2UK</text>
+      <register name="4" type="4">
+        <text>NumberFormat.getIntegerInstance().</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9ybWF0dGVkV2VpZ2h0ID0gTnVtYmVyZm8K</text>
       </register>
       <register name="6" type="4">
-        <text>null</text>
+        <text>nace</text>
       </register>
       <register name="7" type="4">
-        <text>cachedFilterService</text>
+        <text>formattedDistnace</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bWN2X3Nob3dPdGhlckRhdGVzPSJvdXRfb2ZfcmFuZ2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hcHBlbmQoU3RyaW5nLnZhbHVlT2YoKGludCkgbG9hZFN1bW1hcnlWaWV3TW9kZWwuZ2V0RGlzdGFuY2UoKSkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>all</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTnVtYmVyRm9ybWF0LmdldEludGVnZXJJbnN0YW5jZSgpLmZvcm1hdChsb2FkU3VtbWFyeVZpZXdNb2RlbC5nZXRXZWlnaHQoKSkgKyAiICIgKyBnZXREaXNwbGF5V2VpZ2h0VW5pdE9mTWVhc3VyZShhYmJyZXZpYXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
