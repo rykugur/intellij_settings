@@ -26,8 +26,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/helper/MyLoadPin.java" timestamp="1461786212436">
         <mark key="'" line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1462807002534">
-        <mark key="'" line="152" column="18" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1462808249837">
+        <mark key="'" line="457" column="25" />
         <mark key="]" line="267" column="25" />
         <mark key="." line="267" column="25" />
         <mark key="^" line="267" column="25" />
@@ -74,6 +74,9 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/helper/MapPinManager.java" timestamp="1462808237333">
+        <mark key="'" line="95" column="29" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IDocumentDetailPresenter.java" timestamp="1462282432517">
         <mark key="[" line="22" column="0" />
@@ -124,6 +127,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/LoadPreviewView.java" timestamp="1462472158452" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/marker/CameraUpdateBuilder.java" timestamp="1462808711178" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1461774040727">
         <mark key="'" line="341" column="19" />
       </file>
@@ -182,9 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
-      <jump line="170" column="27" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
-      <jump line="255" column="59" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="269" column="7" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="59" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="836" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
@@ -282,6 +283,9 @@
       <jump line="51" column="34" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="110" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="152" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="95" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/helper/MapPinManager.java" />
+      <jump line="149" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="457" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -291,7 +295,7 @@
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtVmlld3NcPg==</text>
+        <text>getroot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImtleVNldD0iICsga2V5U2V0KTsK</text>
@@ -324,19 +328,18 @@
         <text>String</text>
       </register>
       <register name=":" type="4">
-        <text>119</text>
+        <text>28</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtVmlld3NcPg==</last-search>
+      <last-search>getroot</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtVmlld3NcPg==</last-pattern>
+      <last-pattern>getroot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>appsee</entry>
         <entry encoding="base64">XDxzZWFyY2hCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxtU2VhcmNoQnV0dG9uQ2xpY2tMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxkYXRlUmFuZ2VcPg==</entry>
@@ -356,11 +359,13 @@
         <entry>repositories</entry>
         <entry>actionbar</entry>
         <entry encoding="base64">XDxtVmlld3NcPg==</entry>
+        <entry>getroot</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
         <entry>159</entry>
         <entry>119</entry>
+        <entry>28</entry>
       </history-cmd>
       <history-expr />
       <history-input />
