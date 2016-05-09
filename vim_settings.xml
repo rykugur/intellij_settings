@@ -99,8 +99,14 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IFragmentPresenter.java" timestamp="1462292786194">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenter.java" timestamp="1462801211199">
+        <mark key="'" line="181" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsMapPresenter.java" timestamp="1461863152024">
         <mark key="'" line="305" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462471863915">
+        <mark key="'" line="126" column="13" />
       </file>
       <file name="$USER_HOME$/personal/code/src/hfad/Starbuzz/app/src/main/java/io/rollhax/hfad/starbuzz/DrinkActivity.java" timestamp="1462768092572">
         <mark key="[" line="7" column="35" />
@@ -160,11 +166,10 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/personal/code/src/hfad/Workout/app/src/main/java/io/rollhax/hfad/workout/MainActivity.java" timestamp="1462800025935">
-        <mark key="'" line="27" column="114" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/personal/code/src/hfad/Workout/app/src/main/java/io/rollhax/hfad/workout/MainActivity.java" timestamp="1462801201838">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1462767370353">
         <mark key="[" line="0" column="0" />
@@ -183,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="85" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="402" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="425" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="523" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
@@ -283,10 +287,11 @@
       <jump line="139" column="45" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="27" column="114" filename="$USER_HOME$/personal/code/src/hfad/Workout/app/src/main/java/io/rollhax/hfad/workout/MainActivity.java" />
       <jump line="71" column="18" filename="$USER_HOME$/work/code/sdk/platforms/android-23/android.jar!/java/util/HashMap.class" />
+      <jump line="181" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXJwTGlzdC5hZGQoMSwgIjUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -298,31 +303,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImtleVNldD0iICsga2V5U2V0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXJwTGlzdC5hZGQoMSwgIjUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXJwTGlzdC5hCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBIYXNoTWFwPFN0cmluZywgU3RyaW5nPiBkZXJwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIGRlcnAucHV0KCJrZXkxIiwgInZhbHVlMSIpOwogICAgICAgIGRlcnAucHV0KCJrZXkyIiwgInZhbHVlMiIpOwogICAgICAgIGRlcnAucHV0KCJrZXkzIiwgInZhbHVlMyIpOwogICAgICAgIGRlcnAucHV0KCJrZXk0IiwgInZhbHVlNCIpOwogICAgICAgIGRlcnAucHV0KCJrZXk1IiwgInZhbHVlNSIpOwoKICAgICAgICBTZXQ8U3RyaW5nPiBrZXlTZXQgPSBkZXJwLmtleVNldCgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigia2V5U2V0PSIgKyBrZXlTZXQpOwoKICAgICAgICBTdHJpbmdbXSBrZXlBcnJheSA9IGtleVNldC50b0FycmF5KG5ldyBTdHJpbmdbZGVycC52YWx1ZXMoKS5zaXplKCldKTsKICAgICAgICBMaXN0PFN0cmluZz4gZGVycExpc3QgPSBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVMaXN0KEFycmF5cy5hc0xpc3Qoa2V5QXJyYXkpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlcnBMaXN0PSIgKyBkZXJwTGlzdCk7CgogICAgICAgIGtleVNldC5hZGQoImtleTYiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImtleVNldD0iICsga2V5U2V0KTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImRlcnAua2V5U2V0KCk9IiArIGRlcnAua2V5U2V0KCkpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXJwTGlzdC5hZGQoMSwgIjUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZXJwTGlzdC5hCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZGVycExpc3QgPSBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVMaXN0KGRlcnAua2V5U2V0KCkudG9BcnJheShuZXcgU3RyaW5nW2RlcnAudmFsdWVzKCkuc2l6ZSgpXSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXJwLgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>String</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZGVycExpc3QgPSBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVMaXN0KGRlcnAua2V5U2V0KCkudG9BcnJheShuZXcgU3RyaW5nW2RlcnAudmFsdWVzKCkuc2l6ZSgpXSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZXJwLgo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>String</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
