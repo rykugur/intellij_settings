@@ -58,6 +58,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" timestamp="1462292886621">
         <mark key="'" line="160" column="27" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" timestamp="1462907891828" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/apt/debug/com/chrobinson/navispherecarrier/di/internal/component/DaggerIApplicationComponent.java" timestamp="1462377897918">
         <mark key="'" line="398" column="13" />
       </file>
@@ -116,7 +117,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsMapPresenter.java" timestamp="1461863152024">
         <mark key="'" line="305" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462471863915">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1462907674330">
         <mark key="'" line="126" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar!/com/google/gson/JsonElement.class" timestamp="1462810084658">
@@ -165,19 +166,14 @@
       <file name="/fragment.java" timestamp="1462906001178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/code/src/hfad/Starbuzz/build.gradle" timestamp="1462762809833">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" timestamp="1462905877721">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" timestamp="1462908233969">
+        <mark key="'" line="55" column="12" />
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="527" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="665" column="47" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="79" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="403" column="23" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
@@ -277,6 +273,7 @@
       <jump line="593" column="5" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="44" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="122" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
+      <jump line="55" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -286,7 +283,7 @@
         <text>LoadContactFragment extends BaseFragment {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</text>
+        <text encoding="base64">XDxtUmVwRW1haWxDb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuTm9uZT0iICsgRGVycC5Ob25lKTsK</text>
@@ -323,15 +320,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</last-search>
+      <last-search encoding="base64">XDxtUmVwRW1haWxDb250YWluZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtUmVwRW1haWxDb250YWluZXJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlUmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxtRmlsdGVyU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxtRGF0ZVJhbmdlXD4=</entry>
         <entry>mViews =</entry>
@@ -351,6 +347,7 @@
         <entry>getroot</entry>
         <entry>version</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxtUmVwRW1haWxDb250YWluZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
