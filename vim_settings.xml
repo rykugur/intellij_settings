@@ -26,11 +26,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/helper/MyLoadPin.java" timestamp="1461786212436">
         <mark key="'" line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1462910297603">
-        <mark key="'" line="751" column="15" />
-        <mark key="]" line="267" column="25" />
-        <mark key="." line="267" column="25" />
-        <mark key="^" line="267" column="25" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1462913446300">
+        <mark key="'" line="194" column="3" />
+        <mark key="[" line="843" column="0" />
+        <mark key="]" line="851" column="5" />
+        <mark key="." line="843" column="0" />
+        <mark key="^" line="844" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/LoadFilterView.java" timestamp="1461856199359">
         <mark key="'" line="70" column="28" />
@@ -131,7 +132,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1461774040727">
         <mark key="'" line="341" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_main.xml" timestamp="1461695375970">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_main.xml" timestamp="1462910796230">
         <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenterTest.java" timestamp="1461859620430">
@@ -177,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ViewModule.java" />
-      <jump line="399" column="140" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/apt/debug/com/chrobinson/navispherecarrier/di/internal/component/DaggerIApplicationComponent.java" />
       <jump line="334" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/apt/debug/com/chrobinson/navispherecarrier/di/internal/component/DaggerIApplicationComponent.java" />
       <jump line="398" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/apt/debug/com/chrobinson/navispherecarrier/di/internal/component/DaggerIApplicationComponent.java" />
       <jump line="198" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
@@ -277,10 +276,12 @@
       <jump line="724" column="38" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="750" column="30" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="751" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="851" column="67" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="194" column="3" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LoadContactFragment extends BaseFragment {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhpZGVMb2FkRGV0YWlscygpIHsKICAgICAgICBpZiAobVNob3dpbmdEZXRhaWxzRHJhd2VyKSB7CiAgICAgICAgICAgIGFuaW1hdGVFeGl0RGV0YWlscygpOwogICAgICAgICAgICBtVmlld3MuZ29vZ2xlTWFwLnNldFBhZGRpbmcoMCwgMCwgMCwgMCk7CiAgICAgICAgICAgIG1UcmFja2VyLmxvZ1NjcmVlbihnZXRTY3JlZW5OYW1lKCkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>LoadContactFragment extends BaseFragment {</text>
@@ -291,32 +292,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuTm9uZT0iICsgRGVycC5Ob25lKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>LoadContactFragment extends BaseFragment {</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGhpZGVMb2FkRGV0YWlscygpIHsKICAgICAgICBpZiAobVNob3dpbmdEZXRhaWxzRHJhd2VyKSB7CiAgICAgICAgICAgIGFuaW1hdGVFeGl0RGV0YWlscygpOwogICAgICAgICAgICBtVmlld3MuZ29vZ2xlTWFwLnNldFBhZGRpbmcoMCwgMCwgMCwgMCk7CiAgICAgICAgICAgIG1UcmFja2VyLmxvZ1NjcmVlbihnZXRTY3JlZW5OYW1lKCkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gZGVycCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcmVwb3J0TXlMb2Fkc1RpbWUobG9uZyB0aW1lKSB7CiAgICAgICAgbVRyYWNrZXIubG9nVGltZShBbmFseXRpY3NFdmVudENhdGVnb3J5LkxvYWREYXRhLEFuYWx5dGljc0FjdGlvbi5HZXRNeUxvYWRzLCJNeSBMb2FkcyIsdGltZSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCByZXBvcnRBdmFpbGFibGVMb2Fkc1RpbWUoU3RyaW5nIG5hbWUsIGxvbmcgdGltZSkgewogICAgICAgIG1UcmFja2VyLmxvZ1RpbWUoQW5hbHl0aWNzRXZlbnRDYXRlZ29yeS5Mb2FkRGF0YSxBbmFseXRpY3NBY3Rpb24uR2V0QXZhaWxhYmxlTG9hZHMsbmFtZSx0aW1lKTsKICAgIH0KICAgIC8vZW5kcmVnaW9uCgogICAgcHJpdmF0ZSBTdHJpbmcgZ2V0TWFwT3JMaXN0TGFiZWwoKXsKICAgICAgICByZXR1cm4gbU1hcExpc3RTdGF0ZSA9PSBMb2FkVG9nZ2xlVmlldy5EaXNwbGF5VG9nZ2xlLkxpc3QgPyAiTGlzdCIgOiAiTWFwIjsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZW51bSBEZXJwIHsKICAgICAgICBOb25lKC0xKSwKICAgICAgICBTb21lKDEpOwoKICAgICAgICBwcml2YXRlIGludCBtVmFsOwoKICAgICAgICBEZXJwKGludCB2YWwpIHsKICAgICAgICAgICAgbVZhbCA9IHZhbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0VmFsKCkgewogICAgICAgICAgICByZXR1cm4gbVZhbDsKICAgICAgICB9CgoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKSArICIsIG1WYWw9IiArIG1WYWw7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuTm9uZT0iICsgRGVycC5Ob25lKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuU29tZT0iICsgRGVycC5Tb21lKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25BY3Rpdml0eUNyZWF0ZWQoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSl7CiAgICAgICAgc3VwZXIub25BY3Rpdml0eUNyZWF0ZWQoc2F2ZWRJbnN0YW5jZVN0YXRlKTsKICAgICAgICBtUHJlc2VudGVyLm9uQWN0aXZpdHlDcmVhdGVkKG1DdXJyZW50VGFiU2VsZWN0aW9uLCBtRmlsdGVyU2V0dGluZ3MpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EZXN0cm95VmlldygpIHsKICAgICAgICBzdXBlci5vbkRlc3Ryb3lWaWV3KCk7CiAgICAgICAgbVByZXNlbnRlci5vbkRlc3Ryb3lWaWV3KCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmdldGFzaW50Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25BdHRhY2goQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgc3VwZXIub25BdHRhY2goY29udGV4dCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgbVRpdGxlID0gKElUaXRsZWFibGUpIGdldEFjdGl2aXR5KCk7CiAgICAgICAgfSBjYXRjaCAoQ2xhc3NDYXN0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgU3RyaW5nIHRleHQgPSAiSG9zdGluZyBhY3Rpdml0eSBtdXN0IGltcGxlbWVudCAiICsgSVRpdGxlYWJsZS5jbGFzcy5nZXRTaW1wbGVOYW1lKCk7CiAgICAgICAgICAgIG1Mb2dnZXIuZShUQUcsdGV4dCxlKTsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxTdGF0ZUV4Y2VwdGlvbih0ZXh0KTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmlzCg==</text>
+      <register name="5" type="4">
+        <text>LoadContactFragment extends BaseFragment {</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHguaXNqCg==</text>
+        <text encoding="base64">CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gZGVycCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZW51bSBEZXJwIHsKICAgICAgICBOb25lKC0xKSwKICAgICAgICBTb21lKDEpOwoKICAgICAgICBwcml2YXRlIGludCBtVmFsOwoKICAgICAgICBEZXJwKGludCB2YWwpIHsKICAgICAgICAgICAgbVZhbCA9IHZhbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0VmFsKCkgewogICAgICAgICAgICByZXR1cm4gbVZhbDsKICAgICAgICB9CgoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKSArICIsIG1WYWw9IiArIG1WYWw7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuTm9uZT0iICsgRGVycC5Ob25lKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuU29tZT0iICsgRGVycC5Tb21lKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmdldEFzSW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmdldGFzaW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBEZXJwLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>28</text>
