@@ -23,8 +23,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/helper/MyLoadPin.java" timestamp="1461786212436">
         <mark key="'" line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1462808249837">
-        <mark key="'" line="457" column="25" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1462905545249">
+        <mark key="'" line="593" column="5" />
         <mark key="]" line="267" column="25" />
         <mark key="." line="267" column="25" />
         <mark key="^" line="267" column="25" />
@@ -149,9 +149,18 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/personal/code/src/hfad/Starbuzz/build.gradle" timestamp="1462762809833">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" timestamp="1462905877721">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="836" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="345" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="526" column="27" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="527" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
@@ -251,13 +260,14 @@
       <jump line="457" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="101" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar!/com/google/gson/JsonElement.class" />
       <jump line="33" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/GsonParsing.java" />
+      <jump line="593" column="5" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gZGVycCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>LoadContactFragment extends BaseFragment {</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>LoadContactFragment extends BaseFragment {</text>
       </register>
       <register name="/" type="4">
         <text>getroot</text>
@@ -265,32 +275,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuTm9uZT0iICsgRGVycC5Ob25lKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gZGVycCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+      <register name="1" type="4">
+        <text>LoadContactFragment extends BaseFragment {</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZW51bSBEZXJwIHsKICAgICAgICBOb25lKC0xKSwKICAgICAgICBTb21lKDEpOwoKICAgICAgICBwcml2YXRlIGludCBtVmFsOwoKICAgICAgICBEZXJwKGludCB2YWwpIHsKICAgICAgICAgICAgbVZhbCA9IHZhbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0VmFsKCkgewogICAgICAgICAgICByZXR1cm4gbVZhbDsKICAgICAgICB9CgoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKSArICIsIG1WYWw9IiArIG1WYWw7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuTm9uZT0iICsgRGVycC5Ob25lKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuU29tZT0iICsgRGVycC5Tb21lKTsKICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4gZGVycCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmdldGFzaW50Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZW51bSBEZXJwIHsKICAgICAgICBOb25lKC0xKSwKICAgICAgICBTb21lKDEpOwoKICAgICAgICBwcml2YXRlIGludCBtVmFsOwoKICAgICAgICBEZXJwKGludCB2YWwpIHsKICAgICAgICAgICAgbVZhbCA9IHZhbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0VmFsKCkgewogICAgICAgICAgICByZXR1cm4gbVZhbDsKICAgICAgICB9CgoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKSArICIsIG1WYWw9IiArIG1WYWw7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuTm9uZT0iICsgRGVycC5Ob25lKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlcnAuU29tZT0iICsgRGVycC5Tb21lKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmdldGFzaW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHguaXNqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHguaXNqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmdldEFzSW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBEZXJwLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4LmdldEFzSW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBEZXJwLgo=</text>
       </register>
       <register name=":" type="4">
         <text>28</text>
