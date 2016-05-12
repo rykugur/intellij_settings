@@ -66,9 +66,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" timestamp="1462292886621">
         <mark key="'" line="160" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" timestamp="1463081216893">
-        <mark key="'" line="81" column="27" />
-        <mark key="^" line="84" column="40" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" timestamp="1463085532174">
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="47" />
+        <mark key="^" line="81" column="47" />
+        <mark key="." line="81" column="47" />
       </file>
       <file name="$USER_HOME$/personal/code/src/ArtifactorySpike/build.gradle" timestamp="1462302230087">
         <mark key="'" line="8" column="8" />
@@ -219,16 +222,15 @@
       <file name="/fragment.java" timestamp="1463082988967">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" timestamp="1463084464493">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" timestamp="1463085511585">
         <mark key="'" line="88" column="16" />
-        <mark key="[" line="69" column="72" />
-        <mark key="]" line="69" column="72" />
-        <mark key="." line="69" column="72" />
-        <mark key="^" line="69" column="72" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="94" column="7" />
+        <mark key="." line="94" column="7" />
+        <mark key="^" line="94" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="78" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="87" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
@@ -328,55 +330,56 @@
       <jump line="375" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
       <jump line="418" column="74" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
       <jump line="88" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
+      <jump line="58" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udGFjdHMgPSBnZXRBcmd1bWVudHMoKS5nZXRQYXJjZWxhYmxlKExPQURfQ09OVEFDVFMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>scrollable recycler view here</text>
       </register>
       <register name="-" type="4">
-        <text>tu</text>
+        <text>scrollable recycler view here</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtTXlMb2FkRGV0YWlsXD4=</text>
+        <text>recycl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29tcG9zZUVtYWlsKGVtYWlsLCBnZXRSZXNvdXJjZXMoKS5nZXRTdHJpbmcoUi5zdHJpbmcubG9hZF9jb250YWN0X3N1cHBvcnRfZW1haWxfc3ViamVjdCkgKyBtQ29udGFjdHMuZ2V0UGhvbmUoKS5nZXROdW1iZXIoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtQ29udGFjdHMgPSBnZXRBcmd1bWVudHMoKS5nZXRQYXJjZWxhYmxlKExPQURfQ09OVEFDVFMpOwo=</text>
+      <register name="1" type="4">
+        <text>scrollable recycler view here</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQ29udGFjdHMgPSBnZXRBcmd1bWVudHMoKS5nZXRQYXJjZWxhYmxlKExPQURfQ09OVEFDVFMpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTGlzdHM7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhqZXJvZHVzKTogd3V0Pwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>tu</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICsgbUNvbnRhY3RzLmdldFBob25lKCkuZ2V0TnVtYmVyKCkpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Lists.newArrayList(mContacts, mContacts, mContacts)</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>t</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8oamVyb2R1cyk6IHJlbW92ZSBtZQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>mMyLoadDetail.getContact()</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtTXlMb2FkRGV0YWlsXD4=</last-search>
+      <last-search>recycl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtTXlMb2FkRGV0YWlsXD4=</last-pattern>
+      <last-pattern>recycl</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute>list</last-substitute>
       <last-dir>1</last-dir>
@@ -384,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry>rep</entry>
         <entry>detail</entry>
         <entry>id</entry>
@@ -404,6 +406,7 @@
         <entry>inflate</entry>
         <entry encoding="base64">XDxtQ29udGFjdEFjdGlvbkJ0blw+</entry>
         <entry encoding="base64">XDxtTXlMb2FkRGV0YWlsXD4=</entry>
+        <entry>recycl</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
