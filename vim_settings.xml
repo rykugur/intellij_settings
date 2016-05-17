@@ -77,9 +77,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" timestamp="1462292886621">
         <mark key="'" line="160" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" timestamp="1463495399559">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="64" column="31" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" timestamp="1463497401320">
+        <mark key="[" line="63" column="65" />
         <mark key="]" line="64" column="32" />
         <mark key="." line="64" column="32" />
         <mark key="^" line="64" column="32" />
@@ -110,6 +109,9 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_search_radius.xml" timestamp="1463000346042">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_driver.xml" timestamp="1463496560566">
+        <mark key="[" line="129" column="54" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_document_list.xml" timestamp="1463000366178">
         <mark key="'" line="0" column="0" />
@@ -161,12 +163,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1463086668320">
         <mark key="'" line="131" column="48" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1463495325679">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1463497794750">
         <mark key="'" line="167" column="0" />
-        <mark key="[" line="418" column="74" />
-        <mark key="]" line="418" column="157" />
-        <mark key="^" line="418" column="157" />
-        <mark key="." line="418" column="157" />
+        <mark key="[" line="417" column="30" />
+        <mark key="]" line="417" column="105" />
+        <mark key="^" line="417" column="105" />
+        <mark key="." line="417" column="105" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/StopDetail.java" timestamp="1463494525335">
         <mark key="'" line="6" column="40" />
@@ -287,8 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_contact.xml" />
-      <jump line="27" column="44" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_contact.xml" />
       <jump line="39" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_contact.xml" />
       <jump line="92" column="14" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/LoadPreviewView.java" />
       <jump line="23" column="134" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/ContactListAdapter.java" />
@@ -387,55 +387,57 @@
       <jump line="25" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/StopDetail.java" />
       <jump line="6" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/StopDetail.java" />
+      <jump line="46" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" />
+      <jump line="90" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyhqZXJvZHVzKTogbWFrZSB0aGlzIHNjcm9sbGFibGUgLS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>remove/fix me, just for testing...</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>remove/fix me, just for testing...</text>
       </register>
       <register name="/" type="4">
-        <text>addhashcode</text>
+        <text>100dp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjMuMCcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyhqZXJvZHVzKTogbWFrZSB0aGlzIHNjcm9sbGFibGUgLS0+Cg==</text>
+      <register name="1" type="4">
+        <text>remove/fix me, just for testing...</text>
       </register>
       <register name="2" type="4">
-        <text>%</text>
+        <text>mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact()</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyhqZXJvZHVzKTogc2Nyb2xsYWJsZSByZWN5Y2xlciB2aWV3IGhlcmUtLT4K</text>
       </register>
       <register name="4" type="4">
-        <text>dp</text>
-      </register>
-      <register name="5" type="4">
         <text>wrap_content</text>
       </register>
+      <register name="5" type="4">
+        <text>100dp</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld3MubUNvbnRhY3RzLgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyhqZXJvZHVzKTogbWFrZSB0aGlzIHNjcm9sbGFibGUgLS0+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdXBwb3J0QWN0aW9uQmFyKHRvb2xiYXIpOwo=</text>
+      <register name="7" type="4">
+        <text>%</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUb29sYmFyIHRvb2xiYXIgPSAoVG9vbGJhcikgZmluZFZpZXdCeUlkKFIuaWQudG9vbGJhcik7Cg==</text>
+      <register name="8" type="4">
+        <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHNldENvbnRlbnRWaWV3KFIubGF5b3V0LmFjdGl2aXR5X21haW4pOwoKICAgICAgICBMaXN0PFN0cmluZz4gZGVycCA9IG5ldyBBcnJheUxpc3Q8PigwKTsKCiAgICAgICAgVG9hc3QubWFrZVRleHQodGhpcywgImRlcnAiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgfQp9Cg==</text>
+      <register name="9" type="4">
+        <text>dp</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>130</text>
       </register>
     </registers>
     <search>
-      <last-search>addhashcode</last-search>
+      <last-search>100dp</last-search>
       <last-offset />
-      <last-pattern>addhashcode</last-pattern>
+      <last-pattern>100dp</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute>list</last-substitute>
       <last-dir>1</last-dir>
@@ -443,8 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>container</entry>
-        <entry encoding="base64">XDxjb21tb2RpdHlDb250YWluZXJcPg==</entry>
         <entry>butterknife</entry>
         <entry>view_contact</entry>
         <entry>contact_</entry>
@@ -463,6 +463,8 @@
         <entry>todo</entry>
         <entry>hashcode</entry>
         <entry>addhashcode</entry>
+        <entry>ctonainer</entry>
+        <entry>100dp</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
@@ -471,6 +473,7 @@
         <entry>28</entry>
         <entry encoding="base64">JzwsJz5zL2xpc3QvYXJyYXk=</entry>
         <entry>noh</entry>
+        <entry>130</entry>
       </history-cmd>
       <history-expr />
       <history-input />
