@@ -24,6 +24,9 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" timestamp="1463499168112">
+        <mark key="'" line="41" column="29" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/helper/MyLoadPin.java" timestamp="1461786212436">
         <mark key="'" line="35" column="4" />
       </file>
@@ -131,12 +134,18 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1462393525865">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/ContactView.java" timestamp="1463083508162">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/ContactView.java" timestamp="1463499109245">
         <mark key="'" line="18" column="23" />
-        <mark key="[" line="64" column="49" />
-        <mark key="]" line="64" column="147" />
-        <mark key="." line="64" column="147" />
-        <mark key="^" line="64" column="147" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_contact_inflatable.xml" timestamp="1463080366478">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="1" column="49" />
+        <mark key="." line="4" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1463088019323">
         <mark key="'" line="162" column="43" />
@@ -153,6 +162,12 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IFragmentPresenter.java" timestamp="1462292786194">
         <mark key="'" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/ContactListAdapter.java" timestamp="1463499196218">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="42" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadsPresenter.java" timestamp="1462910526358">
         <mark key="'" line="181" column="0" />
@@ -289,10 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_contact.xml" />
-      <jump line="92" column="14" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/LoadPreviewView.java" />
-      <jump line="23" column="134" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/ContactListAdapter.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" />
       <jump line="37" column="80" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" />
       <jump line="95" column="37" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
       <jump line="19" column="20" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" />
@@ -389,55 +400,59 @@
       <jump line="6" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/StopDetail.java" />
       <jump line="46" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" />
       <jump line="90" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_contact.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" />
+      <jump line="32" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" />
+      <jump line="126" column="126" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" />
+      <jump line="41" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>remove/fix me, just for testing...</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>remove/fix me, just for testing...</text>
+        <text>stuff</text>
       </register>
       <register name="/" type="4">
-        <text>100dp</text>
+        <text encoding="base64">XDxtU3RvcENsaWNrSGFuZGxlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjMuMCcK</text>
       </register>
-      <register name="1" type="4">
-        <text>remove/fix me, just for testing...</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text>mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact()</text>
+        <text>stuff</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyhqZXJvZHVzKTogc2Nyb2xsYWJsZSByZWN5Y2xlciB2aWV3IGhlcmUtLT4K</text>
+      <register name="3" type="4">
+        <text>stuff email</text>
       </register>
-      <register name="4" type="4">
-        <text>wrap_content</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>100dp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyhqZXJvZHVzKTogbWFrZSB0aGlzIHNjcm9sbGFibGUgLS0+Cg==</text>
+      <register name="6" type="4">
+        <text>remove/fix me, just for testing...</text>
       </register>
       <register name="7" type="4">
-        <text>%</text>
+        <text>mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact(), mMyLoadDetail.getContact()</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tVE9ETyhqZXJvZHVzKTogc2Nyb2xsYWJsZSByZWN5Y2xlciB2aWV3IGhlcmUtLT4K</text>
       </register>
       <register name="9" type="4">
-        <text>dp</text>
+        <text>wrap_content</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
       </register>
     </registers>
     <search>
-      <last-search>100dp</last-search>
+      <last-search encoding="base64">XDxtU3RvcENsaWNrSGFuZGxlclw+</last-search>
       <last-offset />
-      <last-pattern>100dp</last-pattern>
+      <last-pattern encoding="base64">XDxtU3RvcENsaWNrSGFuZGxlclw+</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute>list</last-substitute>
       <last-dir>1</last-dir>
@@ -445,8 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>butterknife</entry>
-        <entry>view_contact</entry>
         <entry>contact_</entry>
         <entry>layoutmanager</entry>
         <entry>scroll</entry>
@@ -465,6 +478,8 @@
         <entry>addhashcode</entry>
         <entry>ctonainer</entry>
         <entry>100dp</entry>
+        <entry>listener</entry>
+        <entry encoding="base64">XDxtU3RvcENsaWNrSGFuZGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
