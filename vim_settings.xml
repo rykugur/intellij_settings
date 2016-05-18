@@ -275,13 +275,6 @@
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" timestamp="1463585186440">
-        <mark key="'" line="190" column="31" />
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="212" column="42" />
-        <mark key="^" line="212" column="42" />
-        <mark key="." line="212" column="42" />
-      </file>
       <file name="$USER_HOME$/personal/code/src/hfad/Starbuzz/app/src/main/java/io/rollhax/hfad/starbuzz/Drink.java" timestamp="1462766507758">
         <mark key="[" line="32" column="30" />
         <mark key="]" line="33" column="24" />
@@ -315,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/ContactView.java" />
       <jump line="134" column="62" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" />
       <jump line="142" column="38" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
       <jump line="98" column="112" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
@@ -415,46 +407,47 @@
       <jump line="168" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="177" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="191" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>defaultDateRange</text>
       </register>
       <register name="-" type="4">
-        <text>filterSettings</text>
+        <text>defaultDateRange</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ2FjaGVkRmlsdGVyU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dXZWlnaHRTbGlkZXJWYWx1ZXMoKGludCkgZmlsdGVyU2V0dGluZ3MuZ2V0TWluV2VpZ2h0KCksIChpbnQpIGZpbHRlclNldHRpbmdzLmdldE1heFdlaWdodCgpKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dXZWlnaHRTZWxlY3Rpb24oKGludCkgZmlsdGVyU2V0dGluZ3MuZ2V0TWluV2VpZ2h0KCksIChpbnQpIGZpbHRlclNldHRpbmdzLmdldE1heFdlaWdodCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBHZW9jb2RlUmVjb3JkIG9yaWdpbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihvcmlnaW4uZ2V0Q2l0eSgpKS50aGVuUmV0dXJuKE9SSUdJTl9DSVRZX05BTUUpOwogICAgICAgIHdoZW4ob3JpZ2luLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oT1JJR0lOX1NUQVRFX0FCQlJFVklBVElPTik7CiAgICAgICAgR2VvY29kZVJlY29yZCBkZXN0aW5hdGlvbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihkZXN0aW5hdGlvbi5nZXRDaXR5KCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fQ0lUWV9OQU1FKTsKICAgICAgICB3aGVuKGRlc3RpbmF0aW9uLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fU1RBVEVfQUJCUkVWSUFUSU9OKTsKICAgICAgICBGaWx0ZXJTZXR0aW5ncyBtb2NrRmlsdGVyID0gaW50ZXJuYWxfbW9ja0ZpbHRlclNldHRpbmdzKE1PREUsCiAgICAgICAgICAgICAgICBNSU5fV0VJR0hULCBNQVhfV0VJR0hULAogICAgICAgICAgICAgICAgTUlOX0RJU1RBTkNFLCBNQVhfRElTVEFOQ0UsCiAgICAgICAgICAgICAgICBTVEFSVF9EQVRFLCBFTkRfREFURSwKICAgICAgICAgICAgICAgIG9yaWdpbiwgT1JJR0lOX1JBRElVUywgT1JJR0lOX1FVRVJZLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb24sIERFU1RJTkFUSU9OX1JBRElVUywgREVTVElOQVRJT05fUVVFUlksCiAgICAgICAgICAgICAgICBDQVBBQ0lUWSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>defaultDateRange</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJlc2VudGF0aW9uLnNldERhdGVSYW5nZShyYW5nZSk7CiAgICAgICAgbVByZXNlbnRhdGlvbi5zaG93RGF0ZVJhbmdlKHJhbmdlKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dEaXN0YW5jZVNsaWRlclZhbHVlcygoaW50KSBmaWx0ZXJTZXR0aW5ncy5nZXRNaW5EaXN0YW5jZSgpLCAoaW50KSBmaWx0ZXJTZXR0aW5ncy5nZXRNYXhEaXN0YW5jZSgpKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dEaXN0YW5jZVNlbGVjdGlvbigoaW50KSBmaWx0ZXJTZXR0aW5ncy5nZXRNaW5EaXN0YW5jZSgpLCAoaW50KSBmaWx0ZXJTZXR0aW5ncy5nZXRNYXhEaXN0YW5jZSgpKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dXZWlnaHRTbGlkZXJWYWx1ZXMoKGludCkgZmlsdGVyU2V0dGluZ3MuZ2V0TWluV2VpZ2h0KCksIChpbnQpIGZpbHRlclNldHRpbmdzLmdldE1heFdlaWdodCgpKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dXZWlnaHRTZWxlY3Rpb24oKGludCkgZmlsdGVyU2V0dGluZ3MuZ2V0TWluV2VpZ2h0KCksIChpbnQpIGZpbHRlclNldHRpbmdzLmdldE1heFdlaWdodCgpKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dDYXBhY2l0eShmaWx0ZXJTZXR0aW5ncy5nZXRDYXBhY2l0eSgpKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dNb2RlKGZpbHRlclNldHRpbmdzLmdldE1vZGUoKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>defaultDateRange</text>
       </register>
       <register name="3" type="4">
-        <text>filterSettings</text>
+        <text>defaults</text>
       </register>
       <register name="4" type="4">
-        <text>filterSettings</text>
+        <text>defaults</text>
       </register>
       <register name="5" type="4">
-        <text>filterSettings</text>
+        <text>defaults</text>
       </register>
       <register name="6" type="4">
-        <text>filterSettings</text>
+        <text>defaults</text>
       </register>
       <register name="7" type="4">
-        <text>ilterSettings</text>
+        <text>defaults</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>defaults</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>defaults</text>
       </register>
       <register name=":" type="4">
         <text>431</text>
