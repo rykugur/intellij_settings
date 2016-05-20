@@ -149,6 +149,7 @@
         <mark key="^" line="97" column="53" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" timestamp="1463779719192" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1463776627646">
         <mark key="'" line="112" column="43" />
         <mark key="[" line="123" column="58" />
@@ -179,13 +180,6 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1463086668320">
         <mark key="'" line="131" column="48" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1463754663829">
-        <mark key="'" line="369" column="48" />
-        <mark key="[" line="249" column="30" />
-        <mark key="]" line="249" column="56" />
-        <mark key="." line="249" column="56" />
-        <mark key="^" line="249" column="56" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/StopDetail.java" timestamp="1463776911356">
         <mark key="'" line="6" column="40" />
       </file>
@@ -198,6 +192,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="37" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LauncherPresenter.java" timestamp="1463778666674">
+        <mark key="[" line="35" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/StopUpdateFragment.java" timestamp="1463073256555">
         <mark key="'" line="116" column="21" />
@@ -243,18 +240,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" timestamp="1461855424041">
         <mark key="'" line="31" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" timestamp="1463760529090">
-        <mark key="'" line="58" column="15" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" timestamp="1463776849244">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" timestamp="1463778094555">
         <mark key="'" line="196" column="16" />
-        <mark key="[" line="206" column="68" />
-        <mark key="]" line="206" column="72" />
-        <mark key="." line="206" column="72" />
-        <mark key="^" line="206" column="72" />
+        <mark key="[" line="216" column="54" />
+        <mark key="]" line="216" column="54" />
+        <mark key="." line="216" column="54" />
+        <mark key="^" line="215" column="71" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" timestamp="1462984338140">
         <mark key="'" line="130" column="20" />
@@ -280,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="898" column="9" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="8" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" />
       <jump line="230" column="5" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
@@ -380,46 +370,47 @@
       <jump line="199" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="196" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="112" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
+      <jump line="261" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdG9wRGV0YWlsKFN0b3BEZXRhaWwgc3RvcERldGFpbCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>defaults.getOrigin() != null</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>onresetbutton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpLnNob3dXZWlnaHRTZWxlY3Rpb24oKGludCkgZGVmYXVsdHMuZ2V0TWluV2VpZ2h0KCksCiAgICAgICAgICAgICAgICAoaW50KSBkZWZhdWx0cy5nZXRNYXhXZWlnaHQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdG9wRGV0YWlsKFN0b3BEZXRhaWwgc3RvcERldGFpbCkgewo=</text>
+      <register name="1" type="4">
+        <text>a</text>
       </register>
       <register name="2" type="4">
-        <text>defaults.getOrigin() != null</text>
+        <text>r</text>
       </register>
       <register name="3" type="4">
-        <text>any(String.class)</text>
+        <text>nge</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcm5hbF92ZXJpZnlTaG93RmlsdGVyU2V0dGluZ3MobW9ja0ZpbHRlciwKICAgICAgICAgICAgICAgIENBUEFDSVRZLCBNT0RFLAogICAgICAgICAgICAgICAgTUlOX0RJU1RBTkNFLCBNQVhfRElTVEFOQ0UsCiAgICAgICAgICAgICAgICBNSU5fV0VJR0hULCBNQVhfV0VJR0hULAogICAgICAgICAgICAgICAgU1RBUlRfREFURSwgRU5EX0RBVEUsCiAgICAgICAgICAgICAgICBvcmlnaW4sIE9SSUdJTl9DSVRZX05BTUUsIE9SSUdJTl9TVEFURV9BQkJSRVZJQVRJT04sIE9SSUdJTl9RVUVSWSwgT1JJR0lOX1JBRElVUywKICAgICAgICAgICAgICAgIGRlc3RpbmF0aW9uLCBERVNUSU5BVElPTl9DSVRZX05BTUUsIERFU1RJTkFUSU9OX1NUQVRFX0FCQlJFVklBVElPTiwgREVTVElOQVRJT05fUVVFUlksIERFU1RJTkFUSU9OX1JBRElVUywKICAgICAgICAgICAgICAgIG1QcmVzZW50YXRpb24pOwo=</text>
+      <register name="4" type="4">
+        <text>range</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBHZW9jb2RlUmVjb3JkIG9yaWdpbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihvcmlnaW4uZ2V0Q2l0eSgpKS50aGVuUmV0dXJuKE9SSUdJTl9DSVRZX05BTUUpOwogICAgICAgIHdoZW4ob3JpZ2luLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oT1JJR0lOX1NUQVRFX0FCQlJFVklBVElPTik7CiAgICAgICAgR2VvY29kZVJlY29yZCBkZXN0aW5hdGlvbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihkZXN0aW5hdGlvbi5nZXRDaXR5KCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fQ0lUWV9OQU1FKTsKICAgICAgICB3aGVuKGRlc3RpbmF0aW9uLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fU1RBVEVfQUJCUkVWSUFUSU9OKTsKICAgICAgICBGaWx0ZXJTZXR0aW5ncyBtb2NrRmlsdGVyID0gaW50ZXJuYWxfbW9ja0ZpbHRlclNldHRpbmdzKE1PREUsCiAgICAgICAgICAgICAgICBNSU5fV0VJR0hULCBNQVhfV0VJR0hULAogICAgICAgICAgICAgICAgTUlOX0RJU1RBTkNFLCBNQVhfRElTVEFOQ0UsCiAgICAgICAgICAgICAgICBTVEFSVF9EQVRFLCBFTkRfREFURSwKICAgICAgICAgICAgICAgIG9yaWdpbiwgT1JJR0lOX1JBRElVUywgT1JJR0lOX1FVRVJZLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb24sIERFU1RJTkFUSU9OX1JBRElVUywgREVTVElOQVRJT05fUVVFUlksCiAgICAgICAgICAgICAgICBDQVBBQ0lUWSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlUmFuZ2UgcmFuZ2UgPSBuZXcgRGF0ZVJhbmdlKGRlZmF1bHRzLmdldFN0YXJ0RGF0ZSgpLmdldERhdGUoKSwgZGVmYXVsdHMuZ2V0RW5kRGF0ZSgpLmdldERhdGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpLnNob3dXZWlnaHRTbGlkZXJWYWx1ZXMoKGludCkgZGVmYXVsdHMuZ2V0TWluV2VpZ2h0KCksCiAgICAgICAgICAgICAgICAoaW50KSBkZWZhdWx0cy5nZXRNYXhXZWlnaHQoKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>WeightSelection</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWx0ZXJTZXR0aW5ncyBkZWZhdWx0cyA9IEZpbHRlclNldHRpbmdzLmRlZmF1bHRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpLnNob3dEaXN0YW5jZVNsaWRlclZhbHVlcygoaW50KSBkZWZhdWx0cy5nZXRNaW5EaXN0YW5jZSgpLAogICAgICAgICAgICAgICAgKGludCkgZGVmYXVsdHMuZ2V0TWF4RGlzdGFuY2UoKSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLm9uUmVzZXRCdXR0b25DbGlja2VkKCk7Cg==</text>
+      <register name="9" type="4">
+        <text>Selection</text>
       </register>
       <register name=":" type="4">
         <text>290</text>
