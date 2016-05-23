@@ -73,12 +73,16 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android-maps-extensions/build.gradle" timestamp="1462476621323">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" timestamp="1464020341491">
-        <mark key="'" line="192" column="31" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" timestamp="1464029807578">
+        <mark key="'" line="31" column="23" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="38" />
         <mark key="^" line="250" column="90" />
         <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/GsonParsing.java" timestamp="1464028826399">
+        <mark key="'" line="65" column="4" />
+        <mark key="^" line="128" column="69" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/build.gradle" timestamp="1462476623371">
         <mark key="'" line="0" column="0" />
@@ -116,7 +120,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/helper/MapPinManager.java" timestamp="1462808237333">
         <mark key="'" line="95" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" timestamp="1463760130188">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" timestamp="1464028821989">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
@@ -308,11 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" />
-      <jump line="55" column="36" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" />
-      <jump line="234" column="11" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" />
       <jump line="210" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" />
       <jump line="265" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
       <jump line="76" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
@@ -367,7 +366,6 @@
       <jump line="59" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" />
       <jump line="170" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/MyLoadDetailViewModel.java" />
       <jump line="151" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/MyLoadDetailViewModel.java" />
-      <jump line="23" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="347" column="27" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="434" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
@@ -408,55 +406,61 @@
       <jump line="98" column="5" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
       <jump line="61" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenterTest.java" />
       <jump line="141" column="47" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenterTest.java" />
+      <jump line="67" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/GsonParsing.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" />
+      <jump line="40" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
+      <jump line="244" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
+      <jump line="31" column="23" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb250YWN0UmVxdWVzdCBtb2NrUmVxdWVzdCA9IG1vY2soQ29udGFjdFJlcXVlc3QuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udGFjdFtdIGNvbnRhY3RzQXJyYXkgPSBudWxsOwogICAgICAgICAgICBpZiAocm9vdC5oYXMoSnNvbi5DT05UQUNUKSkgewogICAgICAgICAgICAgICAgSnNvbkVsZW1lbnQganNvbkNvbnRhY3QgPSByb290LmdldChKc29uLkNPTlRBQ1QpOwogICAgICAgICAgICAgICAgaWYgKGpzb25Db250YWN0ICE9IG51bGwgJiYgIWpzb25Db250YWN0LmlzSnNvbk51bGwoKSAmJiBqc29uQ29udGFjdC5pc0pzb25PYmplY3QoKSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRhY3RzQXJyYXkgPSBuZXcgQ29udGFjdFsxXTsKICAgICAgICAgICAgICAgICAgICBjb250YWN0c0FycmF5WzBdID0gY29udGV4dC5kZXNlcmlhbGl6ZShqc29uQ29udGFjdCwgQ29udGFjdC5jbGFzcyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSBpZiAocm9vdC5oYXMoSnNvbi5DT05UQUNUUykpIHsKICAgICAgICAgICAgICAgIEpzb25FbGVtZW50IGpzb25Db250YWN0cyA9IHJvb3QuZ2V0KEpzb24uQ09OVEFDVFMpOwogICAgICAgICAgICAgICAgaWYgKGpzb25Db250YWN0cyAhPSBudWxsICYmICFqc29uQ29udGFjdHMuaXNKc29uTnVsbCgpICYmIGpzb25Db250YWN0cy5pc0pzb25BcnJheSgpKSB7CiAgICAgICAgICAgICAgICAgICAgY29udGFjdHNBcnJheSA9IGNvbnRleHQuZGVzZXJpYWxpemUoanNvbkNvbnRhY3RzLCBDb250YWN0W10uY2xhc3MpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBtYWtlIHN1cmUgdGhlIGFycmF5IHN0aWxsIGlzbid0IG51bGwsIGNyZWF0ZSBlbXB0eSBhcnJheSBpZiBpdCBpcwogICAgICAgICAgICBpZiAoY29udGFjdHNBcnJheSA9PSBudWxsIHx8IGNvbnRhY3RzQXJyYXkubGVuZ3RoIDw9IDApIHsKICAgICAgICAgICAgICAgIGNvbnRhY3RzQXJyYXkgPSBuZXcgQ29udGFjdFswXTsKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>existsfortesting</text>
+        <text>rate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpLnNob3dXZWlnaHRTZWxlY3Rpb24oKGludCkgZGVmYXVsdHMuZ2V0TWluV2VpZ2h0KCksCiAgICAgICAgICAgICAgICAoaW50KSBkZWZhdWx0cy5nZXRNYXhXZWlnaHQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb250YWN0UmVxdWVzdCBtb2NrUmVxdWVzdCA9IG1vY2soQ29udGFjdFJlcXVlc3QuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udGFjdFtdIGNvbnRhY3RzQXJyYXkgPSBudWxsOwogICAgICAgICAgICBpZiAocm9vdC5oYXMoSnNvbi5DT05UQUNUKSkgewogICAgICAgICAgICAgICAgSnNvbkVsZW1lbnQganNvbkNvbnRhY3QgPSByb290LmdldChKc29uLkNPTlRBQ1QpOwogICAgICAgICAgICAgICAgaWYgKGpzb25Db250YWN0ICE9IG51bGwgJiYgIWpzb25Db250YWN0LmlzSnNvbk51bGwoKSAmJiBqc29uQ29udGFjdC5pc0pzb25PYmplY3QoKSkgewogICAgICAgICAgICAgICAgICAgIGNvbnRhY3RzQXJyYXkgPSBuZXcgQ29udGFjdFsxXTsKICAgICAgICAgICAgICAgICAgICBjb250YWN0c0FycmF5WzBdID0gY29udGV4dC5kZXNlcmlhbGl6ZShqc29uQ29udGFjdCwgQ29udGFjdC5jbGFzcyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSBpZiAocm9vdC5oYXMoSnNvbi5DT05UQUNUUykpIHsKICAgICAgICAgICAgICAgIEpzb25FbGVtZW50IGpzb25Db250YWN0cyA9IHJvb3QuZ2V0KEpzb24uQ09OVEFDVFMpOwogICAgICAgICAgICAgICAgaWYgKGpzb25Db250YWN0cyAhPSBudWxsICYmICFqc29uQ29udGFjdHMuaXNKc29uTnVsbCgpICYmIGpzb25Db250YWN0cy5pc0pzb25BcnJheSgpKSB7CiAgICAgICAgICAgICAgICAgICAgY29udGFjdHNBcnJheSA9IGNvbnRleHQuZGVzZXJpYWxpemUoanNvbkNvbnRhY3RzLCBDb250YWN0W10uY2xhc3MpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBtYWtlIHN1cmUgdGhlIGFycmF5IHN0aWxsIGlzbid0IG51bGwsIGNyZWF0ZSBlbXB0eSBhcnJheSBpZiBpdCBpcwogICAgICAgICAgICBpZiAoY29udGFjdHNBcnJheSA9PSBudWxsIHx8IGNvbnRhY3RzQXJyYXkubGVuZ3RoIDw9IDApIHsKICAgICAgICAgICAgICAgIGNvbnRhY3RzQXJyYXkgPSBuZXcgQ29udGFjdFswXTsKICAgICAgICAgICAgfQoK</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RvcERldGFpbFtdIG1TdG9wRGV0YWlsczsK</text>
+        <text encoding="base64">ICAgICAgICBDb250YWN0UmVxdWVzdCBtb2NrUmVxdWVzdCA9IG1vY2soQ29udGFjdFJlcXVlc3QuY2xhc3MpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZShKc29uLlNUT1BTCg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RvcERldGFpbFtdIG1TdG9wRGV0YWlsczsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobUlzTWFpbiAhPSBudWxsKSB7CiAgICAgICAgICAgIGRlc3Qud3JpdGVCeXRlKG1Jc01haW4gPyAoYnl0ZSkgMSA6IChieXRlKSAwKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkZXN0LndyaXRlQnl0ZSgoYnl0ZSkgMCk7CiAgICAgICAgfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZShKc29uLlNUT1BTCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text />
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
-      <register name="9" type="4">
-        <text>public</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUlzTWFpbiAhPSBudWxsKSB7CiAgICAgICAgICAgIGRlc3Qud3JpdGVCeXRlKG1Jc01haW4gPyAoYnl0ZSkgMSA6IChieXRlKSAwKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkZXN0LndyaXRlQnl0ZSgoYnl0ZSkgMCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
       </register>
     </registers>
     <search>
-      <last-search>existsfortesting</last-search>
+      <last-search>rate</last-search>
       <last-offset />
-      <last-pattern>existsfortesting</last-pattern>
+      <last-pattern>rate</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute>mFilterSettings =</last-substitute>
       <last-dir>1</last-dir>
@@ -464,7 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>int</entry>
         <entry>int-api</entry>
         <entry encoding="base64">XDxtSXNSZWFkeUZvclBpY2t1cFw+</entry>
         <entry>adapter</entry>
@@ -484,6 +487,7 @@
         <entry>contact</entry>
         <entry encoding="base64">XDxtQ29udGFjdEFjdGlvbkJ0blw+</entry>
         <entry>existsfortesting</entry>
+        <entry>rate</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
