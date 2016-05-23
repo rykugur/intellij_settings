@@ -73,10 +73,6 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android-maps-extensions/build.gradle" timestamp="1462476621323">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" timestamp="1464035260120">
-        <mark key="'" line="31" column="23" />
-        <mark key="[" line="269" column="13" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/build.gradle" timestamp="1462476623371">
         <mark key="'" line="0" column="0" />
       </file>
@@ -116,12 +112,6 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/helper/MapPinManager.java" timestamp="1462808237333">
         <mark key="'" line="95" column="29" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" timestamp="1464028821989">
-        <mark key="'" line="23" column="13" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenterTest.java" timestamp="1464022231121">
         <mark key="'" line="141" column="47" />
         <mark key="[" line="153" column="54" />
@@ -138,6 +128,9 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_filter.xml" timestamp="1461855854272">
         <mark key="'" line="25" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1464038527896">
+        <mark key="'" line="27" column="8" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" timestamp="1463690353550">
         <mark key="'" line="0" column="0" />
@@ -193,13 +186,6 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1463086668320">
         <mark key="'" line="131" column="48" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1464035403040">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-        <mark key="^" line="241" column="103" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/StopDetail.java" timestamp="1463776911356">
         <mark key="'" line="6" column="40" />
@@ -305,8 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
-      <jump line="54" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" />
       <jump line="92" column="51" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
       <jump line="30" column="37" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/document/DocumentList.java" />
       <jump line="53" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentListFragment.java" />
@@ -405,6 +389,8 @@
       <jump line="59" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
       <jump line="243" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
       <jump line="68" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
+      <jump line="24" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" />
+      <jump line="27" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -414,7 +400,7 @@
         <text>contact.getPhone() != null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PDw8PA==</text>
+        <text encoding="base64">XDxtQ2FjaGVkRmlsdGVyU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90TnVsbE9yRW1wdHkoY29udGFjdC5nZXRQaG9uZSgpLmdldE51bWJlcigpKSB8fCBTdHJpbmdVdGlscy5pc05vdE51bGxPckVtcHR5KGNvbnRhY3QuZ2V0RW1haWwoKSkpIHsK</text>
@@ -451,9 +437,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PDw8PA==</last-search>
+      <last-search encoding="base64">XDxtQ2FjaGVkRmlsdGVyU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PDw8PA==</last-pattern>
+      <last-pattern encoding="base64">XDxtQ2FjaGVkRmlsdGVyU2VydmljZVw+</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute>mFilterSettings =</last-substitute>
       <last-dir>1</last-dir>
@@ -461,7 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtSXNSZWFkeUZvclBpY2t1cFw+</entry>
         <entry>adapter</entry>
         <entry encoding="base64">XDxtRG9jQWRhcHRlclw+</entry>
         <entry encoding="base64">XDxtSGFzV29ya1w+</entry>
@@ -481,6 +466,7 @@
         <entry>existsfortesting</entry>
         <entry>rate</entry>
         <entry encoding="base64">PDw8PA==</entry>
+        <entry encoding="base64">XDxtQ2FjaGVkRmlsdGVyU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
