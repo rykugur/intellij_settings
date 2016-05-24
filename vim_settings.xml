@@ -131,8 +131,8 @@
         <mark key="^" line="155" column="28" />
         <mark key="." line="155" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" timestamp="1463773353685">
-        <mark key="'" line="545" column="29" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" timestamp="1464115608264">
+        <mark key="'" line="449" column="4" />
         <mark key="[" line="63" column="13" />
         <mark key="]" line="63" column="32" />
         <mark key="." line="63" column="32" />
@@ -144,12 +144,11 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" timestamp="1464097218341">
         <mark key="'" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1464098380585">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1464117039678">
         <mark key="'" line="29" column="8" />
-        <mark key="[" line="211" column="100" />
-        <mark key="]" line="212" column="24" />
-        <mark key="." line="212" column="24" />
-        <mark key="^" line="212" column="24" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" timestamp="1463690353550">
         <mark key="'" line="0" column="0" />
@@ -300,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" />
       <jump line="168" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
       <jump line="76" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
       <jump line="176" column="63" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadContactFragment.java" />
@@ -400,55 +398,56 @@
       <jump line="43" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" />
       <jump line="94" column="57" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" />
       <jump line="59" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" />
+      <jump line="449" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBHZW9jb2RlUmVjb3JkIG9yaWdpbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihvcmlnaW4uZ2V0Q2l0eSgpKS50aGVuUmV0dXJuKE9SSUdJTl9DSVRZX05BTUUpOwogICAgICAgIHdoZW4ob3JpZ2luLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oT1JJR0lOX1NUQVRFX0FCQlJFVklBVElPTik7CiAgICAgICAgR2VvY29kZVJlY29yZCBkZXN0aW5hdGlvbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihkZXN0aW5hdGlvbi5nZXRDaXR5KCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fQ0lUWV9OQU1FKTsKICAgICAgICB3aGVuKGRlc3RpbmF0aW9uLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fU1RBVEVfQUJCUkVWSUFUSU9OKTsKICAgICAgICBGaWx0ZXJTZXR0aW5ncyBtb2NrRmlsdGVyID0gaW50ZXJuYWxfbW9ja0ZpbHRlclNldHRpbmdzKE1PREUsCiAgICAgICAgICAgICAgICBNSU5fV0VJR0hULCBNQVhfV0VJR0hULAogICAgICAgICAgICAgICAgTUlOX0RJU1RBTkNFLCBNQVhfRElTVEFOQ0UsCiAgICAgICAgICAgICAgICBTVEFSVF9EQVRFLCBFTkRfREFURSwKICAgICAgICAgICAgICAgIG9yaWdpbiwgT1JJR0lOX1JBRElVUywgT1JJR0lOX1FVRVJZLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb24sIERFU1RJTkFUSU9OX1JBRElVUywgREVTVElOQVRJT05fUVVFUlksCiAgICAgICAgICAgICAgICBDQVBBQ0lUWSk7CiAgICAgICAgd2hlbihtQ2FjaGVkRmlsdGVyU2VydmljZS5nZXRDYWNoZWRGaWx0ZXIoKSkudGhlblJldHVybihtb2NrRmlsdGVyKTsKICAgICAgICBtUHJlc2VudGVyLm9uQ3JlYXRlVmlldyhtUHJlc2VudGF0aW9uKTsKICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpLnNldERpc3RhbmNlU2xpZGVyQm91bmRzKChpbnQpIEZpbHRlclNldHRpbmdzLkRlZmF1bHRzLkRJU1RBTkNFX01JTiwKICAgICAgICAgICAgICAgIChpbnQpIEZpbHRlclNldHRpbmdzLkRlZmF1bHRzLkRJU1RBTkNFX01BWCwgRmlsdGVyU2VhcmNoUHJlc2VudGVyLkRJU1RBTkNFX1NURVApOwogICAgICAgIHZlcmlmeShtUHJlc2VudGF0aW9uLCB0aW1lcygxKSkuc2V0V2VpZ2h0U2xpZGVyQm91bmRzKChpbnQpIEZpbHRlclNldHRpbmdzLkRlZmF1bHRzLldFSUdIVF9NSU4sCiAgICAgICAgICAgICAgICAoaW50KSBGaWx0ZXJTZXR0aW5ncy5EZWZhdWx0cy5XRUlHSFRfTUFYLCBGaWx0ZXJTZWFyY2hQcmVzZW50ZXIuV0VJR0hUX1NURVApOwogICAgICAgIGludGVybmFsX3ZlcmlmeVNob3dGaWx0ZXJTZXR0aW5ncyhtb2NrRmlsdGVyLAogICAgICAgICAgICAgICAgQ0FQQUNJVFksIE1PREUsCiAgICAgICAgICAgICAgICBNSU5fRElTVEFOQ0UsIE1BWF9ESVNUQU5DRSwKICAgICAgICAgICAgICAgIE1JTl9XRUlHSFQsIE1BWF9XRUlHSFQsCiAgICAgICAgICAgICAgICBTVEFSVF9EQVRFLCBFTkRfREFURSwKICAgICAgICAgICAgICAgIG9yaWdpbiwgT1JJR0lOX0NJVFlfTkFNRSwgT1JJR0lOX1NUQVRFX0FCQlJFVklBVElPTiwgT1JJR0lOX1FVRVJZLCBPUklHSU5fUkFESVVTLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb24sIERFU1RJTkFUSU9OX0NJVFlfTkFNRSwgREVTVElOQVRJT05fU1RBVEVfQUJCUkVWSUFUSU9OLCBERVNUSU5BVElPTl9RVUVSWSwgREVTVElOQVRJT05fUkFESVVTLAogICAgICAgICAgICAgICAgbVByZXNlbnRhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheSBzdGFydERhdGUgPSBDYWxlbmRhckRheS5mcm9tKDIwMTUsIDEsMSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt</text>
+        <text>(2016, )</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxcPg==</text>
+        <text>getDate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBHZW9jb2RlUmVjb3JkIG9yaWdpbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihvcmlnaW4uZ2V0Q2l0eSgpKS50aGVuUmV0dXJuKE9SSUdJTl9DSVRZX05BTUUpOwogICAgICAgIHdoZW4ob3JpZ2luLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oT1JJR0lOX1NUQVRFX0FCQlJFVklBVElPTik7CiAgICAgICAgR2VvY29kZVJlY29yZCBkZXN0aW5hdGlvbiA9IG1vY2soR2VvY29kZVJlY29yZC5jbGFzcyk7CiAgICAgICAgd2hlbihkZXN0aW5hdGlvbi5nZXRDaXR5KCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fQ0lUWV9OQU1FKTsKICAgICAgICB3aGVuKGRlc3RpbmF0aW9uLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpLnRoZW5SZXR1cm4oREVTVElOQVRJT05fU1RBVEVfQUJCUkVWSUFUSU9OKTsKICAgICAgICBGaWx0ZXJTZXR0aW5ncyBtb2NrRmlsdGVyID0gaW50ZXJuYWxfbW9ja0ZpbHRlclNldHRpbmdzKE1PREUsCiAgICAgICAgICAgICAgICBNSU5fV0VJR0hULCBNQVhfV0VJR0hULAogICAgICAgICAgICAgICAgTUlOX0RJU1RBTkNFLCBNQVhfRElTVEFOQ0UsCiAgICAgICAgICAgICAgICBTVEFSVF9EQVRFLCBFTkRfREFURSwKICAgICAgICAgICAgICAgIG9yaWdpbiwgT1JJR0lOX1JBRElVUywgT1JJR0lOX1FVRVJZLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb24sIERFU1RJTkFUSU9OX1JBRElVUywgREVTVElOQVRJT05fUVVFUlksCiAgICAgICAgICAgICAgICBDQVBBQ0lUWSk7CiAgICAgICAgd2hlbihtQ2FjaGVkRmlsdGVyU2VydmljZS5nZXRDYWNoZWRGaWx0ZXIoKSkudGhlblJldHVybihtb2NrRmlsdGVyKTsKICAgICAgICBtUHJlc2VudGVyLm9uQ3JlYXRlVmlldyhtUHJlc2VudGF0aW9uKTsKICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpLnNldERpc3RhbmNlU2xpZGVyQm91bmRzKChpbnQpIEZpbHRlclNldHRpbmdzLkRlZmF1bHRzLkRJU1RBTkNFX01JTiwKICAgICAgICAgICAgICAgIChpbnQpIEZpbHRlclNldHRpbmdzLkRlZmF1bHRzLkRJU1RBTkNFX01BWCwgRmlsdGVyU2VhcmNoUHJlc2VudGVyLkRJU1RBTkNFX1NURVApOwogICAgICAgIHZlcmlmeShtUHJlc2VudGF0aW9uLCB0aW1lcygxKSkuc2V0V2VpZ2h0U2xpZGVyQm91bmRzKChpbnQpIEZpbHRlclNldHRpbmdzLkRlZmF1bHRzLldFSUdIVF9NSU4sCiAgICAgICAgICAgICAgICAoaW50KSBGaWx0ZXJTZXR0aW5ncy5EZWZhdWx0cy5XRUlHSFRfTUFYLCBGaWx0ZXJTZWFyY2hQcmVzZW50ZXIuV0VJR0hUX1NURVApOwogICAgICAgIGludGVybmFsX3ZlcmlmeVNob3dGaWx0ZXJTZXR0aW5ncyhtb2NrRmlsdGVyLAogICAgICAgICAgICAgICAgQ0FQQUNJVFksIE1PREUsCiAgICAgICAgICAgICAgICBNSU5fRElTVEFOQ0UsIE1BWF9ESVNUQU5DRSwKICAgICAgICAgICAgICAgIE1JTl9XRUlHSFQsIE1BWF9XRUlHSFQsCiAgICAgICAgICAgICAgICBTVEFSVF9EQVRFLCBFTkRfREFURSwKICAgICAgICAgICAgICAgIG9yaWdpbiwgT1JJR0lOX0NJVFlfTkFNRSwgT1JJR0lOX1NUQVRFX0FCQlJFVklBVElPTiwgT1JJR0lOX1FVRVJZLCBPUklHSU5fUkFESVVTLAogICAgICAgICAgICAgICAgZGVzdGluYXRpb24sIERFU1RJTkFUSU9OX0NJVFlfTkFNRSwgREVTVElOQVRJT05fU1RBVEVfQUJCUkVWSUFUSU9OLCBERVNUSU5BVElPTl9RVUVSWSwgREVTVElOQVRJT05fUkFESVVTLAogICAgICAgICAgICAgICAgbVByZXNlbnRhdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheSBzdGFydERhdGUgPSBDYWxlbmRhckRheS5mcm9tKDIwMTUsIDEsMSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheSB0b2RheSA9IENhbGVuZGFyRGF5LnRvZGF5KCk7CiAgICAgICAgQ2FsZW5kYXJEYXkgdGVzdCA9IENhbGVuZGFyRGF5LmZyb20oMjAxNiwgMSwgMSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PjwvPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBkZXJwID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICBkZXJwLnNldChDKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhci5NT05USAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>(2016, )</text>
       </register>
-      <register name="6" type="4">
-        <text>y</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheS4K</text>
       </register>
-      <register name="7" type="4">
-        <text>filterSettings.getEndDate());</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheSB0b2RheSA9IENhbGVuZGFyRGF5LnRvZGF5KCk7MQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>filterSettings.getStartDate()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>filterSettings.getStartDate()</text>
+        <text>tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt</text>
       </register>
       <register name=":" type="4">
-        <text>94</text>
+        <text>450</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmxcPg==</last-search>
+      <last-search>getDate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
+      <last-pattern>getDate</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute>mFilterSettings =</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>firstlast</entry>
         <entry>contact_</entry>
         <entry encoding="base64">XDxtSXNNYWluXD4=</entry>
         <entry>todo</entry>
@@ -476,6 +474,7 @@
         <entry encoding="base64">XDxtQXV0aFRva2VuXD4=</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry>getDate</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
@@ -491,6 +490,7 @@
         <entry>66</entry>
         <entry>69</entry>
         <entry>94</entry>
+        <entry>450</entry>
       </history-cmd>
       <history-expr />
       <history-input />
