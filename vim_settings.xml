@@ -203,6 +203,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1463086668320">
         <mark key="'" line="131" column="48" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" timestamp="1464184605577">
+        <mark key="[" line="418" column="55" />
+        <mark key="]" line="418" column="57" />
+        <mark key="^" line="418" column="57" />
+        <mark key="." line="418" column="57" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/StopDetail.java" timestamp="1463776911356">
         <mark key="'" line="6" column="40" />
       </file>
@@ -393,44 +399,44 @@
       <jump line="45" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/ContactListAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>mMyLoadDetail.getContacts()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mMyLoadDetail.getContacts()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ29udGFjdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYi5hcHBlbmQoIiIpLmFwcGVuZCgiLCAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG1wLmFkZEFsbChtTXlMb2FkRGV0YWlsLmdldENvbnRhY3RzKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>mMyLoadDetail.getContacts()</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgIFN0cmluZ0J1aWxkZXIgZ2V0Q29udGFjdFVybCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Ci8vICAgICAgICBnZXRDb250YWN0VXJsLmFwcGVuZChtUm9vdFNlcnZpY2VVcmwpOwovLyAgICAgICAgaWYgKCFtUm9vdFNlcnZpY2VVcmwuZW5kc1dpdGgoIi8iKSkgewovLyAgICAgICAgICAgIGdldENvbnRhY3RVcmwuYXBwZW5kKCIvIik7Ci8vICAgICAgICB9Ci8vICAgICAgICBnZXRDb250YWN0VXJsLmFwcGVuZChyZXF1ZXN0LmdldFVzZXIoKS5nZXRDYXJyaWVyQ29kZSgpLnRyaW0oKSk7Ci8vICAgICAgICBnZXRDb250YWN0VXJsLmFwcGVuZCgiL2NvbnRhY3RzIik7Ci8vICAgICAgICBnZXRDb250YWN0VXJsLmFwcGVuZCgiLz9sb2FkTnVtYmVyIik7Ci8vICAgICAgICBnZXRDb250YWN0VXJsLmFwcGVuZChyZXF1ZXN0LmdldEJhc2VMb2FkKCkuZ2V0TG9hZElkKCkpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzdHJpbgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>getContactUrl.toString(</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.toString())</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBnZXRDb250YWN0VXJsID0gbVJvb3RTZXJ2aWNlVXJsICsgIi8iICsgcmVxdWVzdC5nZXRVc2VyKCkuZ2V0Q2FycmllckNvZGUoKS50cmltKCkgKyAiLz8iICsgcmVxdWVzdC5nZXRCYXNlTG9hZCgpLmdldExvYWRJZCgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>loads/contact/</text>
-      </register>
       <register name="9" type="4">
-        <text>Lists.newArrayList(contact);</text>
+        <text>loads/contact/</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
