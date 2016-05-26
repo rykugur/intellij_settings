@@ -139,10 +139,11 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1464207317051">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1464268904828">
+        <mark key="[" line="210" column="43" />
+        <mark key="]" line="210" column="60" />
+        <mark key="." line="210" column="60" />
+        <mark key="^" line="210" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" timestamp="1463690353550">
         <mark key="'" line="0" column="0" />
@@ -269,6 +270,12 @@
         <mark key="^" line="93" column="71" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" timestamp="1464268837867">
+        <mark key="[" line="334" column="40" />
+        <mark key="]" line="334" column="59" />
+        <mark key="^" line="334" column="59" />
+        <mark key="." line="334" column="59" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" timestamp="1462984338140">
         <mark key="'" line="130" column="20" />
         <mark key="[" line="239" column="37" />
@@ -389,11 +396,11 @@
       <jump line="291" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlUmFuZ2UgcmFuZ2UgPSBuZXcgRGF0ZVJhbmdlKENhbGVuZGFyRGF5LnRvZGF5KCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>filterSettings.getStartDate(), filterSettings.getEndDate()</text>
       </register>
       <register name="-" type="4">
-        <text>();</text>
+        <text>filterSettings.getStartDate(), filterSettings.getEndDate()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtQ29udGFjdHNcPg==</text>
@@ -401,32 +408,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdG1wLmFkZEFsbChtTXlMb2FkRGV0YWlsLmdldENvbnRhY3RzKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlUmFuZ2UgcmFuZ2UgPSBuZXcgRGF0ZVJhbmdlKENhbGVuZGFyRGF5LnRvZGF5KCkpCg==</text>
+      <register name="1" type="4">
+        <text>filterSettings.getStartDate(), filterSettings.getEndDate()</text>
       </register>
       <register name="2" type="4">
-        <text>();</text>
+        <text>FilterSettings.Defaults.DEFAULT_DATE_RANGE));</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlUmFuZ2UgcmFuZ2UgPSBnZXRECg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJzdGFydERhdGU9IiArIHN0YXJ0RGF0ZSArCiAgICAgICAgICAgICAgICAiLCBlbmREYXRlPSIgKyBlbmREYXRlICsK</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIEJ1aWxkZXIgc3RhcnREYXRlKENhbGVuZGFyRGF5IHN0YXJ0RGF0ZSkgewogICAgICAgICAgICBmaWx0ZXJzLnN0YXJ0RGF0ZSA9IHN0YXJ0RGF0ZTsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgQnVpbGRlciBlbmREYXRlKENhbGVuZGFyRGF5IGVuZERhdGUpIHsKICAgICAgICAgICAgZmlsdGVycy5lbmREYXRlID0gZW5kRGF0ZTsKICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBEYXRlUgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWZhdWx0cy5nZXRFbmREYXRlKCksCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Q2FsZW5kYXJEYXkudG9kYXkoKSwg</text>
       </register>
-      <register name="7" type="4">
-        <text>defaults.getStartDate(),</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbF92ZXJpZnlHZXREYXRlUmFuZ2VGcm9tKHN0YXJ0RGF0ZSwgZW5kRGF0ZSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGhhc05vbkRlZmF1bHRTdGFydERhdGUgPSB0aGlzLnN0YXJ0RGF0ZSA9PSBudWxsIHx8ICEodGhpcy5zdGFydERhdGUuZXF1YWxzKGRlZmF1bHRTZXR0aW5ncy5zdGFydERhdGUpKTsKICAgICAgICBib29sZWFuIGhhc05vbkRlZmF1bHRFbmREYXRlID0gdGhpcy5lbmREYXRlID09IG51bGwgfHwgISh0aGlzLmVuZERhdGUuZXF1YWxzKGRlZmF1bHRTZXR0aW5ncy5lbmREYXRlKSk7CiAgICAgICAgaWYgKGhhc05vbkRlZmF1bHRTdGFydERhdGUgfHwgaGFzTm9uRGVmYXVsdEVuZERhdGUpIHsKICAgICAgICAgICAgY291bnQrKzsKICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>CalendarDay.today().);</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0RGF0ZSA9IGluLnJlYWRQYXJjZWxhYmxlKENhbGVuZGFyRGF5LmNsYXNzLmdldENsYXNzTG9hZGVyKCkpOwogICAgICAgIHRoaXMuZW5kRGF0ZSA9IGluLnJlYWRQYXJjZWxhYmxlKENhbGVuZGFyRGF5LmNsYXNzLmdldENsYXNzTG9hZGVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2FsZW5kYXJEYXkgc3RhcnREYXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDYWxlbmRhckRheSBlbmREYXRlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
