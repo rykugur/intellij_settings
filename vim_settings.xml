@@ -28,13 +28,6 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/helper/MyLoadPin.java" timestamp="1461786212436">
         <mark key="'" line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1463772196739">
-        <mark key="'" line="354" column="4" />
-        <mark key="[" line="370" column="0" />
-        <mark key="]" line="370" column="0" />
-        <mark key="^" line="369" column="68" />
-        <mark key="." line="370" column="0" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/LoadFilterView.java" timestamp="1461856199359">
         <mark key="'" line="70" column="28" />
       </file>
@@ -43,10 +36,10 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" timestamp="1464207227756">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="422" column="0" />
-        <mark key="." line="422" column="0" />
-        <mark key="^" line="421" column="55" />
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="445" column="0" />
+        <mark key="." line="445" column="0" />
+        <mark key="^" line="52" column="55" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/account/User.java" timestamp="1464099161877">
         <mark key="'" line="55" column="19" />
@@ -70,6 +63,9 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android-maps-extensions/build.gradle" timestamp="1462476621323">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/DateRange.java" timestamp="1464269334319">
+        <mark key="'" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/build.gradle" timestamp="1462476623371">
         <mark key="'" line="0" column="0" />
@@ -138,12 +134,6 @@
         <mark key="]" line="8" column="55" />
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="71" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1464268904828">
-        <mark key="[" line="210" column="43" />
-        <mark key="]" line="210" column="60" />
-        <mark key="." line="210" column="60" />
-        <mark key="^" line="210" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" timestamp="1463690353550">
         <mark key="'" line="0" column="0" />
@@ -270,12 +260,6 @@
         <mark key="^" line="93" column="71" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" timestamp="1464268837867">
-        <mark key="[" line="334" column="40" />
-        <mark key="]" line="334" column="59" />
-        <mark key="^" line="334" column="59" />
-        <mark key="." line="334" column="59" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" timestamp="1462984338140">
         <mark key="'" line="130" column="20" />
         <mark key="[" line="239" column="37" />
@@ -294,8 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
-      <jump line="16" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
       <jump line="35" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
       <jump line="52" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
       <jump line="88" column="36" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" />
@@ -394,55 +376,57 @@
       <jump line="30" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/ContactListAdapter.java" />
       <jump line="45" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/ContactListAdapter.java" />
       <jump line="291" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
+      <jump line="334" column="59" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
+      <jump line="22" column="34" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/DateRange.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filterSettings.getStartDate(), filterSettings.getEndDate()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiByZS1mYWN0b3IgdG8gRGF0ZSBjbGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>filterSettings.getStartDate(), filterSettings.getEndDate()</text>
+        <text>(cal);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ29udGFjdHNcPg==</text>
+        <text>getdaterange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wLmFkZEFsbChtTXlMb2FkRGV0YWlsLmdldENvbnRhY3RzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiByZS1mYWN0b3IgdG8gRGF0ZSBjbGFzcwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>filterSettings.getStartDate(), filterSettings.getEndDate()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>FilterSettings.Defaults.DEFAULT_DATE_RANGE));</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZmlsdGVyU2V0dGluZ3MuZ2V0U3RhcnREYXRlKCkgIT0gbnVsbCAmJiBmaWx0ZXJTZXR0aW5ncy5nZXRFbmREYXRlKCkgIT0gbnVsbCkgewogICAgICAgICAgICBDYWxlbmRhckRheSBzdGFydERhdGUgPSBmaWx0ZXJTZXR0aW5ncy5nZXRTdGFydERhdGUoKTsKCiAgICAgICAgICAgIGlmICghc3RhcnREYXRlLmlzQWZ0ZXIoQ2FsZW5kYXJEYXkudG9kYXkoKSkpIHsKICAgICAgICAgICAgICAgIHF1ZXJ5Lmxlc3NUaGFuT3JFcXVhbFRvKFJlYWxtQXZhaWxhYmxlTG9hZC5GaWVsZHMuREFURV9QSUNLVVBfQlksIGZpbHRlclNldHRpbmdzLmdldEVuZERhdGUoKS5nZXREYXRlKCkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcXVlcnkuYmV0d2VlbihSZWFsbUF2YWlsYWJsZUxvYWQuRmllbGRzLkRBVEVfUElDS1VQX0JZLCBmaWx0ZXJTZXR0aW5ncy5nZXRTdGFydERhdGUoKS5nZXREYXRlKCksIGZpbHRlclNldHRpbmdzLmdldEVuZERhdGUoKS5nZXREYXRlKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnN0YXJ0RGF0ZShtRmlsdGVyU2V0dGluZ3MuZ2V0U3RhcnREYXRlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5lbmREYXRlKG1GaWx0ZXJTZXR0aW5ncy5nZXRFbmREYXRlKCkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBDYWxlbmRhciBjYWwgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOwogICAgICAgIERhdGUgc3RhcnREYXRlID0gY2FsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlUgo=</text>
+      <register name="5" type="4">
+        <text>(cal);</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Q2FsZW5kYXJEYXkudG9kYXkoKSwg</text>
+        <text>cal.to</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcm5hbF92ZXJpZnlHZXREYXRlUmFuZ2VGcm9tKHN0YXJ0RGF0ZSwgZW5kRGF0ZSk7Cg==</text>
+      <register name="7" type="4">
+        <text>.getd</text>
       </register>
-      <register name="8" type="4">
-        <text>CalendarDay.today().);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjYWwuCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2FsZW5kYXJEYXkgc3RhcnREYXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDYWxlbmRhckRheSBlbmREYXRlLAo=</text>
+      <register name="9" type="4">
+        <text>any(DateRange.class)</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ29udGFjdHNcPg==</last-search>
+      <last-search>getdaterange</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ29udGFjdHNcPg==</last-pattern>
+      <last-pattern>getdaterange</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute>mFilterSettings =</last-substitute>
       <last-dir>1</last-dir>
@@ -450,7 +434,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtSXNNYWluXD4=</entry>
         <entry>todo</entry>
         <entry encoding="base64">XDxzZWFyY2hCdXR0b25cPg==</entry>
         <entry>onfilterdismi</entry>
@@ -470,6 +453,7 @@
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>getDate</entry>
         <entry encoding="base64">XDxtQ29udGFjdHNcPg==</entry>
+        <entry>getdaterange</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
