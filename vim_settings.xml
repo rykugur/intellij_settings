@@ -85,8 +85,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoad.java" timestamp="1464035208319">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" timestamp="1464367812824">
-        <mark key="'" line="26" column="29" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" timestamp="1464374755544">
+        <mark key="'" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/BaseActivity.java" timestamp="1462725954899">
         <mark key="'" line="38" column="12" />
@@ -184,12 +184,7 @@
         <mark key="." line="228" column="7" />
         <mark key="^" line="228" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadCacheService.java" timestamp="1464372415135">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
-        <mark key="^" line="219" column="83" />
-      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadCacheService.java" timestamp="1464373310658" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" timestamp="1463690353550">
         <mark key="'" line="0" column="0" />
       </file>
@@ -330,6 +325,13 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" timestamp="1461855424041">
         <mark key="'" line="31" column="4" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" timestamp="1464374286878">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="128" column="61" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" timestamp="1462984338140">
         <mark key="'" line="130" column="20" />
         <mark key="[" line="239" column="37" />
@@ -354,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
       <jump line="8" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="0" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="81" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/account/User.java" />
@@ -449,51 +450,52 @@
       <jump line="114" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
       <jump line="2" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
-      <jump line="16" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
       <jump line="26" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
       <jump line="31" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadHistoryFragment.java" />
       <jump line="65" column="62" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="217" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadCacheService.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" />
+      <jump line="16" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiByZS1mYWN0b3IgdG8gRGF0ZSBjbGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.getDate());</text>
+        <text>FIRST_NAME</text>
       </register>
       <register name="/" type="4">
         <text>@+id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmaXJzdE5hbWUuaXNKc29uTnVsbCgpICYmIGZpcnN0TmFtZS5pc0pzb25PYmplY3QoKSkgewogICAgICAgICAgICAgICAgcmVzcG9uc2UubUZpcnN0TmFtZSA9IGZpcnN0TmFtZS5nZXRBc1N0cmluZygpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzcG9uc2UubUZpcnN0TmFtZSA9ICIiOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvb3QuaGFzKEpzb24uRklSU1RfTkFNRSkpIHsKICAgICAgICAgICAgICAgIHJlc3BvbnNlLm1GaXJzdE5hbWUgPSAiIjsKCiAgICAgICAgICAgICAgICBKc29uRWxlbWVudCBmaXJzdE5hbWUgPSByb290LmdldChKc29uLkZJUlNUX05BTUUpOwogICAgICAgICAgICAgICAgaWYgKCFmaXJzdE5hbWUuaXNKc29uTnVsbCgpICYmIGZpcnN0TmFtZS5pc0pzb25QcmltaXRpdmUoKSkgewogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLm1GaXJzdE5hbWUgPSBmaXJzdE5hbWUuZ2V0QXNTdHJpbmcoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiByZS1mYWN0b3IgdG8gRGF0ZSBjbGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheSBzdGFydERhdGUgPSBDYWxlbmRhckRheS50b2RheSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.getDate());</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLm1MYXN0TmFtZSA9ICIiOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>.getDate()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLm1GaXJzdE5hbWUgPSAiIjsK</text>
       </register>
       <register name="5" type="4">
-        <text>.getDate()</text>
+        <text>FIRST_NAME</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>firstName</text>
       </register>
       <register name="7" type="4">
-        <text>Day.from(</text>
+        <text>mFirstName</text>
       </register>
       <register name="8" type="4">
-        <text>Calendar</text>
+        <text>mFirstName</text>
       </register>
       <register name="9" type="4">
-        <text>CalendarDay</text>
+        <text>FIRST_NAME</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
