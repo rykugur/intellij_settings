@@ -184,11 +184,11 @@
         <mark key="." line="228" column="7" />
         <mark key="^" line="228" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadCacheService.java" timestamp="1464371398649">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-        <mark key="^" line="219" column="192" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadCacheService.java" timestamp="1464372415135">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
+        <mark key="^" line="219" column="83" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/LoadListAdapter.java" timestamp="1463690353550">
         <mark key="'" line="0" column="0" />
@@ -354,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="34" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
       <jump line="37" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
       <jump line="8" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="0" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
@@ -454,13 +453,14 @@
       <jump line="26" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
       <jump line="31" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadHistoryFragment.java" />
       <jump line="65" column="62" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="217" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadCacheService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheSBzdGFydERhdGUgPSBDYWxlbmRhckRheS50b2RheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiByZS1mYWN0b3IgdG8gRGF0ZSBjbGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.getDate()</text>
+        <text>.getDate());</text>
       </register>
       <register name="/" type="4">
         <text>@+id</text>
@@ -469,31 +469,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmaXJzdE5hbWUuaXNKc29uTnVsbCgpICYmIGZpcnN0TmFtZS5pc0pzb25PYmplY3QoKSkgewogICAgICAgICAgICAgICAgcmVzcG9uc2UubUZpcnN0TmFtZSA9IGZpcnN0TmFtZS5nZXRBc1N0cmluZygpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzcG9uc2UubUZpcnN0TmFtZSA9ICIiOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiByZS1mYWN0b3IgdG8gRGF0ZSBjbGFzcwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBDYWxlbmRhckRheSBzdGFydERhdGUgPSBDYWxlbmRhckRheS50b2RheSgpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.getDate()</text>
-      </register>
       <register name="3" type="4">
-        <text>getAvailableLocales</text>
+        <text>.getDate());</text>
       </register>
       <register name="4" type="4">
-        <text>()</text>
+        <text>.getDate()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>.getDate()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gVE9ETzogVXBkYXRlIGJsYW5rIGZyYWdtZW50IGxheW91dCAtLT4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hlbGxvX2JsYW5rX2ZyYWdtZW50IiAvPgoK</text>
+      <register name="7" type="4">
+        <text>Day.from(</text>
       </register>
       <register name="8" type="4">
-        <text>Fragment</text>
+        <text>Calendar</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEEgc2ltcGxlIHtAbGluayBGcmFnbWVudH0gc3ViY2xhc3MuCiAqIEFjdGl2aXRpZXMgdGhhdCBjb250YWluIHRoaXMgZnJhZ21lbnQgbXVzdCBpbXBsZW1lbnQgdGhlCiAqIHtAbGluayBMb2FkSGlzdG9yeUZyYWdtZW50Lk9uRnJhZ21lbnRJbnRlcmFjdGlvbkxpc3RlbmVyfSBpbnRlcmZhY2UKICogdG8gaGFuZGxlIGludGVyYWN0aW9uIGV2ZW50cy4KICogVXNlIHRoZSB7QGxpbmsgTG9hZEhpc3RvcnlGcmFnbWVudCNuZXdJbnN0YW5jZX0gZmFjdG9yeSBtZXRob2QgdG8KICogY3JlYXRlIGFuIGluc3RhbmNlIG9mIHRoaXMgZnJhZ21lbnQuCiAqLwo=</text>
+      <register name="9" type="4">
+        <text>CalendarDay</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
