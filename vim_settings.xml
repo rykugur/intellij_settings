@@ -228,8 +228,8 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1464382623287">
-        <mark key="'" line="112" column="43" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1464706717195">
+        <mark key="'" line="115" column="13" />
         <mark key="[" line="122" column="58" />
         <mark key="]" line="122" column="60" />
         <mark key="^" line="122" column="60" />
@@ -246,7 +246,7 @@
         <mark key="^" line="65" column="57" />
         <mark key="." line="65" column="57" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ConfigService.java" timestamp="1464704470156" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ConfigService.java" timestamp="1464706653443" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/src/main/java/com/chrobinson/android/network/CustomVolleyRequest.java" timestamp="1464275876567" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/sample_contact_view.xml" timestamp="1463072203496">
         <mark key="'" line="21" column="22" />
@@ -271,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
       <jump line="77" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="78" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="345" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
@@ -371,6 +370,7 @@
       <jump line="94" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Contact.java" />
       <jump line="96" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/ContactView.java" />
       <jump line="126" column="51" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/ContactView.java" />
+      <jump line="115" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,7 +380,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZXh0XD4=</text>
+        <text>app_config_url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9hZFByZXZpZXdWaWV3LkxvYWRQcmV2aWV3QWN0aW9uTGlzdGVuZXIgbUxvYWRQcmV2aWV3QWN0aW9uTGlzdGVuZXIgPSBuZXcgTG9hZFByZXZpZXdWaWV3LkxvYWRQcmV2aWV3QWN0aW9uTGlzdGVuZXIoKSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25QcmV2aWV3Q2xpY2soSUxvYWRTdW1tYXJ5Vmlld01vZGVsIGxvYWQpIHsKICAgICAgICAgICAgbVByZXNlbnRlci5vbkxvYWRQcmV2aWV3Q2xpY2tlZChsb2FkKTsKICAgICAgICB9CiAgICB9Owo=</text>
@@ -417,9 +417,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250ZXh0XD4=</last-search>
+      <last-search>app_config_url</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZXh0XD4=</last-pattern>
+      <last-pattern>app_config_url</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJTZXR0aW5nc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -427,7 +427,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtRGF0ZVJhbmdlXD4=</entry>
         <entry encoding="base64">XDxvcmlnaW5cPg==</entry>
         <entry>showdaterange</entry>
         <entry>region</entry>
@@ -447,6 +446,7 @@
         <entry encoding="base64">XDxtQWRhcHRlclw+</entry>
         <entry encoding="base64">XDxtTG9hZFByZXZpZXdBY3Rpb25MaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
+        <entry>app_config_url</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
