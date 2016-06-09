@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X - CUSTOM" parent="Mac OS X">
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -8,6 +11,7 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
