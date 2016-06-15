@@ -124,8 +124,8 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" timestamp="1466002305796">
-        <mark key="'" line="246" column="40" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" timestamp="1466005772120">
+        <mark key="'" line="137" column="11" />
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
@@ -306,12 +306,12 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1465939981918">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1466005828268">
         <mark key="'" line="360" column="18" />
-        <mark key="[" line="370" column="34" />
-        <mark key="]" line="370" column="37" />
-        <mark key="." line="370" column="37" />
-        <mark key="^" line="370" column="37" />
+        <mark key="[" line="374" column="58" />
+        <mark key="]" line="374" column="58" />
+        <mark key="." line="374" column="58" />
+        <mark key="^" line="374" column="57" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/drawable-v21/obsidian_button.xml" timestamp="1465835179900">
         <mark key="[" line="2" column="30" />
@@ -736,8 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ViewModule.java" />
-      <jump line="151" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
       <jump line="152" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
       <jump line="184" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
       <jump line="221" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
@@ -836,55 +834,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview.xml" />
       <jump line="59" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
       <jump line="225" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
+      <jump line="171" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
+      <jump line="137" column="11" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kcml2ZXJfZGV0YWlsX3Byb2dyZXNzX2JhciIvPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRvZXNuJ3Qgd29yaw==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IGRvZXNuJ3Qgd29yaw==</text>
       </register>
       <register name="/" type="4">
-        <text>background</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFZpc2liaWxpdHkobVByb2dyZXNzQmFyLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1UT0RPKGplcm9kdXMpOiBhcHAgc3RvcmUvcGxheSBzdG9yZSBsaW5rcy0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kcml2ZXJfZGV0YWlsX3Byb2dyZXNzX2JhciIvPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGRvZXNuJ3Qgd29yaw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgPFByb2dyZXNzQmFyCiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvUHJvZ3Jlc3NCYXJOb1BhZGRpbmciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmFscGhhPSIwIgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2RyaXZlcl9kZXRhaWxfcHJvZ3Jlc3NfYmFyIi8+Cg==</text>
+      <register name="2" type="4">
+        <text>this</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFZpc2liaWxpdHkobVByb2dyZXNzQmFyLCB0cnVlKTsK</text>
+      <register name="3" type="4">
+        <text>app store/play store links</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFZpc2liaWxpdHkobVByb2dyZXNzQmFyLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>false</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kcml2ZXJfZGV0YWlsX3Byb2dyZXNzX2JhciIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFZpc2liaWxpdHkobVByb2dyZXNzQmFyLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgPFByb2dyZXNzQmFyCiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvUHJvZ3Jlc3NCYXJOb1BhZGRpbmciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTZkcCIKICAgICAgICAgICAgYW5kcm9pZDppbmRldGVybWluYXRlPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmFscGhhPSIwIgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2RyaXZlcl9kZXRhaWxfcHJvZ3Jlc3NfYmFyIi8+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>j</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFZpc2liaWxpdHkobVByb2dyZXNzQmFyLCB0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMmRwIgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9ibGFjayIvPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFZpc2liaWxpdHkobVByb2dyZXNzQmFyLCBmYWxzZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>false</text>
       </register>
       <register name=":" type="4">
         <text>375</text>
       </register>
     </registers>
     <search>
-      <last-search>background</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>background</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJTZXR0aW5nc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fragmentsupport</entry>
         <entry>fragment</entry>
         <entry>map</entry>
         <entry>@+id</entry>
@@ -912,6 +911,7 @@
         <entry encoding="base64">XDxMb2FkTGlzdEFkYXB0ZXJcPg==</entry>
         <entry>icon</entry>
         <entry>background</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
