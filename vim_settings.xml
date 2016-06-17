@@ -123,12 +123,6 @@
         <mark key="." line="75" column="56" />
         <mark key="^" line="75" column="56" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" timestamp="1466109846084">
-        <mark key="'" line="106" column="7" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="12" />
-        <mark key="." line="145" column="12" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IDriverPreviewView.java" timestamp="1466023843509">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="43" />
@@ -243,6 +237,12 @@
         <mark key="]" line="9" column="35" />
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" timestamp="1466114777722">
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="51" />
+        <mark key="." line="62" column="51" />
+        <mark key="^" line="62" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/ILoadsListView.java" timestamp="1465224789898">
         <mark key="[" line="8" column="0" />
@@ -838,10 +838,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mDriver.getDefaultPhone().getNumber()</text>
+        <text>activity_driver_edit_progress_bar</text>
       </register>
       <register name="-" type="4">
-        <text>mDriver.getDefaultPhone().getNumber()</text>
+        <text>activity_driver_edit_progress_bar</text>
       </register>
       <register name="/" type="4">
         <text>lint</text>
@@ -850,31 +850,31 @@
         <text encoding="base64">ICAgIEBOb25OdWxsCiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRQcmltYXJ5RW1haWxGcm9tKElDYXJyaWVyRHJpdmVyVmlld01vZGVsIGRyaXZlcikgewogICAgICAgIGlmIChkcml2ZXIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gIiI7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIFN0cmluZyBlbWFpbCA9IG51bGw7CiAgICAgICAgaWYgKGRyaXZlci5nZXREZWZhdWx0RW1haWwoKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGVtYWlsID0gZHJpdmVyLmdldERlZmF1bHRFbWFpbCgpLmdldEVtYWlsQWRkcmVzcygpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICBpZiAoZW1haWwgPT0gbnVsbCkgewogICAgICAgICAgICBlbWFpbCA9IGRyaXZlci5nZXRFbWFpbHMoKS5zaXplKCkgPj0gMSA/CiAgICAgICAgICAgICAgICAgICAgZHJpdmVyLmdldEVtYWlscygpLmdldCgwKS5nZXRFbWFpbEFkZHJlc3MoKSA6CiAgICAgICAgICAgICAgICAgICAgIiI7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiBlbWFpbDsKICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>mDriver.getDefaultPhone().getNumber()</text>
+        <text>activity_driver_edit_progress_bar</text>
       </register>
       <register name="2" type="4">
         <text>mDriver.getDefaultPhone().getNumber()</text>
       </register>
       <register name="3" type="4">
-        <text>EmailAddress</text>
+        <text>mDriver.getDefaultPhone().getNumber()</text>
       </register>
       <register name="4" type="4">
-        <text>Emails</text>
+        <text>EmailAddress</text>
       </register>
       <register name="5" type="4">
         <text>Emails</text>
       </register>
       <register name="6" type="4">
-        <text>EmailAddress</text>
+        <text>Emails</text>
       </register>
       <register name="7" type="4">
-        <text>Email</text>
+        <text>EmailAddress</text>
       </register>
       <register name="8" type="4">
         <text>Email</text>
       </register>
       <register name="9" type="4">
-        <text>email</text>
+        <text>Email</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
