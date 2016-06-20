@@ -49,7 +49,8 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/account/User.java" timestamp="1466197859975">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/account/User.java" timestamp="1466440949852">
+        <mark key="'" line="77" column="28" />
         <mark key="[" line="75" column="36" />
         <mark key="]" line="76" column="84" />
         <mark key="^" line="76" column="84" />
@@ -130,7 +131,6 @@
         <mark key="'" line="16" column="7" />
         <mark key="[" line="106" column="9" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/drawable/circle_blue.xml" timestamp="1466433645105" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" timestamp="1466199981318">
         <mark key="'" line="338" column="40" />
         <mark key="[" line="133" column="9" />
@@ -494,7 +494,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="62" column="41" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/AppConfig.java" timestamp="1466196236554" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/Implicit/ITexter.java" timestamp="1465934652466">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="6" column="64" />
@@ -673,7 +672,6 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/src/main/java/com/chrobinson/android/network/CustomVolleyRequest.java" timestamp="1466198591341" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/Implicit/Texter.java" timestamp="1465938314525">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="15" column="50" />
@@ -785,8 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_add.xml" />
-      <jump line="66" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_edit.xml" />
       <jump line="122" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverAddActivity.java" />
       <jump line="150" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
       <jump line="87" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenter.java" />
@@ -885,6 +881,8 @@
       <jump line="35" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenterTest.java" />
       <jump line="68" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenter.java" />
       <jump line="73" column="34" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenterTest.java" />
+      <jump line="76" column="84" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/account/User.java" />
+      <jump line="77" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/account/User.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -894,7 +892,7 @@
         <text>Phone(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtVXNlclw+</text>
+        <text>trim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIG9uRHJpdmVyUGhvbmVDbGlja19oYXBweVBhdGgoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIH0KICAgIAogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIG9uRHJpdmVyUGhvbmVDbGlja19lbXB0eVBob25lKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cg==</text>
@@ -931,9 +929,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtVXNlclw+</last-search>
+      <last-search>trim</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtVXNlclw+</last-pattern>
+      <last-pattern>trim</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJTZXR0aW5nc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -956,11 +954,11 @@
         <entry>lint</entry>
         <entry>isAppUser</entry>
         <entry>carriercode</entry>
-        <entry>trim</entry>
         <entry>myloaddetail</entry>
         <entry>customserial</entry>
         <entry encoding="base64">XDxjb2xvclJlc1w+</entry>
         <entry encoding="base64">XDxtVXNlclw+</entry>
+        <entry>trim</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xpc3QvYXJyYXk=</entry>
