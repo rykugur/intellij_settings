@@ -330,9 +330,12 @@
         <mark key="^" line="37" column="31" />
         <mark key="." line="37" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenter.java" timestamp="1466447545682">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="68" column="9" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenter.java" timestamp="1466456020954">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="129" column="37" />
+        <mark key="]" line="129" column="37" />
+        <mark key="." line="129" column="37" />
+        <mark key="^" line="117" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/LoadPreviewView.java" timestamp="1465999071383">
         <mark key="'" line="20" column="0" />
@@ -809,7 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverAddPresenter.java" />
       <jump line="70" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/carrier/CarrierDriver.java" />
       <jump line="106" column="61" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
       <jump line="71" column="50" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
@@ -909,55 +911,56 @@
       <jump line="85" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenterTest.java" />
       <jump line="61" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenter.java" />
       <jump line="73" column="56" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenterTest.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Q0VIT0xERVI6IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.subscribe(mockObservable);</text>
+        <text encoding="base64">Q0VIT0xERVI6IA==</text>
       </register>
       <register name="/" type="4">
-        <text>trim</text>
+        <text>cehold</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLm9uRHJpdmVyRW1haWxDbGljaygidG8iLCAic3ViamVjdCIsICJib2R5Iik7CiAgICAgICAgdmVyaWZ5KG1QcmVzZW50YXRpb24sIHRpbWVzKDEpKS53cml0ZUVtYWlsKCJ0byIsICJzdWJqZWN0IiwgImJvZHkiKTsKICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMobVByZXNlbnRhdGlvbik7CiAgICAgICAgdmVyaWZ5WmVyb0ludGVyYWN0aW9ucyhtQXZhaWxhYmxlTG9hZHNTZXJ2aWNlLCBtQ3VycmVudFVzZXIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Q0VIT0xERVI6IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Q0VIT0xERVI6IA==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlPExpc3Q8SUxvYWRTdW1tYXJ5Vmlld01vZGVsPj4gbW9ja09ic2VydmFibGUgPSBtb2NrKE9ic2VydmFibGUuY2xhc3MpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.subscribe(mockObservable);</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>(Mockito.anyObject());</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>anyObject());</text>
       </register>
-      <register name="7" type="4">
-        <text>(Observable.class));</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1BdmFpbGFibGVMb2Fkc1NlcnZpY2UuZ2V0QXZhaWxhYmxlTG9hZHMoYW55KEdlb2xvY2F0aW9uLmNsYXNzKSwgYW55KEludGVnZXIuY2xhc3MpLCBhbnkoRmlsdGVyU2V0dGluZ3MuY2xhc3MpKSkudGhlbihtb2NrT2JzZXJ2YWJsZSk7Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">LnRoZW5SZXR1cm4obmV3IE9ic2VydmFibGU8TGlzdDxJTG9hZFN1bW1hcnlWaWV3TW9kZWw+PigpKTs=</text>
+        <text>(Observable.class));</text>
       </register>
       <register name=":" type="4">
         <text>140</text>
       </register>
     </registers>
     <search>
-      <last-search>trim</last-search>
+      <last-search>cehold</last-search>
       <last-offset />
-      <last-pattern>trim</last-pattern>
+      <last-pattern>cehold</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJTZXR0aW5nc1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -965,7 +968,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtVXNlclNlcnZpY2VcPg==</entry>
         <entry>mUserService</entry>
         <entry>$1%s</entry>
         <entry>firstlast</entry>
@@ -985,6 +987,7 @@
         <entry encoding="base64">XDxjb2xvclJlc1w+</entry>
         <entry encoding="base64">XDxtVXNlclw+</entry>
         <entry>trim</entry>
+        <entry>cehold</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xpc3QvYXJyYXk=</entry>
