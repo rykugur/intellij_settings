@@ -487,12 +487,12 @@
         <mark key="." line="215" column="15" />
         <mark key="^" line="215" column="73" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_driver_preview.xml" timestamp="1466428834614">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_driver_preview.xml" timestamp="1466429118747">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="45" />
+        <mark key="." line="22" column="45" />
+        <mark key="^" line="22" column="45" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IDriverDetailPresenter.java" timestamp="1466023975097">
         <mark key="[" line="5" column="30" />
@@ -533,12 +533,15 @@
         <mark key="^" line="105" column="67" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" timestamp="1466428864734">
-        <mark key="'" line="111" column="12" />
-        <mark key="[" line="116" column="36" />
-        <mark key="]" line="116" column="102" />
-        <mark key="." line="116" column="102" />
-        <mark key="^" line="116" column="102" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/main/java/com/chrobinson/android/core/view/BitmapUtils.java" timestamp="1466429471403">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="61" column="78" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" timestamp="1466429848000">
+        <mark key="[" line="117" column="39" />
+        <mark key="]" line="117" column="43" />
+        <mark key="." line="117" column="43" />
+        <mark key="^" line="117" column="43" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Branch.java" timestamp="1464380064382">
         <mark key="[" line="26" column="16" />
@@ -845,43 +848,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getAbbreviatedNameFrom(mDriver.getFirstName(), mDriver.getLastName());</text>
+        <text>Abbreviated</text>
       </register>
       <register name="-" type="4">
-        <text>getAbbreviatedNameFrom(mDriver.getFirstName(), mDriver.getLastName());</text>
+        <text>Abbreviated</text>
       </register>
       <register name="/" type="4">
         <text>customserial</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOdWxsT3JFbXB0eShmaXJzdCkgfHwgU3RyaW5nVXRpbHMuaXNOdWxsT3JFbXB0eShsYXN0KSkgewogICAgICAgICAgICByZXR1cm4gIiI7CiAgICAgICAgfQoKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoZmlyc3QpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIgIikKICAgICAgICAgICAgICAgIC5hcHBlbmQobGFzdC5jaGFyQXQoMCkpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIuIik7CiAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIEZvbnRDYWNoZS5nZXRUeXBlZmFjZShnZXRDb250ZXh0KCksIEZvbnRDYWNoZS5Gb250U3R5bGUuUmFqZGhhbmlfQm9sZCksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>getAbbreviatedNameFrom(mDriver.getFirstName(), mDriver.getLastName());</text>
+        <text>Abbreviated</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>Abbreviated</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQml0bWFwIGIgPSBCaXRtYXBVdGlscwo=</text>
+      <register name="3" type="4">
+        <text>pin</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBCaXRtYXAgYiA9IEJpdG1hcFV0aWxzLmRyYXdNdWx0aWxpbmVUZXh0VG9CaXRtYXAoCi8vICAgICAgICAgICAgICAgICAgICBnZXRDb250ZXh0KCksCi8vICAgICAgICAgICAgICAgICAgICBtTG9hZC5nZXRNYXBPcmlnaW5QaW4odHJ1ZSksCi8vICAgICAgICAgICAgICAgICAgICBnZXRJbWFnZUJpdG1hcFRleHQobG9hZC5tb2RlbCksCi8vICAgICAgICAgICAgICAgICAgICBGb250Q2FjaGUuZ2V0VHlwZWZhY2UoZ2V0Q29udGV4dCgpLCBGb250Q2FjaGUuRm9udFN0eWxlLlJhamRoYW5pX0JvbGQpLAovLyAgICAgICAgICAgICAgICAgICAgbUxvYWQuZ2V0TWFwUGluVGV4dENvbG9yKCksCi8vICAgICAgICAgICAgICAgICAgICBtTG9hZC5nZXRNYXBQaW5Gb250U2l6ZSgpLAovLyAgICAgICAgICAgICAgICAgICAgbUxvYWQuZ2V0TWFwUGluVGV4dE9mZnNldCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHJhd2FibGUgY2lyY2xlID0gZ2V0ZHJhdwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwdWJsaWMgc3RhdGljIEJpdG1hcCBkcmF3TXVsdGlsaW5lVGV4dFRvQml0bWFwKENvbnRleHQgY29udGV4dCwKLy8gICAgICAgICAgICBARHJhd2FibGVSZXMgaW50IGRyYXdhYmxlUmVzLAovLyAgICAgICAgICAgIFN0cmluZyB0ZXh0LAovLyAgICAgICAgICAgIFR5cGVmYWNlIGZvbnQsCi8vICAgICAgICAgICAgQENvbG9yUmVzIGludCBjb2xvclJlcywKLy8gICAgICAgICAgICBARGltZW5SZXMgaW50IGZvbnRTaXplUmVzKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFJldHVybnMgdGhlIGdpdmVuIGZpcnN0L2xhc3QgbmFtZSB3aXRoIHRoZSBsYXN0IG5hbWUgYWJicmV2aWF0ZWQsIGUuZy46ICJDYXJsb3MgRy4iCiAgICAgKi8KICAgIEBOZWVkc1JlZmFjdG9yKGV4cGxhbmF0aW9uID0gInRoaXMgd2lsbCBmYWxsIG92ZXIgYW5kL29yIGxvb2sgb2RkIGZvciBwZW9wbGUgd2hvIGhhdmUgbXVsdGktd29yZCIgKwogICAgICAgICJsYXN0IG5hbWVzLCBlLmcuIFwiU3QuIEdlcm1haW5cIiIpCiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRBYmJyZXZpYXRlZE5hbWVGcm9tKFN0cmluZyBmaXJzdExhc3QpIHsKICAgICAgICBTdHJpbmdbXSBzcGxpdCA9IGZpcnN0TGFzdC5zcGxpdCgiICIpOwogICAgICAgIGlmIChzcGxpdC5sZW5ndGggPj0gMikgewogICAgICAgICAgICByZXR1cm4gZ2V0QWJicmV2aWF0ZWROYW1lRnJvbShzcGxpdFswXSwgc3BsaXRbc3BsaXQubGVuZ3RoIC0gMV0pOwogICAgICAgIH0gZWxzZSBpZiAoc3BsaXQubGVuZ3RoID09IDEpIHsKICAgICAgICAgICAgcmV0dXJuIHNwbGl0WzBdOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAiIjsKICAgICAgICB9CiAgICB9CgogICAgLyoqCiAgICAgKiBSZXR1cm5zIHRoZSBnaXZlbiBmaXJzdC9sYXN0IG5hbWUgd2l0aCB0aGUgbGFzdCBuYW1lIGFiYnJldmlhdGVkLCBlLmcuOiAiQ2FybG9zIEcuIgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRBYmJyZXZpYXRlZE5hbWVGcm9tKFN0cmluZyBmaXJzdCwgU3RyaW5nIGxhc3QpIHsKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOdWxsT3JFbXB0eShmaXJzdCkgfHwgU3RyaW5nVXRpbHMuaXNOdWxsT3JFbXB0eShsYXN0KSkgewogICAgICAgICAgICByZXR1cm4gIiI7CiAgICAgICAgfQoKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBzYi5hcHBlbmQoZmlyc3QpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIgIikKICAgICAgICAgICAgICAgIC5hcHBlbmQobGFzdC5jaGFyQXQoMCkpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCIuIik7CiAgICAgICAgcmV0dXJuIHNiLnRvU3RyaW5nKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>getResources().getDrawable(R.drawable.circle_empty, null),</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRDb250ZXh0KCksCiAgICAgICAgICAgICAgICAgICAgZ2V0UmVzb3VyY2VzKCkuZ2V0RHJhd2FibGUoUi5kcmF3YWJsZS5jaXJjbGVfYmx1ZSksCiAgICAgICAgICAgICAgICAgICAgZ2V0QWJicmV2aWF0ZWROYW1lKG1Ecml2ZXIuZ2V0Rmlyc3ROYW1lKCksIG1Ecml2ZXIuZ2V0TGFzdE5hbWUoKSksCiAgICAgICAgICAgICAgICAgICAgRm9udENhY2hlLmdldFR5cGVmYWNlKGdldENvbnRleHQoKSwgRm9udENhY2hlLkZvbnRTdHlsZS5SYWpkaGFuaV9Cb2xkKSwKICAgICAgICAgICAgICAgICAgICBDb2xvci5XSElURSwKICAgICAgICAgICAgICAgICAgICBnZXRSZXNvdXJjZXMoKS5nZXREaW1lbnNpb24oUi5kaW1lbi50ZXh0X3NpemVfbWVkaXVtKSwKICAgICAgICAgICAgICAgICAgICAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
