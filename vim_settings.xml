@@ -189,7 +189,7 @@
         <mark key="^" line="16" column="78" />
         <mark key="." line="16" column="78" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" timestamp="1466694438548" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" timestamp="1466696916485" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenterTest.java" timestamp="1466435811477">
         <mark key="'" line="50" column="17" />
         <mark key="[" line="24" column="0" />
@@ -446,12 +446,12 @@
         <mark key="^" line="84" column="66" />
         <mark key="." line="84" column="66" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1466694096293">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1466696304678">
         <mark key="'" line="90" column="52" />
         <mark key="[" line="94" column="69" />
-        <mark key="]" line="94" column="99" />
-        <mark key="^" line="94" column="99" />
-        <mark key="." line="94" column="99" />
+        <mark key="]" line="94" column="73" />
+        <mark key="^" line="94" column="73" />
+        <mark key="." line="94" column="73" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/LoadHistoryRequest.java" timestamp="1464724973080">
         <mark key="[" line="16" column="5" />
@@ -821,7 +821,7 @@
         <mark key="." line="91" column="56" />
         <mark key="^" line="91" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1466691207052">
+      <file name="/fragment.java" timestamp="1466696960493">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -928,11 +928,11 @@
       <jump line="127" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NetworkRequest.ContentType.Json,</text>
       </register>
       <register name="-" type="4">
-        <text>EDIT</text>
+        <text>NetworkRequest.ContentType.Json,</text>
       </register>
       <register name="/" type="4">
         <text>isjson</text>
@@ -940,23 +940,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBGUkFHTUVOVF9FRElUX1NVQ0NFU1NfVEFHID0gIkRSSVZFUl9FRElUX0ZSQUdNRU5UX1NVQ0NFU1MiOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>NetworkRequest.ContentType.Json,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmlldy5PbkNsaWNrTGlzdGVuZXIgbUNsb3NlT25DbGlja0xpc3RlbmVyID0gbmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2aWV3KSB7CiAgICAgICAgICAgIGdldEFjdGl2aXR5KCkuZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLnBvcEJhY2tTdGFjaygpOwogICAgICAgIH0KICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld3MubUNsb3NlQnV0dG9uLnNldE9uQ2xpY2tMaXN0ZW5lcihtQ2xvc2VPbkNsaWNrTGlzdGVuZXIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlldy5PbkNsaWNrTGlzdGVuZXIgbUNsb3NlT25DbGlja0xpc3RlbmVyID0gbmV3IFZpZXcuT25DbGlja0xpc3RlbmVyKCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soVmlldyB2aWV3KSB7CiAgICAgICAgICAgIGdldEFjdGl2aXR5KCkuZ2V0U3VwcG9ydEZyYWdtZW50TWFuYWdlcigpLnBvcEJhY2tTdGFjaygpOwogICAgICAgIH0KICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAQmluZChSLmlkLmZyYWdtZW50X2RyaXZlcl9hZGRfc3VjY2Vzc19jbG9zZSkKICAgICAgICBJbWFnZVZpZXcgbUNsb3NlQnV0dG9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBtVmlld3MubUNsb3NlQnV0dG9uLnNldE9uQ2xpY2tMaXN0ZW5lcihtQ2xvc2VPbkNsaWNrTGlzdGVuZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCkuYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAuYWRkKGZyYWdtZW50LCAiZHJpdmVyQWRkU3VjY2VzcyIpCiAgICAgICAgICAgICAgICAvLyBub3QgYWRkaW5nIHRvIGJhY2tzdGFjaywgaWYgdXNlciBoaXRzIGJhY2sgd2Ugd2FudCB0aGVtIHRvIGdvIGJhY2sgdG8gdGhlIGxpc3Qgdmlldywgbm90IHRoaXMgdmlldwogICAgICAgICAgICAgICAgLmNvbW1pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBAQmluZChSLmlkLmZyYWdtZW50X2RyaXZlcl9hZGRfc3VjY2Vzc19jbG9zZSkKICAgICAgICBJbWFnZVZpZXcgbUNsb3NlQnV0dG9uOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>EDIT</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRTdXBwb3J0RnJhZ21lbnRNYW5hZ2VyKCkuYmVnaW5UcmFuc2FjdGlvbigpCiAgICAgICAgICAgICAgICAuYWRkKGZyYWdtZW50LCAiZHJpdmVyQWRkU3VjY2VzcyIpCiAgICAgICAgICAgICAgICAvLyBub3QgYWRkaW5nIHRvIGJhY2tzdGFjaywgaWYgdXNlciBoaXRzIGJhY2sgd2Ugd2FudCB0aGVtIHRvIGdvIGJhY2sgdG8gdGhlIGxpc3Qgdmlldywgbm90IHRoaXMgdmlldwogICAgICAgICAgICAgICAgLmNvbW1pdCgpOwo=</text>
       </register>
       <register name="7" type="4">
         <text>EDIT</text>
@@ -965,7 +965,7 @@
         <text>EDIT</text>
       </register>
       <register name="9" type="4">
-        <text>edit_content_container</text>
+        <text>EDIT</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
