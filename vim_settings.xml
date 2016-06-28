@@ -619,12 +619,12 @@
         <mark key="^" line="105" column="67" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1467129530260">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="165" column="86" />
-        <mark key="]" line="165" column="92" />
-        <mark key="." line="165" column="92" />
-        <mark key="^" line="165" column="92" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1467137521970">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="66" column="40" />
+        <mark key="]" line="66" column="39" />
+        <mark key="." line="66" column="39" />
+        <mark key="^" line="66" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/main/java/com/chrobinson/android/core/view/BitmapUtils.java" timestamp="1467063259517">
         <mark key="'" line="111" column="46" />
@@ -738,12 +738,12 @@
         <mark key="^" line="3" column="119" />
         <mark key="." line="3" column="119" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/DriverAssignSpinnerAdapter.java" timestamp="1467136716284">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="87" column="7" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/DriverAssignSpinnerAdapter.java" timestamp="1467137613636">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="59" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverUpdateView.java" timestamp="1465500891238">
         <mark key="'" line="11" column="49" />
@@ -897,9 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="23" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
-      <jump line="118" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
-      <jump line="190" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
       <jump line="188" column="53" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
       <jump line="53" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
       <jump line="121" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenter.java" />
@@ -997,46 +994,49 @@
       <jump line="80" column="11" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/DriverAssignSpinnerAdapter.java" />
       <jump line="81" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/DriverAssignSpinnerAdapter.java" />
       <jump line="42" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/DriverAssignSpinnerAdapter.java" />
+      <jump line="159" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
+      <jump line="171" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiREVSUEZFU1QiLCAiZ2V0Vmlldzogc2VsZWN0ZWQ9IiArIHNlbGVjdGVkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>null;</text>
+        <text>selected = -1;</text>
       </register>
       <register name="/" type="4">
         <text>setAdapt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0Vmlld0ZvclBvc2l0aW9uKHBvc2l0aW9uLCBjb252ZXJ0VmlldywgcGFyZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2VsZWN0ZWQgPSAoKFNwaW5uZXIpIHBhcmVudCkuZ2V0U2VsZWN0ZWRJdGVtUG9zaXRpb24oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdjsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiREVSUEZFU1QiLCAiZ2V0Vmlldzogc2VsZWN0ZWQ9IiArIHNlbGVjdGVkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuZ2V0RHJvcERvd25WaWV3KHBvc2l0aW9uLCBjb252ZXJ0VmlldywgcGFyZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiREVSUEZFU1QiLCAiZ2V0RHJvcERvd25WaWV3OiBzZWxlY3RlZD0iICsgc2VsZWN0ZWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3IHYgPSBzdXBlci5nZXRWaWV3KHBvc2l0aW9uLCBjb252ZXJ0VmlldywgcGFyZW50KTsKICAgICAgICAoKFRleHRWaWV3KSB2KS5zZXRUZXh0KG1Ecml2ZXJzLmdldChwb3NpdGlvbikgIT0gbnVsbCA/CiAgICAgICAgICAgICAgICBtRHJpdmVycy5nZXQocG9zaXRpb24pLmdldEZpcnN0TmFtZSgpICsgIiAgIiArIG1Ecml2ZXJzLmdldChwb3NpdGlvbikuZ2V0TGFzdE5hbWUoKSA6CiAgICAgICAgICAgICAgICAiTk8gTkFNRSBHSVZFTiIKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAoKFNwaW5uZXIpIHBhcmVudCkuZ2V0U2VsZWN0ZWRJdGVtUG9zaXRpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2VsZWN0ZWQgPSAtMTsK</text>
       </register>
       <register name="5" type="4">
-        <text>null;</text>
+        <text>selected = -1;</text>
       </register>
       <register name="6" type="4">
-        <text>driver_assign_spinner_item_view</text>
+        <text>}</text>
       </register>
       <register name="7" type="4">
-        <text>TAG</text>
+        <text>Lists.newArrayList(</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZWN0ZWQg</text>
+        <text>I</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkZ2V0LmdldFNlbGVjdGVkRGF0ZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCkpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
