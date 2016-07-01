@@ -10,4 +10,9 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
+  <template name="banana" value="android.util.Log.d(&quot;BANANA&quot;, &quot;$METHOD_NAME$: $content$&quot;);" description="banana logging!" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
