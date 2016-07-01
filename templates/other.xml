@@ -13,6 +13,14 @@
   <template name="banana" value="android.util.Log.d(&quot;BANANA&quot;, &quot;$METHOD_NAME$: $content$&quot;);" description="banana logging!" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
   </template>
 </templateSet>
