@@ -258,11 +258,11 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_driver_detail_load_preview_inflatable.xml" timestamp="1466013986754">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_driver_detail_load_preview_inflatable.xml" timestamp="1467408307610">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IDriverEditPresenter.java" timestamp="1466447254771">
         <mark key="[" line="6" column="60" />
@@ -625,11 +625,11 @@
         <mark key="^" line="408" column="26" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" timestamp="1467396731209" />
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" timestamp="1466540779217">
-        <mark key="'" line="110" column="4" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" timestamp="1467408288445">
+        <mark key="'" line="85" column="28" />
+        <mark key="[" line="151" column="55" />
+        <mark key="]" line="151" column="55" />
+        <mark key="." line="151" column="55" />
         <mark key="^" line="107" column="87" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverUpdateHandler.java" timestamp="1466615110907">
@@ -877,7 +877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="41" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
       <jump line="128" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
       <jump line="162" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
       <jump line="163" column="41" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
@@ -977,55 +976,56 @@
       <jump line="37" column="34" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenter.java" />
       <jump line="23" column="61" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/AvailableLoadDetail.java" />
       <jump line="27" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/MyLoadDetailViewModel.java" />
+      <jump line="85" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TAG</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>TAG</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>instanceof</text>
+        <text>inflat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkRFUlBGRVNUIiwgIm9uSXRlbVNlbGVjdGVkOiBkcml2ZXJTcGlubmVyLnBvc2l0aW9uPSIgKyBtVmlld3MuZHJpdmVyU3Bpbm5lci5nZXRTZWxlY3RlZEl0ZW1Qb3NpdGlvbigpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>TAG</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>d(</text>
+        <text>, once specced out</text>
       </register>
       <register name="3" type="4">
-        <text>(l)</text>
+        <text>, once Brad's changes are ready</text>
       </register>
       <register name="4" type="4">
-        <text>mViews.driverSpinner.getSelectedItemPosition());</text>
+        <text>TAG</text>
       </register>
       <register name="5" type="4">
-        <text>pinner.</text>
+        <text>d(</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(l)</text>
       </register>
       <register name="7" type="4">
-        <text>driverS</text>
+        <text>mViews.driverSpinner.getSelectedItemPosition());</text>
       </register>
       <register name="8" type="4">
-        <text>onCreateView</text>
+        <text>pinner.</text>
       </register>
       <register name="9" type="4">
-        <text>TAG</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
       </register>
     </registers>
     <search>
-      <last-search>instanceof</last-search>
+      <last-search>inflat</last-search>
       <last-offset />
-      <last-pattern>instanceof</last-pattern>
+      <last-pattern>inflat</last-pattern>
       <last-replace>array</last-replace>
       <last-substitute encoding="base64">XDxtU3RhdHVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1033,7 +1033,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finish</entry>
         <entry>startac</entry>
         <entry>startact</entry>
         <entry>alert</entry>
@@ -1053,6 +1052,7 @@
         <entry encoding="base64">XDxtTG9hZERldGFpbFw+</entry>
         <entry>error getting load</entry>
         <entry>instanceof</entry>
+        <entry>inflat</entry>
       </history-search>
       <history-cmd>
         <entry>431</entry>
