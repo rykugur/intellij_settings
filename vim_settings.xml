@@ -493,11 +493,11 @@
         <mark key="^" line="25" column="63" />
         <mark key="." line="25" column="63" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_driver_detail_load_preview_view.xml" timestamp="1466016928822">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_driver_detail_load_preview_view.xml" timestamp="1467728290619">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IDriverAddPresenter.java" timestamp="1467226248858">
         <mark key="[" line="5" column="84" />
@@ -518,6 +518,12 @@
         <mark key="]" line="8" column="12" />
         <mark key="^" line="44" column="39" />
         <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ViewModule.java" timestamp="1467384725119">
+        <mark key="'" line="86" column="13" />
+        <mark key="[" line="342" column="0" />
+        <mark key="]" line="342" column="0" />
+        <mark key="." line="342" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IDriverAssignSpinnerItemView.java" timestamp="1467218414472">
         <mark key="[" line="5" column="73" />
@@ -617,12 +623,11 @@
         <mark key="^" line="105" column="67" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1467407180998">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1467728410238">
         <mark key="'" line="236" column="21" />
-        <mark key="[" line="408" column="18" />
-        <mark key="]" line="408" column="26" />
-        <mark key="." line="408" column="26" />
-        <mark key="^" line="408" column="26" />
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" timestamp="1467396731209" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" timestamp="1467408288445">
@@ -979,8 +984,8 @@
       <jump line="85" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuCg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -991,32 +996,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkRFUlBGRVNUIiwgIm9uSXRlbVNlbGVjdGVkOiBkcml2ZXJTcGlubmVyLnBvc2l0aW9uPSIgKyBtVmlld3MuZHJpdmVyU3Bpbm5lci5nZXRTZWxlY3RlZEl0ZW1Qb3NpdGlvbigpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>true</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>, once specced out</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25pdGUK</text>
       </register>
-      <register name="3" type="4">
-        <text>, once Brad's changes are ready</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>TAG</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwhLS1UT0RPKGplcm9kdXMpOiBmaXggdGhpcywgdGhlc2UgYXJlIG5vdCBjbGlja2FibGUtLT4K</text>
       </register>
       <register name="5" type="4">
-        <text>d(</text>
+        <text>true</text>
       </register>
       <register name="6" type="4">
-        <text>(l)</text>
+        <text>, once specced out</text>
       </register>
       <register name="7" type="4">
-        <text>mViews.driverSpinner.getSelectedItemPosition());</text>
+        <text>, once Brad's changes are ready</text>
       </register>
       <register name="8" type="4">
-        <text>pinner.</text>
+        <text>TAG</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d(</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
