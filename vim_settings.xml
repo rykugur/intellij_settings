@@ -617,12 +617,11 @@
         <mark key="^" line="105" column="67" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1467729091245">
-        <mark key="'" line="350" column="39" />
-        <mark key="[" line="391" column="98" />
-        <mark key="]" line="253" column="35" />
-        <mark key="^" line="253" column="35" />
-        <mark key="." line="253" column="35" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1467731246316">
+        <mark key="[" line="191" column="62" />
+        <mark key="]" line="192" column="38" />
+        <mark key="." line="192" column="38" />
+        <mark key="^" line="192" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" timestamp="1467396731209" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverDetailLoadPreviewView.java" timestamp="1467408288445">
@@ -976,7 +975,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1WaWV3cy5kcml2ZXJTcGlubmVyLnNldFNlbGVjdGlvbigtMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlld3MuZHJpdmVyU3Bpbm5lci5hZGQK</text>
       </register>
       <register name="-" type="4">
         <text>selectedDriver</text>
@@ -988,31 +987,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoIkRFUlBGRVNUIiwgIm9uSXRlbVNlbGVjdGVkOiBkcml2ZXJTcGlubmVyLnBvc2l0aW9uPSIgKyBtVmlld3MuZHJpdmVyU3Bpbm5lci5nZXRTZWxlY3RlZEl0ZW1Qb3NpdGlvbigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1WaWV3cy5kcml2ZXJTcGlubmVyLnNldFNlbGVjdGlvbigtMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlld3MuZHJpdmVyU3Bpbm5lci5hZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1BZGFwdGVyLm5vdGlmeURhdGFTZXRDaGFuZ2VkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlld3MuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1BZGFwdGVyLnNldFNlbGVjdGVkRHJpdmVyKHNlbGVjdGVkRHJpdmVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdzLmRyaXZlclNwaW5uZXIuCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>selectedDriver</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1WaWV3cy5kcml2ZXJTcGlubmVyLnNldFNlbGVjdGlvbigtMSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>selectedDriver</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1BZGFwdGVyLm5vdGlmeURhdGFTZXRDaGFuZ2VkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUNhcnJpZXJEcml2ZXJWaWV3TW9kZWwgc2VsZWN0ZWREcml2ZXIgPSBtQWRhcHRlci5nZXRTZWxlY3RlZERyaXZlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1BZGFwdGVyLnNldFNlbGVjdGVkRHJpdmVyKHNlbGVjdGVkRHJpdmVyKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUFkYXB0ZXIuc2V0U2VsZWN0ZWREcml2ZXIoRHJpdmVyVXRpbHMudG9DYXJyaWVyRHJpdmVyVmlld01vZGVsKG1Mb2FkLmdldERyaXZlcigpKSk7Cg==</text>
+      <register name="7" type="4">
+        <text>selectedDriver</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSUNhcnJpZXJEcml2ZXJWaWV3TW9kZWwgZ2V0U2VsZWN0ZWREcml2ZXIoKSB7CiAgICAgICAgcmV0dXJuIG1TZWxlY3RlZERyaXZlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTZWxlY3RlZERyaXZlcihJQ2FycmllckRyaXZlclZpZXdNb2RlbCBkcml2ZXIpIHsKICAgICAgICBtU2VsZWN0ZWREcml2ZXIgPSBkcml2ZXI7CiAgICB9Cgo=</text>
+      <register name="8" type="4">
+        <text>selectedDriver</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUNhcnJpZXJEcml2ZXJWaWV3TW9kZWwgc2VsZWN0ZWREcml2ZXIgPSBtQWRhcHRlci5nZXRTZWxlY3RlZERyaXZlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
