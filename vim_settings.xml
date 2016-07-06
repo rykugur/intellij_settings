@@ -135,9 +135,12 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1467822879404">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1467829686222">
         <mark key="'" line="138" column="0" />
-        <mark key="[" line="186" column="9" />
+        <mark key="[" line="184" column="12" />
+        <mark key="]" line="185" column="74" />
+        <mark key="." line="185" column="74" />
+        <mark key="^" line="185" column="74" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IDriverPreviewView.java" timestamp="1466023843509">
         <mark key="[" line="12" column="37" />
@@ -1017,11 +1020,11 @@
       <jump line="102" column="74" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenterTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLm9uQXJndW1lbnRzUmVjZWl2ZWQoTE9BRCwgRFJJVkVSUywgbnVsbCk7CgogICAgICAgIHZlcmlmeShtUHJlc2VudGF0aW9uLCB0aW1lcygxKSkuc2hvd1Byb2dyZXNzQ29udGFpbmVyKHRydWUpOwogICAgICAgIHZlcmlmeShtRHJpdmVyU2VydmljZSwgdGltZXMoMSkpLmdldERyaXZlcnMoYW55KERyaXZlclJlcXVlc3QuY2xhc3MpKTsKICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMobVByZXNlbnRhdGlvbiwgbURyaXZlclNlcnZpY2UpOwogICAgICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobUN1cnJlbnRVc2VyLCBtTG9hZHNTZXJ2aWNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>loads == null || drivers == null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>loads == null || drivers == null</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -1029,32 +1032,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLm9uQXJndW1lbnRzUmVjZWl2ZWQoTE9BRCwgbnVsbCwgTE9BRFMpOwogICAgICAgIAogICAgICAgIHZlcmlmeShtUHJlc2VudGF0aW9uLCB0aW1lcygxKSkuc2hvd1Byb2dyZXNzQ29udGFpbmVyKHRydWUpOwogICAgICAgIHZlcmlmeShtRHJpdmVyU2VydmljZSwgdGltZXMoMSkpLmdldERyaXZlcnMoYW55KERyaXZlclJlcXVlc3QuY2xhc3MpKTsKICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMobVByZXNlbnRhdGlvbiwgbURyaXZlclNlcnZpY2UpOwogICAgICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobUN1cnJlbnRVc2VyLCBtTG9hZHNTZXJ2aWNlKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLm9uQXJndW1lbnRzUmVjZWl2ZWQoTE9BRCwgRFJJVkVSUywgbnVsbCk7CgogICAgICAgIHZlcmlmeShtUHJlc2VudGF0aW9uLCB0aW1lcygxKSkuc2hvd1Byb2dyZXNzQ29udGFpbmVyKHRydWUpOwogICAgICAgIHZlcmlmeShtRHJpdmVyU2VydmljZSwgdGltZXMoMSkpLmdldERyaXZlcnMoYW55KERyaXZlclJlcXVlc3QuY2xhc3MpKTsKICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMobVByZXNlbnRhdGlvbiwgbURyaXZlclNlcnZpY2UpOwogICAgICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobUN1cnJlbnRVc2VyLCBtTG9hZHNTZXJ2aWNlKTsK</text>
+      <register name="1" type="4">
+        <text>loads == null || drivers == null</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzaG93RHJpdmVycygpIGNhbGxlZAo=</text>
+        <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLm9uQXJndW1lbnRzUmVjZWl2ZWQoTE9BRCwgRFJJVkVSUywgbnVsbCk7CgogICAgICAgIHZlcmlmeShtUHJlc2VudGF0aW9uLCB0aW1lcygxKSkuc2hvd1Byb2dyZXNzQ29udGFpbmVyKHRydWUpOwogICAgICAgIHZlcmlmeShtRHJpdmVyU2VydmljZSwgdGltZXMoMSkpLmdldERyaXZlcnMoYW55KERyaXZlclJlcXVlc3QuY2xhc3MpKTsKICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMobVByZXNlbnRhdGlvbiwgbURyaXZlclNlcnZpY2UpOwogICAgICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMobUN1cnJlbnRVc2VyLCBtTG9hZHNTZXJ2aWNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1QcmVzZW50ZXIuc2hvd0RyaXZlcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzaG93RHJpdmVycygpIGNhbGxlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIG1QcmVzZW50ZXIuc2hvd0RyaXZlcnMoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">c3RhdGljIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
