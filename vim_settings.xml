@@ -849,11 +849,12 @@
         <mark key="^" line="94" column="46" />
         <mark key="." line="94" column="46" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenterTest.java" timestamp="1467819748941">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenterTest.java" timestamp="1467821782162">
+        <mark key="'" line="71" column="70" />
+        <mark key="[" line="76" column="24" />
+        <mark key="]" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_driver_edit_success.xml" timestamp="1467224577966">
         <mark key="[" line="15" column="0" />
@@ -917,7 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="57" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
       <jump line="57" column="122" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
       <jump line="58" column="130" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
       <jump line="59" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
@@ -1017,46 +1017,47 @@
       <jump line="138" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" />
       <jump line="263" column="53" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/util/DriverUtilsTest.java" />
       <jump line="137" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenter.java" />
+      <jump line="77" column="70" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IDriverAssignView</text>
+        <text encoding="base64">YXNzZXJ0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>IDriverAssignView</text>
+        <text encoding="base64">YXNzZXJ0IA==</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJQ2FycmllckRyaXZlclZpZXdNb2RlbCBkcml2ZXIxID0gbmV3IENhcnJpZXJEcml2ZXJWaWV3TW9kZWwoCiAgICAgICAgICAgICAgICBuZXcgQ2FycmllckRyaXZlci5CdWlsZGVyKEZJUlNUX05BTUUsIExBU1RfTkFNRSwgRU1BSUwsIFBIT05FKQogICAgICAgICAgICAgICAgLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>IDriverAssignView</text>
+        <text encoding="base64">YXNzZXJ0IA==</text>
       </register>
       <register name="2" type="4">
-        <text>ddSuccessFragment</text>
+        <text>new CarrierDriverViewModel(cd2)</text>
       </register>
       <register name="3" type="4">
-        <text>IDriverAssignView</text>
+        <text>new CarrierDriverViewModel(cd1)</text>
       </register>
-      <register name="4" type="4">
-        <text>DriverAssignFragment</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGNkMS5nZXRDb250YWN0SWQoKSkudGhlblJldHVybihDT05UQUNUX0lEKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>ation</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGNkMS5nZXRGaXJzdE5hbWUoKSkudGhlCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>CONTACT_ID + 1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBJQ0RNVgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>CONTACT_ID</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBDYXJyaWVyRHJpdmVyIGNkMSA9IG1vY2soQ2FycmllcikKICAgICAgICBDYXJyaWVyRHJpdmVyIGNkMSA9IG5ldyBDYXJyaWVyRHJpdmVyLkJ1aWxkZXIoRklSU1RfTkFNRSwgTEFTVF9OQU1FLCBFbWFpbCwgUEhPTkUpCiAgICAgICAgICAgICAgICAuY29udGFjdElkKENPTlRBQ1RfSUQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICBDYXJyaWVyRHJpdmVyIGNkMiA9IG5ldyBDYXJyaWVyRHJpdmVyLkJ1aWxkZXIoTEFTVF9OQU1FLCBGSVJTVF9OQU1FLCBQSE9ORSwgRU1BSUwpCiAgICAgICAgICAgICAgICAuY29udGFjdElkKENPTlRBQ1RfSUQgKyAxKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
