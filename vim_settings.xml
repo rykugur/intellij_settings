@@ -782,11 +782,11 @@
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1467987382466">
-        <mark key="[" line="120" column="58" />
-        <mark key="]" line="120" column="60" />
-        <mark key="." line="120" column="60" />
-        <mark key="^" line="120" column="60" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1468348886768">
+        <mark key="[" line="136" column="58" />
+        <mark key="]" line="136" column="60" />
+        <mark key="." line="136" column="60" />
+        <mark key="^" line="136" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_custom_text_view_inflatable.xml" timestamp="1467740287821">
         <mark key="[" line="5" column="27" />
@@ -1077,11 +1077,11 @@
       <jump line="239" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>driver.getContactId() == carrierDriver.getContactId() ||</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8PA==</text>
@@ -1089,29 +1089,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlci5vbkF0dGFjaChjb250ZXh0KTsKICAgICAgICB0cnkgewogICAgICAgICAgICBtVGl0bGUgPSAoSVRpdGxlYWJsZSkgZ2V0QWN0aXZpdHkoKTsKICAgICAgICB9IGNhdGNoIChDbGFzc0Nhc3RFeGNlcHRpb24gZSkgewogICAgICAgICAgICBTdHJpbmcgdGV4dCA9ICJIb3N0aW5nIGFjdGl2aXR5IG11c3QgaW1wbGVtZW50ICIgKyBJVGl0bGVhYmxlLmNsYXNzLmdldFNpbXBsZU5hbWUoKTsKICAgICAgICAgICAgbUxvZ2dlci5lKFRBRywgdGV4dCwgZSk7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24odGV4dCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgo=</text>
+      <register name="1" type="4">
+        <text>int</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEZpeGVkIGxvYWQgbGlzdCBvbiBkcml2ZXIgZGV0YWlsIGZvciBkcml2ZXJzIHRoYXQgYWxyZWFkeSBoYXZlIGxvYWRzOyBvbmUgaXNzdWUgcmVtYWlucyB3aGVyZWluIGNsaWNraW5nIGZpbmQgbGFvZHMgbmVhcmJ5IGRlc3RpbmF0aW9uIGRvZXNuJ3Qgb3BlbiB1cCBsb2FkcyBmcmFnbWVudCBhcyBleHBlY3RlZC4gU3RpbGwgbmVlZCB0byB3cml0ZSB0ZXN0cy4K</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBmYjE1NGVlOTk5ZmJhMDJlOTUyY2JlNGViZjcwZTNmMTFmODNhZDQyCg==</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IEZpeGVkIGxvYWQgbGlzdCBvbiBkcml2ZXIgZGV0YWlsIGZvciBkcml2ZXJzIHRoYXQgYWxyZWFkeSBoYXZlIGxvYWRzOyBvbmUgaXNzdWUgcmVtYWlucyB3aGVyZWluIGNsaWNraW5nIGZpbmQgbGFvZHMgbmVhcmJ5IGRlc3RpbmF0aW9uIGRvZXNuJ3Qgb3BlbiB1cCBsb2FkcyBmcmFnbWVudCBhcyBleHBlY3RlZC4gU3RpbGwgbmVlZCB0byB3cml0ZSB0ZXN0cy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBmYjE1NGVlOTk5ZmJhMDJlOTUyY2JlNGViZjcwZTNmMTFmODNhZDQyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld3MuZHJpdmVyU3Bpbm5lci5zZXRTZWxlY3Rpb24obURyaXZlcnMuc2l6ZSgpICsgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlld3MuZHJpdmVyU3Bpbm5lci5zZXRTZWxlY3Rpb24obURyaXZlcnMuc2l6ZSgpICsgMSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
