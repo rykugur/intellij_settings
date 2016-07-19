@@ -32,8 +32,8 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1468611955082">
-        <mark key="'" line="204" column="4" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1468945521243">
+        <mark key="'" line="65" column="45" />
         <mark key="[" line="1026" column="8" />
         <mark key="]" line="1024" column="37" />
         <mark key="." line="1024" column="37" />
@@ -69,7 +69,7 @@
         <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/contact/Phone.java" timestamp="1468938384892">
-        <mark key="'" line="136" column="0" />
+        <mark key="'" line="135" column="0" />
         <mark key="[" line="46" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/drawable/circle_fill.xml" timestamp="1466538555515">
@@ -77,12 +77,6 @@
         <mark key="]" line="8" column="39" />
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenterTest.java" timestamp="1468613062433">
-        <mark key="'" line="487" column="8" />
-        <mark key="[" line="681" column="0" />
-        <mark key="]" line="681" column="0" />
-        <mark key="." line="681" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/test/java/com/chrobinson/android/core/lang/StringUtilsTest.java" timestamp="1468356683532">
         <mark key="'" line="318" column="0" />
@@ -634,14 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenterTest.java" />
-      <jump line="262" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
-      <jump line="439" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
-      <jump line="267" column="57" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
-      <jump line="447" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
-      <jump line="51" column="51" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
-      <jump line="268" column="72" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverDetailActivity.java" />
-      <jump line="113" column="89" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenterTest.java" />
       <jump line="114" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenterTest.java" />
       <jump line="24" column="37" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenterTest.java" />
       <jump line="287" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_detail.xml" />
@@ -734,55 +720,63 @@
       <jump line="91" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="30" column="60" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/AndroidManifest.xml" />
       <jump line="21" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/ChApplication.java" />
+      <jump line="80" column="36" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" />
+      <jump line="19" column="20" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" />
+      <jump line="6" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/LoadStatus.java" />
+      <jump line="16" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/LoadStatus.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/LoadStatus.java" />
+      <jump line="127" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="688" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="65" column="45" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdENvdmVyYWdlRW5hYmxlZCA9IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>dematerialize()</text>
       </register>
       <register name="-" type="4">
-        <text>mPhoneType.getServerId());</text>
+        <text>dematerialize()</text>
       </register>
       <register name="/" type="4">
-        <text>ChApp</text>
+        <text>adapter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobUZpbHRlclNldHRpbmdzLCB0aW1lcygxKSkuZ2V0RGVzdGluYXRpb24oKS5nZXRMYXRpdHVkZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxJTG9hZFN1bW1hcnlWaWV3TW9kZWw+IGJvb2tlZCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdENvdmVyYWdlRW5hYmxlZCA9IHRydWUK</text>
+      <register name="1" type="4">
+        <text>dematerialize()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNrRmlyc3QgJ01FVEEtSU5GL21hdmVuL29yZy5qYWNvY28vb3JnLmphY29jby5jb3JlL3BvbS54bWwnCiAgICAgICAgcGlja0ZpcnN0ICdNRVRBLUlORi9tYXZlbi9vcmcuamFjb2NvL29yZy5qYWNvY28uY29yZS9wb20ucHJvcGVydGllcycK</text>
+      <register name="2" type="4">
+        <text>.toList();</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>mPhoneType.getServerId());</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="4">
-        <text>PhoneType.from(in.readInt());</text>
+        <text>from(combined);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodG1wUGhvbmVUeXBlICE9IG51bGwpIHsKICAgICAgICAgICAgbVBob25lVHlwZSA9IHRtcFBob25lVHlwZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE9ic2VydmFibGUuZnJvbQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>tmPhoneType</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pLmdyb3VwQnkobmV3IEZ1bmMxPExpc3Q8SUxvYWRTdW1tYXJ5Vmlld01vZGVsPiwgT2JqZWN0PigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgT2JqZWN0IGNhbGwoTGlzdDxJTG9hZFN1bW1hcnlWaWV3TW9kZWw+IGlMb2FkU3VtbWFyeVZpZXdNb2RlbHMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
       </register>
     </registers>
     <search>
-      <last-search>ChApp</last-search>
+      <last-search>adapter</last-search>
       <last-offset />
-      <last-pattern>ChApp</last-pattern>
+      <last-pattern>adapter</last-pattern>
       <last-replace encoding="base64">PGJyXC8+Zw==</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -790,10 +784,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBUkdfRklMVEVSX1NFVFRJTkdTXD4=</entry>
-        <entry encoding="base64">XDxtTG9hZFR5cGVcPg==</entry>
-        <entry>filtersettings</entry>
-        <entry encoding="base64">XDxtRmlsdGVyU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry>getavail</entry>
@@ -810,6 +800,10 @@
         <entry>jacoco</entry>
         <entry>main</entry>
         <entry>ChApp</entry>
+        <entry>func2</entry>
+        <entry>booked</entry>
+        <entry>sort</entry>
+        <entry>adapter</entry>
       </history-search>
       <history-cmd>
         <entry>218</entry>
