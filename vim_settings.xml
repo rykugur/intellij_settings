@@ -81,8 +81,8 @@
         <mark key="." line="125" column="54" />
         <mark key="^" line="125" column="54" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1469024183364">
-        <mark key="'" line="132" column="8" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1469024437812">
+        <mark key="'" line="386" column="26" />
         <mark key="[" line="432" column="17" />
         <mark key="]" line="432" column="17" />
         <mark key="." line="432" column="17" />
@@ -159,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="995" column="36" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="128" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenter.java" />
       <jump line="418" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="584" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
@@ -259,6 +258,7 @@
       <jump line="432" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/InTransitUpdateFragment.java" />
       <jump line="456" column="55" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/InTransitUpdateFragment.java" />
       <jump line="126" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/InTransitUpdateFragment.java" />
+      <jump line="386" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -379,6 +379,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
