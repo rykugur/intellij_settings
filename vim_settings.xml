@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenter.java" timestamp="1468852906913">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenter.java" timestamp="1469204084887">
+        <mark key="'" line="98" column="0" />
         <mark key="[" line="316" column="0" />
         <mark key="]" line="316" column="0" />
         <mark key="." line="316" column="0" />
@@ -114,12 +115,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1469024437812">
-        <mark key="'" line="386" column="26" />
-        <mark key="[" line="432" column="17" />
-        <mark key="]" line="432" column="17" />
-        <mark key="." line="432" column="17" />
-        <mark key="^" line="432" column="18" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1469204121865">
+        <mark key="'" line="67" column="13" />
+        <mark key="[" line="211" column="42" />
+        <mark key="]" line="211" column="42" />
+        <mark key="." line="211" column="42" />
+        <mark key="^" line="211" column="42" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LauncherPresenterTest.java" timestamp="1468435073826">
         <mark key="'" line="146" column="38" />
@@ -193,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/Settings.java" />
-      <jump line="173" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/Settings.java" />
       <jump line="169" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/Settings.java" />
       <jump line="87" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" />
       <jump line="27" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" />
@@ -293,55 +292,57 @@
       <jump line="428" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" />
       <jump line="353" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" />
       <jump line="110" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" />
+      <jump line="67" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyU2V0dGluZ3MgPSBtQ2FjaGVkRmlsdGVyU2VydmljZS5nZXRDYWNoZWRGaWx0ZXJPckRlZmF1bHQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>mDrivers.size() + 1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbUNhY2hlZEZpbHRlclNlcnZpY2UuZ2V0Q2FjaGVkRmlsdGVyT3JEZWZhdWx0KCk7</text>
+        <text>mDrivers.size() + 1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtVGl0bGVBY3Rpb25cPg==</text>
+        <text>prompt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJlZnJlc2ggb3VyIHZpZXdzCiAgICAgICAgICAgICAgICBtUHJlc2VudGVyLm9uQXJndW1lbnRzUmVjZWl2ZWQobnVsbCwgbUNhcnJpZXJMb2Fkcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyU2V0dGluZ3MgPSBtQ2FjaGVkRmlsdGVyU2VydmljZS5nZXRDYWNoZWRGaWx0ZXJPckRlZmF1bHQoKTsK</text>
+      <register name="1" type="4">
+        <text>mDrivers.size() + 1</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVyU2V0dGluZ3MgPSBtQ2FjaGVkRmlsdGVyU2VydmljZS5nZXRDYWNoZWRGaWx0ZXJPckRlZmF1bHQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgPHN0cmluZyBuYW1lPSJkcml2ZXJfZW1haWxfc2VuZF9hcHBfYm9keSI+SSB0aG91Z2h0IHlvdSBtaWdodCBiZSBpbnRlcmVzdGVkIGluIHVzaW5nIHRoZSBmcmVlIEMuSC4gUm9iaW5zb24gTmF2aXNwaGVyZSBDYXJyaWVyIE1vYmlsZSBhcHBsaWNhdGlvbiB0byBtYW5hZ2UgeW91ciBsb2FkcywgcG9zdCBhIHRydWNrLCBmaW5kIGZyZWlnaHQgYW5kIG1vcmUuPGJyLz48Yj5pUGhvbmUgRG93bmxvYWQ6PC9iPiA8YSBocmVmPSJodHRwOi8vYXBwbGUuY28vMjl3ZURISCI+aHR0cDovL2FwcGxlLmNvLzI5d2VESEg8L2E+PGJyLz48Yj5BbmRyb2lkIERvd25sb2FkOjwvYj4gPGEgaHJlZj0iaHR0cDovL2JpdC5seS8yOW5jdWVjIj5odHRwOi8vYml0Lmx5LzI5bmN1ZWM8L2E+PC9zdHJpbmc+Cj4+Pj4+Pj4gUmV2ZXJ0ICJVcGRhdGUgcGxheS9hcHAgc3RvcmUgbGlua3MgZm9yIGRyaXZlciBzZW5kIGFwcC4iCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQogICAgPHN0cmluZyBuYW1lPSJkcml2ZXJfZW1haWxfc2VuZF9hcHBfYm9keSI+SSB0aG91Z2h0IHlvdSBtaWdodCBiZSBpbnRlcmVzdGVkIGluIHVzaW5nIHRoZSBmcmVlIEMuSC4gUm9iaW5zb24gTmF2aXNwaGVyZSBDYXJyaWVyIE1vYmlsZSBhcHBsaWNhdGlvbiB0byBtYW5hZ2UgeW91ciBsb2FkcywgcG9zdCBhIHRydWNrLCBmaW5kIGZyZWlnaHQgYW5kIG1vcmUuPGJyLz48Yj5pUGhvbmUgRG93bmxvYWQ6PC9iPiA8YSBocmVmPSJodHRwOi8vYXBwbGUuY28vMjl3ZURISCI+aHR0cDovL2FwcGxlLmNvLzI5d2VESEg8L2E+PGJyLz48Yj5BbmRyb2lkIERvd25sb2FkOjwvYj4gPGEgaHJlZj0iaHR0cDovL2JpdC5seS8yOW5jdWVjIj5odHRwOi8vYml0Lmx5LzI5bmN1ZWM8L2E+PC9zdHJpbmc+Cj4+Pj4+Pj4gUmV2ZXJ0ICJVcGRhdGUgcGxheS9hcHAgc3RvcmUgbGlua3MgZm9yIGRyaXZlciBzZW5kIGFwcC4iCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCA2ZTk1ODExM2E3NzJlM2VjZDY5NjMzYTU5ODViZWQ4NTQyMzkzNDk3Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ID0gbUNhY2hlZEZpbHRlclNlcnZpY2UuZ2V0Q2FjaGVkRmlsdGVyT3JEZWZhdWx0KCk7</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiA2MTgwNTogdmlld2luZyBsb2FkcyBuZWFyYnkgZGVzdGluYXRpb24gZnJvbSBkcml2ZXIgZGV0YWlsIHNjcmVlbiB3YXMgZGVmYXVsdGluZyB0byB0aGUgY2FjaGVkIGZpbHRlciBzZXR0aW5ncy4gVXBkYXRlZCB0ZXN0LiBUaGVyZSBpcyBvbmUgYnVnIHdpdGggdGhlIG9yaWdpbiBmaWx0ZXIgc3VtbWFyeSB3aGVyZSBpdCBkb2Vzbid0IHNob3cgdGhlIGNvcnJlY3QgY2l0eSAob3JpZ2luKSBpbiBzb21lIGNhc2VzLgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBGaWx0ZXJTZXR0aW5ncyBmaWx0ZXJTZXR0aW5nczsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBmNzhlMGQ4M2ZmMTg5NDYyNmQ3NDA5YTQyNzcyOWE3Mzk0MGIwYzViCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtVGl0bGVBY3Rpb25cPg==</last-search>
+      <last-search>prompt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtVGl0bGVBY3Rpb25cPg==</last-pattern>
+      <last-pattern>prompt</last-pattern>
       <last-replace encoding="base64">PGJyXC8+Zw==</last-replace>
       <last-substitute encoding="base64">XDxtTG9jYXRpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -349,8 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mFilterSettings</entry>
-        <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</entry>
         <entry>getLoadType</entry>
         <entry>oncreate</entry>
         <entry>getavailable</entry>
@@ -369,6 +368,8 @@
         <entry>setresul</entry>
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry encoding="base64">XDxtVGl0bGVBY3Rpb25cPg==</entry>
+        <entry>propt</entry>
+        <entry>prompt</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
