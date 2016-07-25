@@ -66,12 +66,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefBaseStore.java" timestamp="1469050252960">
         <mark key="[" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1469464843073">
-        <mark key="'" line="190" column="65" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="253" column="25" />
-        <mark key="." line="253" column="25" />
-        <mark key="^" line="253" column="25" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1469465641194">
+        <mark key="[" line="252" column="81" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1469219083532" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1469123803057">
@@ -168,6 +164,11 @@
         <mark key="'" line="146" column="38" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/src/main/java/com/chrobinson/android/network/CustomVolleyRequest.java" timestamp="1469456455674" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1469465068281">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/DriverListAdapter.java" timestamp="1469458668688">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -238,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="44" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenter.java" />
       <jump line="165" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenter.java" />
       <jump line="263" column="127" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenterTest.java" />
       <jump line="45" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
@@ -338,13 +338,14 @@
       <jump line="143" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtils.java" />
       <jump line="330" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtilsTest.java" />
       <jump line="110" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
+      <jump line="247" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>drivers, loads)</text>
       </register>
       <register name="-" type="4">
-        <text>Miles</text>
+        <text>drivers, loads)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtRGlzdGFuY2VUZXh0XD4=</text>
@@ -352,32 +353,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gKExvYWRVdGlscy5nZXREaXNwbGF5YWJsZU1pbGVzRnJvbShMb2NhbGUuVVMsIG1XcmFwcGVkTG9hZFN1bW1hcnkuZ2V0RGlzdGFuY2UoKSkgKyAiICIgKyBnZXREaXNwbGF5RGlzdGFuY2VVbml0T2ZNZWFzdXJlKGFiYnJldmlhdGUpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>drivers, loads)</text>
       </register>
       <register name="2" type="4">
-        <text>Miles</text>
+        <text>Obser)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExvYWRVdGlscy5nZXREaXNwbGF5YWJsZVdlaWdodEZyb20oTG9jYWxlLlVTLCBtV3JhcHBlZExvYWRTdW1tYXJ5LmdldFdlaWdodCgpKSArICIgIiArIGdldERpc3BsYXlXZWlnaHRVbml0T2ZNZWFzdXJlKGFiYnJldmlhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QoKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>Distance</text>
+        <text>from(drivers)</text>
       </register>
-      <register name="5" type="4">
-        <text>Loacle</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">TnVtYmVyRm9ybWF0LmdldEludGVnZXJJbnN0YW5jZSgpLmZvcm1hdChtV3JhcHBlZExvYWRTdW1tYXJ5LmdldFdlaWdodCgpKSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyB2b2lkIHNvcnREcml2ZXJMaXN0KExpc3Q8SUNhcnJpZXJEcml2ZXJWaWV3TW9kZWw+IGRyaXZlcnMpIHsKICAgICAgICBMaXN0PD4KICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KGludCkgbVdyYXBwZWRMb2FkU3VtbWFyeS5nZXREaXN0YW5jZSgpKSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobURyaXZlci5pc0FwcFVzZXIoKSkgewogICAgICAgICAgICBWaWV3VXRpbHMuc2V0VmlzaWJpbGl0eShtVmlld3MubVN0YXR1c0ljb24sIHRydWUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBECg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+      <register name="9" type="4">
+        <text>tranist</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
