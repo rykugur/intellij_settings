@@ -18,9 +18,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtilsTest.java" timestamp="1469460145834">
-        <mark key="'" line="330" column="17" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/CachedDriverService.java" timestamp="1468853436864">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -34,11 +31,10 @@
         <mark key="." line="277" column="52" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/MyLoadDetailViewModel.java" timestamp="1469460277374">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="113" column="44" />
-        <mark key="]" line="113" column="53" />
-        <mark key="." line="113" column="53" />
-        <mark key="^" line="113" column="53" />
+        <mark key="[" line="22" column="44" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="22" column="53" />
+        <mark key="^" line="22" column="53" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/CarrierDriverViewModel.java" timestamp="1469130092886">
         <mark key="'" line="108" column="8" />
@@ -69,6 +65,13 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefBaseStore.java" timestamp="1469050252960">
         <mark key="[" line="26" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1469461123402">
+        <mark key="'" line="190" column="65" />
+        <mark key="[" line="247" column="40" />
+        <mark key="]" line="248" column="25" />
+        <mark key="." line="248" column="25" />
+        <mark key="^" line="248" column="25" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1469219083532" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1469123803057">
@@ -337,8 +340,8 @@
       <jump line="110" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Miles</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>Miles</text>
@@ -349,32 +352,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gKExvYWRVdGlscy5nZXREaXNwbGF5YWJsZU1pbGVzRnJvbShMb2NhbGUuVVMsIG1XcmFwcGVkTG9hZFN1bW1hcnkuZ2V0RGlzdGFuY2UoKSkgKyAiICIgKyBnZXREaXNwbGF5RGlzdGFuY2VVbml0T2ZNZWFzdXJlKGFiYnJldmlhdGUpKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="4">
         <text>Miles</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExvYWRVdGlscy5nZXREaXNwbGF5YWJsZVdlaWdodEZyb20oTG9jYWxlLlVTLCBtV3JhcHBlZExvYWRTdW1tYXJ5LmdldFdlaWdodCgpKSArICIgIiArIGdldERpc3BsYXlXZWlnaHRVbml0T2ZNZWFzdXJlKGFiYnJldmlhdGUpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Distance</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Loacle</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">TnVtYmVyRm9ybWF0LmdldEludGVnZXJJbnN0YW5jZSgpLmZvcm1hdChtV3JhcHBlZExvYWRTdW1tYXJ5LmdldFdlaWdodCgpKSA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">KGludCkgbVdyYXBwZWRMb2FkU3VtbWFyeS5nZXREaXN0YW5jZSgpKSA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAobURyaXZlci5pc0FwcFVzZXIoKSkgewogICAgICAgICAgICBWaWV3VXRpbHMuc2V0VmlzaWJpbGl0eShtVmlld3MubVN0YXR1c0ljb24sIHRydWUpOwogICAgICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
