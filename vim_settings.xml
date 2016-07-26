@@ -142,6 +142,11 @@
         <mark key="." line="48" column="42" />
         <mark key="^" line="48" column="42" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ISystemDumpService.java" timestamp="1469562073935">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/StackedListFragment.java" timestamp="1468608468717">
         <mark key="'" line="53" column="56" />
       </file>
@@ -181,6 +186,12 @@
         <mark key="]" line="267" column="0" />
         <mark key="^" line="285" column="55" />
         <mark key="." line="267" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/SystemDumpService.java" timestamp="1469562065560">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="59" />
+        <mark key="." line="2" column="59" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/ILoadDetailsViewModel.java" timestamp="1467403249643">
         <mark key="[" line="39" column="34" />
@@ -402,8 +413,8 @@
       <jump line="104" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/Settings.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>map</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZvaWQgZ2V0U3lzdGVtSW5mbwo=</text>
       </register>
       <register name="-" type="4">
         <text>map</text>
@@ -414,32 +425,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTZXR0aW5ncyBtb2NrU2V0dGluZ3MgPSBtb2NrKFNldHRpbmdzLmNsYXNzKTsKICAgICAgICB3aGVuKG1vY2tTZXR0aW5ncy5nZXRTZXJ2aWNlcygpKS50aGVuUmV0dXJuKG5ldyBBcnJheUxpc3Q8U2VydmljZUVuZHBvaW50PigpKTsKCiAgICAgICAgbUFwcENvbmZpZyA9IG5ldyBBcHBDb25maWcoQVBJX0tFWSwgbW9ja1NldHRpbmdzKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>map</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZvaWQgZ2V0U3lzdGVtSW5mbwo=</text>
       </register>
       <register name="2" type="4">
+        <text>map</text>
+      </register>
+      <register name="3" type="4">
         <text>NAME</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRVJWSUNFX1VSTCA9ICJjYXJyaWVyVXJsIjsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>CARRIER_NAME</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>CARRIER_URL</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>value</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>ExpandableContainer</text>
       </register>
-      <register name="8" type="4">
-        <text>EXPECTED_KEY</text>
-      </register>
       <register name="9" type="4">
-        <text>EXPECTED_KEY = ServiceType.CARRIER.getServiceName();</text>
+        <text>EXPECTED_KEY</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
