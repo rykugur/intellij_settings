@@ -66,6 +66,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" timestamp="1469557255309">
         <mark key="'" line="213" column="8" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/logging/enums/AnalyticsEventCategory.java" timestamp="1469563236545">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="3" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" timestamp="1469201652882">
         <mark key="'" line="110" column="25" />
         <mark key="[" line="419" column="65" />
@@ -142,7 +148,7 @@
         <mark key="." line="48" column="42" />
         <mark key="^" line="48" column="42" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ISystemDumpService.java" timestamp="1469562073935">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ISystemDumpService.java" timestamp="1469562751264">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -192,6 +198,12 @@
         <mark key="]" line="2" column="59" />
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/SystemDump.java" timestamp="1469562998597">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/ILoadDetailsViewModel.java" timestamp="1467403249643">
         <mark key="[" line="39" column="34" />
@@ -413,11 +425,11 @@
       <jump line="104" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/Settings.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZ2V0U3lzdGVtSW5mbwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -425,32 +437,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTZXR0aW5ncyBtb2NrU2V0dGluZ3MgPSBtb2NrKFNldHRpbmdzLmNsYXNzKTsKICAgICAgICB3aGVuKG1vY2tTZXR0aW5ncy5nZXRTZXJ2aWNlcygpKS50aGVuUmV0dXJuKG5ldyBBcnJheUxpc3Q8U2VydmljZUVuZHBvaW50PigpKTsKCiAgICAgICAgbUFwcENvbmZpZyA9IG5ldyBBcHBDb25maWcoQVBJX0tFWSwgbW9ja1NldHRpbmdzKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZ2V0U3lzdGVtSW5mbwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>map</text>
+        <text>public</text>
       </register>
       <register name="3" type="4">
-        <text>NAME</text>
+        <text>private</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRVJWSUNFX1VSTCA9ICJjYXJyaWVyVXJsIjsK</text>
+      <register name="4" type="4">
+        <text>String</text>
       </register>
       <register name="5" type="4">
-        <text>CARRIER_NAME</text>
+        <text>ILoadsService.MyLoadsListener = locationEnabled;</text>
       </register>
-      <register name="6" type="4">
-        <text>CARRIER_URL</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>value</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="4">
-        <text>ExpandableContainer</text>
+        <text>OS_VERSION</text>
       </register>
       <register name="9" type="4">
-        <text>EXPECTED_KEY</text>
+        <text>device_os</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
