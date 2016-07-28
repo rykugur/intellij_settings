@@ -44,8 +44,11 @@
         <mark key="." line="22" column="53" />
         <mark key="^" line="22" column="53" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/CarrierDriverViewModel.java" timestamp="1469130092886">
-        <mark key="'" line="108" column="8" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/CarrierDriverViewModel.java" timestamp="1469723749895">
+        <mark key="'" line="91" column="12" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/test/java/com/chrobinson/android/core/lang/StringUtilsTest.java" timestamp="1468356683532">
         <mark key="'" line="318" column="0" />
@@ -69,11 +72,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefBaseStore.java" timestamp="1469050252960">
         <mark key="[" line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1469722423617">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="185" column="8" />
-        <mark key="." line="145" column="47" />
-        <mark key="^" line="145" column="47" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1469723721683">
+        <mark key="'" line="183" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1469219083532" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceType.java" timestamp="1469548820824">
@@ -263,8 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="34" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverPreviewView.java" />
-      <jump line="143" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtils.java" />
       <jump line="330" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtilsTest.java" />
       <jump line="110" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
       <jump line="247" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" />
@@ -363,13 +361,15 @@
       <jump line="108" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/LoadDetailActivity.java" />
       <jump line="42" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
       <jump line="23" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
+      <jump line="184" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" />
+      <jump line="91" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/CarrierDriverViewModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUxhbmdVdGlscy5oYXNFbGVtZW50cyhsb2FkcykgfHwgIUxhbmdVdGlscy5oYXNFbGVtZW50cyhkcml2ZXJzKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIGRlZmF1bHQgdGhpcyB0byBBVkFJTEFCTEUK</text>
       </register>
       <register name="-" type="4">
-        <text>BecomeACarrier</text>
+        <text>driver.getDriverStatus()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtUmF0ZVRleHRcPg==</text>
@@ -378,31 +378,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoIUxhbmdVdGlscy5oYXNFbGVtZW50cyhsb2FkcykgfHwgIUxhbmdVdGlscy5oYXNFbGVtZW50cyhkcml2ZXJzKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJlc3BvbnNlLm1TZXJ2aWNlcyA9IExpc3RzLm5ld0FycmF5TGlzdFdpdGhFeHBlY3RlZFNpemUoU2VydmljZVR5cGUudmFsdWVzKCkubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgIC8vIGRlZmF1bHQgdGhpcyB0byBBVkFJTEFCTEUK</text>
       </register>
-      <register name="2" type="4">
-        <text>BecomeACarrier</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>BecomeACarrier</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFZpc2liaWxpdHkodmlldywgZmFsc2UpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>services_Feedback_URL</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8ganVzdCBoaWRlIGl0LCBub3RoaW5nIHdlIGNhbiBkbyBoZXJlLgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>services_Feedback_URL</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>_URL</text>
+        <text>driver.getDriverStatus()</text>
       </register>
-      <register name="7" type="4">
-        <text>services_Feedback_URL</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>services_Feedback</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZHIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>services_Feedback</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHJlc3BvbnNlLm1TZXJ2aWNlcyA9IExpc3RzLm5ld0FycmF5TGlzdFdpdGhFeHBlY3RlZFNpemUoU2VydmljZVR5cGUudmFsdWVzKCkubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>225</text>
