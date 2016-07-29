@@ -98,6 +98,13 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1469819302021">
         <mark key="'" line="66" column="30" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadService.java" timestamp="1469819525406">
+        <mark key="'" line="107" column="32" />
+        <mark key="[" line="108" column="41" />
+        <mark key="]" line="108" column="42" />
+        <mark key="." line="108" column="42" />
+        <mark key="^" line="108" column="42" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IListener.java" timestamp="1469137082170">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="12" />
@@ -239,11 +246,11 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1469819359800">
-        <mark key="[" line="102" column="22" />
-        <mark key="]" line="102" column="44" />
-        <mark key="." line="102" column="44" />
-        <mark key="^" line="102" column="44" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1469819565122">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="89" column="64" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverPreviewView.java" timestamp="1469550417247">
         <mark key="'" line="32" column="34" />
@@ -392,11 +399,11 @@
       <jump line="66" column="30" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1SZXF1ZXN0U2VuZGVyLnNlbmRSZXF1ZXN0KGRyaXZlckdldFJlcXVlc3QsIG5ldyBEcml2ZXJHZXRIYW5kbGVyKHJlcXVlc3QuZ2V0TGlzdGVuZXIoKSksCi8vICAgICAgICAgICAgICAgIENhcnJpZXJEcml2ZXJbXS5jbGFzcywgbnVsbCwgbUdzb24pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>onerror</text>
@@ -404,32 +411,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoc3Vic2NyaWJlci5pc1Vuc3Vic2NyaWJlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>null</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIG1SZXF1ZXN0U2VuZGVyLnNlbmRSZXF1ZXN0KGRyaXZlckdldFJlcXVlc3QsIG5ldyBEcml2ZXJHZXRIYW5kbGVyKHJlcXVlc3QuZ2V0TGlzdGVuZXIoKSksCi8vICAgICAgICAgICAgICAgIENhcnJpZXJEcml2ZXJbXS5jbGFzcywgbnVsbCwgbUdzb24pOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICBwdWJsaWMgTGlzdDxJQ2FycmllckRyaXZlclZpZXdNb2RlbD4gY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>i</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Q2FycmllckRyaXZlcltdIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>CarrierDriver[]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIC5vbkVycm9yUmV0dXJuKG5ldyBGdW5jMTxUaHJvd2FibGUsIExpc3Q8SUNhcnJpZXJEcml2ZXJWaWV3TW9kZWw+PigpIHsKICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICBwdWJsaWMgTGlzdDxJQ2FycmllckRyaXZlclZpZXdNb2RlbD4gY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICAgICB9CiAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIC50b0xpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgIC5mbGF0TWFwKG5ldyBGdW5jMTxDYXJyaWVyRHJpdmVyW10sIExpc3Q8SUNhcnJpZXJEcml2ZXJWaWV3TW9kZWw+KCkgewogICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgIHB1YmxpYyBMaXN0PElDYXJyaWVyRHJpdmVyVmlld01vZGVsPiBjYWxsKENhcnJpZXJEcml2ZXJbXSBjYXJyaWVyRHJpdmVycykgewogICAgICAgICAgICAgICByZXR1cm4gQXJyYXlzLmFzTGlzdChjYXJyaWVyRHJpdmVycyk7CiAgICAgICAgICAgfQogICAgICAgfSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIC5mbGF0TWFwKG5ldyBGdW5jMTxDYXJyaWVyRHJpdmVyW10sIExpc3Q8SUNhcnJpZXJEcml2ZXJWaWV3TW9kZWw+KCkgewogICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgIHB1YmxpYyBMaXN0PElDYXJyaWVyRHJpdmVyVmlld01vZGVsPiBjYWxsKENhcnJpZXJEcml2ZXJbXSBjYXJyaWVyRHJpdmVycykgewogICAgICAgICAgICAgICByZXR1cm4gQXJyYXlzLmFzTGlzdChjYXJyaWVyRHJpdmVycyk7CiAgICAgICAgICAgfQogICAgICAgfSk7Cgo=</text>
+      <register name="6" type="4">
+        <text>null</text>
       </register>
-      <register name="7" type="4">
-        <text>CarrierDriver[]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICBwdWJsaWMgTGlzdDxJQ2FycmllckRyaXZlclZpZXdNb2RlbD4gY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">Q2FycmllckRyaXZlcltdIA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>CarrierDriver[]</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
