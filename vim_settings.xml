@@ -95,6 +95,9 @@
         <mark key="." line="44" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/enums/MainMenuItem.java" timestamp="1469651893552" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1469819302021">
+        <mark key="'" line="66" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IListener.java" timestamp="1469137082170">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="12" />
@@ -236,10 +239,11 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1469811235606">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1469819359800">
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="44" />
+        <mark key="." line="102" column="44" />
+        <mark key="^" line="102" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverPreviewView.java" timestamp="1469550417247">
         <mark key="'" line="32" column="34" />
@@ -286,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="5" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/buildConfig/debug/com/chrobinson/navispherecarrier/BuildConfig.java" />
       <jump line="134" column="60" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="95" column="10" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
@@ -386,43 +389,44 @@
       <jump line="34" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
       <jump line="33" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
       <jump line="75" column="71" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" />
+      <jump line="66" column="30" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</text>
+        <text>onerror</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoc3Vic2NyaWJlci5pc1Vuc3Vic2NyaWJlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
-      </register>
-      <register name="3" type="4">
+      <register name="1" type="4">
         <text>null</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICBwdWJsaWMgTGlzdDxJQ2FycmllckRyaXZlclZpZXdNb2RlbD4gY2FsbChUaHJvd2FibGUgdGhyb3dhYmxlKSB7CiAgICAgICAgICAgICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsKICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Q2FycmllckRyaXZlcltdIA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>CarrierDriver[]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIC5tYXAobmV3IEZ1bmMxPENhcnJpZXJEcml2ZXIsIElDYXJyaWVyRHJpdmVyVmlld01vZGVsPigpIHsKICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICBwdWJsaWMgSUNhcnJpZXJEcml2ZXJWaWV3TW9kZWwgY2FsbChDYXJyaWVyRHJpdmVyIGNhcnJpZXJEcml2ZXIpIHsKICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgfQogICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgIC50b0xpc3QoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIC5mbGF0TWFwKG5ldyBGdW5jMTxDYXJyaWVyRHJpdmVyW10sIExpc3Q8SUNhcnJpZXJEcml2ZXJWaWV3TW9kZWw+KCkgewogICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgIHB1YmxpYyBMaXN0PElDYXJyaWVyRHJpdmVyVmlld01vZGVsPiBjYWxsKENhcnJpZXJEcml2ZXJbXSBjYXJyaWVyRHJpdmVycykgewogICAgICAgICAgICAgICByZXR1cm4gQXJyYXlzLmFzTGlzdChjYXJyaWVyRHJpdmVycyk7CiAgICAgICAgICAgfQogICAgICAgfSk7Cgo=</text>
       </register>
       <register name="7" type="4">
-        <text>]</text>
+        <text>CarrierDriver[]</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text encoding="base64">Q2FycmllckRyaXZlcltdIA==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">Pg==</text>
@@ -432,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</last-search>
+      <last-search>onerror</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</last-pattern>
+      <last-pattern>onerror</last-pattern>
       <last-replace encoding="base64">PGJyXC8+Zw==</last-replace>
       <last-substitute encoding="base64">XDxtTG9jYXRpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -442,7 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>your current build is not supported</entry>
         <entry encoding="base64">XDxtSXNTdXBwb3J0ZWRcPg==</entry>
         <entry>ongetconfigsuccess</entry>
         <entry>documents</entry>
@@ -462,6 +465,7 @@
         <entry>subscr</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVMb2Fkc09ic2VydmFibGVcPg==</entry>
         <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</entry>
+        <entry>onerror</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
