@@ -294,8 +294,12 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1468871983645">
-        <mark key="'" line="24" column="12" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1469801012376">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="72" column="66" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverPreviewView.java" timestamp="1469550417247">
         <mark key="'" line="32" column="34" />
@@ -330,6 +334,13 @@
         <mark key="." line="208" column="76" />
         <mark key="^" line="208" column="76" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/interfaces/IDriverService.java" timestamp="1469800674770">
+        <mark key="'" line="29" column="89" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="29" column="89" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1469796318356">
         <mark key="[" line="0" column="0" />
       </file>
@@ -338,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="52" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="263" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="268" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="170" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenter.java" />
@@ -438,46 +448,47 @@
       <jump line="37" column="97" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/SystemDumpService.java" />
       <jump line="12" column="53" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/SystemDumpService.java" />
       <jump line="38" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/SystemDumpService.java" />
+      <jump line="29" column="89" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/interfaces/IDriverService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>writeDumpToDisk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>writeDumpToDisk</text>
+        <text>observable</text>
       </register>
       <register name="/" type="4">
         <text>contact_chr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBpbXBsIHdyaXRlRHVtcFRvRGlzawo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2VydmljZVVybCA9IFN0cmluZy5mb3JtYXQoCiAgICAgICAgICAgICAgICBtQ29uZmlnU3RvcmUuZ2V0QXBwQ29uZmlnKCkuZ2V0U2VydmljZVVybChTZXJ2aWNlRW5kcG9pbnRzLkRyaXZlcnNHZXQpLAogICAgICAgICAgICAgICAgcmVxdWVzdC5nZXRDdXJyZW50VXNlcigpLmdldENhcnJpZXJDb2RlKCkpOwoKICAgICAgICBOZXR3b3JrUmVxdWVzdCBkcml2ZXJHZXRSZXF1ZXN0ID0gTmV0d29ya1JlcXVlc3QuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAudXJsKHNlcnZpY2VVcmwpCiAgICAgICAgICAgICAgICAubWV0aG9kKE5ldHdvcmtSZXF1ZXN0Lk1ldGhvZC5HZXQpCiAgICAgICAgICAgICAgICAud2l0aEhlYWRlcnMoZ2V0SGVhZGVyKE5ldHdvcmtSZXF1ZXN0Lk1ldGhvZC5HZXQsIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIFVyaVV0aWxzLmdldEFic29sdXRlVXJpKHNlcnZpY2VVcmwpLCByZXF1ZXN0LmdldEN1cnJlbnRVc2VyKCkpKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICAgICAgbVJlcXVlc3RTZW5kZXIuc2VuZFJlcXVlc3QoZHJpdmVyR2V0UmVxdWVzdCwgbmV3IERyaXZlckdldEhhbmRsZXIocmVxdWVzdC5nZXRMaXN0ZW5lcigpKSwKICAgICAgICAgICAgICAgIENhcnJpZXJEcml2ZXJbXS5jbGFzcywgbnVsbCwgbUdzb24pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>writeDumpToDisk</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEdlbmVyYXRlcyBhIHtAbGluayBTeXN0ZW1EdW1wfSBhbmQgd3JpdGVzIGl0IHRvIGEgbG9jYXRpb24gb24gZGlzay4KICAgICAqLwo=</text>
+      <register name="2" type="4">
+        <text>observable</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2VuZXJhdGVzIGEgc3lzdGVtIGQKICAgICAqIEBwYXJhbSBjb250ZXh0CiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2VyCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmFwcFZlcnNpb24oQnVpbGRDb25maWcuVkVSU0lPTl9OQU1FKTsKICAgICAgICBidWlsZGVyLm9zVmVyc2lvbihCdWlsZC5WRVJTSU9OLlJFTEVBU0UpOwogICAgICAgIGJ1aWxkZXIuZGV2aWNlKERldmljZVV0aWxzLmdldERldmljZU5hbWUoKSk7CiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZGF0YWJhc2UuT2JzZXJ2YWJsZTsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>void</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>writeDumpToDisk</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEdlbmVyYXRlcyBhIHtAbGluayBTeXN0ZW1EdW1wfSBhbmQgd3JpdGVzIGl0IHRvIGEgbG9jYXRpb24gb24gZGlzay4KICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
