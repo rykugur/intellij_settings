@@ -77,6 +77,9 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefBaseStore.java" timestamp="1469050252960">
         <mark key="[" line="26" column="35" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" timestamp="1470070335192">
+        <mark key="'" line="39" column="13" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceType.java" timestamp="1469548820824">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -207,12 +210,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/buildConfig/debug/com/chrobinson/navispherecarrier/BuildConfig.java" timestamp="1469474809373">
         <mark key="'" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1470068958663">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1470070557481">
         <mark key="'" line="189" column="8" />
-        <mark key="[" line="167" column="27" />
-        <mark key="]" line="168" column="20" />
-        <mark key="." line="168" column="20" />
-        <mark key="^" line="168" column="20" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="158" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpointType.java" timestamp="1469480529534">
         <mark key="[" line="4" column="12" />
@@ -316,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="379" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" />
       <jump line="23" column="20" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" />
       <jump line="61" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" />
       <jump line="25" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ConfigService.java" />
@@ -416,55 +418,56 @@
       <jump line="57" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
       <jump line="159" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
       <jump line="189" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
+      <jump line="39" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBjb3VsZCBtb3ZlIHRoZXNlIEZ1bmMxJ3MgYmVsb3cgdG8gYSBzdGF0aWMgdmFyaWFibGUgc29tZXdoZXJlIHRvIGNsZWFuIHRoaXMgdXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbURyaXZlclZpZXdNb2RlbHMgPSBkcml2ZXJzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>mDrivers</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</text>
+        <text>tosortedlist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBjb3VsZCBtb3ZlIHRoZXNlIEZ1bmMxJ3MgYmVsb3cgdG8gYSBzdGF0aWMgdmFyaWFibGUgc29tZXdoZXJlIHRvIGNsZWFuIHRoaXMgdXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbURyaXZlclZpZXdNb2RlbHMgPSBkcml2ZXJzOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEcml2ZXJVdGlscy5tYXJrRHJpdmVyU3RhdHVzKG1DYXJyaWVyTG9hZHMsIGRyaXZlcnMpOwo=</text>
+      <register name="2" type="4">
+        <text>mDrivers</text>
       </register>
-      <register name="3" type="4">
-        <text>}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b3NvcnRlZAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgTGlzdDxJQ2FycmllckRyaXZlclZpZXdNb2RlbD4gY2FsbChDYXJyaWVyRHJpdmVyW10gY2FycmllckRyaXZlcnMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGNhcnJpZXJEcml2ZXJzID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgQXJyYXlMaXN0PD4oMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8SUNhcnJpZXJEcml2ZXJWaWV3TW9kZWw+IGRyaXZlcnMgPSBuZXcgQXJyYXlMaXN0PD4oY2FycmllckRyaXZlcnMubGVuZ3RoKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoQ2FycmllckRyaXZlciBjZCA6IGNhcnJpZXJEcml2ZXJzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkcml2ZXJzLmFkZChuZXcgQ2FycmllckRyaXZlclZpZXdNb2RlbChjZCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZHJpdmVyczsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>iCarrierDriverViewModels2</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">bmV3IEZ1bmMxPENhcnJpZXJEcml2ZXJbXSwgTGlzdDxJQ2FycmllckRyaXZlclZpZXdNb2RlbD4+KCkgew==</text>
+        <text>iCarrierDriverViewModels</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9bGxsbGxsbGxsbGxsbGxsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="7" type="4">
-        <text>mDriverViewModels</text>
+        <text encoding="base64">TGlzdDw=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtcHJlCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="9" type="4">
-        <text>null</text>
+        <text encoding="base64">TGlzdDw=</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</last-search>
+      <last-search>tosortedlist</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</last-pattern>
+      <last-pattern>tosortedlist</last-pattern>
       <last-replace encoding="base64">PGJyXC8+Zw==</last-replace>
       <last-substitute encoding="base64">XDxtTG9jYXRpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ongetconfigsuccess</entry>
         <entry>documents</entry>
         <entry encoding="base64">XDxtTGFzdFVwZGF0ZWRcPg==</entry>
         <entry encoding="base64">XDxtTGlzdGVuZXJcPg==</entry>
@@ -492,6 +494,7 @@
         <entry>onerror</entry>
         <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNPYnNlcnZlclw+</entry>
         <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</entry>
+        <entry>tosortedlist</entry>
       </history-search>
       <history-cmd>
         <entry>140</entry>
