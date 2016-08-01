@@ -25,6 +25,11 @@
         <mark key="." line="39" column="99" />
         <mark key="^" line="39" column="99" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/DriverStatus.java" timestamp="1470082800136">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadNetworkService.java" timestamp="1469810567759">
         <mark key="[" line="89" column="26" />
         <mark key="]" line="89" column="25" />
@@ -55,6 +60,12 @@
         <mark key="." line="22" column="53" />
         <mark key="^" line="22" column="53" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/CarrierDriverViewModel.java" timestamp="1470082890124">
+        <mark key="'" line="91" column="12" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/test/java/com/chrobinson/android/core/lang/StringUtilsTest.java" timestamp="1468356683532">
         <mark key="'" line="318" column="0" />
       </file>
@@ -76,6 +87,11 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefBaseStore.java" timestamp="1469050252960">
         <mark key="[" line="26" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/DriverUtils.java" timestamp="1470082164232">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsHandler.java" timestamp="1470070335192">
         <mark key="'" line="39" column="13" />
@@ -151,6 +167,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/ICarrierDriverViewModel.java" timestamp="1470082634168">
+        <mark key="[" line="38" column="52" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DocumentUploadService.java" timestamp="1469648371453">
         <mark key="'" line="63" column="20" />
       </file>
@@ -210,12 +229,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/buildConfig/debug/com/chrobinson/navispherecarrier/BuildConfig.java" timestamp="1469474809373">
         <mark key="'" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1470070557481">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1470082405071">
         <mark key="'" line="189" column="8" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="158" column="40" />
+        <mark key="[" line="117" column="28" />
+        <mark key="]" line="121" column="46" />
+        <mark key="." line="121" column="46" />
+        <mark key="^" line="121" column="46" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpointType.java" timestamp="1469480529534">
         <mark key="[" line="4" column="12" />
@@ -422,43 +441,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbURyaXZlclZpZXdNb2RlbHMgPSBkcml2ZXJzOwo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgY29tcGFyZVRvKElDYXJyaWVyRHJpdmVyVmlld01vZGVsIHJocykgewogICAgICAgIHN3aXRjaChtRHJpdmVyU3RhdHVzLmNvbXBhcmVUbyhyaHMuZ2V0RHJpdmVyU3RhdHVzKCkpKSB7CiAgICAgICAgICAgIGNhc2UgMDoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAtMToKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>mDrivers</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tosortedlist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaXN0PElDYXJyaWVyRHJpdmVyVmlld01vZGVsPiBpbnRyYW5zaXQgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbURyaXZlclZpZXdNb2RlbHMgPSBkcml2ZXJzOwo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgY29tcGFyZVRvKElDYXJyaWVyRHJpdmVyVmlld01vZGVsIHJocykgewogICAgICAgIHN3aXRjaChtRHJpdmVyU3RhdHVzLmNvbXBhcmVUbyhyaHMuZ2V0RHJpdmVyU3RhdHVzKCkpKSB7CiAgICAgICAgICAgIGNhc2UgMDoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAtMToKICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgCiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>mDrivers</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b3NvcnRlZAo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>iCarrierDriverViewModels2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>iCarrierDriverViewModels</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">TGlzdDw=</text>
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobURyaXZlclN0YXR1cykK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">TGlzdDw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>247</text>
