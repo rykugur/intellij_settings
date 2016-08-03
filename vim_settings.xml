@@ -218,12 +218,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DocumentUploadService.java" timestamp="1469648371453">
         <mark key="'" line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" timestamp="1470256871185">
-        <mark key="'" line="158" column="40" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="128" column="51" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" timestamp="1470258094877">
+        <mark key="'" line="159" column="40" />
+        <mark key="[" line="79" column="109" />
+        <mark key="]" line="79" column="113" />
+        <mark key="." line="79" column="113" />
+        <mark key="^" line="79" column="113" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/adapters/DriverAssignSpinnerAdapter.java" timestamp="1469213210343">
         <mark key="[" line="98" column="31" />
@@ -294,7 +294,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/generated/source/buildConfig/debug/com/chrobinson/navispherecarrier/BuildConfig.java" timestamp="1469474809373">
         <mark key="'" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1470257081864">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1470257403619">
         <mark key="'" line="129" column="24" />
         <mark key="[" line="99" column="13" />
         <mark key="]" line="101" column="43" />
@@ -507,44 +507,44 @@
       <jump line="213" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1QcmVzZW50YXRpb24gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>from(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>from(</text>
       </register>
       <register name="/" type="4">
         <text>flatmap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1QcmVzZW50YXRpb24gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDYXJyaWVyRHJpdmVyIGNkMSA9IG1vY2soQ2FycmllckRyaXZlci5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>from(</text>
       </register>
       <register name="2" type="4">
-        <text>false</text>
+        <text>carrierDrivers)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbm8tb3AK</text>
+      <register name="3" type="4">
+        <text>.toList();</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>m(carrierDrivers));</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMobURyaXZlclNlcnZpY2UsIG1Mb2Fkc1NlcnZpY2UsIG1DdXJyZW50VXNlciwgbVByZXNlbnRhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlPENhcnJpZXJEcml2ZXJbXT4gY2FycmllckRyaXZlcnNPYnMgPSBPYnNlcnZhYmxlLmZyb20oY2FycmllckRyaXZlcnMpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>LOADS</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.from()</text>
       </register>
       <register name="8" type="4">
-        <text>null</text>
+        <text>from(carrierDrivers));</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOZWVkc1JlZmFjdG9yKGV4cGxhbmF0aW9uID0gIiIpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">T2JzZXJ2YWJsZS48Q2FycmllckRyaXZlcltdPm5ldmVyKCk=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
