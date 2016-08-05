@@ -93,7 +93,12 @@
         <mark key="." line="243" column="78" />
         <mark key="^" line="243" column="78" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1470335840309" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1470407364912">
+        <mark key="[" line="427" column="67" />
+        <mark key="]" line="428" column="35" />
+        <mark key="." line="428" column="35" />
+        <mark key="^" line="428" column="35" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1470251576542">
         <mark key="'" line="69" column="30" />
         <mark key="[" line="20" column="0" />
@@ -156,11 +161,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/ILoadsContainerView.java" timestamp="1470340162637">
-        <mark key="]" line="8" column="44" />
-        <mark key="^" line="8" column="44" />
-        <mark key="." line="8" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/ICarrierDriverViewModel.java" timestamp="1470082634168">
         <mark key="[" line="38" column="52" />
@@ -386,11 +386,11 @@
       <jump line="151" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTk9URTogb25seSBkb2luZyBmbGF0TWFwIGhlcmUgdG8gc2V0IHRoaXMubUxvYWRzLCBvdGhlcndpc2UgaXQnbGwgcmVtYWluIG51bGwuIEFzIG9mIHRoaXMgd3JpdGluZyBpdAogICAgICAgICAgICAvLyBpc24ndCB1c2VkIGZvciBhbnl0aGluZy4K</text>
+      <register name="&quot;" type="4">
+        <text>adapterView</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Vmlld1V0aWxzLmlzVmlzaWJsZShtVmlld3MuYXZhaWxhYmxlTG9hZEZpbHRlcikg</text>
+        <text>adapterView</text>
       </register>
       <register name="/" type="4">
         <text>flatmap</text>
@@ -398,32 +398,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiY2FsbDogaW4gdHJhbnNpdCBsb2FkczoiKTsKICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChJTG9hZFN1bW1hcnlWaWV3TW9kZWwgbG9hZCA6IGluVHJhbnNpdCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiLi4uIGNhbGw6IGxvYWQuaWQ9IiArIGxvYWQuZ2V0TG9hZElkKCkgKyAiLCBsb2FkLnBpY2t1cERhdGU9IiArIGxvYWQuZ2V0UGlja3VwRGF0ZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTk9URTogb25seSBkb2luZyBmbGF0TWFwIGhlcmUgdG8gc2V0IHRoaXMubUxvYWRzLCBvdGhlcndpc2UgaXQnbGwgcmVtYWluIG51bGwuIEFzIG9mIHRoaXMgd3JpdGluZyBpdAogICAgICAgICAgICAvLyBpc24ndCB1c2VkIGZvciBhbnl0aGluZy4K</text>
+      <register name="1" type="4">
+        <text>adapterView</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Vmlld1V0aWxzLmlzVmlzaWJsZShtVmlld3MuYXZhaWxhYmxlTG9hZEZpbHRlcikg</text>
+        <text>adapterView</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Vmlld1V0aWxzLmlzVmlzaWJsZShtVmlld3MubXlMb2FkRmlsdGVyKSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gTk9URTogb25seSBkb2luZyBmbGF0TWFwIGhlcmUgdG8gc2V0IHRoaXMubUxvYWRzLCBvdGhlcndpc2UgaXQnbGwgcmVtYWluIG51bGwuIEFzIG9mIHRoaXMgd3JpdGluZyBpdAogICAgICAgICAgICAvLyBpc24ndCB1c2VkIGZvciBhbnl0aGluZy4K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">c2libGUgJiYg</text>
+        <text encoding="base64">Vmlld1V0aWxzLmlzVmlzaWJsZShtVmlld3MuYXZhaWxhYmxlTG9hZEZpbHRlcikg</text>
       </register>
       <register name="5" type="4">
-        <text>sVi</text>
+        <text encoding="base64">Vmlld1V0aWxzLmlzVmlzaWJsZShtVmlld3MubXlMb2FkRmlsdGVyKSA=</text>
       </register>
       <register name="6" type="4">
-        <text>sFilter</text>
+        <text encoding="base64">c2libGUgJiYg</text>
       </register>
       <register name="7" type="4">
-        <text>!mMyLoad</text>
+        <text>sVi</text>
       </register>
       <register name="8" type="4">
-        <text>MacInputStream</text>
+        <text>sFilter</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>!mMyLoad</text>
       </register>
       <register name=":" type="4">
         <text>250</text>
