@@ -93,11 +93,11 @@
         <mark key="." line="243" column="78" />
         <mark key="^" line="243" column="78" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1470412103542">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1470413691024">
         <mark key="'" line="396" column="35" />
-        <mark key="[" line="429" column="0" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
+        <mark key="[" line="409" column="58" />
+        <mark key="]" line="409" column="58" />
+        <mark key="." line="409" column="58" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1470251576542">
         <mark key="'" line="69" column="30" />
@@ -136,6 +136,11 @@
         <mark key="]" line="168" column="5" />
         <mark key="." line="168" column="5" />
         <mark key="^" line="168" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" timestamp="1470414065557">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ISystemDumpService.java" timestamp="1469799699007">
         <mark key="[" line="8" column="0" />
@@ -386,47 +391,47 @@
       <jump line="396" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mDrivers</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVByZXNlbnRhdGlvbiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>mDrivers</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>setselection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1QcmVzZW50YXRpb24uc2V0RHJpdmVycyhtRHJpdmVycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobVByZXNlbnRhdGlvbiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="1" type="4">
-        <text>mDrivers</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRkIkRFUlAiKTsK</text>
-      </register>
-      <register name="3" type="4">
         <text>1</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25pdGVtCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text>+</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text>mDrivers</text>
       </register>
-      <register name="6" type="4">
-        <text>test</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGRkIkRFUlAiKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>adapterView</text>
+        <text>1</text>
       </register>
-      <register name="8" type="4">
-        <text>adapterView</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25pdGVtCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gTk9URTogb25seSBkb2luZyBmbGF0TWFwIGhlcmUgdG8gc2V0IHRoaXMubUxvYWRzLCBvdGhlcndpc2UgaXQnbGwgcmVtYWluIG51bGwuIEFzIG9mIHRoaXMgd3JpdGluZyBpdAogICAgICAgICAgICAvLyBpc24ndCB1c2VkIGZvciBhbnl0aGluZy4K</text>
+      <register name="9" type="4">
+        <text>-</text>
       </register>
       <register name=":" type="4">
-        <text>250</text>
+        <text>73</text>
       </register>
     </registers>
     <search>
@@ -462,7 +467,6 @@
         <entry>setselection</entry>
       </history-search>
       <history-cmd>
-        <entry>200</entry>
         <entry>111</entry>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnJcLz4=</entry>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnJcLz5n</entry>
@@ -482,6 +486,7 @@
         <entry>266</entry>
         <entry>29</entry>
         <entry>250</entry>
+        <entry>73</entry>
       </history-cmd>
       <history-expr />
       <history-input />
