@@ -154,13 +154,6 @@
         <mark key="." line="116" column="66" />
         <mark key="^" line="116" column="66" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" timestamp="1470409309478">
-        <mark key="'" line="167" column="30" />
-        <mark key="[" line="168" column="4" />
-        <mark key="]" line="168" column="5" />
-        <mark key="." line="168" column="5" />
-        <mark key="^" line="168" column="5" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/LoadContactPresenter.java" timestamp="1470414065557" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/IDriverListCallback.java" timestamp="1470672966836">
         <mark key="[" line="2" column="38" />
@@ -178,12 +171,12 @@
         <mark key="]" line="99" column="39" />
         <mark key="." line="99" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" timestamp="1470674759623">
-        <mark key="'" line="196" column="63" />
-        <mark key="[" line="49" column="31" />
-        <mark key="]" line="49" column="53" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" timestamp="1470680112376">
+        <mark key="'" line="194" column="63" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
         <mark key="^" line="49" column="53" />
-        <mark key="." line="49" column="53" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IDriverListPresenter.java" timestamp="1470670710500">
         <mark key="[" line="10" column="128" />
@@ -279,8 +272,8 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" timestamp="1470673941848">
         <mark key="'" line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverAddActivity.java" timestamp="1469217555289">
-        <mark key="'" line="97" column="3" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverAddActivity.java" timestamp="1470680243060">
+        <mark key="'" line="117" column="8" />
         <mark key="[" line="208" column="76" />
         <mark key="]" line="208" column="76" />
         <mark key="." line="208" column="76" />
@@ -291,8 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" />
-      <jump line="105" column="37" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" />
       <jump line="150" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" />
       <jump line="107" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" />
       <jump line="108" column="44" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" />
@@ -391,55 +382,57 @@
       <jump line="190" column="11" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
       <jump line="191" column="81" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
       <jump line="196" column="63" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" />
+      <jump line="77" column="20" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverAddActivity.java" />
+      <jump line="117" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverAddActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RESULT_REFRESH_LIST_VALUE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWVudSAhPSBudWxsICYmIG1lbnUuZ2V0SXRlbSgwKSAhPSBudWxsKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>RESULT_REFRESH_LIST_VALUE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEcml2ZXJEZXRhaWxBY3Rpdml0eVw+</text>
+        <text encoding="base64">XDxtRHJpdmVyQWRkZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElOVEVOVF9FWFRSQV9SRVNVTFRfRFJJVkVSX0RFTEVURUQgPSBCdWlsZENvbmZpZy5BUFBMSUNBVElPTl9JRCArICIuRHJpdmVyRGV0YWlsQWN0aXZpdHkuZHJpdmVyRWRpdFJlc3VsdERlbGV0ZWQiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>RESULT_REFRESH_LIST_VALUE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWVudSAhPSBudWxsICYmIG1lbnUuZ2V0SXRlbSgwKSAhPSBudWxsKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="4">
-        <text>DriverListFragment.RESULT_REFRESH_LIST_CODE</text>
+        <text>RESULT_REFRESH_LIST_VALUE</text>
       </register>
       <register name="3" type="4">
-        <text>''</text>
+        <text>DriverListFragment.RESULT_REFRESH_LIST_CODE</text>
       </register>
       <register name="4" type="4">
-        <text>RESULT_REFRESH_LIST</text>
+        <text>''</text>
       </register>
       <register name="5" type="4">
+        <text>RESULT_REFRESH_LIST</text>
+      </register>
+      <register name="6" type="4">
         <text>RESULT_OK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFJFU1VMVF9SRUZSRVNIX0xJU1RfQ09ERSA9IDE7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>1</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>.RESULT_REFRESH_LIST_CODE, 1);</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElOVEVOVF9FWFRSQV9SRVNVTFRfRFJJVkVSX0RFTEVURUQgPSBCdWlsZENvbmZpZy5BUFBMSUNBVElPTl9JRCArICIuRHJpdmVyRGV0YWlsQWN0aXZpdHkuZHJpdmVyRWRpdFJlc3VsdERlbGV0ZWQiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>197</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEcml2ZXJEZXRhaWxBY3Rpdml0eVw+</last-search>
+      <last-search encoding="base64">XDxtRHJpdmVyQWRkZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEcml2ZXJEZXRhaWxBY3Rpdml0eVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtRHJpdmVyQWRkZWRcPg==</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +440,6 @@
     </search>
     <history>
       <history-search>
-        <entry>needsref</entry>
         <entry encoding="base64">XDxpbnZvaWNlQW1vdW50XD4=</entry>
         <entry encoding="base64">XDxtVG90YWxBbW91bnRJbnZvaWNlZFw+</entry>
         <entry encoding="base64">XDxpbnZvaWNlTnVtYmVyXD4=</entry>
@@ -467,6 +459,7 @@
         <entry>DrDeta</entry>
         <entry>Activity</entry>
         <entry encoding="base64">XDxEcml2ZXJEZXRhaWxBY3Rpdml0eVw+</entry>
+        <entry encoding="base64">XDxtRHJpdmVyQWRkZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi88YnJcLz5n</entry>
