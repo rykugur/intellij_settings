@@ -37,11 +37,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/control/CustomSpinner.java" timestamp="1470669950847">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/control/CustomSpinner.java" timestamp="1470774828018">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="^" line="23" column="86" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/LoadSummaryViewModel.java" timestamp="1470330325958">
         <mark key="[" line="198" column="104" />
@@ -83,10 +83,12 @@
         <mark key="." line="244" column="26" />
         <mark key="^" line="244" column="26" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1470671108358">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1470774788176">
+        <mark key="'" line="156" column="74" />
+        <mark key="[" line="405" column="13" />
+        <mark key="]" line="407" column="59" />
+        <mark key="." line="407" column="59" />
+        <mark key="^" line="407" column="59" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/IDriverEditCallback.java" timestamp="1470672958059">
         <mark key="[" line="2" column="17" />
@@ -244,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" />
       <jump line="151" column="52" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" />
       <jump line="301" column="41" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" />
       <jump line="302" column="37" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DocumentDetailFragment.java" />
@@ -344,10 +345,11 @@
       <jump line="151" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenterTest.java" />
       <jump line="137" column="51" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverAddPresenterTest.java" />
       <jump line="51" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/LoadStatus.java" />
+      <jump line="156" column="74" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IN_TRANSIT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>IN_TRANSIT</text>
@@ -358,32 +360,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDEsIG1hcmtlZERyaXZlcnMuc2l6ZSgpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKERyaXZlclN0YXR1cy5JTl9UUkFOU0lULCBtYXJrZWREcml2ZXJzLmdldCgwKS5nZXREcml2ZXJTdGF0dXMoKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5zZXRTZWxlY3Rpb24ocG9zaXRpb24pOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>IN_TRANSIT</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>, load2, load3</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>PICKED_UP</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBJTG9hZFN1bW1hcnlWaWV3TW9kZWwgbG9hZDIgPSBidWlsZE1vY2tMb2FkKExvYWRTdGF0dXMuQVNTSUdORUQpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKGxvYWQyLmdldERyaXZlcigpKS50aGVuUmV0dXJuKGRyaXZlcik7CiAgICAgICAgSUxvYWRTdW1tYXJ5Vmlld01vZGVsIGxvYWQzID0gYnVpbGRNb2NrTG9hZChMb2FkU3RhdHVzLkFWQUlMQUJMRSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gd2Ugcwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobG9hZFN0YXR1cyA9PSBMb2FkU3RhdHVzLkJPT0tFRCAmJgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>jjjjjjj) {</text>
       </register>
       <register name=":" type="4">
         <text>41</text>
