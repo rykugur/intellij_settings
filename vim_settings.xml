@@ -196,6 +196,10 @@
         <mark key="]" line="99" column="39" />
         <mark key="." line="99" column="39" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefUserStore.java" timestamp="1470861431221">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="88" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverListFragment.java" timestamp="1470754883861">
         <mark key="'" line="282" column="0" />
         <mark key="[" line="247" column="63" />
@@ -227,6 +231,12 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenterTest.java" timestamp="1470852449687">
         <mark key="'" line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefDeviceUUIDStore.java" timestamp="1470861553992">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="18" column="37" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1470067820763">
         <mark key="'" line="115" column="24" />
@@ -303,6 +313,7 @@
         <mark key="." line="306" column="57" />
         <mark key="^" line="306" column="57" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/IUserStore.java" timestamp="1470861353631" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1470858563747">
         <mark key="'" line="30" column="13" />
       </file>
@@ -453,44 +464,44 @@
       <jump line="30" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>API returned 200 for user device</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>API returned 200 for user device</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5kKFRBRywgIkFQSSByZXR1cm5lZCAyMDAgZm9yIHVzZXIgZGV2aWNlIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQUkVGX1VTRVJfS0VZID0gQnVpbGRDb25maWcuQVBQTElDQVRJT05fSUQgKyAidXNlcl9rZXkiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>API returned 200 for user device</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbmRyb2lkLmJ1aWxkLmFwaS50cmFmb3JtLkNvbnRleHQ7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>returend</text>
+        <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbm8tb3AK</text>
+      <register name="4" type="4">
+        <text>ns</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxpc3RlbmVyCg==</text>
+      <register name="6" type="4">
+        <text>user_key</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQUkVGX1VTRVJfS0VZID0gQnVpbGRDb25maWcuQVBQTElDQVRJT05fSUQgKyAidXNlcl9rZXkiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQUkVGX1VTRVJfS0VZID0gQnVpbGRDb25maWcuQVBQTElDQVRJT05fSUQgKyAidXNlcl9rZXkiOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
