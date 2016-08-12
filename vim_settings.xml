@@ -294,12 +294,12 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" timestamp="1471013682819">
-        <mark key="'" line="120" column="45" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="149" column="65" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" timestamp="1471033016137">
+        <mark key="'" line="148" column="12" />
+        <mark key="[" line="192" column="51" />
+        <mark key="]" line="192" column="65" />
+        <mark key="." line="192" column="65" />
+        <mark key="^" line="192" column="65" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefDeviceUUIDStore.java" timestamp="1470918511019">
         <mark key="[" line="16" column="66" />
@@ -389,8 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
-      <jump line="404" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
       <jump line="95" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
       <jump line="436" column="38" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
       <jump line="260" column="86" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
@@ -489,63 +487,64 @@
       <jump line="121" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" />
       <jump line="109" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" />
       <jump line="120" column="45" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" />
+      <jump line="103" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" />
+      <jump line="148" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>settings_notifications_push_notifications</text>
       </register>
       <register name="-" type="4">
-        <text>notify_by</text>
+        <text>settings_notifications_push_notifications</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdXNoX25vdGlmaWNhdGlvbnNfZW5hYmxlZFw+</text>
+        <text>spacer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25vdGlmaWNhdGlvbl9zZXR0aW5nc19jb250YWluZXIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vbmF2X2RyYXdlcl9sZWZ0X21hcmdpbiIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iQGRpbWVuL25hdl9kcmF3ZXJfbGVmdF9tYXJnaW4iCiAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8UmVsYXRpdmVMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiI+CiAgICAgICAgICAgIDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlN3aXRjaENvbXBhdAogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9wdXNoX25vdGlmaWNhdGlvbnNfZW5hYmxlZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImVuZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6Y2xpY2thYmxlPSJ0cnVlIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRFbmQ9InRydWUiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIi8+CiAgICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3NwYWNlciIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3RvTGVmdE9mPSJAaWQvcHVzaF9ub3RpZmljYXRpb25zX2VuYWJsZWQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF90b1N0YXJ0T2Y9IkBpZC9wdXNoX25vdGlmaWNhdGlvbnNfZW5hYmxlZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImVuZCIvPgogICAgICAgICAgICA8Y29tLmNocm9iaW5zb24ubmF2aXNwaGVyZWNhcnJpZXIudmlldy5jb250cm9sLkN1c3RvbVRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3B1c2hfbm90aWZpY2F0aW9uc19sYWJlbCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvdGV4dENvbG9yUHJpbWFyeSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi90ZXh0X3NpemVfbGFyZ2UiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc2V0dGluZ3Nfbm90aWZpY2F0aW9uc19wdXNoX25vdGlmaWNhdGlvbnMiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJzdGFydCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50U3RhcnQ9InRydWUiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudExlZnQ9InRydWUiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF90b1N0YXJ0T2Y9IkBpZC9zcGFjZXIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF90b0xlZnRPZj0iQGlkL3NwYWNlciIvPgogICAgICAgIDwvUmVsYXRpdmVMYXlvdXQ+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>settings_notifications_push_notifications</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kZXJwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJkZXJwIi8+Cg==</text>
+      <register name="2" type="4">
+        <text>push_notifications_label</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVByZXNlbnRlci5vbkxvYWRBc3NpZ25tZW50VXBkYXRlc0NsaWNrZWQobSk7Cg==</text>
+      <register name="3" type="4">
+        <text>push_notifications_enabled</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtUHJlc2VudGF0aW9uCg==</text>
+      <register name="4" type="4">
+        <text>push_notifications_enabled</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9ub3RpZmljYXRpb25fc2V0dGluZ3NfY29udGFpbmVyIgo=</text>
+      <register name="5" type="4">
+        <text>push_notifications_enabled</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
+      <register name="6" type="4">
+        <text>1dp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgo=</text>
+        <text encoding="base64">CiAgICAgICAgPCEtLUhpZGRlbiBpZiBwdXNoIG5vdGlmaWNhdGlvbnMgYXJlIGRpc2FibGVkLS0+CiAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3B1c2hfbm90aWZpY2F0aW9uc19lbmFibGVkX2dyb3VwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL25hdl9kcmF3ZXJfbGVmdF9tYXJnaW4iCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSJAZGltZW4vbmF2X2RyYXdlcl9sZWZ0X21hcmdpbiIKICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgoKICAgICAgICAgICAgPGNvbS5jaHJvYmluc29uLm5hdmlzcGhlcmVjYXJyaWVyLnZpZXcuY29udHJvbC5DdXN0b21UZXh0VmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3NldHRpbmdzX25vdGlmaWNhdGlvbnNfdHlwZXMiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3Ntb2tlIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QWxsQ2Fwcz0idHJ1ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgICAgICAgICAgICAgIGNocnd0cnVja3M6Zm9udE5hbWU9InJhamRoYW5pX21lZGl1bS50dGYiLz4KCiAgICAgICAgICAgIDxWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIxZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9zbW9rZSIvPgogICAgICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="8" type="4">
-        <text>notify_by</text>
+        <text>wrap_content</text>
       </register>
-      <register name="9" type="4">
-        <text>y By</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMi9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdXNoX25vdGlmaWNhdGlvbnNfZW5hYmxlZFw+</last-search>
+      <last-search>spacer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdXNoX25vdGlmaWNhdGlvbnNfZW5hYmxlZFw+</last-pattern>
+      <last-pattern>spacer</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>target</entry>
         <entry>Target</entry>
         <entry>startDriverDetail</entry>
         <entry encoding="base64">XDxtTGlzdFJlZnJlc2hMaXN0ZW5lclw+</entry>
@@ -565,6 +564,7 @@
         <entry>isetting</entry>
         <entry>mViews =</entry>
         <entry encoding="base64">XDxwdXNoX25vdGlmaWNhdGlvbnNfZW5hYmxlZFw+</entry>
+        <entry>spacer</entry>
       </history-search>
       <history-cmd>
         <entry>130</entry>
