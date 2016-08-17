@@ -10,11 +10,11 @@
         <mark key="." line="277" column="72" />
         <mark key="^" line="277" column="72" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/endpoints/NotificationsApi.java" timestamp="1470946778121">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/endpoints/NotificationsApi.java" timestamp="1471445941030">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="101" />
+        <mark key="^" line="32" column="101" />
+        <mark key="." line="32" column="101" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ViewModule.java" timestamp="1471375927296">
         <mark key="'" line="373" column="62" />
@@ -127,11 +127,6 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" timestamp="1470941758381">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="42" />
-      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefSettingsStore.java" timestamp="1471377193952">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="29" />
@@ -170,6 +165,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" timestamp="1471446103823">
+        <mark key="[" line="79" column="84" />
+        <mark key="]" line="79" column="85" />
+        <mark key="^" line="79" column="85" />
+        <mark key="." line="79" column="85" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadService.java" timestamp="1470067519512">
         <mark key="'" line="107" column="32" />
@@ -343,6 +344,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/interfaces/INotificationSubscriptionService.java" timestamp="1471446007642">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="81" />
+        <mark key="." line="23" column="81" />
+        <mark key="^" line="23" column="81" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverPreviewView.java" timestamp="1469550417247">
         <mark key="'" line="32" column="34" />
         <mark key="[" line="87" column="0" />
@@ -479,44 +486,44 @@
       <jump line="27" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/CarrierFirebaseIdService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>subs.toa</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtU2V0dGluZ3NTdG9yZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tVGVuZGVyZWQgbG9hZHMtLT4KICAgICAgICA8UmVsYXRpdmVMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiI+CiAgICAgICAgICAgIDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlN3aXRjaENvbXBhdAogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZW5kZXJlZF9sb2Fkc19lbmFibGVkIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iZW5kIgogICAgICAgICAgICAgICAgYW5kcm9pZDpjbGlja2FibGU9InRydWUiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudEVuZD0idHJ1ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50UmlnaHQ9InRydWUiLz4KICAgICAgICAgICAgPFZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvc3BhY2VyX3RlbmRlcmVkX2xvYWRzIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjNkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMWRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9MZWZ0T2Y9IkBpZC90ZW5kZXJlZF9sb2Fkc19lbmFibGVkIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9TdGFydE9mPSJAaWQvdGVuZGVyZWRfbG9hZHNfZW5hYmxlZCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImVuZCIvPgogICAgICAgICAgICA8Y29tLmNocm9iaW5zb24ubmF2aXNwaGVyZWNhcnJpZXIudmlldy5jb250cm9sLkN1c3RvbVRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RlbmRlcl9sb2Fkc19sYWJlbCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvdGV4dENvbG9yUHJpbWFyeSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi90ZXh0X3NpemVfbGFyZ2UiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc2V0dGluZ3Nfbm90aWZpY2F0aW9uc190ZW5kZXJlZF9sb2FkcyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InN0YXJ0IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRTdGFydD0idHJ1ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50TGVmdD0idHJ1ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3RvU3RhcnRPZj0iQGlkL3NwYWNlcl90ZW5kZXJlZF9sb2FkcyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3RvTGVmdE9mPSJAaWQvc3BhY2VyX3RlbmRlcmVkX2xvYWRzIi8+CiAgICAgICAgPC9SZWxhdGl2ZUxheW91dD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKEZsYXR0ZW5Db2xsZWN0aW9uLm9mKFN1YnNjcmlwdGlvblJlc3BvbnNlLmNsYXNzKSkKICAgICAgICAgICAgICAgIC5maWx0ZXIoRmlsdGVyTnVsbC5vZihTdWJzY3JpcHRpb25SZXNwb25zZS5jbGFzcykpCiAgICAgICAgICAgICAgICAudG9MaXN0KCkKICAgICAgICAgICAgICAgIC5tYXAobmV3IFN1YnNjcmlwdGlvbk1hcCgpKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoTmV0d29ya1RocmVhZGluZy5vZihTdWJzY3JpcHRpb25zLmNsYXNzKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>(</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKEZsYXR0ZW5Db2xsZWN0aW9uLm9mKFN1YnNjcmlwdGlvblJlc3BvbnNlLmNsYXNzKSkKICAgICAgICAgICAgICAgIC5maWx0ZXIoRmlsdGVyTnVsbC5vZihTdWJzY3JpcHRpb25SZXNwb25zZS5jbGFzcykpCiAgICAgICAgICAgICAgICAudG9MaXN0KCkKICAgICAgICAgICAgICAgIC5tYXAobmV3IFN1YnNjcmlwdGlvbk1hcCgpKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoTmV0d29ya1RocmVhZGluZy5vZihTdWJzY3JpcHRpb25zLmNsYXNzKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKEZsYXR0ZW5Db2xsZWN0aW9uLm9mKFN1YnNjcmlwdGlvblJlc3BvbnNlLmNsYXNzKSkKICAgICAgICAgICAgICAgIC5maWx0ZXIoRmlsdGVyTnVsbC5vZihTdWJzY3JpcHRpb25SZXNwb25zZS5jbGFzcykpCiAgICAgICAgICAgICAgICAudG9MaXN0KCkKICAgICAgICAgICAgICAgIC5tYXAobmV3IFN1YnNjcmlwdGlvbk1hcCgpKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoTmV0d29ya1RocmVhZGluZy5vZihTdWJzY3JpcHRpb25zLmNsYXNzKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKEZsYXR0ZW5Db2xsZWN0aW9uLm9mKFN1YnNjcmlwdGlvblJlc3BvbnNlLmNsYXNzKSkKICAgICAgICAgICAgICAgIC5maWx0ZXIoRmlsdGVyTnVsbC5vZihTdWJzY3JpcHRpb25SZXNwb25zZS5jbGFzcykpCiAgICAgICAgICAgICAgICAudG9MaXN0KCkKICAgICAgICAgICAgICAgIC5tYXAobmV3IFN1YnNjcmlwdGlvbk1hcCgpKQogICAgICAgICAgICAgICAgLmNvbXBvc2UoTmV0d29ya1RocmVhZGluZy5vZihTdWJzY3JpcHRpb25zLmNsYXNzKSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>ISubscriptionRequest... requests</text>
+      </register>
+      <register name="6" type="4">
+        <text>ISubscriptionRequest... requests</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>subs.toa</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>subs</text>
-      </register>
-      <register name="4" type="4">
-        <text>builder.build()</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5jYXRlZ29yeShjYXRlZ29yeSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNldHRpbmdzU3RvcmUuZ2V0U2V0dGluZ3MoKS5nZXRkCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>SubscriptionRequest</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBzdWJtaXQgdG8gbm90aWZpY2F0aW9ucyBhcGkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgbVByZXNlbnRlci5vbkNyZWF0ZSh0aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
