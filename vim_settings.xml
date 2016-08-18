@@ -308,12 +308,12 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471547794993">
-        <mark key="'" line="179" column="0" />
-        <mark key="[" line="111" column="36" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="111" column="35" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471550539677">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="115" column="111" />
+        <mark key="]" line="116" column="126" />
+        <mark key="." line="116" column="126" />
+        <mark key="^" line="116" column="126" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1471458663010">
         <mark key="'" line="535" column="4" />
@@ -335,7 +335,7 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" timestamp="1471541835959">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" timestamp="1471550111865">
         <mark key="'" line="163" column="12" />
         <mark key="]" line="199" column="32" />
         <mark key="." line="199" column="32" />
@@ -513,11 +513,11 @@
       <jump line="163" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChTdWJzY3JpYmVyPD8gc3VwZXIgU3Vic2NyaXB0aW9ucz4gc3Vic2NyaWJlcikgewogICAgICAgICAgICAgICAgICAgIGlmIChzdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3JlYXRlKG5ldyBPYnNlcnZhYmxlLk9uU3Vic2NyaWJlPFN1YnNjcmlwdGlvbnM+KCkgew==</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nc1w+</text>
@@ -525,35 +525,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJkZXJwIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChTdWJzY3JpYmVyPD8gc3VwZXIgU3Vic2NyaXB0aW9ucz4gc3Vic2NyaWJlcikgewogICAgICAgICAgICAgICAgICAgIGlmIChzdWJzY3JpYmVyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZmluYWwg</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Y3JlYXRlKG5ldyBPYnNlcnZhYmxlLk9uU3Vic2NyaWJlPFN1YnNjcmlwdGlvbnM+KCkgew==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1QcmVzZW50YXRpb24gPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2YWJsZSA9IE9ic2VydmFibGUuY3JlYXRlKG5ldyBPYnNlcnZhYmxlLk9uU3Vic2NyaWJlPFN1YnNjcmlwdGlvbnM+KCkgewogICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBjYWxsKFN1YnNjcmliZXI8PyBzdXBlciBTdWJzY3JpcHRpb25zPiBzdWJzY3JpYmVyKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHN1YnNjcmliZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlci5vbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVByZXNlbnRhdGlvbi5vblNhdmUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlci5vbk5leHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIE5vdGlmaWNhdGlvblNldHRpbmdzIG5vdGlmaWNhdGlvblNldHRpbmdzID0gTm90aWZpY2F0aW9uU2V0dGluZ3MuZnJvbShzdWJzY3JpcHRpb25zKTsKICAgICAgICAgICAgbm90aWZpY2F0aW9uU2V0dGluZ3Muc2V0UHVzaEVuYWJsZWQoIXN1YnNjcmlwdGlvbnMuZ2V0UHVzaFN1YnNjcmlwdGlvbnMoKS5pc0VtcHR5KCkpOwogICAgICAgICAgICBzdG9yZU5vdGlmaWNhdGlvblNldHRpbmdzKG5vdGlmaWNhdGlvblNldHRpbmdzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.empty();</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JzZXJ2YWJsZS5uZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5ub2g=</text>
+        <text>119</text>
       </register>
     </registers>
     <search>
@@ -589,7 +589,6 @@
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>221</entry>
         <entry>225</entry>
         <entry>247</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
@@ -609,6 +608,7 @@
         <entry>46</entry>
         <entry>115</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
+        <entry>119</entry>
       </history-cmd>
       <history-expr />
       <history-input />
