@@ -309,18 +309,12 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/component/IViewComponent.java" timestamp="1471373508546">
-        <mark key="'" line="97" column="16" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471884061656">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471890218578">
         <mark key="'" line="108" column="59" />
-        <mark key="[" line="52" column="5" />
-        <mark key="]" line="56" column="28" />
-        <mark key="." line="56" column="28" />
-        <mark key="^" line="56" column="28" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="11" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1471458663010">
         <mark key="'" line="535" column="4" />
@@ -336,11 +330,10 @@
         <mark key="." line="150" column="74" />
         <mark key="^" line="150" column="74" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" timestamp="1471889263037">
-        <mark key="'" line="47" column="47" />
-        <mark key="[" line="56" column="58" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" timestamp="1471890161068">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="49" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/SettingsNotificationPresenter.java" timestamp="1470941034390">
         <mark key="[" line="2" column="42" />
@@ -432,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
       <jump line="99" column="60" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
       <jump line="152" column="5" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ApplicationModule.java" />
       <jump line="100" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
@@ -529,49 +521,50 @@
       <jump line="56" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
       <jump line="138" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenterTest.java" />
       <jump line="39" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
-      <jump line="57" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
       <jump line="54" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
       <jump line="47" column="47" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
+      <jump line="59" column="62" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
+      <jump line="57" column="41" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1TZXR0aW5nc1N0b3JlLmdldFNldHRpbmdzKCkpLnRoZW5SZXR1cm4oc2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>mSettingsStore.getSettings().getNotificationSettings()</text>
       </register>
       <register name="/" type="4">
         <text>getSettings</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0RXF1YWxzKG1QcmVzZW50YXRpb24sIG1QcmVzZW50ZXIuZ2V0UHJlc2VudGF0aW9uKCkpOwogICAgICAgIGFzc2VydE5vdE51bGwobVNldHRpbmdzU3RvcmUuZ2V0U2V0dGluZ3MoKSk7CiAgICAgICAgYXNzZXJ0Tm90TnVsbChtU2V0dGluZ3NTdG9yZS5nZXRTZXR0aW5ncygpLmdldE5vdGlmaWNhdGlvblNldHRpbmdzKCkpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKG1TZXR0aW5nc1N0b3JlLmdldFNldHRpbmdzKCkpLnRoZW5SZXR1cm4oc2MpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBJU2V0dGluZ3NTdG9yZSBtU2V0dGluZ3NTdG9yZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobVNldHRpbmdzU3RvcmUsIHRpbWVzKDEpKS51cGRhdGVTZXR0aW5ncyhhbnkoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtUHJlc2VudGVyLm9uQ3JlYXRlKG1QcmVzZW50YXRpb24pOwo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKG1QcmVzZW50ZXIuZ2V0UHJlc2VudGF0aW9uKCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROdWxsKG1QcmVzZW50ZXIuZ2V0UHJlc2VudGF0aW9uKCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnROb3ROdWxsKG1TZXR0aW5nc1N0b3JlLmdldFNldHRpbmdzKCkpOwogICAgICAgIGFzc2VydE5vdE51bGwobVNldHRpbmdzU3RvcmUuZ2V0U2V0dGluZ3MoKS5nZXROb3RpZmljYXRpb25TZXR0aW5ncygpKTsK</text>
+      </register>
+      <register name="5" type="4">
+        <text>mSettingsStore.getSettings().getNotificationSettings()</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZlcmlmeShtUHJlc2VudGF0aW9uLCB0aW1lcygxKSkudXBkYXRlVmlld3MobVNldHRpbmdzU3RvcmUuZ2V0U2V0dGluZ3MoKS5nZXROb3RpZmljYXRpb25TZXR0aW5ncygpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc2V0Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25TZXR0aW5ncyBucyA9IG1vY2soTm90aWZpY2F0aW9uU2V0dGluZ3MuY2xhc3MpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>//        verify(mPresentation, times(1)).updateVie</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKG1zZXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
