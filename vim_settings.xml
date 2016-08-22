@@ -99,7 +99,9 @@
         <mark key="." line="259" column="136" />
         <mark key="^" line="259" column="136" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/CachedUserService.java" timestamp="1471883790978" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/CachedUserService.java" timestamp="1471900252420">
+        <mark key="'" line="26" column="4" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/INotificationSettingsPresenter.java" timestamp="1471895787104">
         <mark key="[" line="5" column="103" />
         <mark key="]" line="6" column="45" />
@@ -299,8 +301,8 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471899793579">
-        <mark key="'" line="75" column="12" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471900419495">
+        <mark key="'" line="210" column="0" />
         <mark key="[" line="121" column="89" />
         <mark key="]" line="122" column="132" />
         <mark key="." line="122" column="132" />
@@ -332,8 +334,8 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="2" column="83" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" timestamp="1471895818445">
-        <mark key="'" line="164" column="12" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" timestamp="1471900417156">
+        <mark key="'" line="95" column="81" />
         <mark key="[" line="94" column="12" />
         <mark key="]" line="95" column="81" />
         <mark key="." line="95" column="81" />
@@ -417,9 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
-      <jump line="290" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverAssignPresenter.java" />
-      <jump line="74" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
       <jump line="104" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
       <jump line="141" column="42" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" />
       <jump line="104" column="54" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
@@ -517,6 +516,9 @@
       <jump line="106" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
       <jump line="121" column="7" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
       <jump line="75" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/CachedUserService.java" />
+      <jump line="95" column="81" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -526,7 +528,7 @@
         <text>LOAD_DETAIL_UPDATE</text>
       </register>
       <register name="/" type="4">
-        <text>getSettings</text>
+        <text>inject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiB0aGlzIHRlc3QgaXMgZ29pbmcgdG8gZmFpbCB1bnRpbCB0aGUgVE9ETyBpbiBOb3RpZmljYXRpb25TZXR0aW5nc1ByZXNlbnRlcjoxMjMgaXMgcmVzb2x2ZWQKICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMobVNldHRpbmdzU3RvcmUsIG1Ob3RpZmljYXRpb25TZXJ2aWNlLCBtQ3VycmVudFVzZXIsIG1QcmVzZW50YXRpb24pOwo=</text>
@@ -563,9 +565,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getSettings</last-search>
+      <last-search>inject</last-search>
       <last-offset />
-      <last-pattern>getSettings</last-pattern>
+      <last-pattern>inject</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Push Notifications</entry>
         <entry encoding="base64">XDxBUkdfU1RBUlRJTkdfRlJBR01FTlRcPg==</entry>
         <entry>isetting</entry>
         <entry>mViews =</entry>
@@ -593,6 +594,7 @@
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxtU2V0dGluZ3NTdG9yZVw+</entry>
         <entry>getSettings</entry>
+        <entry>inject</entry>
       </history-search>
       <history-cmd>
         <entry>247</entry>
