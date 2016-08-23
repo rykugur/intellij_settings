@@ -158,7 +158,6 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/Injector.java" timestamp="1471373464843">
         <mark key="'" line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" timestamp="1471972177946" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1470251576542">
         <mark key="'" line="69" column="30" />
         <mark key="[" line="20" column="0" />
@@ -233,7 +232,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/hack/HackInjector.java" timestamp="1471902256206" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_document_detail.xml" timestamp="1470327690167">
         <mark key="[" line="99" column="39" />
         <mark key="]" line="99" column="39" />
@@ -318,12 +316,12 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471962651844">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471976568818">
         <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="51" />
-        <mark key="." line="122" column="132" />
-        <mark key="^" line="122" column="132" />
+        <mark key="[" line="174" column="56" />
+        <mark key="]" line="174" column="60" />
+        <mark key="." line="174" column="60" />
+        <mark key="^" line="174" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PushSubscription.java" timestamp="1471961861056">
         <mark key="[" line="4" column="29" />
@@ -547,11 +545,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/src/main/java/com/chrobinson/android/network/NetworkRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1ldGhvZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBtZXRob2QgPSBOZXR3b3JrUmVxdWVzdC5NZXRob2QuR2V0OwogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mNotificationsObserver</text>
       </register>
       <register name="-" type="4">
-        <text>UriUtils.getAbsoluteUri(original.url().toString())</text>
+        <text>mNotificationsObserver</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
@@ -559,32 +557,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYWNrLmdldExvZ2dlcigpLmQoVEFHLCAiU3VjY2Vzc2Z1bGx5IHVuc3Vic2NyaWJlZCBmcm9tIGdlbmVyYWwgbm90aWZpY2F0aW9uOyBjYXRlb2dvcnk9IiArCiAgICAgICAgICAgICAgICAgICAgY2F0ZWdvcnkpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>mNotificationsObserver</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG1ldGhvZCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBtZXRob2QgPSBOZXR3b3JrUmVxdWVzdC5NZXRob2QuR2V0OwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>UriUtils.getAbsoluteUri(original.url().toString())</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>NetworkRequest.ContentType.Json</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>NetworkRequest.Method.fromString(original.method())</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>String</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Method.values()) {</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>methodFromString</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CiAgICBATnVsbGFibGUKICAgIHB1YmxpYyBzdGF0aWMgTWV0aG9kIG1ldGhvZEZyb21TdHJpbmcoU3RyaW5nIG1ldGhvZCkgewogICAgICAgIGlmIChTdHJpbmdVdGlscy5pc051bGxPckVtcHR5KG1ldGhvZCkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQoKICAgICAgICBmb3IgKE1ldGhvZCBtIDogTWV0aG9kLnZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChtLm5hbWUoKS50b0xvd2VyQ2FzZSgpLmVxdWFscyhtZXRob2QudG9Mb3dlckNhc2UoKSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBtOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
-      </register>
-      <register name="9" type="4">
-        <text>valueOf</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
