@@ -102,7 +102,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/Injector.java" timestamp="1471373464843">
         <mark key="'" line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" timestamp="1471899447246" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" timestamp="1471971184011" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_driver_assign.xml" timestamp="1470669525377">
         <mark key="[" line="135" column="25" />
         <mark key="]" line="135" column="83" />
@@ -114,7 +114,7 @@
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" timestamp="1471969150640">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" timestamp="1471971047754">
         <mark key="'" line="138" column="0" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -157,11 +157,10 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IDriverAssignView.java" timestamp="1471463525634">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationRetroBase.java" timestamp="1471969219307">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationRetroBase.java" timestamp="1471971772616">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IDriverUpdateView.java" timestamp="1470753604229">
         <mark key="[" line="4" column="17" />
@@ -194,12 +193,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="71" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/component/IViewComponent.java" timestamp="1471373508546">
-        <mark key="'" line="97" column="16" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1471962651844">
         <mark key="'" line="41" column="0" />
@@ -382,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtTm90aWZpY2F0aW9uQXBpLmgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWwubWV0aG9kKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>...</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
@@ -394,31 +387,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYWNrLmdldExvZ2dlcigpLmQoVEFHLCAiU3VjY2Vzc2Z1bGx5IHVuc3Vic2NyaWJlZCBmcm9tIGdlbmVyYWwgbm90aWZpY2F0aW9uOyBjYXRlb2dvcnk9IiArCiAgICAgICAgICAgICAgICAgICAgY2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtTm90aWZpY2F0aW9uQXBpLmgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWwubWV0aG9kKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWwuCg==</text>
       </register>
       <register name="3" type="4">
-        <text>...</text>
+        <text>null</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzYWRseSB3ZSBuZWVkIHRvIHVuc3Vic2NyaWJlIG9uZSBhdCBhIHRpbWUuLi4K</text>
+      <register name="4" type="4">
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1bnN1YnNjcmliZUZyb21HZW5lcmFsTm90aWZpY2F0aW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWwuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtTm90aWZpY2F0aW9uQXBpLmgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJVXNlciB1c2VyID0gZ2V0VXNlcigpLmdldCgpOwogICAgICAgIGZpbmFsIEhhY2tJbmplY3RvciBoYWNrID0gbmV3IEhhY2tJbmplY3RvcigpOwogICAgICAgIElOb3RpZmljYXRpb25TdWJzY3JpcHRpb25TZXJ2aWNlIG5vdGlmaWNhdGlvblNlcnZpY2UgPSBuZXcgTm90aWZpY2F0aW9uU2VydmljZShoYWNrLmdldENvbmZpZ1N0b3JlKCksCiAgICAgICAgICAgICAgICB1c2VyLCBoYWNrLmdldExvZ2dlcigpLCBoYWNrLmdldEdzb24oKSk7Cgo=</text>
+      <register name="8" type="4">
+        <text>...</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzYWRseSB3ZSBuZWVkIHRvIHVuc3Vic2NyaWJlIG9uZSBhdCBhIHRpbWUuLi4K</text>
       </register>
       <register name=":" type="4">
         <text>184</text>
