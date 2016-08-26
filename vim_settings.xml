@@ -42,23 +42,23 @@
         <mark key="^" line="146" column="130" />
         <mark key="." line="146" column="130" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/PassiveSubscriptionRequest.java" timestamp="1472222824263">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="51" />
-        <mark key="^" line="9" column="51" />
-        <mark key="." line="9" column="51" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/IPushSubscription.java" timestamp="1472233484323">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/PassiveSubscriptionRequest.java" timestamp="1472232711054">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/PushSubscriptionRequest.java" timestamp="1472222830926" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/DriverStatus.java" timestamp="1470082800136">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/CarrierFirebaseIdService.java" timestamp="1472138079170">
-        <mark key="'" line="27" column="19" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/CachedDriverService.java" timestamp="1468853436864">
         <mark key="[" line="7" column="0" />
@@ -177,6 +177,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/ISubscriptionRequest.java" timestamp="1472232721187">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/DriverGetHandler.java" timestamp="1470251576542">
         <mark key="'" line="69" column="30" />
         <mark key="[" line="20" column="0" />
@@ -275,7 +281,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationRetroBase.java" timestamp="1472231449498" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" timestamp="1471463395765">
         <mark key="'" line="33" column="24" />
         <mark key="[" line="78" column="29" />
@@ -327,6 +332,12 @@
         <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/SettingsContainer.java" timestamp="1472221133342" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/SubscriptionType.java" timestamp="1472232777405">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1472230592129">
         <mark key="v" line="140" column="90" />
         <mark key="'" line="135" column="26" />
@@ -334,6 +345,13 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
         <mark key="^" line="147" column="94" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PushSubscription.java" timestamp="1472234246591">
+        <mark key="'" line="25" column="40" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" timestamp="1471458663010">
         <mark key="'" line="535" column="4" />
@@ -436,11 +454,11 @@
         <mark key="." line="119" column="7" />
         <mark key="^" line="119" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/SubscriptionRequestBuilder.java" timestamp="1471377346066">
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="48" />
-        <mark key="^" line="23" column="48" />
-        <mark key="." line="23" column="48" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/SubscriptionRequestBuilder.java" timestamp="1472232764494">
+        <mark key="[" line="94" column="46" />
+        <mark key="]" line="94" column="51" />
+        <mark key="^" line="94" column="51" />
+        <mark key="." line="94" column="51" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverAddPresenterTest.java" timestamp="1470755434738">
         <mark key="'" line="135" column="51" />
@@ -454,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="81" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
       <jump line="84" column="58" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
       <jump line="138" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
@@ -554,13 +571,14 @@
       <jump line="203" column="63" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
       <jump line="189" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
       <jump line="135" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
+      <jump line="25" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PushSubscription.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicy5lbWl0KCkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>newBuilder</text>
       </register>
       <register name="-" type="4">
-        <text>new BufferedSink() {</text>
+        <text>newBuilder</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -568,32 +586,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25TZXR0aW5ncyBvcmlnTm90aWZpY2F0aW9uU2V0dGluZ3MgPSBtU2V0dGluZ3NTdG9yZS5nZXRTZXR0aW5ncygpLmdldE5vdGlmaWNhdGlvblNldHRpbmdzKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicy5lbWl0KCkuCg==</text>
+      <register name="1" type="4">
+        <text>newBuilder</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>()</text>
       </register>
-      <register name="3" type="4">
-        <text>new BufferedSink() {</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYm9keSA9IG9yaWdpbmFsLmJvZHkoKS5zdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib2R5LndyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU9rQnVpbGRlci5hZGRJbnRlcmNlcHRvcihpbnRlcmNlcHRvcik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>null</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuICJERVJQIjsKICAgIH0K</text>
       </register>
       <register name="6" type="4">
-        <text>TAG</text>
+        <text>Integer</text>
       </register>
       <register name="7" type="4">
-        <text>body.toString()</text>
+        <text>Integer</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJjZXB0b3IuCg==</text>
+      <register name="8" type="4">
+        <text>mSubscriptionId != null ? mSubscriptionId : -1;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIHZvaWQgc2V0UHVzaEVuYWJsZWQoYm9vbGVhbiBlbmFibGVkKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>Integer</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5ub2g=</text>
