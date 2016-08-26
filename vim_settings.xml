@@ -10,12 +10,12 @@
         <mark key="." line="277" column="72" />
         <mark key="^" line="277" column="72" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/endpoints/NotificationsApi.java" timestamp="1472159266331">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/endpoints/NotificationsApi.java" timestamp="1472236284143">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="30" column="95" />
-        <mark key="]" line="30" column="95" />
-        <mark key="." line="30" column="95" />
-        <mark key="^" line="50" column="119" />
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ViewModule.java" timestamp="1472068089996">
         <mark key="'" line="0" column="0" />
@@ -148,6 +148,7 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/mappers/SubscriptionMap.java" timestamp="1472235827767" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/IDriverEditCallback.java" timestamp="1470672958059">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -177,7 +178,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/ISubscriptionRequest.java" timestamp="1472232721187">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/ISubscriptionRequest.java" timestamp="1472235842284">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
@@ -201,12 +202,12 @@
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" timestamp="1472230574934">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="16" />
-        <mark key="." line="80" column="16" />
-        <mark key="^" line="80" column="12" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" timestamp="1472236320515">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="81" column="60" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadService.java" timestamp="1470067519512">
         <mark key="'" line="107" column="32" />
@@ -574,11 +575,11 @@
       <jump line="25" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PushSubscription.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newBuilder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKEZsYXR0ZW5Db2xsZWN0aW9uLm9mKFN1YnNjcmlwdGlvblJlc3BvbnNlLmNsYXNzKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>newBuilder</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -586,32 +587,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25TZXR0aW5ncyBvcmlnTm90aWZpY2F0aW9uU2V0dGluZ3MgPSBtU2V0dGluZ3NTdG9yZS5nZXRTZXR0aW5ncygpLmdldE5vdGlmaWNhdGlvblNldHRpbmdzKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>newBuilder</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKEZsYXR0ZW5Db2xsZWN0aW9uLm9mKFN1YnNjcmlwdGlvblJlc3BvbnNlLmNsYXNzKSkK</text>
       </register>
       <register name="2" type="4">
-        <text>()</text>
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgYm9keSA9IG9yaWdpbmFsLmJvZHkoKS5zdHJpbmcK</text>
+      <register name="3" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbU9rQnVpbGRlci5hZGRJbnRlcmNlcHRvcihpbnRlcmNlcHRvcik7Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuICJERVJQIjsKICAgIH0K</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>Integer</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>Integer</text>
+        <text>L</text>
       </register>
       <register name="8" type="4">
-        <text>mSubscriptionId != null ? mSubscriptionId : -1;</text>
+        <text>Subscriptions</text>
       </register>
-      <register name="9" type="4">
-        <text>Integer</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5ub2g=</text>
