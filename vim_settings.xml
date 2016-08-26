@@ -42,6 +42,12 @@
         <mark key="^" line="146" column="130" />
         <mark key="." line="146" column="130" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/PassiveSubscriptionRequest.java" timestamp="1472220414638">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="51" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/DriverStatus.java" timestamp="1470082800136">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -545,11 +551,11 @@
       <jump line="135" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlID0gbm90aWZpY2F0aW9uU2VydmljZS5wb3N0U3Vic2NyaXB0aW9uKHN1YnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -557,32 +563,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25TZXR0aW5ncyBvcmlnTm90aWZpY2F0aW9uU2V0dGluZ3MgPSBtU2V0dGluZ3NTdG9yZS5nZXRTZXR0aW5ncygpLmdldE5vdGlmaWNhdGlvblNldHRpbmdzKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlID0gbm90aWZpY2F0aW9uU2VydmljZS5wb3N0U3Vic2NyaXB0aW9uKHN1YnMpOwo=</text>
+      <register name="1" type="4">
+        <text>type</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>TYPE</text>
       </register>
       <register name="3" type="4">
-        <text>bs.add(</text>
+        <text>TYPE = &quot;type&quot;;</text>
       </register>
       <register name="4" type="4">
-        <text>su</text>
+        <text>CATEGORY_TYPE</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PElTdWJzY3JpcHRpb25SZXF1ZXN0PiBzdWJzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      <register name="5" type="4">
+        <text>categoryType</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PElTdWJzY3JpcHRpb25SZXF1ZXN0PiBzdWJzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvYnNlcnZhYmxlID0gbm90aWZpY2F0aW9uU2VydmljZS5wb3N0U3Vic2NyaXB0aW9uKHN1YnMpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>else {</text>
+        <text>bs.add(</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5ub2g=</text>
