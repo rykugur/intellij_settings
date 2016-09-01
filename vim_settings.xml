@@ -326,11 +326,8 @@
         <mark key="^" line="37" column="59" />
         <mark key="." line="37" column="59" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" timestamp="1472742708955">
-        <mark key="'" line="146" column="61" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="64" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" timestamp="1472745162032">
+        <mark key="[" line="195" column="17" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/MainMenuPresenter.java" timestamp="1472668991541">
         <mark key="'" line="26" column="0" />
@@ -619,44 +616,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaWJlVG9HZW5lcmFsTm90aWZpY2F0aW9ucyhyZXNwb25zZS5tUmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGNhY2hlTm90aWZpY2F0aW9uU2V0dGluZ3MoQE5vbk51bGwgTm90aWZpY2F0aW9uU2V0dGluZ3Mgbm90aWZpY2F0aW9uU2V0dGluZ3MpIHsKICAgICAgICBpZiAobVNldHRpbmdzU3RvcmUgPT0gbnVsbCkgewogICAgICAgICAgICAvLyBjb3VsZCBiZSBudWxsIG9yIG5vdCBpbml0aWFsaXplZCwgbm90aGluZyB3ZSBjYW4gZG8KICAgICAgICAgICAgbUxvZ2dlci5kKFRBRywgInNldHRpbmdzIHN0b3JlIHdhcyBudWxsIG9uIHVzZXIgbG9naW4sIG5vdCBjYWNoaW5nIHN1YnNjcmlwdGlvbiIpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBzZXR0aW5ncy5zZXROb3RpZmljYXRpb25TZXR0aW5ncyhub3RpZmljYXRpb25TZXR0aW5ncyk7CiAgICAgICAgbVNldHRpbmdzU3RvcmUudXBkYXRlU2V0dGluZ3Moc2V0dGluZ3MpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>PUSH_ENABLED</text>
+        <text>mSettingsStore.getSettings().getNotificationSettings() == null) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQVVNIX1NVQlNDUklQVElPTlNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJvb3QgIT0gbnVsbCAmJiBzcmMuZ2V0UHVzaFN1YnNjcmlwdGlvbnNNYXAoKSAhPSBudWxsKXsKCiAgICAgICAgICAgICAgICBKc29uQXJyYXkganNvbkFycmF5ID0gbmV3IEpzb25BcnJheSgpOwogICAgICAgICAgICAgICAgZm9yIChNYXAuRW50cnk8Tm90aWZpY2F0aW9uQ2F0ZWdvcnksUHVzaFN1YnNjcmlwdGlvbj4gc3ViUGFpciA6IHNyYy5nZXRQdXNoU3Vic2NyaXB0aW9uc01hcCgpLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBKc29uT2JqZWN0IHN1Yk9iamVjdCA9IG5ldyBKc29uT2JqZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgc3ViT2JqZWN0LmFkZChNQVBfSURfS0VZLG5ldyBKc29uUHJpbWl0aXZlKHN1YlBhaXIuZ2V0S2V5KCkuZ2V0U2VydmVySW5kZXgoKSkpOwogICAgICAgICAgICAgICAgICAgIHN1Yk9iamVjdC5hZGQoTUFQX1NVQlNDUklQVElPTl9LRVksR1NPTl9JTlRFUk5BTF9ERUZBVUxULnRvSnNvblRyZWUoc3ViUGFpci5nZXRWYWx1ZSgpKSk7CiAgICAgICAgICAgICAgICAgICAganNvbkFycmF5LmFkZChzdWJPYmplY3QpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJvb3QuYWRkKEpTT04uUFVTSF9TVUJTQ1JJUFRJT05TLGpzb25BcnJheSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbUxvZ2dlci5lKFRBRywgIkZhaWxlZCB0byBzdWJzY3JpYmUgdG8gZ2VuZXJhbCBub3RpZmljYXRpb25zIG9uIGluaXRpYWwgdXNlciBsb2dpbi4iLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Vic2NyaWJlVG9HZW5lcmFsTm90aWZpY2F0aW9ucyhyZXNwb25zZS5tUmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGNhY2hlTm90aWZpY2F0aW9uU2V0dGluZ3MoQE5vbk51bGwgTm90aWZpY2F0aW9uU2V0dGluZ3Mgbm90aWZpY2F0aW9uU2V0dGluZ3MpIHsKICAgICAgICBpZiAobVNldHRpbmdzU3RvcmUgPT0gbnVsbCkgewogICAgICAgICAgICAvLyBjb3VsZCBiZSBudWxsIG9yIG5vdCBpbml0aWFsaXplZCwgbm90aGluZyB3ZSBjYW4gZG8KICAgICAgICAgICAgbUxvZ2dlci5kKFRBRywgInNldHRpbmdzIHN0b3JlIHdhcyBudWxsIG9uIHVzZXIgbG9naW4sIG5vdCBjYWNoaW5nIHN1YnNjcmlwdGlvbiIpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBzZXR0aW5ncy5zZXROb3RpZmljYXRpb25TZXR0aW5ncyhub3RpZmljYXRpb25TZXR0aW5ncyk7CiAgICAgICAgbVNldHRpbmdzU3RvcmUudXBkYXRlU2V0dGluZ3Moc2V0dGluZ3MpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FycmllckZpcmViYXNlSWRTZXJ2aWNlLmdldAo=</text>
+        <text encoding="base64">CiAgICAgICAgU2V0dGluZ3NDb250YWluZXIgc2V0dGluZ3MgPSBtU2V0dGluZ3NTdG9yZS5nZXRTZXR0aW5ncygpOwogICAgICAgIGlmIChzZXR0aW5ncyA9PSBudWxsKSB7CiAgICAgICAgICAgIHNldHRpbmdzID0gbmV3IFNldHRpbmdzQ29udGFpbmVyKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIE9ic2VydmFibGU8U3Vic2NyaXB0aW9uUmVzcG9uc2U+IG9ic2VydmFibGUgPSBudWxsOwovLyAgICAgICAgZm9yIChOb3RpZmljYXRpb25DYXRlZ29yeSBjYXRlZ29yeSA6IE5vdGlmaWNhdGlvbkNhdGVnb3J5LnZhbHVlcygpKSB7Ci8vICAgICAgICAgICAgaWYgKGNhdGVnb3J5ID09IE5vdGlmaWNhdGlvbkNhdGVnb3J5LlVOS05PV04pIHsKLy8gICAgICAgICAgICAgICAgLy8gc2tpcCB1bmtub3duCi8vICAgICAgICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBTdWJzY3JpcHRpb25SZXF1ZXN0IHN1YiA9IG5ldyBTdWJzY3JpcHRpb25SZXF1ZXN0LkJ1aWxkZXIodXNlci5nZXRVc2VySWQoKSkKLy8gICAgICAgICAgICAgICAgICAgIC5ub3RpZmljYXRpb25DYXRlZ29yeShjYXRlZ29yeSkKLy8gICAgICAgICAgICAgICAgICAgIC5kZXZpY2VJZChkZXZpY2VJZCkKLy8gICAgICAgICAgICAgICAgICAgIC5wYXNzaXZlKCkKLy8gICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwovLwovLyAgICAgICAgICAgIG9ic2VydmFibGUgPSBvYnNlcnZhYmxlID09IG51bGwgPyAKLy8gICAgICAgICAgICAgICAgICAgIHN2Yy5wb3N0U3Vic2NyaXB0aW9uKHN1YikgOgovLyAgICAgICAgICAgICAgICAgICAgb2JzZXJ2YWJsZS56aXBXaXRoKHN2Yy5wb3N0U3Vic2NyaXB0aW9uKHN1YiksIG5ldyBGdW5jMjxTdWJzY3JpcHRpb25SZXNwb25zZSwgU3Vic2NyaXB0aW9uUmVzcG9uc2UsIFN1YnNjcmlwdGlvblJlc3BvbnNlPigpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIFN1YnNjcmlwdGlvblJlc3BvbnNlIGNhbGwoU3Vic2NyaXB0aW9uUmVzcG9uc2Ugc3Vic2NyaXB0aW9uUmVzcG9uc2UsIFN1YnNjcmlwdGlvblJlc3BvbnNlIHN1YnNjcmlwdGlvblJlc3BvbnNlMikgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKLy8gICAgICAgICAgICAgICAgICAgIG9ic2VydmFibGUuc3Vic2NyaWJlKG5ldyBPYnNlcnZlcjxTdWJzY3JpcHRpb25SZXNwb25zZT4oKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25Db21wbGV0ZWQoKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIG5vLW9wCi8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLwovLyAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbUxvZ2dlci5lKFRBRywgIkZhaWxlZCB0byBzdWJzY3JpYmUgdG8gZ2VuZXJhbCBub3RpZmljYXRpb25zIG9uIGluaXRpYWwgdXNlciBsb2dpbi4iLCBlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25OZXh0KFN1YnNjcmlwdGlvblJlc3BvbnNlIHJlc3BvbnNlKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbk5leHQ6IHN1Y2Nlc3NmdWxseSBzdWJzY3JpYmVkIHRvIGEgZ2VuZXJhbCBub3RpZmljYXRpb24gb24gaW5pdGlhbCB1c2VyIGxvZ2luLiIpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgIH0pOwovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtU2V0dGluZ3NTdG9yZS51cGRhdGVTZXR0aW5ncyhzZXR0aW5ncyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>PUSH_ENABLED</text>
-      </register>
-      <register name="5" type="4">
-        <text>taht</text>
-      </register>
-      <register name="6" type="4">
-        <text>PUSH_SUBSCRIPTIONS</text>
-      </register>
-      <register name="7" type="4">
-        <text>this.</text>
-      </register>
-      <register name="8" type="4">
-        <text>mPassiveSubscriptionsMap</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>veSubscriptionsMap) {
-        this.mPassiveSubscriptionsMap = m</text>
+        <text>mSettingsStore.getSettings().getNotificationSettings() == null) {</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5ub2g=</text>
