@@ -21,6 +21,7 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/PushSubscriptionRequest.java" timestamp="1472222830926" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/DriverStatus.java" timestamp="1470082800136">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -159,6 +160,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/ISubscription.java" timestamp="1472825769048">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_document_detail.xml" timestamp="1470327690167">
         <mark key="[" line="99" column="39" />
         <mark key="]" line="99" column="39" />
@@ -208,6 +215,7 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/SettingsContainer.java" timestamp="1472221133342" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/SubscriptionType.java" timestamp="1472667549833">
         <mark key="'" line="3" column="15" />
         <mark key="[" line="23" column="11" />
@@ -229,6 +237,7 @@
         <mark key="." line="312" column="102" />
         <mark key="^" line="312" column="102" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/transformers/NetworkThreading.java" timestamp="1472242509348" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" timestamp="1472674396901">
         <mark key="'" line="61" column="0" />
       </file>
@@ -251,11 +260,18 @@
         <mark key="." line="94" column="41" />
         <mark key="^" line="94" column="41" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/responses/notifications/SubscriptionResponse.java" timestamp="1472673848917">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/responses/notifications/SubscriptionResponse.java" timestamp="1472826483948">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="2" column="83" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PassiveSubscription.java" timestamp="1472826510873">
+        <mark key="'" line="53" column="4" />
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" timestamp="1470754219487">
         <mark key="[" line="107" column="0" />
@@ -301,11 +317,11 @@
         <mark key="." line="327" column="72" />
         <mark key="^" line="327" column="72" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/IPushSubscription.java" timestamp="1472233484323">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/IPushSubscription.java" timestamp="1472825584410">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="40" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/mappers/SubscriptionMappers.java" timestamp="1472674574919">
         <mark key="[" line="29" column="0" />
@@ -356,7 +372,7 @@
         <mark key="^" line="37" column="59" />
         <mark key="." line="37" column="59" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" timestamp="1472764689247">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" timestamp="1472825980055">
         <mark key="[" line="202" column="75" />
         <mark key="]" line="203" column="23" />
         <mark key="." line="203" column="23" />
@@ -402,6 +418,7 @@
         <mark key="." line="108" column="42" />
         <mark key="^" line="108" column="42" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/responses/notifications/PassiveSubscriptionResponse.java" timestamp="1472236786584" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/interfaces/IMainMenuView.java" timestamp="1472603806017">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="14" column="35" />
@@ -430,6 +447,7 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.network/src/main/java/com/chrobinson/android/network/NetworkRequest.java" timestamp="1471972646093">
         <mark key="'" line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/cache/NotificationCacheHandler.java" timestamp="1472824677382" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_notifications_settings.xml" timestamp="1472241472891">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -461,12 +479,12 @@
         <mark key="." line="41" column="31" />
         <mark key="^" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PushSubscription.java" timestamp="1472241884665">
-        <mark key="'" line="25" column="40" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="25" column="40" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PushSubscription.java" timestamp="1472825881167">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="55" />
+        <mark key="." line="6" column="55" />
+        <mark key="^" line="6" column="55" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverListPresenter.java" timestamp="1470852791725">
         <mark key="'" line="41" column="0" />
@@ -506,12 +524,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" timestamp="1472765633528">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" timestamp="1472824985750">
         <mark key="'" line="108" column="31" />
-        <mark key="[" line="97" column="5" />
-        <mark key="]" line="98" column="3" />
-        <mark key="." line="98" column="3" />
-        <mark key="^" line="98" column="3" />
+        <mark key="[" line="158" column="67" />
+        <mark key="]" line="158" column="85" />
+        <mark key="." line="158" column="85" />
+        <mark key="^" line="158" column="85" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/interfaces/INotificationSubscriptionService.java" timestamp="1472673941407">
         <mark key="[" line="19" column="0" />
@@ -533,7 +551,7 @@
         <mark key="." line="119" column="7" />
         <mark key="^" line="119" column="7" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" timestamp="1472655918545">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" timestamp="1472824639077">
         <mark key="'" line="62" column="28" />
         <mark key="[" line="372" column="35" />
         <mark key="]" line="372" column="62" />
@@ -547,15 +565,11 @@
         <mark key="^" line="135" column="51" />
         <mark key="." line="135" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1472764212722">
+      <file name="/fragment.java" timestamp="1472824836562">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/DriverDetailPresenter.java" />
-      <jump line="45" column="27" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/CachedUserService.java" />
-      <jump line="106" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
       <jump line="203" column="63" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenterTest.java" />
       <jump line="189" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
       <jump line="135" column="26" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" />
@@ -652,46 +666,50 @@
       <jump line="150" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
       <jump line="152" column="56" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
       <jump line="108" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
+      <jump line="2" column="58" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PassiveSubscription.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PushSubscription.java" />
+      <jump line="30" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PassiveSubscription.java" />
+      <jump line="53" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PassiveSubscription.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4gZ2V0RW5hYmxlZENhdGVnb3JpZXMoKSB7CiAgICAgICAgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4KICAgIH0KCiAgICBwdWJsaWMgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4gZ2V0RGlzYWJsZWRDYXRlZ29yaWVzKCkgewogICAgICAgIFVwZGF0ZUNhdGVnb3JpZXMoKTsKICAgICAgICByZXR1cm4gbURpc2FibGVkQ2F0ZWdvcmllczsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgREVWSUNFX1RZUEUgPSAiZGV2aWNlVHlwZSI7CiAgICAgICAgU3RyaW5nIERFVklDRV9JRCA9ICJkZXZpY2VJZCI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmRvT25OZXh0KG5ldyBBY3Rpb24xPFN1YnNjcmlwdGlvblJlc3BvbnNlPigpIHs=</text>
+        <text encoding="base64">ICAgICsgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQVVNIX1NVQlNDUklQVElPTlNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgbUxvZ2dlci5lKFRBRywgIkZhaWxlZCB0byBzdWJzY3JpYmUgdG8gZ2VuZXJhbCBub3RpZmljYXRpb25zIG9uIGluaXRpYWwgdXNlciBsb2dpbi4iLCBlKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgU1VCU0NSSVBUSU9OX0lEID0gInN1YnNjcmlwdGlvbklkIjsKICAgICAgICBTdHJpbmcgVVNFUl9JRCA9ICJ1c2VySWQiOwogICAgICAgIFN0cmluZyBDQVRFR09SWV9JRCA9ICJjYXRlZ29yeUlkIjsKICAgICAgICBTdHJpbmcgU1VCU0NSSVBUSU9OX1RZUEUgPSAic3Vic2NyaXB0aW9uVHlwZSI7CiAgICAgICAgU3RyaW5nIERFVklDRV9UWVBFID0gImRldmljZVR5cGUiOwogICAgICAgIFN0cmluZyBERVZJQ0VfSUQgPSAiZGV2aWNlSWQiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4gZ2V0RW5hYmxlZENhdGVnb3JpZXMoKSB7CiAgICAgICAgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4KICAgIH0KCiAgICBwdWJsaWMgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4gZ2V0RGlzYWJsZWRDYXRlZ29yaWVzKCkgewogICAgICAgIFVwZGF0ZUNhdGVnb3JpZXMoKTsKICAgICAgICByZXR1cm4gbURpc2FibGVkQ2F0ZWdvcmllczsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgREVWSUNFX1RZUEUgPSAiZGV2aWNlVHlwZSI7CiAgICAgICAgU3RyaW5nIERFVklDRV9JRCA9ICJkZXZpY2VJZCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbVB1c2hTdWJzY3JpcHRpb25zTWFwLnZhbAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgU1VCU0NSSVBUSU9OX0lEID0gInN1YnNjcmlwdGlvbklkIjsKICAgICAgICBTdHJpbmcgTk9USUZJQ0FUSU9OX0NBVEVHT1JZID0gIm5vdGlmaWNhdGlvbkNhdGVnb3J5IjsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVcGRhdGVDYXRlZ29yaWVzKCk7CiAgICAgICAgcmV0dXJuIG1FbmFibGVkQ2F0ZWdvcmllczsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICsgICAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTGlzdHMubmV3QXJyYXlMaXN0KCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICsgICAgICAgIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4gbUVuYWJsZWRDYXRlZ29yaWVzOwogICAgcHJpdmF0ZSBMaXN0PE5vdGlmaWNhdGlvbkNhdGVnb3J5PiBtRGlzYWJsZWRDYXRlZ29yaWVzOwoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICArICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICArICAgICAgICAgICAg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBVcGRhdGVDYXRlZ29yaWVzKCkgewogICAgICAgIG1FbmFibGVkQ2F0ZWdvcmllcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIG1EaXNhYmxlZENhdGVnb3JpZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICAgICAgZm9yIChOb3RpZmljYXRpb25DYXRlZ29yeSBjYXQgOiBOb3RpZmljYXRpb25DYXRlZ29yeS52YWx1ZXMoKSkgewogICAgICAgICAgICBpZiAobVB1c2hTdWJzY3JpcHRpb25zTWFwLmNvbnRhaW5zS2V5KGNhdCkpIHsKICAgICAgICAgICAgICAgIG1FbmFibGVkQ2F0ZWdvcmllcy5hZGQoY2F0KTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1EaXNhYmxlZENhdGVnb3JpZXMuYWRkKGNhdCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgKyAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4gbUVuYWJsZWRDYXRlZ29yaWVzOwogICAgcHJpdmF0ZSBMaXN0PE5vdGlmaWNhdGlvbkNhdGVnb3J5PiBtRGlzYWJsZWRDYXRlZ29yaWVzOwoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICsgICAgICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgTGlzdDxOb3RpZmljYXRpb25DYXRlZ29yeT4gZ2V0RW5hYmxlZENhdGVnb3JpZXMoKSB7CiAgICAgICAgVXBkYXRlQ2F0ZWdvcmllcygpOwogICAgICAgIHJldHVybiBtRW5hYmxlZENhdGVnb3JpZXM7CiAgICB9CgogICAgcHVibGljIExpc3Q8Tm90aWZpY2F0aW9uQ2F0ZWdvcnk+IGdldERpc2FibGVkQ2F0ZWdvcmllcygpIHsKICAgICAgICBVcGRhdGVDYXRlZ29yaWVzKCk7CiAgICAgICAgcmV0dXJuIG1EaXNhYmxlZENhdGVnb3JpZXM7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIFVwZGF0ZUNhdGVnb3JpZXMoKSB7CiAgICAgICAgbUVuYWJsZWRDYXRlZ29yaWVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgbURpc2FibGVkQ2F0ZWdvcmllcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoKICAgICAgICBmb3IgKE5vdGlmaWNhdGlvbkNhdGVnb3J5IGNhdCA6IE5vdGlmaWNhdGlvbkNhdGVnb3J5LnZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChtUHVzaFN1YnNjcmlwdGlvbnNNYXAuY29udGFpbnNLZXkoY2F0KSkgewogICAgICAgICAgICAgICAgbUVuYWJsZWRDYXRlZ29yaWVzLmFkZChjYXQpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgbURpc2FibGVkQ2F0ZWdvcmllcy5hZGQoY2F0KTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICsgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5ub2g=</text>
