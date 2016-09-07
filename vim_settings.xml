@@ -129,8 +129,8 @@
         <mark key="." line="18" column="33" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" timestamp="1473276616972">
-        <mark key="'" line="41" column="83" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" timestamp="1473278597867">
+        <mark key="'" line="68" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="69" column="58" />
         <mark key="." line="71" column="0" />
@@ -165,11 +165,12 @@
         <mark key="." line="116" column="66" />
         <mark key="^" line="116" column="66" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserModule.java" timestamp="1472585061542">
-        <mark key="[" line="5" column="81" />
-        <mark key="]" line="5" column="81" />
-        <mark key="^" line="5" column="81" />
-        <mark key="." line="5" column="81" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserModule.java" timestamp="1473278743923">
+        <mark key="'" line="36" column="62" />
+        <mark key="[" line="105" column="9" />
+        <mark key="]" line="107" column="40" />
+        <mark key="." line="107" column="40" />
+        <mark key="^" line="107" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/ISystemDumpService.java" timestamp="1469799699007">
         <mark key="[" line="8" column="0" />
@@ -564,11 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="114" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" />
-      <jump line="21" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/MainMenuPresenter.java" />
-      <jump line="56" column="27" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/MainMenuPresenter.java" />
-      <jump line="256" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="125" column="23" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="180" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/MainActivity.java" />
       <jump line="172" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
@@ -664,55 +660,60 @@
       <jump line="89" column="82" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" />
       <jump line="27" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="54" column="68" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/RegistrationRetroService.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/NotificationService.java" />
+      <jump line="34" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserModule.java" />
+      <jump line="87" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserModule.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserModule.java" />
+      <jump line="36" column="62" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserModule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;patchDevice; uuid=&quot; + uuid);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;patchDevice; uuid=&quot; + uuid);</text>
       </register>
       <register name="/" type="4">
-        <text>regist</text>
+        <text encoding="base64">XDxtTm90aWZpY2F0aW9uU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtTG9nZ2VyLmQoVEFHLCAicGF0Y2hEZXZpY2U7IHV1aWQ9IiArIHV1aWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBjaGVjayBmb3IgbnVsbAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBtTG9nZ2VyLmQoVEFHLCAicGF0Y2hEZXZpY2U7IHV1aWQ9IiArIHV1aWQpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBjaGVjayBmb3IgbnVsbAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtTG9nZ2VyLmQoVEFHLCAicGF0Y2hEZXZpY2U7IHV1aWQ9IiArIHV1aWQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgdXVpZCA9IEZpcmViYXNlSW5zdGFuY2VJZC5nZXRJbnN0YW5jZSgpLmdldFRva2VuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBjaGVjayBmb3IgbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgdXVpZCA9IEZpcmViYXNlSW5zdGFuY2VJZC5nZXRJbnN0YW5jZSgpLmdldFRva2VuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>regist</last-search>
+      <last-search encoding="base64">XDxtTm90aWZpY2F0aW9uU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>regist</last-pattern>
+      <last-pattern encoding="base64">XDxtTm90aWZpY2F0aW9uU2VydmljZVw+</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -720,7 +721,6 @@
     </search>
     <history>
       <history-search>
-        <entry>put</entry>
         <entry>\\n</entry>
         <entry>alert_</entry>
         <entry encoding="base64">XDxtTWFpbk1lbnVQcmVzZW50ZXJcPg==</entry>
@@ -740,6 +740,7 @@
         <entry>post</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>regist</entry>
+        <entry encoding="base64">XDxtTm90aWZpY2F0aW9uU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
