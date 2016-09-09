@@ -265,7 +265,7 @@
         <mark key="." line="312" column="159" />
         <mark key="^" line="312" column="159" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/RegistrationRetroService.java" timestamp="1473372481723">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/RegistrationRetroService.java" timestamp="1473434947939">
         <mark key="[" line="57" column="89" />
         <mark key="]" line="58" column="48" />
         <mark key="." line="58" column="48" />
@@ -301,12 +301,13 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" timestamp="1473370414549">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefConfigStore.java" timestamp="1473435319064">
         <mark key="[" line="120" column="46" />
         <mark key="]" line="120" column="58" />
         <mark key="." line="120" column="58" />
         <mark key="^" line="120" column="58" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/DriverService.java" timestamp="1473435595708" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/PassiveSubscription.java" timestamp="1472828256308">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="14" column="0" />
@@ -342,10 +343,10 @@
         <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ApplicationModule.java" timestamp="1473365237484">
-        <mark key="[" line="258" column="77" />
-        <mark key="]" line="258" column="86" />
-        <mark key="." line="258" column="86" />
-        <mark key="^" line="258" column="86" />
+        <mark key="[" line="4" column="77" />
+        <mark key="]" line="4" column="86" />
+        <mark key="." line="4" column="86" />
+        <mark key="^" line="4" column="86" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/IPushSubscription.java" timestamp="1472828134655">
         <mark key="[" line="3" column="0" />
@@ -402,13 +403,6 @@
         <mark key="]" line="37" column="59" />
         <mark key="^" line="37" column="59" />
         <mark key="." line="37" column="59" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" timestamp="1473366011836">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="214" column="56" />
-        <mark key="]" line="214" column="79" />
-        <mark key="." line="214" column="79" />
-        <mark key="^" line="214" column="79" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/MainMenuPresenter.java" timestamp="1473364860540">
         <mark key="[" line="48" column="0" />
@@ -499,7 +493,7 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1470067820763">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1473435568659">
         <mark key="'" line="115" column="24" />
         <mark key="[" line="98" column="27" />
         <mark key="]" line="98" column="47" />
@@ -597,7 +591,7 @@
         <mark key="^" line="135" column="51" />
         <mark key="." line="135" column="51" />
       </file>
-      <file name="/fragment.java" timestamp="1473366466243">
+      <file name="/fragment.java" timestamp="1473434952571">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -704,11 +698,11 @@
       <jump line="127" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>mConfigStore.getUuid()</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>mConfigStore.getUuid()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtTm90aWZpY2F0aW9uU2VydmljZVw+</text>
@@ -717,31 +711,31 @@
         <text encoding="base64">ICAgICAgICBtU2hhcmVkUHJlZkVkaXRvci5zZXRQcmVmZXJlbmNlU3RyaW5nKFBSRUZfS0VZLCBTdHJpbmdVdGlscy5FTVBUWV9TVFJJTkcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgdXNlcklkID0gbUN1cnJlbnRVc2VyLmdldFVzZXJJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoInBhdGNoRGV2aWNlOiB1c2VySWQ9JTFzLCB1dWlkPSUycyIsIHVzZXJJZCwgdXVpZCk7CiAgICAgICAgbUxvZ2dlci5kKFRBRywgbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgdXNlcklkID0gbUN1cnJlbnRVc2VyLmdldFVzZXJJZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtTG9nZ2VyLmQoVEFHLCBtZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoInBhdGNoRGV2aWNlOiB1c2VySWQ9JTFzLCB1dWlkPSUycyIsIHVzZXJJZCwgdXVpZCk7CiAgICAgICAgbUxvZ2dlci5kKFRBRywgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoInBhdGNoRGV2aWNlOiB1c2VySWQ9JTFzLCB1dWlkPSUycyIsIHVzZXJJZCwgdXVpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtTG9nZ2VyLmQoVEFHLCBtZXNzYWdlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgbWVzc2FnZSA9IFN0cmluZy5mb3JtYXQoInBhdGNoRGV2aWNlOiB1c2VySWQ9JTFzLCB1dWlkPSUycyIsIHVzZXJJZCwgdXVpZCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgdXNlcklkID0gbUN1cnJlbnRVc2VyLmdldFVzZXJJZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgdXNlcklkID0gbUN1cnJlbnRVc2VyLmdldFVzZXJJZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
