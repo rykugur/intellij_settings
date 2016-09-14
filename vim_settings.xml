@@ -214,12 +214,12 @@
         <mark key="." line="135" column="83" />
         <mark key="^" line="135" column="83" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1473880250584">
-        <mark key="'" line="70" column="44" />
-        <mark key="[" line="72" column="42" />
-        <mark key="]" line="73" column="7" />
-        <mark key="." line="73" column="7" />
-        <mark key="^" line="73" column="7" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1473881961699">
+        <mark key="'" line="91" column="4" />
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="132" column="35" />
+        <mark key="." line="132" column="35" />
+        <mark key="^" line="132" column="35" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" timestamp="1473697616256">
         <mark key="'" line="29" column="0" />
@@ -534,9 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="20" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
-      <jump line="79" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
-      <jump line="29" column="77" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
       <jump line="63" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
       <jump line="33" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
       <jump line="150" column="46" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/NotificationSettings.java" />
@@ -634,46 +631,49 @@
       <jump line="210" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="36" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
       <jump line="70" column="44" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
+      <jump line="84" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
+      <jump line="91" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>handleGeofenceDewell</text>
       </register>
       <register name="-" type="4">
-        <text>transitionType</text>
+        <text>handleGeofenceDewell</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtUGVybWlzc2lvbnNPYnNlcnZhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtUGVybWlzc2lvbnNPYnNlcnZhYmxlID0gUnhQZXJtaXNzaW9ucy5nZXRJbnN0YW5jZSh0aGlzLmdldEFjdGl2aXR5KCkpCiAgICAgICAgICAgICAgICAucmVxdWVzdChQRVJNSVNTSU9OX0xPQ0FUSU9OKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogdXNlciBlbnRlcmVkIGdlb2ZlbmNlLCBhd2FpdGluZyBkd2VsbCBldmVudDsgZXZlbnQ9IiArIGV2ZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogdXNlciBlbnRlcmVkIGdlb2ZlbmNlLCBhd2FpdGluZyBkd2VsbCBldmVudDsgZXZlbnQ9IiArIGV2ZW50KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogcmVjZWl2ZWQgZHdlbGwgZXZlbnQgZm9yIGdlb2ZlbmNlOyBldmVudD0iICsgZXZlbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdHJhbnNpdGlvblR5cGUgPSBldmVudC5nZXRHZW9mZW5jZVRyYW5zaXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogdXNlciBleGl0ZWQgZ2VvZmVuY2U7IGV2ZW50PSIgKyBldmVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhdGlvbiB0cmlnZ2VyTG9jYXRpb24gPSBldmVudC5nZXRUcmlnZ2VyaW5nTG9jYXRpb24oKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbk5leHQ6IEdQUyBlbmFibGVkPSIgKyBhQm9vbGVhbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5kKFRBRywgIm9uQ29tcGxldGVkOiBnb3QgZ2VvbG9jYXRpb24gZnJvbSBzZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdHJhbnNpdGlvblR5cGUgPSBldmVudC5nZXRHZW9mZW5jZVRyYW5zaXRpb24oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
