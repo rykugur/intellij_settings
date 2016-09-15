@@ -96,6 +96,11 @@
         <mark key="^" line="198" column="117" />
         <mark key="." line="198" column="117" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/request/StopRequest.java" timestamp="1473963983627">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="5" />
+        <mark key="." line="159" column="5" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IDriverListView.java" timestamp="1470254310818">
         <mark key="[" line="11" column="80" />
         <mark key="]" line="12" column="30" />
@@ -214,10 +219,10 @@
         <mark key="." line="135" column="83" />
         <mark key="^" line="135" column="83" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1473956383403">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1473963884438">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" timestamp="1473697616256">
         <mark key="'" line="29" column="0" />
@@ -640,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgTG9jYXRpb24gZXZlbnRMb2NhdGlvbiA9IGV2ZW50LmdldFRyaWdnZXJpbmdMb2NhdGlvbigpOwoKICAgICAgICAvLyBnZXQgdGhlIGxvYWQgYW5kIHN0b3AKICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggdGhpcwogICAgICAgIE15TG9hZERldGFpbCBsb2FkID0gbnVsbDsKICAgICAgICBTdG9wRGV0YWlsIGN1cnJlbnRTdG9wID0gbnVsbDsKCiAgICAgICAgU3RvcFJlcXVlc3Qgc3RvcFJlcXVlc3QgPSBuZXcgU3RvcFJlcXVlc3QoKTsKCiAgICAgICAgdXBkYXRlU3RvcChsb2FkLCBzdG9wUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9wUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFN0b3BSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>@NonNull final BaseLoad load, @NonNull final StopRequest request</text>
       </register>
       <register name="/" type="4">
         <text>stopsumm</text>
@@ -652,31 +657,31 @@
         <text encoding="base64">ICAgIHZvaWQgdXBkYXRlU3RvcChJVXNlciB1c2VyLCBCYXNlTG9hZCBsb2FkLCBTdG9wUmVxdWVzdCBzdG9wLCBNeUxvYWRTdG9wTGlzdGVuZXIgbGlzdGVuZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgTG9jYXRpb24gZXZlbnRMb2NhdGlvbiA9IGV2ZW50LmdldFRyaWdnZXJpbmdMb2NhdGlvbigpOwoKICAgICAgICAvLyBnZXQgdGhlIGxvYWQgYW5kIHN0b3AKICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggdGhpcwogICAgICAgIE15TG9hZERldGFpbCBsb2FkID0gbnVsbDsKICAgICAgICBTdG9wRGV0YWlsIGN1cnJlbnRTdG9wID0gbnVsbDsKCiAgICAgICAgU3RvcFJlcXVlc3Qgc3RvcFJlcXVlc3QgPSBuZXcgU3RvcFJlcXVlc3QoKTsKCiAgICAgICAgdXBkYXRlU3RvcChsb2FkLCBzdG9wUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9wUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFN0b3BSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgTG9jYXRpb24gZXZlbnRMb2NhdGlvbiA9IGV2ZW50LmdldFRyaWdnZXJpbmdMb2NhdGlvbigpOwoKICAgICAgICAvLyBnZXQgdGhlIGxvYWQgYW5kIHN0b3AKICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggdGhpcwogICAgICAgIE15TG9hZERldGFpbCBsb2FkID0gbnVsbDsKICAgICAgICBTdG9wRGV0YWlsIGN1cnJlbnRTdG9wID0gbnVsbDsKICAgICAgICBmb3IgKFN0b3BEZXRhaWwgc3RvcCA6IGxvYWQuZ2V0U3RvcERldGFpbHMoKSkgewogICAgICAgICAgICBpZiAoc3RvcC5nZXROdW1iZXIoKSA9PSBsb2FkLmdldEN1cnJlbnRTdG9wTnVtYmVyKCkpIHsKICAgICAgICAgICAgICAgIGN1cnJlbnRTdG9wID0gc3RvcDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBTdG9wUmVxdWVzdCBzdG9wUmVxdWVzdCA9IG5ldyBTdG9wUmVxdWVzdCgpOwoKICAgICAgICB1cGRhdGVTdG9wKGxvYWQsIHN0b3BSZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYW4gb2JzZXJ2YWJsZSBjaGFpbiB0bzogR2V0TXlMb2FkcyAtPiBGaWx0ZXIgb3V0IGN1cnJlbnQvYWN0aXZlIGxvYWQgLT4gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldEFwcG9pbnRtZW50U3RhcnQoc3RvcFN1bW1hcnkuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LnNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oamVyb2R1cyk6IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIElSZWFjdGl2ZUxvY2F0aW9uU2VydmljZSBtTG9jYXRpb25TZXJ2aWNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUobmV3IE9ic2VydmVyPFZvaWQ+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ29tcGxldGVkKCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRXJyb3IoVGhyb3dhYmxlIGUpIHsKCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk5leHQoVm9pZCBhVm9pZCkgewoKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtR3BzRW5hYmxlZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUobmV3IE9ic2VydmVyPFN0b3BTdW1tYXJ5PigpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlZCgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSBlKSB7CgogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25OZXh0KFN0b3BTdW1tYXJ5IHN0b3BTdW1tYXJ5KSB7CgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
