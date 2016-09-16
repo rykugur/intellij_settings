@@ -34,8 +34,8 @@
         <mark key="." line="4" column="86" />
         <mark key="^" line="4" column="86" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" timestamp="1470330887419">
-        <mark key="'" line="77" column="17" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" timestamp="1474035709789">
+        <mark key="'" line="36" column="13" />
         <mark key="[" line="146" column="117" />
         <mark key="]" line="146" column="130" />
         <mark key="^" line="146" column="130" />
@@ -542,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="50" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="107" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build.gradle" />
       <jump line="55" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
       <jump line="89" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DriverAssignFragment.java" />
@@ -642,6 +641,7 @@
       <jump line="182" column="38" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
       <jump line="205" column="23" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
       <jump line="217" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/StopDetailView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -651,7 +651,7 @@
         <text>filter</text>
       </register>
       <register name="/" type="4">
-        <text>stopsumm</text>
+        <text>setStopDetails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWQgdXBkYXRlU3RvcChJVXNlciB1c2VyLCBCYXNlTG9hZCBsb2FkLCBTdG9wUmVxdWVzdCBzdG9wLCBNeUxvYWRTdG9wTGlzdGVuZXIgbGlzdGVuZXIpOwo=</text>
@@ -688,17 +688,16 @@
       </register>
     </registers>
     <search>
-      <last-search>stopsumm</last-search>
+      <last-search>setStopDetails</last-search>
       <last-offset />
-      <last-pattern>stopsumm</last-pattern>
+      <last-pattern>setStopDetails</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtTm90aWZpY2F0aW9uU2VydmljZVw+</entry>
         <entry>AlertDialog</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25TZXR0aW5nc1w+</entry>
         <entry>FuncN</entry>
@@ -718,6 +717,7 @@
         <entry>factory</entry>
         <entry>StopSummary</entry>
         <entry>stopsumm</entry>
+        <entry>setStopDetails</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
