@@ -23,4 +23,16 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
+  <template name="serdes" value="public static class CustomDeserializer implements JsonDeserializer&lt;$CLASS_NAME$&gt; {&#10;    private static final Gson GSON_INTERNAL_DEFAULT = new Gson();&#10;&#10;    @Override&#10;    public GeofenceList deserialize(JsonElement json, Type type, JsonDeserializationContext context) throws JsonParseException {&#10;        return null;&#10;    }&#10;}&#10;&#10;public static class CustomSerializer implements JsonSerializer&lt;$CLASS_NAME$&gt; {&#10;    private static final Gson GSON_INTERNAL_DEFAULT = new Gson();&#10;&#10;    @Override&#10;    public GeofenceList serialize(JsonElement json, Type type, JsonDeserializationContext context) throws JsonParseException {&#10;        return null;&#10;    }&#10;}&#10;//endregion" description="serdes" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="this.class.getSimpleName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
 </templateSet>
