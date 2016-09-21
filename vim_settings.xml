@@ -72,10 +72,11 @@
         <mark key="." line="259" column="136" />
         <mark key="^" line="259" column="136" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" timestamp="1474388434505">
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" timestamp="1474467551677">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenterTest.java" timestamp="1470769181250">
         <mark key="[" line="127" column="0" />
@@ -499,7 +500,7 @@
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceList.java" timestamp="1474397815935">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceList.java" timestamp="1474467244947">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="12" column="14" />
@@ -576,9 +577,12 @@
         <mark key="." line="69" column="68" />
         <mark key="^" line="69" column="68" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" timestamp="1474466208130">
-        <mark key="'" line="182" column="33" />
-        <mark key="^" line="212" column="91" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" timestamp="1474467208110">
+        <mark key="'" line="72" column="66" />
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="66" />
+        <mark key="." line="36" column="66" />
+        <mark key="^" line="36" column="66" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar!/com/google/android/gms/location/Geofence.class" timestamp="1474397065999" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverPreviewView.java" timestamp="1469550417247">
@@ -609,7 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoginService.java" />
       <jump line="17" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/AndroidManifest.xml" />
       <jump line="79" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutoCheckCallBaseService.java" />
       <jump line="103" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutoCheckCallAlarmService.java" />
@@ -709,13 +712,14 @@
       <jump line="52" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefJobStore.java" />
       <jump line="53" column="41" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefJobStore.java" />
       <jump line="196" column="14" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
+      <jump line="72" column="66" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oamVyb2R1cyk6IHdoZW4gdG8gY2FsbCB0aGlzPyBhZnRlciBzdG9wIHVwZGF0ZWQsIGJ1dCB3ZSBkb24ndCBoYXZlIHRoZSBldmVudC9nZW9mZW5jZXMgaW4gdGhlIG9ic2VydmFibGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Boolean</text>
+        <text>GEOFENCE_REMOVE_TIMEOUT_DEFAULT_SECONDS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtSm9iSGlzdG9yeVw+</text>
@@ -724,32 +728,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5kKFRBRywgImNyZWF0ZUdlb2ZlbmNlczogc3VjY2Vzc2Z1bGx5IGFkZGVkIGdlb2ZlbmNlcyB0byBMb2NhdGlvblNlcnZpY2VzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oamVyb2R1cyk6IHdoZW4gdG8gY2FsbCB0aGlzPyBhZnRlciBzdG9wIHVwZGF0ZWQsIGJ1dCB3ZSBkb24ndCBoYXZlIHRoZSBldmVudC9nZW9mZW5jZXMgaW4gdGhlIG9ic2VydmFibGUK</text>
-      </register>
-      <register name="2" type="4">
-        <text>e observable
-    // observable</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgdm9pZCBsb2FkR2VvZmVuY2VzKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGxvYWRHZW9mZW5jZXMoKSB7CiAgICAgICAgaWYgKG1HZW9mZW5jZUxpc3QgPT0gbnVsbCkgewogICAgICAgICAgICBtR2VvZmVuY2VMaXN0ID0gbmV3IEdlb2ZlbmNlTGlzdCgpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBHZW9mZW5jZUl0ZW0oKSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgUkVRVUVTVF9JRCA9ICJyZXF1ZXN0SWQiOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBhZGQgZ2VvZmVuY2VzL2ludGVudAogICAgICAgIC8vIFRPRE8oamVyb2R1cyk6IGNhY2hlICJnZW9mZW5jZSIgd2hlbiBzdWNjZXNzZnVsbHkgYWRkZWQgdG8gTG9jYXRpb25TZXJ2aWNlcwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgVFJBTlNJVElPTl9UWVBFID0gIiIK</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
