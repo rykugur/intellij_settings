@@ -119,8 +119,8 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/JobsList.java" timestamp="1474467794384">
-        <mark key="'" line="34" column="25" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/JobsList.java" timestamp="1474472055170">
+        <mark key="'" line="24" column="15" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/ISubscriptionRequest.java" timestamp="1473275345144">
         <mark key="[" line="9" column="43" />
@@ -397,12 +397,11 @@
         <mark key="." line="135" column="83" />
         <mark key="^" line="135" column="83" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1474399959086">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1474472931938">
         <mark key="'" line="195" column="14" />
-        <mark key="[" line="195" column="67" />
-        <mark key="]" line="195" column="14" />
-        <mark key="." line="195" column="14" />
-        <mark key="^" line="195" column="14" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AvailableLoadService.java" timestamp="1470067519512">
         <mark key="'" line="107" column="32" />
@@ -618,8 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutoCheckCallBaseService.java" />
-      <jump line="18" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutoCheckCallBaseService.java" />
       <jump line="23" column="45" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateService.java" />
       <jump line="87" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutoCheckCallAlarmService.java" />
@@ -718,55 +715,57 @@
       <jump line="46" column="36" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
       <jump line="84" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
       <jump line="61" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/JobsList.java" />
+      <jump line="24" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/JobsList.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GeofenceItem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBhZGQgZ2VvZmVuY2UgZm9yIG5leHQgc3RvcD8K</text>
       </register>
       <register name="-" type="4">
-        <text>GeofenceItem</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text encoding="base64">XDxKT0JfTElTVFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gcGFyc2Ugc29tZSBmaWVsZHMgYXV0b21hdGljYWxseQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcmRlcwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBhZGQgZ2VvZmVuY2UgZm9yIG5leHQgc3RvcD8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHNlcmRlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VyZGVzICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VyZGVzICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1SZXF1ZXN0SWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBTZXIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1SZXF1ZXN0SWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiB0aGlzXgo=</text>
+        <text encoding="base64">ICAgIEBTZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiB0aGlzXgo=</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search encoding="base64">XDxKT0JfTElTVFw+</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern encoding="base64">XDxKT0JfTElTVFw+</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -774,7 +773,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stopse</entry>
         <entry>fine</entry>
         <entry encoding="base64">XDxtTG9jYXRpb25TZXJ2aWNlXD4=</entry>
         <entry>auto</entry>
@@ -794,6 +792,7 @@
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxtSm9iSGlzdG9yeVw+</entry>
         <entry>store</entry>
+        <entry encoding="base64">XDxKT0JfTElTVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
