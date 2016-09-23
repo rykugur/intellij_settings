@@ -92,8 +92,8 @@
         <mark key="^" line="126" column="61" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserlessViewModule.java" timestamp="1474661544330">
-        <mark key="'" line="49" column="43" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserlessViewModule.java" timestamp="1474661881665">
+        <mark key="'" line="46" column="13" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
@@ -694,7 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" />
       <jump line="20" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/LoadHistoryHandler.java" />
       <jump line="60" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/handlers/LoadHistoryHandler.java" />
       <jump line="46" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" />
@@ -794,6 +793,7 @@
       <jump line="111" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserlessViewModule.java" />
       <jump line="47" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserlessViewModule.java" />
       <jump line="84" column="9" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/component/IViewComponent.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserlessViewModule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -803,7 +803,7 @@
         <text>return null;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtVXNlclw+</text>
+        <text>userless</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBJTG9hZHNSZXRyb1NlcnZpY2UgcHJvdmlkZXNMb2Fkc1JldHJvU2VydmljZShJQ29uZmlnU3RvcmUgY29uZmlnU3RvcmUsIElVc2VyIHVzZXIsIElMb2dnZXIgbG9nZ2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdzb24gZ3NvbikgewogICAgICAgIHJldHVybiBuZXcgTG9hZHNSZXRyb1NlcnZpY2UoY29uZmlnU3RvcmUsIHVzZXIsIGxvZ2dlciwgZ3Nvbik7CiAgICB9Cg==</text>
@@ -840,9 +840,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtVXNlclw+</last-search>
+      <last-search>userless</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtVXNlclw+</last-pattern>
+      <last-pattern>userless</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -850,7 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry encoding="base64">XDxwb2RUZXh0XD4=</entry>
         <entry>summary</entry>
@@ -870,6 +869,7 @@
         <entry>inject</entry>
         <entry encoding="base64">XDxtTG9hZHNSZXRyb1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxtVXNlclw+</entry>
+        <entry>userless</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
