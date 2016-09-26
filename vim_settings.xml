@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" timestamp="1474055364973">
         <mark key="'" line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" timestamp="1474917977547">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="63" column="43" />
-        <mark key="]" line="65" column="27" />
-        <mark key="." line="65" column="27" />
-        <mark key="^" line="65" column="27" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" timestamp="1474919899471">
+        <mark key="'" line="129" column="12" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/DriverEditPresenterTest.java" timestamp="1470769181250">
         <mark key="[" line="127" column="0" />
@@ -688,10 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="69" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
-      <jump line="23" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/SharedPrefGeofenceStore.java" />
-      <jump line="214" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" />
-      <jump line="179" column="88" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
       <jump line="207" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
       <jump line="39" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
       <jump line="181" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/managers/AutomaticStopUpdateManager.java" />
@@ -788,13 +784,17 @@
       <jump line="144" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/JobsList.java" />
       <jump line="62" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/JobsList.java" />
       <jump line="163" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
+      <jump line="65" column="27" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" />
+      <jump line="70" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" />
+      <jump line="130" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/jobs/GeofenceItem.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>removeGeofenceItem</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>removeGeofenceItem</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>userless</text>
@@ -803,31 +803,31 @@
         <text encoding="base64">ICAgICAgICBtR2VvZmVuY2VSZXBvLnNhdmVEYXRhKFBSRUZfR0VPRkVOQ0VfS0VZLCBtR2VvZmVuY2VMaXN0LCBHZW9mZW5jZUxpc3QuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEdlb2ZlbmNlSXRlbT4gZ2VvZmVuY2VzID0gbUdlb2ZlbmNlcy5nZXQobG9hZElkKTsKICAgICAgICBpZiAoTGFuZ1V0aWxzLmhhc0VsZW1lbnRzKGdlb2ZlbmNlcykpIHsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyhqZXJvZHVzKTogCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUdlb2ZlbmNlcy4K</text>
+        <text encoding="base64">ICAgICAgICBJTG9hZHNTZXJ2aWNlLk15TG9hZHNMaXN0ZW5lcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1HZW9mZW5jZVN0b3JlLmNhY2hlR2VvZmVuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBJTG9hZHNTZXJ2aWNlLk15TG9hZHNMaXN0ZW5lcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZ2V0R2VvZmVuY2VzKGludCBsb2FkSWQpOwo=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBHZW9mZW5jZUl0ZW0gYnVpbGRHZW9mZW5jZUl0ZW0oU3RyaW5nIHJlcXVlc3RJZCwgbG9uZyBsYXRpdHVkZSwgbG9uZyBsb25naXR1ZGUsIGludCB0cmFuc2l0aW9uVHlwZSkgewogICAgICAgIHJldHVybiBuZXcgR2VvZmVuY2VJdGVtKCkKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEdlb2ZlbmNlSXRlbT4gZ2VvZmVuY2VzID0gbUdlb2ZlbmNlcy5nZXQobG9hZElkKTsKICAgICAgICBpZiAoTGFuZ1V0aWxzLmhhc0VsZW1lbnRzKGdlb2ZlbmNlcykpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgZ2V0R2VvZmVuY2VzKGludCBsb2FkSWQpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUdlb2ZlbmNlcy4K</text>
       </register>
       <register name=":" type="4">
         <text>171</text>
