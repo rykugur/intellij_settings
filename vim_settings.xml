@@ -285,12 +285,12 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1475776145121">
-        <mark key="'" line="174" column="45" />
-        <mark key="[" line="326" column="130" />
-        <mark key="]" line="326" column="47" />
-        <mark key="." line="326" column="47" />
-        <mark key="^" line="326" column="47" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1475777347088">
+        <mark key="'" line="320" column="0" />
+        <mark key="[" line="198" column="57" />
+        <mark key="]" line="198" column="64" />
+        <mark key="." line="198" column="64" />
+        <mark key="^" line="198" column="64" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/ILoadSummary.java" timestamp="1475177488491">
         <mark key="[" line="38" column="29" />
@@ -686,12 +686,11 @@
         <mark key="^" line="401" column="23" />
         <mark key="." line="401" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1475776147798">
+      <file name="/fragment.java" timestamp="1475776775477">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="23" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="46" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="24" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
@@ -791,55 +790,56 @@
       <jump line="96" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="215" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="174" column="45" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
+      <jump line="320" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlzc3VlcyBkdWUgdG8gcG90ZW50aWFsbHkgbmVlZGluZyBhIGJsb2NraW5nIGNvbm5lY3QgdG8gdGhlIEdvb2dsZUFwaUNsaWVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>one</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>one</text>
       </register>
       <register name="/" type="4">
-        <text>found</text>
+        <text>attempting</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b3NzIHRoaXMgb24gYSBiYWNrZ3JvdW5kIHRocmVhZCwgb3RoZXJ3aXNlIHdlIGNvdWxkIHJ1biBpbnRvIGNvbmN1cnJlbmN5IGFuZCBtYWluIHRocmVhZAogICAgICAgIC8vIGlzc3VlcyBkdWUgdG8gcG90ZW50aWFsbHkgbmVlZGluZyBhIGJsb2NraW5nIGNvbm5lY3QgdG8gdGhlIEdvb2dsZUFwaUNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5kKFRBRyArICJERVJQRkVTVCIsICJvbmUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlzc3VlcyBkdWUgdG8gcG90ZW50aWFsbHkgbmVlZGluZyBhIGJsb2NraW5nIGNvbm5lY3QgdG8gdGhlIEdvb2dsZUFwaUNsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvc3MgdGhpcyBvbiBhIGJhY2tncm91bmQgdGhyZWFkLCBvdGhlcndpc2Ugd2UgY291bGQgcnVuIGludG8gY29uY3VycmVuY3kgYW5kIG1haW4gdGhyZWFkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlzc3VlcyBkdWUgdG8gcG90ZW50aWFsbHkgbmVlZGluZyBhIGJsb2NraW5nIGNvbm5lY3QgdG8gdGhlIEdvb2dsZUFwaUNsaWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJzYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvc3MgdGhpcyBvbiBhIGJhY2tncm91bmQgdGhyZWFkLCBvdGhlcndpc2Ugd2UgY291bGQgcnVuIGludG8gY29uY3VycmVuY3kgYW5kIG1haW4gdGhyZWFkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJzYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBraWNrIHRoaXMgb2ZmIGluIGEgYmFja2dyb3VuZCB0aHJlYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBraWNrIHRoaXMgb2ZmIGluIGEgYmFja2dyb3VuZCB0aHJlYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVHZW9mZW5jZUludGVybmFsKHJlcXVlc3RJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZW1vdmVHZW9mZW5jZUludGVybmFsKHJlcXVlc3RJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVHZW9mZW5jZUludGVybmFsKHJlcXVlc3RJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
       </register>
     </registers>
     <search>
-      <last-search>found</last-search>
+      <last-search>attempting</last-search>
       <last-offset />
-      <last-pattern>found</last-pattern>
+      <last-pattern>attempting</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -865,8 +865,8 @@
         <entry encoding="base64">XDxtZW51TGlzdFZpZXdcPg==</entry>
         <entry>internal</entry>
         <entry>internal error</entry>
-        <entry>attempting</entry>
         <entry>found</entry>
+        <entry>attempting</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
