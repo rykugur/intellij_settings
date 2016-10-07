@@ -50,6 +50,12 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_loads.xml" timestamp="1475787067829">
+        <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1475862843783">
+        <mark key="'" line="164" column="13" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/SubscriptionRequest.java" timestamp="1472668460010">
         <mark key="'" line="103" column="23" />
         <mark key="[" line="95" column="0" />
@@ -739,9 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
-      <jump line="182" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
-      <jump line="310" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="183" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="344" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="38" column="79" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
@@ -839,6 +842,9 @@
       <jump line="22" column="6" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="23" column="6" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
       <jump line="30" column="6" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" />
+      <jump line="393" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="1142" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="164" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -848,7 +854,7 @@
         <text>mSettingsContainer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VyXD4=</text>
+        <text encoding="base64">XDxtTWFwTGlzdFRvZ2dsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN0b3BEZXRhaWwoIlN0b3BEZXRhaWwiLCAic3RvcC9kZXRhaWwvIiksCg==</text>
@@ -885,9 +891,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDxtTWFwTGlzdFRvZ2dsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtTWFwTGlzdFRvZ2dsZVw+</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -895,8 +901,6 @@
     </search>
     <history>
       <history-search>
-        <entry>found</entry>
-        <entry>attempting</entry>
         <entry>subscribeon</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVMb2FkRmlsdGVyXD4=</entry>
@@ -915,6 +919,8 @@
         <entry encoding="base64">XDxMb2FkSGlzdG9yeVw+</entry>
         <entry encoding="base64">XDxQb3N0VHJ1Y2tcPg==</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
+        <entry>ic_map</entry>
+        <entry encoding="base64">XDxtTWFwTGlzdFRvZ2dsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
