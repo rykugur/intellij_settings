@@ -334,8 +334,8 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1476295103065">
-        <mark key="'" line="296" column="60" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1476296307422">
+        <mark key="'" line="201" column="0" />
         <mark key="[" line="198" column="119" />
         <mark key="]" line="199" column="18" />
         <mark key="." line="199" column="18" />
@@ -791,7 +791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="56" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/component/IViewComponent.java" />
       <jump line="139" column="60" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/AndroidManifest.xml" />
       <jump line="29" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_add.xml" />
@@ -891,6 +890,7 @@
       <jump line="110" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="152" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="296" column="60" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -900,7 +900,7 @@
         <text>dwell</text>
       </register>
       <register name="/" type="4">
-        <text>addgeo</text>
+        <text>putextra</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtTG9nZ2VyLmQoVEFHLCAiYnVpbGREd2VsbEdlb2ZlbmNlOiBidWlsZGluZyBkd2VsbCBnZW9mZW5jZTsgbG9hZElkPSIgKyBsb2FkSWQgKyAiLCBzdG9wTnVtPSIgKyBzdG9wTnVtKTsK</text>
@@ -937,17 +937,16 @@
       </register>
     </registers>
     <search>
-      <last-search>addgeo</last-search>
+      <last-search>putextra</last-search>
       <last-offset />
-      <last-pattern>addgeo</last-pattern>
+      <last-pattern>putextra</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZWdpc3RyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxVc2VyVmFsaWRhdGlvblw+</entry>
         <entry encoding="base64">XDxDaGVja0NhbGxMaXN0XD4=</entry>
         <entry encoding="base64">XDxMb2FkSGlzdG9yeVw+</entry>
@@ -967,6 +966,7 @@
         <entry>current</entry>
         <entry>currentstop</entry>
         <entry>addgeo</entry>
+        <entry>putextra</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
