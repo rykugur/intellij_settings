@@ -109,7 +109,7 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" timestamp="1476301608599">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" timestamp="1476301829785">
         <mark key="'" line="83" column="118" />
         <mark key="[" line="138" column="85" />
         <mark key="]" line="139" column="61" />
@@ -332,12 +332,12 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1476301243495">
-        <mark key="'" line="246" column="29" />
-        <mark key="[" line="178" column="70" />
-        <mark key="]" line="179" column="132" />
-        <mark key="." line="179" column="132" />
-        <mark key="^" line="179" column="132" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1476302269130">
+        <mark key="'" line="165" column="43" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="201" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/ILoadSummary.java" timestamp="1475177488491">
         <mark key="[" line="38" column="29" />
@@ -792,7 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/activity_driver_add.xml" />
       <jump line="472" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/values/strings.xml" />
       <jump line="82" column="7" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/AppTutorialActivity.java" />
       <jump line="127" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/AppTutorialActivity.java" />
@@ -892,55 +891,56 @@
       <jump line="201" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
       <jump line="83" column="118" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
       <jump line="246" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
+      <jump line="165" column="43" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogdXNlciBlbnRlcmVkIGdlb2ZlbmNlLCBhd2FpdGluZyBkd2VsbCBldmVudDsgZXZlbnQ9IiArIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>received dwell event for geofence</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>successfully added</text>
+        <text>ignor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogcmVjZWl2ZWQgZHdlbGwgZXZlbnQgZm9yIGdlb2ZlbmNlOyBsb2FkSWQ9IiArIGxvYWRJZCArICIsIHN0b3BOdW09IiArIHN0b3BOdW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdG9wU3VtbWFyeVtdIHN0b3BzID0gbG9hZC5nZXRTdG9wcygpOwogICAgICAgIGlmICghTGFuZ1V0aWxzLmhhc0VsZW1lbnRzKHN0b3BzKSkgewogICAgICAgICAgICBtTG9nZ2VyLmQoVEFHLCAiY3JlYXRlR2VvZmVuY2VzRm9yTG9hZDogbm8gc3RvcCBkZXRhaWxzIG9uIGxvYWQsIGlnbm9yaW5nOyBsb2FkSWQ9IiArIGxvYWRJZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIFN0b3BTdW1tYXJ5IGN1cnJlbnRTdG9wID0gbnVsbDsKICAgICAgICBmb3IgKFN0b3BTdW1tYXJ5IHN0b3AgOiBzdG9wcykgewogICAgICAgICAgICBpZiAoc3RvcC5nZXROdW1iZXIoKSA9PSBsb2FkLmdldEN1cnJlbnRTdG9wTnVtYmVyKCkpIHsKICAgICAgICAgICAgICAgIGN1cnJlbnRTdG9wID0gc3RvcDsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBpZiAoY3VycmVudFN0b3AgPT0gbnVsbCkgewogICAgICAgICAgICBtTG9nZ2VyLmQoVEFHLCAiY3JlYXRlR2VvZmVuY2VzRm9yTG9hZDogY291bGRuJ3QgZ2V0IGN1cnJlbnQgc3RvcCBmcm9tIHN0b3BzLCBpZ25vcmluZzsgbG9hZElkPSIgKyBsb2FkSWQpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogdXNlciBlbnRlcmVkIGdlb2ZlbmNlLCBhd2FpdGluZyBkd2VsbCBldmVudDsgZXZlbnQ9IiArIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogcmVjZWl2ZWQgZHdlbGwgZXZlbnQgZm9yIGdlb2ZlbmNlOyBldmVudD0iICsgZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjcmVhdGVHZW9mZW5jZUZvckxvYWQoQE5vbk51bGwgTXlMb2FkU3VtbWFyeSBsb2FkKSB7CiAgICAgICAgZmluYWwgaW50IGxvYWRJZCA9IGxvYWQuZ2V0TG9hZElkKCk7CgogICAgICAgIG1Mb2dnZXIuZChUQUcsICJjcmVhdGVHZW9mZW5jZUZvckxvYWQ6IGF0dGVtcHRpbmcgdG8gY3JlYXRlIGdlb2ZlbmNlIGZvciBsb2FkPSIgKyBsb2FkSWQpOwogICAgICAgIAogICAgICAgIFN0b3BTdW1tYXJ5W10gc3RvcHMgPSBsb2FkLmdldFN0b3BzKCk7CiAgICAgICAgaWYgKCFMYW5nVXRpbHMuaGFzRWxlbWVudHMoc3RvcHMpKSB7CiAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJjcmVhdGVHZW9mZW5jZXNGb3JMb2FkOiBubyBzdG9wIGRldGFpbHMgb24gbG9hZCwgaWdub3Jpbmc7IGxvYWRJZD0iICsgbG9hZElkKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgU3RvcFN1bW1hcnkgY3VycmVudFN0b3AgPSBudWxsOwogICAgICAgIGZvciAoU3RvcFN1bW1hcnkgc3RvcCA6IHN0b3BzKSB7CiAgICAgICAgICAgIGlmIChzdG9wLmdldE51bWJlcigpID09IGxvYWQuZ2V0Q3VycmVudFN0b3BOdW1iZXIoKSkgewogICAgICAgICAgICAgICAgY3VycmVudFN0b3AgPSBzdG9wOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGlmIChjdXJyZW50U3RvcCA9PSBudWxsKSB7CiAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJjcmVhdGVHZW9mZW5jZXNGb3JMb2FkOiBjb3VsZG4ndCBnZXQgY3VycmVudCBzdG9wIGZyb20gc3RvcHMsIGlnbm9yaW5nOyBsb2FkSWQ9IiArIGxvYWRJZCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKGN1cnJlbnRTdG9wLmdldERlcGFydGVkKCkgIT0gbnVsbCkgewogICAgICAgICAgICBtTG9nZ2VyLmQoVEFHLCAiY3JlYXRlR2VvZmVuY2VGb3JMb2FkOiBjdXJyZW50IHN0b3AgaXMgYWxyZWFkeSBkZXBhcnRlZCwgaWdub3Jpbmc7IGxvYWRJZD0iICsgbG9hZCArICIsIHN0b3BOdW09IiArIGN1cnJlbnRTdG9wLmdldE51bWJlcigpKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2dnZXIuZChUQUcsICJvbkhhbmRsZUludGVudDogcmVjZWl2ZWQgZHdlbGwgZXZlbnQgZm9yIGdlb2ZlbmNlOyBldmVudD0iICsgZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBHZW9mZW5jZSBnZW9mZW5jZSA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtR2VvZmVuY2VTZXJ2aWNlLnJlbW92ZUdlb2ZlbmNlKGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudFN0b3AuZ2V0QXJyaXZlZCgpID09IG51bGwpICB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5kKFRBRywgImJ1aWxkR2VvZmVuY2VzOiBidWlsZGluZyBkd2VsbCBnZW9mZW5jZTsgbG9hZElkPSIgKyBsb2FkSWQgKyAiLCBzdG9wTnVtPSIgKyBzdG9wLmdldE51bWJlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2VvZmVuY2UgPSBidWlsZER3ZWxsR2VvZmVuY2UobG9hZCwgY3VycmVudFN0b3AuZ2V0TnVtYmVyKCksICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5kKFRBRywgImJ1aWxkR2VvZmVuY2VzOiBidWlsZGluZyBleGl0IGdlb2ZlbmNlOyBsb2FkSWQ9IiArIGxvYWRJZCArICIsIHN0b3BOdW09IiArIHN0b3AuZ2V0TnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtTG9nZ2VyLmQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
       </register>
     </registers>
     <search>
-      <last-search>successfully added</last-search>
+      <last-search>ignor</last-search>
       <last-offset />
-      <last-pattern>successfully added</last-pattern>
+      <last-pattern>ignor</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -948,7 +948,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2FkSGlzdG9yeVw+</entry>
         <entry encoding="base64">XDxQb3N0VHJ1Y2tcPg==</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>ic_map</entry>
@@ -968,6 +967,7 @@
         <entry>putextra</entry>
         <entry>already marked</entry>
         <entry>successfully added</entry>
+        <entry>ignor</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
