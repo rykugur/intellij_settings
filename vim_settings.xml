@@ -124,7 +124,7 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" timestamp="1476799545171">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" timestamp="1476813645119">
         <mark key="'" line="97" column="118" />
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -170,6 +170,7 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/AuthorizationBase.java" timestamp="1476813494523" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/notifications/ISubscriptionRequest.java" timestamp="1473275345144">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="11" column="24" />
@@ -222,12 +223,6 @@
         <mark key="]" line="42" column="61" />
         <mark key="." line="42" column="61" />
         <mark key="^" line="42" column="61" />
-      </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/UserModule.java" timestamp="1476804205421">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IInTransitUpdateView.java" timestamp="1473198068693">
         <mark key="[" line="27" column="0" />
@@ -498,6 +493,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="50" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/PostTruckPreviewView.java" timestamp="1476811842527">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="2" column="66" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/Installation.java" timestamp="1473706636833">
         <mark key="[" line="29" column="65" />
@@ -841,6 +842,11 @@
         <mark key="^" line="135" column="51" />
         <mark key="." line="135" column="51" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IPostTruckPreviewView.java" timestamp="1476811841060">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/LoadUtils.java" timestamp="1475177034074">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="401" column="0" />
@@ -956,7 +962,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgc3RhdGljIGNsYXNzIFZpZXdzIGV4dGVuZHMgQmFzZVZpZXdzIHsKICAgICAgICBwcm90ZWN0ZWQgVmlld3MoQE5vbk51bGwgVmlldyByb290KSB7CiAgICAgICAgICAgIHN1cGVyKHJvb3QpOwogICAgICAgIH0KICAgIH0KICAgIAogICAgcHJpdmF0ZSBWaWV3cyBtVmlld3M7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
@@ -968,31 +974,31 @@
         <text encoding="base64">ICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2JsYWNrIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjFkcCI+PC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgc3RhdGljIGNsYXNzIFZpZXdzIGV4dGVuZHMgQmFzZVZpZXdzIHsKICAgICAgICBwcm90ZWN0ZWQgVmlld3MoQE5vbk51bGwgVmlldyByb290KSB7CiAgICAgICAgICAgIHN1cGVyKHJvb3QpOwogICAgICAgIH0KICAgIH0KICAgIAogICAgcHJpdmF0ZSBWaWV3cyBtVmlld3M7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggb25UcnVja0NsaWNrZWQgaW1wbAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggb25Qb3N0VHJ1Y2tDbGlja2VkIGltcGwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmlld3MgbVZpZXdzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3VXRpbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggb25UcnVja0NsaWNrZWQgaW1wbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQb3N0VHJ1Y2tBY3Rpdml0eS5zdGFydFBvc3RUcnVja0FjdGl2aXR5KE1haW5BY3Rpdml0eS50aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggb25Qb3N0VHJ1Y2tDbGlja2VkIGltcGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbnQK</text>
+        <text encoding="base64">ICAgICAgICBWaWV3VXRpbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JQcmltYXJ5Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQb3N0VHJ1Y2tBY3Rpdml0eS5zdGFydFBvc3RUcnVja0FjdGl2aXR5KE1haW5BY3Rpdml0eS50aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
