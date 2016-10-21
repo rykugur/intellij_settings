@@ -132,12 +132,12 @@
         <mark key="^" line="9" column="86" />
         <mark key="." line="9" column="86" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/PostTruckListFragment.java" timestamp="1477069871441">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/PostTruckListFragment.java" timestamp="1477076107268">
         <mark key="'" line="109" column="77" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="111" column="7" />
+        <mark key="[" line="149" column="65" />
+        <mark key="]" line="149" column="76" />
+        <mark key="." line="149" column="76" />
+        <mark key="^" line="149" column="76" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/IDriverEditCallback.java" timestamp="1470672958059">
         <mark key="[" line="2" column="17" />
@@ -498,7 +498,7 @@
         <mark key="^" line="198" column="117" />
         <mark key="." line="198" column="117" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1477069914016">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1477075692280">
         <mark key="'" line="173" column="32" />
         <mark key="[" line="211" column="64" />
         <mark key="]" line="211" column="64" />
@@ -1058,11 +1058,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/TruckViewModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBvblNhdmVJbnN0YW5jZWRTdGF0ZSBhbmQgc2F2ZWRJbnN0YW5jZVN0YXRlLCB0cnVja3MgbGlzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>putParcelable(INTENT_EXTRA_TRUCKS_KEY, mTrucks.toArray());</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJTlRFTlRfRVhUUkFfRFJJVkVSXD4=</text>
@@ -1071,31 +1071,31 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZShKc29uLkNJVFkpCiAgICBwcml2YXRlIFN0cmluZyBtQ2l0eTsKICAgIEBTZXJpYWxpemVkTmFtZShKc29uLlNUQVRFKQogICAgcHJpdmF0ZSBTdHJpbmcgbVN0YXRlOwogICAgQFNlcmlhbGl6ZWROYW1lKEpzb24uQ09VTlRSWSkKICAgIHByaXZhdGUgU3RyaW5nIG1Db3VudHJ5OwogICAgQFNlcmlhbGl6ZWROYW1lKEpzb24uR0VPTE9DQVRJT04pCiAgICBwcml2YXRlIEdlb2xvY2F0aW9uIG1HZW9sb2NhdGlvbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJjZWwuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBvblNhdmVJbnN0YW5jZWRTdGF0ZSBhbmQgc2F2ZWRJbnN0YW5jZVN0YXRlLCB0cnVja3MgbGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUcnVja1ZpZXdNb2RlbChQYXJjZWwgaW4pIHsKICAgICAgICBtV3JhcHBlZFRydWNrID0gaW4ucmVhZFBhcmNlbGFibGUoVHJ1Y2suY2xhc3MuZ2V0Q2xhc3NMb2FkZXIoKSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZWRJbnN0YW5jZVN0YXRlLmdldHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBvblNhdmVJbnN0YW5jZWRTdGF0ZSBhbmQgc2F2ZWRJbnN0YW5jZVN0YXRlLCB0cnVja3MgbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzT25TYXZlSW5zdGFuY2VTdGF0ZUJlZW5DYWxsZWQoKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBvblNhdmVJbnN0YW5jZWRTdGF0ZSBhbmQgc2F2ZWRJbnN0YW5jZVN0YXRlLCB0cnVja3MgbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBuYXZpZ2F0ZVRvVHJ1Y2tEZXRhaWwgaW1wbAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzT25TYXZlSW5zdGFuY2VTdGF0ZUJlZW5DYWxsZWQoKSkgewogICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
