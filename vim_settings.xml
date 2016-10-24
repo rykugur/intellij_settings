@@ -178,12 +178,12 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/PostTruckPresenter.java" timestamp="1477334765956">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/PostTruckPresenter.java" timestamp="1477336405017">
         <mark key="'" line="28" column="46" />
-        <mark key="[" line="235" column="25" />
-        <mark key="]" line="236" column="50" />
-        <mark key="." line="236" column="50" />
-        <mark key="^" line="236" column="50" />
+        <mark key="[" line="245" column="26" />
+        <mark key="]" line="245" column="33" />
+        <mark key="." line="245" column="33" />
+        <mark key="^" line="245" column="33" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/account/PostTruckUserInputs.java" timestamp="1477324727677">
         <mark key="'" line="14" column="46" />
@@ -537,12 +537,12 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="12" column="56" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/Truck.java" timestamp="1477325289164">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/Truck.java" timestamp="1477335090112">
         <mark key="'" line="81" column="0" />
-        <mark key="[" line="274" column="62" />
-        <mark key="]" line="275" column="42" />
-        <mark key="." line="275" column="42" />
-        <mark key="^" line="275" column="42" />
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="18" />
+        <mark key="." line="103" column="18" />
+        <mark key="^" line="103" column="18" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IPostTruckListPresenter.java" timestamp="1476909275984">
         <mark key="[" line="10" column="25" />
@@ -1069,11 +1069,11 @@
       <jump line="242" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>boolean</text>
       </register>
       <register name="-" type="4">
-        <text>destination</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmFpbGFibGVXZWlnaHRcPg==</text>
@@ -1082,31 +1082,31 @@
         <text encoding="base64">ICAgICAgICBUcnVja0xvY2F0aW9uIGRlc3RpbmF0aW9uID0gVHJ1Y2tMb2NhdGlvbi5idWlsZGVyKCkKICAgICAgICAgICAgICAgIC5nZW9sb2NhdGlvbihuZXcgR2VvbG9jYXRpb24oaW5wdXRzLmdldERlc3RpbmF0aW9uKCkuZ2V0TGF0aXR1ZGUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRzLmdldERlc3RpbmF0aW9uKCkuZ2V0TG9uZ2l0dWRlKCkpKQogICAgICAgICAgICAgICAgLmNpdHkoaW5wdXRzLmdldERlc3RpbmF0aW9uKCkuZ2V0Q2l0eSgpKQogICAgICAgICAgICAgICAgLnN0YXRlKGlucHV0cy5nZXREZXN0aW5hdGlvbigpLmdldFN0YXRlQWJicmV2aWF0aW9uKCkpCiAgICAgICAgICAgICAgICAuY291bnRyeShDT1VOVFJZKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBkZXN0aW5hdGlvbkxvY2F0aW9uIE9SIGRlc3RpbmF0aW9uU3RhdGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBmaW5pc2ggYnVpbGRpbmcgdGhlIFRydWNrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmVtcHR5TG9jYXRpb24ob3JpZ2luKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBzdXBwb3J0IGRlc3RpbmF0aW9uU3RhdGVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKHRydWNrICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gaWYgd2UgaGF2ZSBhIG5vbi1udWxsIHRydWNrLCBpdCBjYW4gYmUgYXNzdW1lZCB3ZSdyZSBkb2luZyBhbiB1cGRhdGUgYW5kIHNob3VsZAogICAgICAgICAgICAvLyBpbmNsdWRlIHRoZSBpZC4KICAgICAgICAgICAgYnVpbGRlci5pZCh0cnVjay5nZXRJZCgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUcnVja0xvY2F0aW9uIGRlc3RpbmF0aW9uTG9jYXRpb24gPSBUcnVja0xvY2F0aW9uLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLmdlb2xvY2F0aW9uKG5ldyBHZW9sb2NhdGlvbihpbnB1dHMuZ2V0RGVzdGluYXRpb24oKS5nZXRMYXRpdHVkZSgpLAogICAgICAgICAgICAgICAgICAgICAgICBpbnB1dHMuZ2V0RGVzdGluYXRpb24oKS5nZXRMb25naXR1ZGUoKSkpCiAgICAgICAgICAgICAgICAuY2l0eShpbnB1dHMuZ2V0RGVzdGluYXRpb24oKS5nZXRDaXR5KCkpCiAgICAgICAgICAgICAgICAuc3RhdGUoaW5wdXRzLmdldERlc3RpbmF0aW9uKCkuZ2V0U3RhdGVBYmJyZXZpYXRpb24oKSkKICAgICAgICAgICAgICAgIC5jb3VudHJ5KENPVU5UUlkpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dHMuaXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZW9sb2NhdGlvbihuZXcgR2VvbG9jYXRpb24oaW5wdXRzLmdldE9yaWdpbigpLmdldExhdGl0dWRlKCksCiAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0cy5nZXRPcmlnaW4oKS5nZXRMb25naXR1ZGUoKSkpCiAgICAgICAgICAgICAgICAuY2l0eShpbnB1dHMuZ2V0T3JpZ2luKCkuZ2V0Q2l0eSgpKQogICAgICAgICAgICAgICAgLnN0YXRlKGlucHV0cy5nZXRPcmlnaW4oKS5nZXRTdGF0ZUFiYnJldmlhdGlvbigpKQogICAgICAgICAgICAgICAgLmNvdW50cnkoQ09VTlRSWSkKICAgICAgICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUcnVja0xvY2F0aW9uIG9yaWdpbiA9IFRydWNrTG9jYXRpb24uYnVpbGRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBzdXBwb3J0IGRlc3RpbmF0aW9uU3RhdGVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLmVtcHR5RGF0ZVRpbWUoaW5wdXRzLikK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
