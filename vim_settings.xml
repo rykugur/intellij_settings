@@ -501,11 +501,11 @@
         <mark key="^" line="198" column="117" />
         <mark key="." line="198" column="117" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1477334315270">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="546" column="0" />
-        <mark key="]" line="546" column="0" />
-        <mark key="." line="546" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1477339884213">
+        <mark key="'" line="130" column="28" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/DevicePatchRequest.java" timestamp="1473275359932">
         <mark key="[" line="2" column="33" />
@@ -780,7 +780,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="27" column="71" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Mode.java" timestamp="1477081916638" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/Mode.java" timestamp="1477339940428">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/SystemDump.java" timestamp="1469798504409">
         <mark key="'" line="3" column="51" />
         <mark key="[" line="39" column="40" />
@@ -968,11 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
-      <jump line="199" column="69" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
-      <jump line="209" column="69" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
-      <jump line="218" column="69" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
-      <jump line="229" column="48" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
       <jump line="239" column="69" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
       <jump line="248" column="69" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
       <jump line="258" column="69" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/LoadDetailPresenterTest.java" />
@@ -1068,55 +1067,60 @@
       <jump line="254" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
       <jump line="446" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
       <jump line="242" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
+      <jump line="123" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
+      <jump line="458" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
+      <jump line="642" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
+      <jump line="643" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
+      <jump line="122" column="28" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>mTruck.getEquipmentCode()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdmFpbGFibGVXZWlnaHRcPg==</text>
+        <text encoding="base64">XDxlcXVpcG1lbnRDb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVByZXNlbnRhdGlvbiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgbVByZXNlbnRhdGlvbi5zaG93UHJvZ3Jlc3MoZmFsc2UpOwogICAgICAgIG1QcmVzZW50YXRpb24uc2hvd1N1Ym1pdEJ1dHRvbih0cnVlKTsKICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dQb3N0VHJ1Y2tGb3JtKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNT0RFX1ZBTl9SQURJT19JRFggPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vcmVnaW9uIFBvc3RUcnVja0xpc3RlbmVyCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uUG9zdFRydWNrU3VjY2VzcygpIHsKICAgICAgICBpZiAobVByZXNlbnRhdGlvbiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgbVByZXNlbnRhdGlvbi5zaG93UHJvZ3Jlc3MoZmFsc2UpOwogICAgICAgIG1QcmVzZW50YXRpb24uc2hvd0NvbXBsZXRlZCgpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Qb3N0VHJ1Y2tGYWlsdXJlKCkgewogICAgICAgIGlmIChtUHJlc2VudGF0aW9uID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBtUHJlc2VudGF0aW9uLnNob3dQcm9ncmVzcyhmYWxzZSk7CiAgICAgICAgbVByZXNlbnRhdGlvbi5zaG93U3VibWl0QnV0dG9uKHRydWUpOwogICAgICAgIG1QcmVzZW50YXRpb24uc2hvd1Bvc3RUcnVja0Zvcm0odHJ1ZSk7CiAgICB9CiAgICAvL2VuZHJlZ2lvbgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQb3N0VHJ1Y2tTZXJ2aWNlLlBvc3RUcnVja0xpc3RlbmVyIHsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTW9kZSBmcm9tTW9kZVN0cmluZyhTKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJPTk5FWFQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXF1aXBtZW50Q29kZXMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJPTkNPTVAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVxdWlwbWVudENvZGUgPSBtVHJ1Y2suZ2V0RXF1aXBtZW50Q29kZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJPTkVSUk8iKTsK</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBNb2RlIGZyb20oU3RyaW5nIG1vZGVTdHJpbmcpIHsKICAgICAgICBmb3IgKE1vZGUgbW9kZSA6IHZhbHVlcygpKSB7CiAgICAgICAgICAgIGlmIChtb2RlLmdldE1vZGVTdHJpbmcoKS5lcXVhbHMobW9kZVN0cmluZykpIHsKICAgICAgICAgICAgICAgIHJldHVybiBtb2RlOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiBVbmtub3duOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobW9kZVN0cmluZyA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBVbmtub3duOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWxvZ2cK</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlU3RyaW5nID09IG4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>30</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdmFpbGFibGVXZWlnaHRcPg==</last-search>
+      <last-search encoding="base64">XDxlcXVpcG1lbnRDb250YWluZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdmFpbGFibGVXZWlnaHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlcXVpcG1lbnRDb250YWluZXJcPg==</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1124,7 +1128,6 @@
     </search>
     <history>
       <history-search>
-        <entry>padding</entry>
         <entry encoding="base64">XDxqc29uRWxlbWVudFw+</entry>
         <entry>check</entry>
         <entry>createGeofences</entry>
@@ -1144,6 +1147,7 @@
         <entry encoding="base64">XDxtRGVzdGluYXRpb25cPg==</entry>
         <entry encoding="base64">XDxtT3JpZ2luXD4=</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVXZWlnaHRcPg==</entry>
+        <entry encoding="base64">XDxlcXVpcG1lbnRDb250YWluZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>115</entry>
