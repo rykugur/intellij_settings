@@ -423,10 +423,10 @@
         <mark key="^" line="94" column="51" />
         <mark key="." line="94" column="51" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" timestamp="1477430566947">
-        <mark key="'" line="114" column="24" />
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="333" column="26" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" timestamp="1477513700730">
+        <mark key="'" line="126" column="58" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="115" column="49" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/endpoints/NotificationsApi.java" timestamp="1473707668721">
         <mark key="'" line="23" column="0" />
@@ -507,12 +507,12 @@
         <mark key="^" line="198" column="117" />
         <mark key="." line="198" column="117" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1477499487178">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1477513673695">
         <mark key="'" line="653" column="40" />
-        <mark key="[" line="485" column="44" />
-        <mark key="]" line="486" column="74" />
-        <mark key="." line="486" column="74" />
-        <mark key="^" line="486" column="74" />
+        <mark key="[" line="197" column="55" />
+        <mark key="]" line="197" column="62" />
+        <mark key="." line="197" column="62" />
+        <mark key="^" line="197" column="62" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/DevicePatchRequest.java" timestamp="1473275359932">
         <mark key="[" line="2" column="33" />
@@ -979,10 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/Truck.java" />
-      <jump line="42" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
-      <jump line="41" column="41" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadDetail.java" />
-      <jump line="46" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadStopDetail.java" />
       <jump line="56" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/MyLoadStopDetail.java" />
       <jump line="270" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/Truck.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/Truck.java" />
@@ -1079,55 +1075,59 @@
       <jump line="7" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/EquipmentCode.java" />
       <jump line="34" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/EquipmentCode.java" />
       <jump line="403" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/Truck.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
+      <jump line="115" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
+      <jump line="123" column="52" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
+      <jump line="126" column="58" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/DriverEditActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AN</text>
+        <text>Context</text>
       </register>
       <register name="-" type="4">
-        <text>AN</text>
+        <text>Context</text>
       </register>
       <register name="/" type="4">
-        <text>builder</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxvZ2dlci5lKFRBRywgImJ1aWxkVHJ1Y2tGcm9tSW5wdXRzOiBleGNlcHRpb24gd2hpbGUgYnVpbGRpbmcgdHJ1Y2ssIGNvdWxkbid0IHBhcnNlIGxlbmd0aCIsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudChjb250ZXh0LCBEcml2ZXJFZGl0QWN0aXZpdHkuY2xhc3MpOwogICAgICAgIGludGVudC5wdXRFeHRyYShJTlRFTlRfRVhUUkFfRFJJVkVSLCBkcml2ZXIpOwogICAgICAgIGNvbnRleHQuc3RhcnRBY3Rpdml0eUZvclJlc3VsdChpbnRlbnQsIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRDb2RlIGVxdWlwbWVudENvZGUgPSB0cnVjay5nZXRFcXVpcG1lbnRDb2RlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRDb2RlIGVxdWlwbWVudENvZGUgPSB0cnVjay5nZXRFcXVpcG1lbnRDb2RlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXF1aXBtZW50Q29kZSAhPSBFcXVpcG1lbnRDb2RlLlVOS05PV04pIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXF1aXBtZW50Q29kZSAhPSBFcXVpcG1lbnRDb2RlLlVOS05PV04pIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QE5lZWRzUmVmYWN0b3IoZXhwbGFuYXRpb24gPSAiVGhpcyBpcyBhIGhhY2suIER1ZSB0byBvdXIgc291cmNlIHN5c3RlbXMgIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBuZWVkIHNvbWUgdHlwZSBvZiBtYXBwZXIgZm9yIGVxdWlwbWVudCBkZXRhaWxzIHRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFcXVpcG1lbnRDb2RlIGVxdWlwbWVudENvZGUgPSB0cnVjay5nZXRFcXVpcG1lbnRDb2RlKCk7Cg==</text>
+        <text encoding="base64">QE5lZWRzUmVmYWN0b3IoZXhwbGFuYXRpb24gPSAiVGhpcyBpcyBhIGhhY2suIER1ZSB0byBvdXIgc291cmNlIHN5c3RlbXMgIikK</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
       </register>
     </registers>
     <search>
-      <last-search>builder</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>builder</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1135,7 +1135,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwsXD4=</entry>
         <entry encoding="base64">XDx2ZXJpZnlaZXJvSW50ZXJhY3Rpb25zXD4=</entry>
         <entry>removing geo</entry>
         <entry>dwell</entry>
@@ -1155,6 +1154,7 @@
         <entry>hack</entry>
         <entry>progress</entry>
         <entry>builder</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>184</entry>
