@@ -237,11 +237,11 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1478199515442">
-        <mark key="'" line="308" column="49" />
-        <mark key="[" line="55" column="54" />
-        <mark key="]" line="55" column="56" />
-        <mark key="." line="55" column="56" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" timestamp="1478202083305">
+        <mark key="'" line="217" column="8" />
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="." line="364" column="0" />
         <mark key="^" line="55" column="56" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/load/ILoadSummary.java" timestamp="1475177488491">
@@ -416,7 +416,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1478201276021" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateIntentService.java" timestamp="1478202046840" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/container_destination_search.xml" timestamp="1477585403620">
         <mark key="[" line="38" column="59" />
         <mark key="]" line="38" column="34" />
@@ -632,7 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
       <jump line="216" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
       <jump line="157" column="50" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
@@ -732,55 +731,56 @@
       <jump line="27" column="23" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/CachedUserService.java" />
       <jump line="225" column="47" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" />
       <jump line="307" column="49" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
+      <jump line="217" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateGeofenceService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DateTimeUtils.convertToMilliseconds(0, 15, 0, 0);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpcmUgYW4gZXZlbnQgd2hlbiB0aGUgdXNlciBlbnRlcnMgdGhlIGdlb2ZlbmNlLCBidXQgb25seSBmb3IgbG9nZ2luZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>DateTimeUtils.convertToMilliseconds(0, 15, 0, 0);</text>
+        <text>|Geofence.GEOFENCE_TRANSITION_ENTER</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ29udGV4dFw+</text>
+        <text>added geofen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBHRU9GRU5DRV9USU1FX0RXRUxMX01TID0gRGF0ZVRpbWVVdGlscy5jb252ZXJ0VG9NaWxsaXNlY29uZHMoMCwgMTUsIDAsIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpcmUgYW4gZXZlbnQgd2hlbiB0aGUgdXNlciBlbnRlcnMgdGhlIGdlb2ZlbmNlLCBidXQgb25seSBmb3IgbG9nZ2luZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2Fkc1JldHJvU2VydmljZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJ1dCB3ZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Mb2Fkc1JldHJvU2VydmljZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJ1dCB3ZSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0UmVzcG9uc2UoKS5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RvcERldGFpbCBtQ3VycmVudFN0b3A7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0UmVzcG9uc2UoKS5nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>197</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ29udGV4dFw+</last-search>
+      <last-search>added geofen</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ29udGV4dFw+</last-pattern>
+      <last-pattern>added geofen</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -788,9 +788,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mNetworkLogger =</entry>
-        <entry>remove</entry>
-        <entry>asynctask</entry>
         <entry encoding="base64">XDxvcmlnaW5hbFR5cGVcPg==</entry>
         <entry>tutorial</entry>
         <entry>\\n</entry>
@@ -808,6 +805,9 @@
         <entry encoding="base64">XDxtYXBDb250YWluZXJcPg==</entry>
         <entry>permi</entry>
         <entry encoding="base64">XDxtQ29udGV4dFw+</entry>
+        <entry>successfully added</entry>
+        <entry>added geof</entry>
+        <entry>added geofen</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
