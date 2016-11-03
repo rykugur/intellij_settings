@@ -514,6 +514,11 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/LoadsService.java" timestamp="1478187996196">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/NotificationCategory.java" timestamp="1472237908600">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -729,7 +734,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RvcERldGFpbCBtQ3VycmVudFN0b3A7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0UmVzcG9uc2UoKS5nZXQK</text>
       </register>
       <register name="-" type="4">
         <text>(mLoadSummary);</text>
@@ -741,34 +746,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBpcyBleHBvc2VkIHByaW1hcmlseSBmb3IgdGhlIHVzZSBjYXNlIHdoZXJlIHRoZSB1c2VyIGhhcyBqdXN0IGluaXRpYXRlZCBhbmQgc3VjY2Vzc2Z1bGx5IGNvbXBsZXRlZAogICAgICogYSBtYW51YWwgbG9hZC9zdG9wIHVwZGF0ZS4KICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RvcERldGFpbCBtQ3VycmVudFN0b3A7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuZ2V0UmVzcG9uc2UoKS5nZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RvcERldGFpbCBtQ3VycmVudFN0b3A7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdCB0aGlzIHBvaW50IHdlIHNob3VsZCBoYXZlIGEgZnJlc2ggbG9hZCBkZXRhaWwgYWZ0ZXIgdXBkYXRlLCBzbyBjcmVhdGUgZ2VvZmVuY2VzIGZvciB0aGlzIGxvYWQvc3RvcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBhdCB0aGlzIHBvaW50IHdlIHNob3VsZCBoYXZlIGEgZnJlc2ggbG9hZCBkZXRhaWwgYWZ0ZXIgdXBkYXRlLCBzbyBjcmVhdGUgZ2VvZmVuY2VzIGZvciB0aGlzIGxvYWQvc3RvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoaXMgaXMgZXhwb3NlZCBwcmltYXJpbHkgZm9yIHRoZSB1c2UgY2FzZSB3aGVyZSB0aGUgdXNlciBoYXMganVzdCBpbml0aWF0ZWQgYW5kIHN1Y2Nlc3NmdWxseSBjb21wbGV0ZWQKICAgICAqIGEgbWFudWFsIGxvYWQvc3RvcCB1cGRhdGUuCiAgICAgKi8KICAgIHZvaWQgY3JlYXRlR2VvZmVuY2VzRm9yTG9hZChJTG9hZERldGFpbCBsb2FkKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBhdCB0aGlzIHBvaW50IHdlIHNob3VsZCBoYXZlIGEgZnJlc2ggbG9hZCBkZXRhaWwgYWZ0ZXIgdXBkYXRlLCBzbyBjcmVhdGUgZ2VvZmVuY2VzIGZvciB0aGlzIGxvYWQvc3RvcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtTG9hZERldGFpbC5nZXR3cgo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoaXMgaXMgZXhwb3NlZCBwcmltYXJpbHkgZm9yIHRoZSB1c2UgY2FzZSB3aGVyZSB0aGUgdXNlciBoYXMganVzdCBpbml0aWF0ZWQgYW5kIHN1Y2Nlc3NmdWxseSBjb21wbGV0ZWQKICAgICAqIGEgbWFudWFsIGxvYWQvc3RvcCB1cGRhdGUuCiAgICAgKi8KICAgIHZvaWQgY3JlYXRlR2VvZmVuY2VzRm9yTG9hZChJTG9hZERldGFpbCBsb2FkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhdCB0aGlzIHBvaW50IHdlIHNob3VsZCBoYXZlIGEgZnJlc2ggbG9hZCBkZXRhaWwgYWZ0ZXIgdXBkYXRlLCBzbyBjcmVhdGUgZ2VvZmVuY2VzIGZvciB0aGlzIGxvYWQvc3RvcAo=</text>
+        <text encoding="base64">ICAgICAgICBtTG9hZERldGFpbC5nZXR3cgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAvLyBhdCB0aGlzIHBvaW50IHdlIHNob3VsZCBoYXZlIGEgZnJlc2ggbG9hZCBkZXRhaWwgYWZ0ZXIgdXBkYXRlLCBzbyBjcmVhdGUgZ2VvZmVuY2VzIGZvciB0aGlzIGxvYWQvc3RvcAo=</text>
       </register>
       <register name=":" type="4">
-        <text>189</text>
+        <text>263</text>
       </register>
     </registers>
     <search>
@@ -804,7 +809,6 @@
         <entry encoding="base64">XDxtQ29udGV4dFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>184</entry>
         <entry>123</entry>
         <entry encoding="base64">JzwsJz5ub2g=</entry>
         <entry>329</entry>
@@ -824,6 +828,7 @@
         <entry>156</entry>
         <entry>noh</entry>
         <entry>189</entry>
+        <entry>263</entry>
       </history-cmd>
       <history-expr />
       <history-input />
