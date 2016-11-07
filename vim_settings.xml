@@ -239,10 +239,10 @@
         <mark key="^" line="64" column="39" />
         <mark key="." line="64" column="39" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LogoutAlertFragment.java" timestamp="1477430295111">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="78" column="19" />
-        <mark key="]" line="78" column="26" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LogoutAlertFragment.java" timestamp="1478538077677">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="55" />
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
@@ -468,6 +468,13 @@
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenter.java" timestamp="1478021891653">
         <mark key="'" line="204" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/TenderedLoadAlertFragment.java" timestamp="1478538169198">
+        <mark key="'" line="42" column="41" />
+        <mark key="[" line="39" column="114" />
+        <mark key="]" line="39" column="114" />
+        <mark key="." line="39" column="114" />
+        <mark key="^" line="39" column="114" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/endpoints/NotificationsApi.java" timestamp="1473707668721">
         <mark key="'" line="23" column="0" />
@@ -1017,8 +1024,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
-      <jump line="110" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
       <jump line="131" column="39" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
       <jump line="182" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
       <jump line="196" column="105" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
@@ -1117,46 +1122,48 @@
       <jump line="97" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
       <jump line="157" column="17" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
       <jump line="112" column="34" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/SettingsNotificationActivity.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LogoutAlertFragment.java" />
+      <jump line="38" column="41" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/TenderedLoadAlertFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFRvVmlzaWJsZShtVmlld3MudGVuZGVyZWRMb2Fkc1BhcmVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TenderedLoadAlertListener</text>
       </register>
       <register name="-" type="4">
-        <text>TMC</text>
+        <text>TenderedLoadAlertListener</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVUZW5kZXJlZExvYWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFRvVmlzaWJsZShtVmlld3MudGVuZGVyZWRMb2Fkc1BhcmVudCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUkdfTElTVEVORVJfVFlQRSA9ICJsaXN0ZW5lciB0eXBlIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBGTEFHX0xJU1RFTkVSX0FDVElWSVRZID0gMTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBGTEFHX0xJU1RFTkVSX0ZSQUdNRU5UID0gMjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFRvVmlzaWJsZShtVmlld3MudGVuZGVyZWRMb2Fkc1BhcmVudCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQEluamVjdAogICAgSUxvZ2dlciBtTG9nZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIj4K</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBMb2dvdXREaWFsb2dMaXN0ZW5lciBtTGlzdGVuZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tRGVmYXVsdHMgdG8gdmlzaWJpbGl0eSBnb25lIHVubGVzcyB1c2VyIGhhcyBDSFJUZW5kZXJzIHBlcm1pc3Npb24tLT4K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIDxGIGV4dGVuZHMgRnJhZ21lbnQgJiBUZW5kZXJlZExvYWRBbGVydEZyYWdtZW50PiBUZW5kZXJlZExvYWRBbGVydEZyYWdtZW50IG5ld0luc3RhbmNlKEYgbGlzdGVuZXIpIHsKICAgICAgICByZXR1cm4gbmV3SW5zdGFuY2VJbnRlcm5hbChsaXN0ZW5lcik7CiAgICB9CiAgICAKICAgIHByaXZhdGUgc3RhdGljIDxGIGV4dGVuZHMgRnJhZ21lbnQgJiBUZW5kZXJlZExvYWRBbGVydEZyYWdtZW50PiBUZW5kZXJlZExvYWRBbGVydEZyYWdtZW50IG5ld0luc3RhbmNlSW50ZXJuYWwoQE51bGxhYmxlIEYgbGlzdGVuZXIpIHsKICAgICAgICBMb2dvdXRBbGVydEZyYWdtZW50IGZyYWdtZW50ID0gbmV3IExvZ291dEFsZXJ0RnJhZ21lbnQoKTsKICAgICAgICBCdW5kbGUgYXJndW1lbnRzID0gbmV3IEJ1bmRsZSgpOwogICAgICAgIGlmIChsaXN0ZW5lciA9PSBudWxsKSB7CiAgICAgICAgICAgIGFyZ3VtZW50cy5wdXRJbnQoQVJHX0xJU1RFTkVSX1RZUEUsIEZMQUdfTElTVEVORVJfQUNUSVZJVFkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZyYWdtZW50LnNldFRhcmdldEZyYWdtZW50KGxpc3RlbmVyLCAwKTsKICAgICAgICAgICAgYXJndW1lbnRzLnB1dEludChBUkdfTElTVEVORVJfVFlQRSwgRkxBR19MSVNURU5FUl9GUkFHTUVOVCk7CiAgICAgICAgfQogICAgICAgIGZyYWdtZW50LnNldEFyZ3VtZW50cyhhcmd1bWVudHMpOwogICAgICAgIHJldHVybiBmcmFnbWVudDsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdzLmVuYWJsZVRlbmRlcmVkTG9hZDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmlld1V0aWxzLnNldFRvVmlzaWJsZShtVmlld3MudGVuZGVyZWRMb2Fkc1BhcmVudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA2ODI2MTogaW5pdGlhbCBjb21taXQgZm9yIHBvc3QgdHJ1Y2sgVUkgbGlzdDsgc29tZSBza2VsZXRvbiBjb2RlIGV4aXN0cyB0byBiZSBmaWxsZWQgaW4sIGJ1dCB0aGlzIGNvbW1pdCB3YXMgZ2V0dGluZyBodWdlLgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tRGVmYXVsdHMgdG8gdmlzaWJpbGl0eSBnb25lIHVubGVzcyB1c2VyIGhhcyBDSFJUZW5kZXJzIHBlcm1pc3Npb24tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>197</text>
