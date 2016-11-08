@@ -675,7 +675,8 @@
         <mark key="^" line="9" column="86" />
         <mark key="." line="9" column="86" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" timestamp="1478540757953">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" timestamp="1478622454917">
+        <mark key="'" line="36" column="13" />
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
@@ -693,11 +694,12 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/PostTruckPresenter.java" timestamp="1478618799715">
-        <mark key="'" line="252" column="51" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/PostTruckPresenter.java" timestamp="1478620668410">
+        <mark key="'" line="239" column="27" />
+        <mark key="[" line="402" column="57" />
+        <mark key="]" line="402" column="64" />
+        <mark key="." line="402" column="64" />
+        <mark key="^" line="402" column="64" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/config/enums/ServiceEndpoints.java" timestamp="1476220412925">
         <mark key="'" line="23" column="6" />
@@ -1095,8 +1097,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="63" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
-      <jump line="111" column="54" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="204" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="280" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="281" column="25" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
@@ -1195,16 +1195,18 @@
       <jump line="47" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_tendered_load_detail.xml" />
       <jump line="369" column="23" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/Truck.java" />
       <jump line="252" column="51" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/PostTruckPresenter.java" />
+      <jump line="239" column="27" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/PostTruckPresenter.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/jobs/services/AutomaticStopUpdateBaseService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbS5jaHJvYmluc29uLmFuZHJvaWQuY29yZS5SLnN0cmluZwo=</text>
+      <register name="&quot;" type="4">
+        <text>null;</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>null;</text>
       </register>
       <register name="/" type="4">
-        <text>margin</text>
+        <text>invalid stop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb20uY2hyb2JpbnNvbi5uYXZpc3BoZXJlY2Fycmllci52aWV3LmNvbnRyb2wuQ3VzdG9tVGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ZyYWdtZW50X3RlbmRlcmVkX2xvYWRfb3JpZ2luX3RpbWUiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9Ijg6MDAgQU0iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QWxpZ25tZW50PSJjZW50ZXIiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci90ZXh0Q29sb3JQcmltYXJ5IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi90ZXh0X3NpemVfbWVkaXVtIgogICAgICAgICAgICAgICAgICAgIGNocnd0cnVja3M6Zm9udE5hbWU9InJhamRoYW5pX3JlZ3VsYXIudHRmIgogICAgICAgICAgICAgICAgICAgIHRvb2xzOnRleHQ9Ijg6MDAgQU0iCiAgICAgICAgICAgICAgICAgICAgdG9vbHM6aWdub3JlPSJVbnVzZWRBdHRyaWJ1dGUiLz4K</text>
@@ -1241,9 +1243,9 @@
       </register>
     </registers>
     <search>
-      <last-search>margin</last-search>
+      <last-search>invalid stop</last-search>
       <last-offset />
-      <last-pattern>margin</last-pattern>
+      <last-pattern>invalid stop</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1251,7 +1253,6 @@
     </search>
     <history>
       <history-search>
-        <entry>added geof</entry>
         <entry>added geofen</entry>
         <entry encoding="base64">XDxTdG9wU3VtbWFyeVw+</entry>
         <entry>updateStop</entry>
@@ -1271,6 +1272,7 @@
         <entry encoding="base64">XDxsYXlvdXRfd2lkdGhcPg==</entry>
         <entry>gravity</entry>
         <entry>margin</entry>
+        <entry>invalid stop</entry>
       </history-search>
       <history-cmd>
         <entry>329</entry>
