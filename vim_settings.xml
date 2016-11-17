@@ -74,12 +74,9 @@
         <mark key="]" line="2" column="67" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1479333231145">
-        <mark key="'" line="599" column="19" />
-        <mark key="[" line="819" column="0" />
-        <mark key="]" line="819" column="0" />
-        <mark key="." line="819" column="0" />
-        <mark key="^" line="601" column="7" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1479334623116">
+        <mark key="[" line="612" column="0" />
+        <mark key="]" line="612" column="75" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" timestamp="1479327864489">
         <mark key="'" line="278" column="0" />
@@ -394,12 +391,12 @@
         <mark key="." line="23" column="17" />
         <mark key="^" line="23" column="17" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_available_load_filter.xml" timestamp="1479327427162">
-        <mark key="'" line="92" column="38" />
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="50" />
-        <mark key="." line="6" column="50" />
-        <mark key="^" line="6" column="50" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_available_load_filter.xml" timestamp="1479334727810">
+        <mark key="'" line="93" column="38" />
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/NotificationSettingsPresenter.java" timestamp="1476908398137">
         <mark key="'" line="24" column="13" />
@@ -1198,7 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="54" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/GeocodeRealmMigration.java" />
       <jump line="16" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/GeocodeRealmMigration.java" />
       <jump line="12" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/GeocodeRealmMigration.java" />
       <jump line="249" column="35" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
@@ -1298,46 +1294,47 @@
       <jump line="597" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="599" column="19" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="91" column="38" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_available_load_filter.xml" />
+      <jump line="631" column="62" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRFUlBGRVNUOyBzaG93PSIgKyBzaG93KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZpbHRlclRpdGxlID0gZ2V0U3RyaW5nKFIuc3RyaW5nLmZpbHRlcl9zdW1tYXJ5X29yaWdpbik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>expand</text>
+        <text>getString(R.string.location_nearby_format, addresses.get(0).getPostalCode())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmFpbGFibGVfbG9hZF9maWx0ZXJfYnV0dG9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3JVdGlscy5leHBhbmQobVZpZXdzLmRlYWRoZWFkTm9PcmlnaW5TZWxlY3RlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZpbHRlclRpdGxlID0gZ2V0U3RyaW5nKFIuc3RyaW5nLmZpbHRlcl9zdW1tYXJ5X29yaWdpbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRFUlBGRVNUOyBzaG93PSIgKyBzaG93KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuc2V0RmlsdGVyVGl0bGUoZ2V0U3RyaW5nKFIuc3RyaW5nLmZpbHRlcl9zdW1tYXJ5X29yaWdpbikpOwogICAgICAgICAgICBtVmlld3MuYXZhaWxhYmxlTG9hZEZpbHRlci5zZXRGaWx0ZXJEZXNjcmlwdGlvbihnZXRTdHJpbmcoUi5zdHJpbmcubG9jYXRpb25fbmVhcmJ5X2Zvcm1hdCwgYWRkcmVzc2VzLmdldCgwKS5nZXRQb3N0YWxDb2RlKCkpKTsKICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuZXhwYW5kKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBWaWV3VXRpbHMuc2V0VG9Hb25lKG1WaWV3cy5kZWFkaGVhZE5vT3JpZ2luU2VsZWN0ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuc2V0RmlsdGVyRGVzY3JpcHRpb24oZ2V0U3RyaW5nKFIuc3RyaW5nLmxvY2F0aW9uX25lYXJieV9mb3JtYXQsIGFkZHJlc3Nlcy5nZXQoMCkuZ2V0UG9zdGFsQ29kZSgpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBWaWV3VXRpbHMuc2V0VG9WaXNpYmxlKG1WaWV3cy5kZWFkaGVhZE5vT3JpZ2luU2VsZWN0ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKG1Mb2FkVHlwZSA9PSBMb2FkVHlwZUNvbnN0YW50cy5BVkFJTEFCTEUgJiYgbUZpbHRlclNldHRpbmdzLmhhc09yaWdpblNlbGVjdGVkKCkpIHsKICAgICAgICAgICAgQW5pbWF0b3JVdGlscy5leHBhbmQobVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuZmluZFZpZXdCeUlkKFIuaWQuYXZhaWxhYmxlX2xvYWRfZmlsdGVyX2RlYWRoZWFkX25vX29yaWdpbl9zZWxlY3RlZCkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRFUlBGRVNUOyBzaG93PSIgKyBzaG93KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtbG9nCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBWaWV3VXRpbHMuc2V0VG9Hb25lKG1WaWV3cy5kZWFkaGVhZE5vT3JpZ2luU2VsZWN0ZWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3dOb09yaWdpblNlbGVjdGVkKGJvb2xlYW4gc2hvdykgewogICAgICAgIG1sb2cK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBWaWV3VXRpbHMuc2V0VG9WaXNpYmxlKG1WaWV3cy5kZWFkaGVhZE5vT3JpZ2luU2VsZWN0ZWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3JVdGlscy5leHBhbmQobVZpZXdzLmRlYWRoZWFkTm9PcmlnaW5TZWxlY3RlZCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKG1Mb2FkVHlwZSA9PSBMb2FkVHlwZUNvbnN0YW50cy5BVkFJTEFCTEUgJiYgbUZpbHRlclNldHRpbmdzLmhhc09yaWdpblNlbGVjdGVkKCkpIHsKICAgICAgICAgICAgQW5pbWF0b3JVdGlscy5leHBhbmQobVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuZmluZFZpZXdCeUlkKFIuaWQuYXZhaWxhYmxlX2xvYWRfZmlsdGVyX2RlYWRoZWFkX25vX29yaWdpbl9zZWxlY3RlZCkpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3JVdGlscy5jb2xsYXBzZShtVmlld3MuZGVhZGhlYWROb09yaWdpblNlbGVjdGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICBtbG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3dOb09yaWdpblNlbGVjdGVkKGJvb2xlYW4gc2hvdykgewogICAgICAgIG1sb2cK</text>
       </register>
       <register name=":" type="4">
         <text>815</text>
