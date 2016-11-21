@@ -36,12 +36,12 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" timestamp="1479743814173">
-        <mark key="'" line="287" column="53" />
-        <mark key="[" line="102" column="36" />
-        <mark key="]" line="102" column="38" />
-        <mark key="." line="102" column="38" />
-        <mark key="^" line="102" column="38" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" timestamp="1479747397345">
+        <mark key="'" line="288" column="53" />
+        <mark key="[" line="93" column="39" />
+        <mark key="]" line="93" column="39" />
+        <mark key="." line="93" column="39" />
+        <mark key="^" line="40" column="70" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/IPostTruckListView.java" timestamp="1476910727025">
         <mark key="[" line="20" column="38" />
@@ -229,6 +229,7 @@
         <mark key="." line="302" column="55" />
         <mark key="^" line="302" column="55" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/util/CachedFilterService.java" timestamp="1479747132546" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/truck/EquipmentCode.java" timestamp="1477513370336">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="3" column="15" />
@@ -770,7 +771,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1479741292156">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenter.java" timestamp="1479747118755">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="216" column="82" />
         <mark key="]" line="216" column="123" />
@@ -1047,8 +1048,8 @@
         <mark key="." line="66" column="99" />
         <mark key="^" line="66" column="99" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" timestamp="1479745412640">
-        <mark key="'" line="326" column="8" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" timestamp="1479746717255">
+        <mark key="'" line="493" column="123" />
         <mark key="[" line="313" column="0" />
         <mark key="]" line="313" column="0" />
         <mark key="." line="313" column="0" />
@@ -1263,8 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="68" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
-      <jump line="288" column="32" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="290" column="52" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="279" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="196" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
@@ -1360,16 +1359,18 @@
       <jump line="222" column="15" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="171" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="604" column="47" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
-      <jump line="79" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="325" column="18" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
+      <jump line="201" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
+      <jump line="79" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
       <jump line="326" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
+      <jump line="493" column="123" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/FilterSearchFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_NONE</text>
       </register>
       <register name="-" type="4">
-        <text>maxDate</text>
+        <text>_NONE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtRGF0ZVJhbmdlXD4=</text>
