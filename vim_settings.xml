@@ -36,6 +36,7 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1479752985217" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" timestamp="1479747397345">
         <mark key="'" line="288" column="53" />
         <mark key="[" line="93" column="39" />
@@ -352,7 +353,7 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1479750471215">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" timestamp="1479752410361">
         <mark key="'" line="123" column="13" />
         <mark key="[" line="348" column="49" />
         <mark key="]" line="348" column="48" />
@@ -1227,12 +1228,12 @@
         <mark key="." line="150" column="74" />
         <mark key="^" line="150" column="74" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" timestamp="1479750603367">
-        <mark key="'" line="35" column="29" />
-        <mark key="[" line="133" column="99" />
-        <mark key="]" line="134" column="25" />
-        <mark key="^" line="134" column="25" />
-        <mark key="." line="134" column="25" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" timestamp="1479752937776">
+        <mark key="'" line="87" column="112" />
+        <mark key="[" line="62" column="95" />
+        <mark key="]" line="63" column="91" />
+        <mark key="^" line="63" column="91" />
+        <mark key="." line="63" column="91" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IMainMenuPresenter.java" timestamp="1472586335719">
         <mark key="[" line="12" column="42" />
@@ -1295,9 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="38" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ApplicationModule.java" />
-      <jump line="377" column="132" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ApplicationModule.java" />
-      <jump line="378" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/di/internal/module/ApplicationModule.java" />
       <jump line="66" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/RecentSearchesList.java" />
       <jump line="302" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
       <jump line="303" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
@@ -1395,55 +1393,58 @@
       <jump line="373" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/FilterSearchPresenterTest.java" />
       <jump line="123" column="13" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/PostTruckActivity.java" />
       <jump line="35" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" />
+      <jump line="57" column="6" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" />
+      <jump line="42" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" />
+      <jump line="86" column="112" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>showDateToday();</text>
+        <text>tmpEndDate</text>
       </register>
       <register name="-" type="4">
-        <text>showDateToday();</text>
+        <text>tmpEndDate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxESVNQTEFZX0RBVEVfUkFOR0VfTUFYXD4=</text>
+        <text>endDate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUkdfREFURV9SQU5HRSA9IEJ1aWxkQ29uZmlnLkFQUExJQ0FUSU9OX0lEICsgImRhdGUgcmFuZ2UiOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IHtAbGlua3BsYWluIERhdGVEaWFsb2d9IHRoYXQgd2lsbCBkaXNwbGF5IHRoZSBnaXZlbiBkYXRlIGFuZCByZXBvcnQgdGhlIHVzZXIncwogICAgICogc2VsZWN0aW9uIHRvIHRoZSBob3N0aW5nIGFjdGl2aXR5LCB3aGljaCBtdXN0IGltcGxlbWVudCB7QGxpbmtwbGFpbiBEYXRlRGlhbG9nTGlzdGVuZXJ9LgogICAgICogQHBhcmFtIGluaXRpYWxEYXRlIFRoZSBpbml0aWFsIGRhdGUgdG8gZGlzcGxheQogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGludGVybmFsX3ZlcmlmeUxvYWRDYWNoZWRPckRlZmF1bHRTZXR0aW5ncygpIHsKICAgICAgICB2ZXJpZnkobUNhY2hlZEZpbHRlclNlcnZpY2UpLmdldENhY2hlZEZpbHRlck9yRGVmYXVsdCgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGludGVybmFsX3ZlcmlmeVNob3dGaWx0ZXJTZXR0aW5ncyhGaWx0ZXJTZXR0aW5ncyBmcykgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBESVNQTEFZX0RBVEVfUkFOR0VfTUFYID0gMTQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB2ZXJpZnlMb2FkQ2FjaGVkT3JEZWZhdWx0U2V0dGluZ3NfaW50ZXJuYWwoKSB7CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZWUgNTQwNzAgZm9yIG1vcmUgaW5mbzsgcGVyIGRpc2N1c3Npb24gd2l0aCBQTywgbWF4IHNlbGVjdGFibGUgZGF0ZSBpcyBjdXJyZW50IGRhdGUgKyAzMCBkYXlzLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIERJU1BMQVlfREFURV9SQU5HRV9NQVggPSAobG9uZykgRGF0ZVRpbWVVdGlscy5jb252ZXJ0VG9NaWxsaXNlY29uZHMoMjQsIDAsIDAsIDApICogMzBMOwogICAgICAgIERhdGUgbWF4RGF0ZSA9IG5ldyBEYXRlKG1pbkRhdGUuZ2V0VGltZSgpICsgRElTUExBWV9EQVRFX1JBTkdFX01BWCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGludGVybmFsX3ZlcmlmeUxvYWRDYWNoZWRPckRlZmF1bHRTZXR0aW5ncygpIHsKICAgICAgICB2ZXJpZnkobUNhY2hlZEZpbHRlclNlcnZpY2UpLmdldENhY2hlZEZpbHRlck9yRGVmYXVsdCgpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtTWF4RGF0ZSA9IG5ld2FyZ3VtZW50cy5nZXRMb25nKCkK</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGludGVybmFsX3ZlcmlmeVNob3dGaWx0ZXJTZXR0aW5ncyhGaWx0ZXJTZXR0aW5ncyBmcykgewogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>311</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxESVNQTEFZX0RBVEVfUkFOR0VfTUFYXD4=</last-search>
+      <last-search>endDate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxESVNQTEFZX0RBVEVfUkFOR0VfTUFYXD4=</last-pattern>
+      <last-pattern>endDate</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1451,8 +1452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>noOrigin</entry>
-        <entry encoding="base64">XDxnZXREaW1lbnNpb25QaXhlbFNpemVcPg==</entry>
         <entry>hack</entry>
         <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</entry>
         <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNPYnNlcnZlclw+</entry>
@@ -1471,6 +1470,8 @@
         <entry encoding="base64">XDxtRGF0ZVJhbmdlXD4=</entry>
         <entry encoding="base64">XDxjYWxlbmRhclw+</entry>
         <entry encoding="base64">XDxESVNQTEFZX0RBVEVfUkFOR0VfTUFYXD4=</entry>
+        <entry encoding="base64">XDxtTGlzdGVuZXJcPg==</entry>
+        <entry>endDate</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
