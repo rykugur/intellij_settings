@@ -36,7 +36,9 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1479752985217" />
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" timestamp="1479754359390">
+        <mark key="'" line="311" column="21" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" timestamp="1479747397345">
         <mark key="'" line="288" column="53" />
         <mark key="[" line="93" column="39" />
@@ -1228,12 +1230,11 @@
         <mark key="." line="150" column="74" />
         <mark key="^" line="150" column="74" />
       </file>
-      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" timestamp="1479752937776">
+      <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" timestamp="1479753990890">
         <mark key="'" line="87" column="112" />
-        <mark key="[" line="62" column="95" />
-        <mark key="]" line="63" column="91" />
-        <mark key="^" line="63" column="91" />
-        <mark key="." line="63" column="91" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/IMainMenuPresenter.java" timestamp="1472586335719">
         <mark key="[" line="12" column="42" />
@@ -1296,9 +1297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="22" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/RecentSearchesList.java" />
-      <jump line="302" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
-      <jump line="303" column="16" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
       <jump line="123" column="20" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
       <jump line="272" column="8" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
       <jump line="197" column="38" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/RadiusSearchDialog.java" />
@@ -1396,34 +1394,37 @@
       <jump line="57" column="6" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" />
       <jump line="42" column="31" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" />
       <jump line="86" column="112" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/DateDialog.java" />
+      <jump line="887" column="51" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="311" column="21" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tmpEndDate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtTWF4RGF0ZSA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkuZ2V0VGltZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>tmpEndDate</text>
+        <text>new Date();</text>
       </register>
       <register name="/" type="4">
-        <text>endDate</text>
+        <text>nearby</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IHtAbGlua3BsYWluIERhdGVEaWFsb2d9IHRoYXQgd2lsbCBkaXNwbGF5IHRoZSBnaXZlbiBkYXRlIGFuZCByZXBvcnQgdGhlIHVzZXIncwogICAgICogc2VsZWN0aW9uIHRvIHRoZSBob3N0aW5nIGFjdGl2aXR5LCB3aGljaCBtdXN0IGltcGxlbWVudCB7QGxpbmtwbGFpbiBEYXRlRGlhbG9nTGlzdGVuZXJ9LgogICAgICogQHBhcmFtIGluaXRpYWxEYXRlIFRoZSBpbml0aWFsIGRhdGUgdG8gZGlzcGxheQogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtTWF4RGF0ZSA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkuZ2V0VGltZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBESVNQTEFZX0RBVEVfUkFOR0VfTUFYID0gMTQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBESVNQTEFZX0RBVEVfUkFOR0VfTUFYID0gMTQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1432,19 +1433,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGludGVybmFsX3ZlcmlmeUxvYWRDYWNoZWRPckRlZmF1bHRTZXR0aW5ncygpIHsKICAgICAgICB2ZXJpZnkobUNhY2hlZEZpbHRlclNlcnZpY2UpLmdldENhY2hlZEZpbHRlck9yRGVmYXVsdCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGludGVybmFsX3ZlcmlmeVNob3dGaWx0ZXJTZXR0aW5ncyhGaWx0ZXJTZXR0aW5ncyBmcykgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSB2b2lkIGludGVybmFsX3ZlcmlmeUxvYWRDYWNoZWRPckRlZmF1bHRTZXR0aW5ncygpIHsKICAgICAgICB2ZXJpZnkobUNhY2hlZEZpbHRlclNlcnZpY2UpLmdldENhY2hlZEZpbHRlck9yRGVmYXVsdCgpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>311</text>
       </register>
     </registers>
     <search>
-      <last-search>endDate</last-search>
+      <last-search>nearby</last-search>
       <last-offset />
-      <last-pattern>endDate</last-pattern>
+      <last-pattern>nearby</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1452,7 +1453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hack</entry>
         <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNTdWJzY3JpcHRpb25cPg==</entry>
         <entry encoding="base64">XDxtQXZhaWxhYmxlTG9hZHNPYnNlcnZlclw+</entry>
         <entry>recycler</entry>
@@ -1472,6 +1472,7 @@
         <entry encoding="base64">XDxESVNQTEFZX0RBVEVfUkFOR0VfTUFYXD4=</entry>
         <entry encoding="base64">XDxtTGlzdGVuZXJcPg==</entry>
         <entry>endDate</entry>
+        <entry>nearby</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
