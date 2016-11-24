@@ -61,6 +61,9 @@
         <mark key="^" line="24" column="14" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/src/plaid/app/build.gradle" timestamp="1479967112830">
+        <mark key="'" line="83" column="29" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/DriverPreviewView.java" timestamp="1476892681860">
         <mark key="'" line="94" column="34" />
         <mark key="[" line="40" column="0" />
@@ -223,6 +226,11 @@
         <mark key="]" line="92" column="64" />
         <mark key="." line="92" column="64" />
         <mark key="^" line="92" column="64" />
+      </file>
+      <file name="$USER_HOME$/code/android/src/plaid/app/src/main/java/io/plaidapp/ui/AboutActivity.java" timestamp="1479967102554">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/main/java/com/chrobinson/android/core/view/ViewUtils.java" timestamp="1479402077419">
         <mark key="[" line="141" column="37" />
@@ -944,6 +952,9 @@
         <mark key="^" line="15" column="57" />
         <mark key="." line="15" column="57" />
       </file>
+      <file name="$USER_HOME$/code/android/src/plaid/app/src/main/AndroidManifest.xml" timestamp="1479967163143">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/settings/RecentSearchesList.java" timestamp="1479418825797">
         <mark key="'" line="68" column="22" />
         <mark key="[" line="46" column="47" />
@@ -1281,10 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="523" column="5" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
-      <jump line="132" column="40" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/device/Device.java" />
-      <jump line="538" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/viewmodels/FilterSettings.java" />
       <jump line="630" column="33" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="150" column="76" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
       <jump line="294" column="29" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
@@ -1381,55 +1388,59 @@
       <jump line="557" column="53" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenter.java" />
       <jump line="823" column="4" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/test/java/com/chrobinson/navispherecarrier/presentation/loads/presenter/LoadsPresenterTest.java" />
       <jump line="585" column="12" filename="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/fragments/LoadsFragment.java" />
+      <jump line="31" column="20" filename="$USER_HOME$/code/android/src/plaid/app/build.gradle" />
+      <jump line="84" column="41" filename="$USER_HOME$/code/android/src/plaid/app/build.gradle" />
+      <jump line="83" column="29" filename="$USER_HOME$/code/android/src/plaid/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/src/plaid/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBkbyB3ZSBuZWVkIHRoaXMgaWYgY2hlY2s/CiAgICAgICAgaWYgKG1Mb2FkVHlwZSA9PSBMb2FkVHlwZUNvbnN0YW50cy5BVkFJTEFCTEUpIHsKICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuY29sbGFwc2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgYm9vbGVhbiB0ZXN0ID0gdHJ1ZTsKICAgICAgICBib29sZWFuIHRlc3Rub3QgPSAhdGVzdDsKICAgICAgICBpZiAodGVzdCkgewogICAgICAgICAgICAKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiB0ZXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgdGVzdC5hZGQoMSk7CiAgICAgICAgdGVzdC5hZGQoMik7CiAgICAgICAgZm9yIChJbnRlZ2VyIGludGVnZXIgOiB0ZXN0KSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Results();</text>
+        <text>) { 1, 2, 3 };</text>
       </register>
       <register name="/" type="4">
-        <text>gradle</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKG1TZXJ2aWNlLnVwZGF0ZVRydWNrKGFueShJbnRlZ2VyLmNsYXNzKSwgYW55KFRydWNrLmNsYXNzKSkpLnRoZW5SZXR1cm4oT2JzZXJ2YWJsZS48Vm9pZD5uZXZlcigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBkbyB3ZSBuZWVkIHRoaXMgaWYgY2hlY2s/CiAgICAgICAgaWYgKG1Mb2FkVHlwZSA9PSBMb2FkVHlwZUNvbnN0YW50cy5BVkFJTEFCTEUpIHsKICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuY29sbGFwc2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgYm9vbGVhbiB0ZXN0ID0gdHJ1ZTsKICAgICAgICBib29sZWFuIHRlc3Rub3QgPSAhdGVzdDsKICAgICAgICBpZiAodGVzdCkgewogICAgICAgICAgICAKICAgICAgICB9CiAgICAgICAgTGlzdDxJbnRlZ2VyPiB0ZXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgdGVzdC5hZGQoMSk7CiAgICAgICAgdGVzdC5hZGQoMik7CiAgICAgICAgZm9yIChJbnRlZ2VyIGludGVnZXIgOiB0ZXN0KSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBkbyB3ZSBuZWVkIHRoaXMgaWYgY2hlY2s/CiAgICAgICAgaWYgKG1Mb2FkVHlwZSA9PSBMb2FkVHlwZUNvbnN0YW50cy5BVkFJTEFCTEUpIHsKICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuY29sbGFwc2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRlc3QpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVXBkYXRlcyB0aGUgcHJlc2VudGF0aW9uIHdpdGggdGhlIGdpdmVuIHtAbGluayBGaWx0ZXJTZXR0aW5nc30uCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMoKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyaWZ5Tm9Nb3JlSW50ZXJhY3Rpb25zKGZpbHRlclNldHRpbmdzKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpZiAoIXRlc3QpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBkbyB3ZSBuZWVkIHRoaXMgaWYgY2hlY2s/CiAgICAgICAgaWYgKG1Mb2FkVHlwZSA9PSBMb2FkVHlwZUNvbnN0YW50cy5BVkFJTEFCTEUpIHsKICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuY29sbGFwc2UoKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGplcm9kdXMpOiBkbyB3ZSBuZWVkIHRoaXMgaWYgY2hlY2s/CiAgICAgICAgaWYgKG1Mb2FkVHlwZSA9PSBMb2FkVHlwZUNvbnN0YW50cy5BVkFJTEFCTEUpIHsKICAgICAgICAgICAgbVZpZXdzLmF2YWlsYWJsZUxvYWRGaWx0ZXIuY29sbGFwc2UoKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVXBkYXRlcyB0aGUgcHJlc2VudGF0aW9uIHdpdGggdGhlIGdpdmVuIHtAbGluayBGaWx0ZXJTZXR0aW5nc30uCiAgICAgKi8K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkobVByZXNlbnRhdGlvbiwgdGltZXMoMSkpLnNob3dBdmFpbGFibGVGaWx0ZXJTdW1tYXJ5KG1GaWx0ZXJTZXR0aW5ncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>311</text>
       </register>
     </registers>
     <search>
-      <last-search>gradle</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>gradle</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -1437,8 +1448,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUHJvZ3Jlc3NQdWJsaXNoU3ViamVjdFw+</entry>
-        <entry>progress</entry>
         <entry encoding="base64">XDxwcm9ncmVzc1w+</entry>
         <entry>,</entry>
         <entry>dateDialog</entry>
@@ -1457,6 +1466,8 @@
         <entry encoding="base64">XDxBVkFJTEFCTEVfTE9BRF9GSUxURVJfVElUTEVfT1JJR0lOX0RFU1RJTkFUSU9OXD4=</entry>
         <entry encoding="base64">XDxzaG93QXZhaWxhYmxlRmlsdGVyU3VtbWFyeVw+</entry>
         <entry>gradle</entry>
+        <entry>butter</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
