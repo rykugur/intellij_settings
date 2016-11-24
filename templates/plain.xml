@@ -1,0 +1,5 @@
+<templateSet group="plain">
+  <template name="serdes" value="//region Serdes&#10;public static class CustomDeserializer implements JsonDeserializer&lt;&gt; {&#10;    private static final Gson GSON_INTERNAL_DEFAULT = new Gson();&#10;&#10;    @Override&#10;    public GeofenceList deserialize(JsonElement json, Type type, JsonDeserializationContext context) throws JsonParseException {&#10;        return null;&#10;    }&#10;}&#10;&#10;public static class CustomDeserializer implements JsonDeserializer&lt;GeofenceList&gt; {&#10;    private static final Gson GSON_INTERNAL_DEFAULT = new Gson();&#10;&#10;    @Override&#10;    public GeofenceList deserialize(JsonElement json, Type type, JsonDeserializationContext context) throws JsonParseException {&#10;        return null;&#10;    }&#10;}&#10;//endregion" description="Derp" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
