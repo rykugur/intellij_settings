@@ -170,6 +170,13 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="29" column="31" />
       </file>
+      <file name="$USER_HOME$/code/android/src/FunApp/app/src/main/java/io/rollhax/funapp/view/fragment/DogCreateFragment.java" timestamp="1491416748359">
+        <mark key="'" line="106" column="14" />
+        <mark key="[" line="83" column="9" />
+        <mark key="]" line="83" column="16" />
+        <mark key="." line="83" column="16" />
+        <mark key="^" line="83" column="16" />
+      </file>
       <file name="$USER_HOME$/code/android/src/wheniworkchallenge/nextrip.domain/src/main/java/io/rollhax/nextripdomain/models/IStop.java" timestamp="1488753792645">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="51" />
@@ -795,6 +802,12 @@
         <mark key="." line="54" column="59" />
         <mark key="^" line="54" column="59" />
       </file>
+      <file name="$USER_HOME$/code/android/src/FunApp/app/build.gradle" timestamp="1491416671287">
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="40" column="49" />
+        <mark key="^" line="40" column="42" />
+        <mark key="." line="40" column="49" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/presentation/surveys/IFeedbackPresenter.java" timestamp="1479573346459">
         <mark key="[" line="9" column="50" />
         <mark key="]" line="13" column="31" />
@@ -1276,8 +1289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/models/DepartureViewModel.java" />
-      <jump line="35" column="87" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/activity/DeparturesListActivity.java" />
       <jump line="152" column="55" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/activity/DeparturesListActivity.java" />
       <jump line="101" column="49" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/activity/StopsListActivity.java" />
       <jump line="38" column="4" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/models/StopViewModel.java" />
@@ -1376,46 +1387,48 @@
       <jump line="25" column="0" filename="$USER_HOME$/code/android/src/FunApp/app/src/main/res/layout/activity_main_parallax.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/code/android/src/FunApp/app/src/main/res/layout/activity_main_tmp.xml" />
       <jump line="14" column="4" filename="$USER_HOME$/code/android/src/FunApp/app/src/main/res/layout/activity_main_parallax.xml" />
+      <jump line="60" column="21" filename="$USER_HOME$/code/android/src/FunApp/app/src/main/java/io/rollhax/funapp/view/fragment/DogCreateFragment.java" />
+      <jump line="96" column="14" filename="$USER_HOME$/code/android/src/FunApp/app/src/main/java/io/rollhax/funapp/view/fragment/DogCreateFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>java</text>
       </register>
       <register name="-" type="4">
-        <text>Scrolling</text>
+        <text>java</text>
       </register>
       <register name="/" type="4">
         <text>age</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiCiAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgImlvLnJlYWN0aXZleC5yeGphdmEyOnJ4amF2YToyLjAuOCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHNlbGVjdGVkSXRlbUlkID09IFIuaWQubmF2X3Njcm9sbGluZykgewo=</text>
+        <text encoding="base64">ICAgIEBPbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9tYW5hZ2UiCiAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX21lbnVfbWFuYWdlIgogICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJUb29scyIvPgo=</text>
+        <text encoding="base64">CiAgICBAT25UZXh0Q2hhbmdlZChSLmlkLm5hbWUpCiAgICBwdWJsaWMgdm9pZCBvbk5hbWVUZXh0Q2hhbmdlZChDaGFyU2VxdWVuY2Ugc3RyKSB7CiAgICAgICAgTG9nLmQoVEFHLCAib25OYW1lVGV4dENoYW5nZWQ6IHN0cj0iICsgc3RyKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9zY3JvbGxpbmciCiAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX21lbnVfc2xpZGVzaG93IgogICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJTY3JvbGxpbmciLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfYmVoYXZpb3I9IkBzdHJpbmcvYXBwYmFyX3Njcm9sbGluZ192aWV3X2JlaGF2aW9yIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCiAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICBhcHA6bGF5b3V0X2JlaGF2aW9yPSJAc3RyaW5nL2FwcGJhcl9zY3JvbGxpbmdfdmlld19iZWhhdmlvciI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9hbmRyb2lkLnN1cHBvcnQudjQud2lkZ2V0Lk5lc3RlZFNjcm9sbFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHNlbGVjdGVkSXRlbUlkID09IFIuaWQubmF2X3Njcm9sbGluZykgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbQogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25hdl9tYW5hZ2UiCiAgICAgICAgICAgIGFuZHJvaWQ6aWNvbj0iQGRyYXdhYmxlL2ljX21lbnVfbWFuYWdlIgogICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSJUb29scyIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
