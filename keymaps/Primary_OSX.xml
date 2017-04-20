@@ -15,6 +15,21 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt m" second-keystroke="r" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="ShowProjectStructureSettings" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="alt m" second-keystroke="h" />
