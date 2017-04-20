@@ -346,6 +346,9 @@
         <mark key="^" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/core-android/core/management.gradle" timestamp="1492694970242">
+        <mark key="'" line="46" column="23" />
+      </file>
       <file name="$USER_HOME$/code/android/src/wheniworkchallenge/nextrip.domain/src/main/java/io/rollhax/nextripdomain/models/ITextValuePair.java" timestamp="1488754796471">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -840,7 +843,7 @@
         <mark key="." line="7" column="46" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/core-android/core/build.gradle" timestamp="1492620678224">
+      <file name="$USER_HOME$/code/android/gits/core-android/core/build.gradle" timestamp="1492695129313">
         <mark key="'" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/requests/DevicePatchRequest.java" timestamp="1473275359932">
@@ -1307,8 +1310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="19" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/activity/StopsListActivity.java" />
-      <jump line="47" column="4" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/activity/StopsListActivity.java" />
       <jump line="121" column="0" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/activity/StopsListActivity.java" />
       <jump line="72" column="56" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/activity/StopsListActivity.java" />
       <jump line="36" column="17" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/res/layout/view_stop.xml" />
@@ -1407,6 +1408,8 @@
       <jump line="35" column="28" filename="$USER_HOME$/code/android/src/android-design-library/app/src/main/res/layout/activity_main.xml" />
       <jump line="54" column="0" filename="$USER_HOME$/code/android/src/FunApp/app/src/main/java/io/rollhax/funapp/view/fragment/DogListFragment.java" />
       <jump line="9" column="28" filename="$USER_HOME$/code/android/gits/core-android/core/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/core-android/core/management.gradle" />
+      <jump line="46" column="23" filename="$USER_HOME$/code/android/gits/core-android/core/management.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1416,7 +1419,7 @@
         <text>RobolectricTestRunner</text>
       </register>
       <register name="/" type="4">
-        <text>robo</text>
+        <text>bumpversion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgUmVhbG1Db250ZW50QWRhcHRlcihPcmRlcmVkUmVhbG1Db2xsZWN0aW9uPFJlYWxtRG9nPiBkYXRhKSB7CiAgICAgICAgICAgIHN1cGVyKGRhdGEsIHRydWUpOwogICAgICAgICAgICBzZXRIYXNTdGFibGVJZHModHJ1ZSk7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgVmlld0hvbGRlciBvbkNyZWF0ZVZpZXdIb2xkZXIoVmlld0dyb3VwIHBhcmVudCwgaW50IHZpZXdUeXBlKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgb25CaW5kVmlld0hvbGRlcihWaWV3SG9sZGVyIGhvbGRlciwgaW50IHBvc2l0aW9uKSB7CgogICAgICAgIH0K</text>
@@ -1449,13 +1452,13 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzCgogICAgLyoqCiAgICAgKiBBZGFwdGVyIHRvIGRpc3BsYXkgcmVjeWNsZXIgdmlldy4KICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>103</text>
       </register>
     </registers>
     <search>
-      <last-search>robo</last-search>
+      <last-search>bumpversion</last-search>
       <last-offset />
-      <last-pattern>robo</last-pattern>
+      <last-pattern>bumpversion</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
@@ -1463,7 +1466,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtUm91dGVJZFw+</entry>
         <entry encoding="base64">XDxtTmV4dHJpcFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>\}</entry>
@@ -1483,9 +1485,9 @@
         <entry encoding="base64">XDxtU3Vic2NyaWJlclw+</entry>
         <entry>robot</entry>
         <entry>robo</entry>
+        <entry>bumpversion</entry>
       </history-search>
       <history-cmd>
-        <entry>171</entry>
         <entry>44</entry>
         <entry>106</entry>
         <entry>387</entry>
@@ -1505,6 +1507,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLyBcey87L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyBcey9cOy9n</entry>
+        <entry>103</entry>
       </history-cmd>
       <history-expr />
       <history-input />
