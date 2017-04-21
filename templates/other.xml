@@ -12,7 +12,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tag" value="private static final String TAG = $CLASS_NAME$.class.getSimpleName();$END$" description="Inserts psf TAG" toReformat="false" toShortenFQNames="true">
+  <template name="logtag" value="private static final String LOGTAG = $CLASS_NAME$.class.getSimpleName();$END$" description="Inserts psf LOGTAG" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
