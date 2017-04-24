@@ -494,6 +494,9 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/AppPreferences.java" timestamp="1493057045202">
+        <mark key="'" line="30" column="34" />
+      </file>
       <file name="$USER_HOME$/code/android/src/wheniworkchallenge/nextrip.domain/src/main/java/io/rollhax/nextripdomain/models/IStop.java" timestamp="1488753792645">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="51" />
@@ -566,11 +569,11 @@
         <mark key="." line="46" column="50" />
         <mark key="^" line="29" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1493049919118">
+      <file name="/fragment.java" timestamp="1493057271623">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
       </file>
       <file name="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/view/IDepartureItemView.java" timestamp="1489119283983">
         <mark key="[" line="5" column="43" />
@@ -899,6 +902,12 @@
         <mark key="." line="26" column="118" />
         <mark key="^" line="26" column="118" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/ParticipantFiltersAdapter.java" timestamp="1493057824413">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="14" />
+        <mark key="." line="82" column="14" />
+        <mark key="^" line="82" column="14" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatLauncherPresenter.java" timestamp="1493044438342">
         <mark key="'" line="43" column="69" />
       </file>
@@ -936,6 +945,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="42" column="11" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/services/ParticipantsIntentService.java" timestamp="1493057283779">
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
       </file>
       <file name="$USER_HOME$/code/android/src/wheniworkchallenge/utils/src/main/java/io/rollhax/utils/serialization/json/strategy/SerializationStrategy.java" timestamp="1488651846602">
         <mark key="[" line="10" column="15" />
@@ -1184,7 +1198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/presentation/presenter/DeparturesPresenter.java" />
       <jump line="55" column="19" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/presentation/presenter/DeparturesPresenter.java" />
       <jump line="64" column="0" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/presentation/presenter/DeparturesPresenter.java" />
       <jump line="75" column="0" filename="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/presentation/presenter/DeparturesPresenter.java" />
@@ -1284,55 +1297,56 @@
       <jump line="63" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/util.gradle" />
       <jump line="137" column="100" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/util.gradle" />
+      <jump line="30" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/AppPreferences.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZHVzdHlqZXJvbWUgb24gNC8yMS8xNy4KICovCgo=</text>
+      <register name="&quot;" type="4">
+        <text>filter.getColor()</text>
       </register>
       <register name="-" type="4">
-        <text>RobolectricTestRunner</text>
+        <text>filter.getColor()</text>
       </register>
       <register name="/" type="4">
-        <text>ticketPrefix</text>
+        <text>isfetch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNob3dDaGF0RnJhZ21lbnQoQ2hhdE1lc3NhZ2VMaXN0RnJhZ21lbnQubmV3SW5zdGFuY2UoY29udmVyc2F0aW9uSWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZHVzdHlqZXJvbWUgb24gNC8yMS8xNy4KICovCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZHVzdHlqZXJvbWUgb24gNC8yMS8xNy4KICovCgo=</text>
+        <text encoding="base64">ICAgICAgZmlsdGVyLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZHVzdHlqZXJvbWUgb24gNC8yMS8xNy4KICovCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XAo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZHVzdHlqZXJvbWUgb24gNC8yMS8xNy4KICovCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJ1bldpdGgoUnVubikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgZ2V0SXRlbUNvdW50KCkgewogICAgICAgIHJldHVybiBzdXBlci5nZXRJdGVtQ291bnQoKTsKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">XAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QFJ1bldpdGgoUnVubikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBjbGFzcyBSZWFsbUNvbnRlbnRBZGFwdGVyIGV4dGVuZHMgUmVhbG1SZWN5Y2xlclZpZXdBZGFwdGVyPFJlYWxtRG9nLCBWaWV3SG9sZGVyPiB7CgogICAgICAgIHB1YmxpYyBSZWFsbUNvbnRlbnRBZGFwdGVyKE9yZGVyZWRSZWFsbUNvbGxlY3Rpb248UmVhbG1Eb2c+IGRhdGEpIHsKICAgICAgICAgICAgc3VwZXIoZGF0YSwgdHJ1ZSk7CiAgICAgICAgICAgIHNldEhhc1N0YWJsZUlkcyh0cnVlKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBWaWV3SG9sZGVyIG9uQ3JlYXRlVmlld0hvbGRlcihWaWV3R3JvdXAgcGFyZW50LCBpbnQgdmlld1R5cGUpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvbkJpbmRWaWV3SG9sZGVyKFZpZXdIb2xkZXIgaG9sZGVyLCBpbnQgcG9zaXRpb24pIHsKCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgZ2V0SXRlbUNvdW50KCkgewogICAgICAgIHJldHVybiBzdXBlci5nZXRJdGVtQ291bnQoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>103</text>
+        <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>ticketPrefix</last-search>
+      <last-search>isfetch</last-search>
       <last-offset />
-      <last-pattern>ticketPrefix</last-pattern>
+      <last-pattern>isfetch</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
@@ -1340,8 +1354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connected</entry>
-        <entry encoding="base64">XDxwcmVzZW50ZXJcPg==</entry>
         <entry>presenter</entry>
         <entry>bind</entry>
         <entry encoding="base64">XDx1bmJpbmRlclw+</entry>
@@ -1360,9 +1372,10 @@
         <entry encoding="base64">XDxFWFRSQV9DT05WRVJTQVRJT05fSURcPg==</entry>
         <entry>ticketPre</entry>
         <entry>ticketPrefix</entry>
+        <entry encoding="base64">XDxtUHJlZmVyZW5jZXNcPg==</entry>
+        <entry>isfetch</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>106</entry>
         <entry>387</entry>
         <entry>30</entry>
@@ -1382,6 +1395,7 @@
         <entry encoding="base64">JzwsJz5zLyBcey87L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyBcey9cOy9n</entry>
         <entry>103</entry>
+        <entry>90</entry>
       </history-cmd>
       <history-expr />
       <history-input />
