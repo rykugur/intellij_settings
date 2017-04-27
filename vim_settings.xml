@@ -486,8 +486,8 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" timestamp="1493222205801">
-        <mark key="'" line="244" column="33" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" timestamp="1493313273572">
+        <mark key="'" line="100" column="45" />
       </file>
       <file name="$USER_HOME$/code/android/src/wheniworkchallenge/app/src/main/java/io/rollhax/wheniworkchallenge/presentation/presenter/IStopsPresenter.java" timestamp="1489106908072">
         <mark key="[" line="6" column="0" />
@@ -828,9 +828,6 @@
         <mark key="]" line="6" column="22" />
         <mark key="^" line="5" column="32" />
         <mark key="." line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatParticipantListActivity.java" timestamp="1493221850662">
-        <mark key="'" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/code/android/src/wheniworkchallenge/nextrip.service/src/main/java/mappers/StopMapper.java" timestamp="1488854079873">
         <mark key="[" line="9" column="11" />
@@ -1316,7 +1313,6 @@
       <jump line="25" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatParticipantListActivity.java" />
       <jump line="128" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_chat_participant_list.xml" />
       <jump line="71" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_chat_participant_list.xml" />
-      <jump line="100" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" />
       <jump line="235" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" />
       <jump line="248" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" />
       <jump line="81" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" />
@@ -1345,6 +1341,7 @@
       <jump line="228" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="359" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="101" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
+      <jump line="100" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1354,7 +1351,7 @@
         <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGFwdGVyXD4=</text>
+        <text encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgIm9yZy5qZXRicmFpbnMua290bGluOmtvdGxpbi1zdGRsaWItanJlNzoka290bGluX3ZlcnNpb24iCg==</text>
@@ -1391,13 +1388,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGFwdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGFwdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1411,7 +1408,6 @@
         <entry encoding="base64">XDxFWFRSQV9GSUxURVJfVFJBQ0tJTkdfREFUQVw+</entry>
         <entry>filter_button</entry>
         <entry encoding="base64">XDxmaWx0ZXJfYnV0dG9uXD4=</entry>
-        <entry encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJzQWRhcHRlclw+</entry>
         <entry>recycler</entry>
         <entry encoding="base64">XDxpc0ZpbHRlck1lbnVWaXNpYmxlXD4=</entry>
@@ -1421,6 +1417,7 @@
         <entry encoding="base64">XDx3b3JrQ2hhdFByZWZlcmVuY2VzXD4=</entry>
         <entry>workchat</entry>
         <entry encoding="base64">XDxhZGFwdGVyXD4=</entry>
+        <entry encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>156</entry>
