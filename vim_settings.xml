@@ -277,7 +277,7 @@
         <mark key="^" line="2" column="83" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1493147984644">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1493739976905">
         <mark key="'" line="94" column="30" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/bus/RxBus.java" timestamp="1493663735010" />
@@ -563,8 +563,8 @@
         <mark key="." line="1" column="43" />
         <mark key="^" line="1" column="43" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" timestamp="1493670668436">
-        <mark key="'" line="46" column="29" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" timestamp="1493739891913">
+        <mark key="'" line="180" column="4" />
         <mark key="[" line="264" column="46" />
         <mark key="]" line="264" column="57" />
         <mark key="^" line="264" column="57" />
@@ -1314,8 +1314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatParticipantListActivity.java" />
-      <jump line="160" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatParticipantListActivity.java" />
       <jump line="25" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatParticipantListActivity.java" />
       <jump line="128" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_chat_participant_list.xml" />
       <jump line="71" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_chat_participant_list.xml" />
@@ -1356,9 +1354,6 @@
       <jump line="48" column="55" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/LoginFragment.java" />
       <jump line="109" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/LoginFragment.java" />
       <jump line="117" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/LoginFragment.java" />
-      <jump line="47" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
-      <jump line="170" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
-      <jump line="180" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
       <jump line="261" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="124" column="94" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
       <jump line="138" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
@@ -1414,6 +1409,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="46" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
       <jump line="678" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
+      <jump line="281" column="70" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
+      <jump line="40" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
+      <jump line="47" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
+      <jump line="170" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
+      <jump line="180" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatPreferencesFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1423,7 +1423,7 @@
         <text>message.trim().matches(IMAGE_ONLY_REGEX);</text>
       </register>
       <register name="/" type="4">
-        <text>you have workchat turned off</text>
+        <text encoding="base64">XDxhbGVydHNQcmVmZXJlbmNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgcG9zdENoYW5uZWxMaXN0ZW5lckV2ZW50KG5ldyBUd2lsaW9NZXNzYWdlRXZlbnQoVHdpbGlvRXZlbnRUeXBlLk1FU1NBR0VfQURELCBjaGFubmVsLCBtZXNzYWdlKSk7Cg==</text>
@@ -1460,9 +1460,9 @@
       </register>
     </registers>
     <search>
-      <last-search>you have workchat turned off</last-search>
+      <last-search encoding="base64">XDxhbGVydHNQcmVmZXJlbmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>you have workchat turned off</last-pattern>
+      <last-pattern encoding="base64">XDxhbGVydHNQcmVmZXJlbmNlXD4=</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
@@ -1470,7 +1470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recycler</entry>
         <entry encoding="base64">XDxpc0ZpbHRlck1lbnVWaXNpYmxlXD4=</entry>
         <entry>updateUnread</entry>
         <entry encoding="base64">XDxXb3JrQ2hhdFByZWZlcmVuY2VzXD4=</entry>
@@ -1480,7 +1479,6 @@
         <entry encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</entry>
         <entry>avail</entry>
         <entry encoding="base64">XDxlbWFpbFRleHRWaWV3XD4=</entry>
-        <entry encoding="base64">XDxhbGVydHNQcmVmZXJlbmNlXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>receiver</entry>
         <entry>notificationpayload</entry>
@@ -1490,6 +1488,8 @@
         <entry>enable workchat</entry>
         <entry encoding="base64">XDxlbmFibGVXb3JrQ2hhdFByZWZlcmVuY2VcPg==</entry>
         <entry>you have workchat turned off</entry>
+        <entry encoding="base64">XDxDSEFUX1BSRUZFUkVOQ0VfQ0FURUdPUllfTk9USUZJQ0FUSU9OU1w+</entry>
+        <entry encoding="base64">XDxhbGVydHNQcmVmZXJlbmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>197</entry>
