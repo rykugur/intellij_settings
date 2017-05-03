@@ -15,7 +15,8 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="logderp" value="android.util.Log.d(&quot;DERP&quot;, &quot;$METHOD_NAME$: $content$&quot;);" description="logderp" toReformat="false" toShortenFQNames="true">
+  <template name="logderp" value="android.util.Log.d(&quot;DERP&quot;, &quot;$CLASS_NAME$.$METHOD_NAME$: $content$&quot;);" description="logderp" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
