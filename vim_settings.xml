@@ -222,6 +222,9 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/clockin/fragment/ClockinFragment.java" timestamp="1493909466869">
+        <mark key="'" line="62" column="30" />
+      </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/fragment_driver_assign.xml" timestamp="1470669525377">
         <mark key="[" line="135" column="25" />
         <mark key="]" line="135" column="83" />
@@ -267,12 +270,7 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/workplaces/WorkplaceSwitcherFragment.java" timestamp="1493755888422">
         <mark key="'" line="344" column="6" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Conversation.java" timestamp="1493906656419">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Conversation.java" timestamp="1493909177068" />
       <file name="$USER_HOME$/Dropbox/code/android/learning/FunApp/app/src/main/java/io/rollhax/funapp/realm/models/RealmDog.java" timestamp="1491346360527">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="12" column="24" />
@@ -662,12 +660,12 @@
         <mark key="^" line="16" column="67" />
         <mark key="." line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" timestamp="1493908073237">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" timestamp="1493909299719">
         <mark key="'" line="208" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="75" column="77" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="73" column="27" />
+        <mark key="]" line="73" column="27" />
+        <mark key="^" line="73" column="27" />
+        <mark key="." line="73" column="27" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/domain/notifications/IPushSubscription.java" timestamp="1472828134655">
         <mark key="[" line="3" column="0" />
@@ -928,6 +926,7 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatDisableConfirmDialogFragment.java" timestamp="1493756752625">
         <mark key="'" line="46" column="37" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/PunchState.java" timestamp="1493909436992" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1493670460976">
         <mark key="'" line="678" column="31" />
       </file>
@@ -1356,7 +1355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" />
       <jump line="80" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" />
       <jump line="93" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" />
       <jump line="148" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" />
@@ -1456,55 +1454,56 @@
       <jump line="138" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Conversation.java" />
       <jump line="120" column="72" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
       <jump line="208" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
+      <jump line="62" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/clockin/fragment/ClockinFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihidWlsZGVyIC0+IGJ1aWxkZXIgIT0gbnVsbCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoY29udmVyc2F0aW9uIC0+IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBnZXRNZXNzYWdlKHBheWxvYWQsIGNvbnZlcnNhdGlvbik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNob3dOb3RpZmljYXRpb24oY29udmVyc2F0aW9uLCBtZXNzYWdlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIHRocm93YWJsZSAtPiBMb2cuZChMT0dUQUcsIHRocm93YWJsZS5nZXRNZXNzYWdlKCksIHRocm93YWJsZSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getNotificationBuilder()</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPYnNlcnZhYmxlXD4=</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFBlbmRpbmdJbnRlbnQgcGVuZGluZ0ludGVudCA9CiAgICAgIFRhc2tTdGFja0J1aWxkZXIuY3JlYXRlKGFwcCkKICAgICAgICAgICAgICAgICAgICAgIC5hZGROZXh0SW50ZW50KERhc2hib2FyZEFjdGl2aXR5Lm5ld0ludGVudChhcHApKQogICAgICAgICAgICAgICAgICAgICAgLmFkZE5leHRJbnRlbnQoQ2hhdEFjdGl2aXR5Lm5ld0NvbnZlcnNhdGlvbkJ5SWRJbnRlbnQoYXBwLCBjb252ZXJzYXRpb24uZ2V0SWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoYXRMYXVuY2hTb3VyY2UuQUxFUlQpKQogICAgICAgICAgICAgICAgICAgICAgLmdldFBlbmRpbmdJbnRlbnQoY29udmVyc2F0aW9uLmhhc2hDb2RlKCksIFBlbmRpbmdJbnRlbnQuRkxBR19PTkVfU0hPVCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcihidWlsZGVyIC0+IGJ1aWxkZXIgIT0gbnVsbCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUoY29udmVyc2F0aW9uIC0+IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBnZXRNZXNzYWdlKHBheWxvYWQsIGNvbnZlcnNhdGlvbik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNob3dOb3RpZmljYXRpb24oY29udmVyc2F0aW9uLCBtZXNzYWdlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIHRocm93YWJsZSAtPiBMb2cuZChMT0dUQUcsIHRocm93YWJsZS5nZXRNZXNzYWdlKCksIHRocm93YWJsZSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93Tm90aWZpY2F0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLnN1YnNjcmliZShuZXcgT2JzZXJ2ZXI8Q2hhdE5vdGlmaWNhdGlvblBheWxvYWQ+KCkgewogICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNvbXBsZXRlZCgpIHsKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkVycm9yKFRocm93YWJsZSB0aHJvd2FibGUpIHsKCiAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBvbk5leHQoQ2hhdE5vdGlmaWNhdGlvblBheWxvYWQgY2hhdE5vdGlmaWNhdGlvblBheWxvYWQpIHsKCiAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOb3RpZmljYXRpb25Db21wYXQuQnVpbGRlciBub3RpZmljYXRpb25CdWlsZGVyID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1YnNjcmlwdGlvbiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udmVyc2F0aW9uc1JlcG9zaXRvcnkuZ2V0Q29udmVyc2F0aW9uQnlJZE9ic2VydmFibGUocGF5bG9hZC5nZXRDaGFubmVsU2lkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmRvT25UZXJtaW5hdGUoKCkgLT4gc3Vic2NyaXB0aW9uLnVuc3Vic2NyaWJlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnN1YnNjcmliZShjb252ZXJzYXRpb24gLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSBnZXRNZXNzYWdlKHBheWxvYWQsIGNvbnZlcnNhdGlvbik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93Tm90aWZpY2F0aW9uKGNvbnZlcnNhdGlvbiwgbWVzc2FnZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwgdGhyb3dhYmxlIC0+IExvZy5kKExPR1RBRywgdGhyb3dhYmxlLmdldE1lc3NhZ2UoKSwgdGhyb3dhYmxlKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcihidWlsZGVyIC0+IGJ1aWxkZXIgIT0gbnVsbCkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPYnNlcnZhYmxlXD4=</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPYnNlcnZhYmxlXD4=</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
@@ -1512,7 +1511,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bmlxdWVJZFw+</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry>enable workchat</entry>
         <entry encoding="base64">XDxlbmFibGVXb3JrQ2hhdFByZWZlcmVuY2VcPg==</entry>
@@ -1532,6 +1530,7 @@
         <entry>entry</entry>
         <entry encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxPYnNlcnZhYmxlXD4=</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>197</entry>
