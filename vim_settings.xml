@@ -114,11 +114,11 @@
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/MapCard.java" timestamp="1494354352246">
-        <mark key="[" line="181" column="47" />
-        <mark key="]" line="181" column="53" />
-        <mark key="." line="181" column="53" />
-        <mark key="^" line="181" column="53" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/MapCard.java" timestamp="1494355609762">
+        <mark key="[" line="177" column="19" />
+        <mark key="]" line="177" column="7" />
+        <mark key="." line="177" column="7" />
+        <mark key="^" line="177" column="7" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/res/layout/view_load_preview_drawer.xml" timestamp="1479396220174">
         <mark key="[" line="8" column="31" />
@@ -641,7 +641,7 @@
         <mark key="." line="46" column="50" />
         <mark key="^" line="29" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1493911763029">
+      <file name="/fragment.java" timestamp="1494355629033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -925,8 +925,8 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatConversationListFragment.java" timestamp="1493670424318">
         <mark key="'" line="89" column="11" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1493927952297">
-        <mark key="'" line="17" column="43" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1494355396966">
+        <mark key="'" line="249" column="14" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatDisableConfirmDialogFragment.java" timestamp="1493756752625">
         <mark key="'" line="46" column="37" />
@@ -1376,11 +1376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/MapCard.java" />
-      <jump line="53" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/MapCard.java" />
-      <jump line="52" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
-      <jump line="54" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
-      <jump line="394" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="734" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="384" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="117" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
@@ -1476,55 +1471,60 @@
       <jump line="105" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="167" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="64" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/MapCard.java" />
+      <jump line="208" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="231" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="232" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="248" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="249" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbG9jYXRpb25Qcm92aWRlci5nZXRMYXN0S25vd25Mb2NhdGlvbigpCiAgICAgICAgLnN1YnNjcmliZShsb2NhdGlvbiAtPiB7CiAgICAgICAgICBMb2cuZCgiREVSUCIsICJNYXBDYXJkLnN0YXJ0TG9jYXRpb25VcGRhdGVzOiBsb2NhdGlvbj0iICsgbG9jYXRpb24pOwogICAgICAgIH0sIHRocm93YWJsZSAtPiB7fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bCBTdWJzY3JpcHRpb24gc3VieiA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb29nbGVNYXBcPg==</text>
+        <text>reactive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShwYXJ0aWNpcGFudHMxLmdldCgwKS5lcXVhbHMocGFydGljaXBhbnRzLmdldCgxKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9jYXRpb25Qcm92aWRlci5nZXRMYXN0S25vd25Mb2NhdGlvbigpCiAgICAgICAgLnN1YnNjcmliZShsb2NhdGlvbiAtPiB7CiAgICAgICAgICBMb2cuZCgiREVSUCIsICJNYXBDYXJkLnN0YXJ0TG9jYXRpb25VcGRhdGVzOiBsb2NhdGlvbj0iICsgbG9jYXRpb24pOwogICAgICAgIH0sIHRocm93YWJsZSAtPiB7fSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbG9jYXRpb25Qcm92aWRlci5nZXRsbwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuZG9PblRlcm1pbmF0ZSgoKSAtPiBzdWJ6LnVuc3Vic2NyaWJlKCkpCg==</text>
+        <text encoding="base64">ICAgICAgbG9jYXRpb25Qcm92aWRlci5nZXRMYXN0S25vd25Mb2NhdGlvbigpCiAgICAgICAgLnN1YnNjcmliZShsb2NhdGlvbiAtPiB7CiAgICAgICAgICBMb2cuZCgiREVSUCIsICJNYXBDYXJkLnN0YXJ0TG9jYXRpb25VcGRhdGVzOiBsb2NhdGlvbj0iICsgbG9jYXRpb24pOwogICAgICAgIH0sIHRocm93YWJsZSAtPiB7fSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1zby4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ29vZ2xlTWFwLnNldE1hcFN0eWxlKE1hcFN0eWxlT3B0aW9ucy4pCg==</text>
+        <text encoding="base64">ICAgICAgICAuZG9PblRlcm1pbmF0ZSgoKSAtPiBzdWJ6LnVuc3Vic2NyaWJlKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWFwVmlldy5zdHlsZQo=</text>
+        <text encoding="base64">ICAgIG1zby4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ29vZ2xlTWFwLnNldE1hcFN0eWxlKE1hcFN0eWxlT3B0aW9ucy4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICBpbnQgY2hlY2tCb3hDb2xvciA9IGZpbHRlci5oYXNDb2xvcigpID8gZmlsdGVyLmdldENvbG9yKCkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0LCBSLmNvbG9yLnN0YXR1c19yZWQpOwovLyAgICAgIGZpbHRlclZpZXdIb2xkZXIuY2hlY2tCb3guc2V0U3VwcG9ydEJ1dHRvblRpbnRMaXN0KENvbG9yU3RhdGVMaXN0LnZhbHVlT2YoY2hlY2tCb3hDb2xvcikpOwo=</text>
+        <text encoding="base64">ICAgICAgbWFwVmlldy5zdHlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>142</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb29nbGVNYXBcPg==</last-search>
+      <last-search>reactive</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb29nbGVNYXBcPg==</last-pattern>
+      <last-pattern>reactive</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
@@ -1532,8 +1532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxFWFRSQV9DT05WRVJTQVRJT05fSURcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJzQWRhcHRlclw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJSZWN5Y2xlclw+</entry>
@@ -1552,6 +1550,8 @@
         <entry encoding="base64">XDxtVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxnb29nbGVNYXBcPg==</entry>
+        <entry>fireb</entry>
+        <entry>reactive</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
