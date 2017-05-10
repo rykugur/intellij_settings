@@ -415,8 +415,8 @@
         <mark key="^" line="30" column="32" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" timestamp="1493756018824">
-        <mark key="'" line="116" column="30" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" timestamp="1494431712593">
+        <mark key="'" line="385" column="44" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/view/activities/FeedbackActivity.java" timestamp="1479740243018">
         <mark key="[" line="3" column="0" />
@@ -1377,12 +1377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseActivity.java" />
-      <jump line="65" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseActivity.java" />
-      <jump line="704" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
-      <jump line="728" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
-      <jump line="116" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
-      <jump line="32" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatNavigationPresenter.java" />
       <jump line="39" column="71" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatNavigationPresenter.java" />
       <jump line="43" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatNavigationPresenter.java" />
       <jump line="136" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/BaseChatFragment.java" />
@@ -1477,6 +1471,12 @@
       <jump line="334" column="94" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="6" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
+      <jump line="51" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="119" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="120" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="378" column="106" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="384" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="385" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1486,7 +1486,7 @@
         <text encoding="base64">bCBTdWJzY3JpcHRpb24gc3VieiA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>gruel</text>
+        <text>workchat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShwYXJ0aWNpcGFudHMxLmdldCgwKS5lcXVhbHMocGFydGljaXBhbnRzLmdldCgxKSkpOwo=</text>
@@ -1523,9 +1523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gruel</last-search>
+      <last-search>workchat</last-search>
       <last-offset />
-      <last-pattern>gruel</last-pattern>
+      <last-pattern>workchat</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
@@ -1533,9 +1533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>card</entry>
-        <entry encoding="base64">XDxhZGFwdGVyXD4=</entry>
-        <entry encoding="base64">XDxyZWN5Y2xlclZpZXdcPg==</entry>
         <entry>sort</entry>
         <entry>updateview</entry>
         <entry encoding="base64">XDxldmVudFw+</entry>
@@ -1553,6 +1550,9 @@
         <entry>jira</entry>
         <entry>uploadAlpha</entry>
         <entry>gruel</entry>
+        <entry>chat</entry>
+        <entry encoding="base64">XDx3b3JrQ2hhdFByZWZlcmVuY2VzXD4=</entry>
+        <entry>workchat</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
