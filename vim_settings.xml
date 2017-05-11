@@ -1261,7 +1261,8 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" timestamp="1494516847117">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" timestamp="1494518362900">
+        <mark key="'" line="125" column="13" />
         <mark key="]" line="276" column="78" />
         <mark key="^" line="276" column="78" />
         <mark key="." line="276" column="78" />
@@ -1400,11 +1401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
-      <jump line="135" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
-      <jump line="80" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
-      <jump line="47" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" />
       <jump line="81" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" />
       <jump line="23" column="47" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/FilterCardView.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_chat_participant_list.xml" />
@@ -1500,6 +1496,11 @@
       <jump line="211" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="244" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="218" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="182" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
+      <jump line="197" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
+      <jump line="24" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
+      <jump line="125" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1509,7 +1510,7 @@
         <text>getAttributes</text>
       </register>
       <register name="/" type="4">
-        <text>fcm</text>
+        <text>ERROR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIE5vdGlmaWNhdGlvbk1hbmFnZXIgbm90aWZpY2F0aW9uTWFuYWdlciA9CiAgICAgIChOb3RpZmljYXRpb25NYW5hZ2VyKSBhcHAuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKTsK</text>
@@ -1546,9 +1547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fcm</last-search>
+      <last-search>ERROR</last-search>
       <last-offset />
-      <last-pattern>fcm</last-pattern>
+      <last-pattern>ERROR</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">IFx7</last-substitute>
       <last-dir>1</last-dir>
@@ -1556,7 +1557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reactive</entry>
         <entry>jira</entry>
         <entry>uploadAlpha</entry>
         <entry>gruel</entry>
@@ -1576,6 +1576,7 @@
         <entry>twilio</entry>
         <entry>firebase</entry>
         <entry>fcm</entry>
+        <entry>ERROR</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
