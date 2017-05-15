@@ -535,8 +535,8 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" timestamp="1494856316085">
-        <mark key="'" line="127" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" timestamp="1494858952803">
+        <mark key="'" line="147" column="6" />
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="^" line="122" column="28" />
@@ -698,7 +698,7 @@
         <mark key="." line="46" column="50" />
         <mark key="^" line="29" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1494856563604">
+      <file name="/fragment.java" timestamp="1494858679324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="0" column="38" />
@@ -1435,8 +1435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
-      <jump line="167" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="64" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/MapCard.java" />
       <jump line="208" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="232" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
@@ -1535,6 +1533,8 @@
       <jump line="82" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/APIEnvironment.java" />
       <jump line="84" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/APIEnvironment.java" />
       <jump line="127" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
+      <jump line="134" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
+      <jump line="147" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1544,7 +1544,7 @@
         <text>env</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzQWxsRW52aXJvbm1lbnRzXD4=</text>
+        <text encoding="base64">cHJvZ3Jlc3NEaWFsb2cgPSA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy52aWV3LmNsZWFyRmlsdGVyU2VsZWN0aW9uKCk7Cg==</text>
@@ -1577,21 +1577,20 @@
         <text encoding="base64">ICAgIGJvb2xlYW4gdXNlU3RhZ2luZyA9IGRhdGEuZ2V0Qm9vbGVhblF1ZXJ5UGFyYW1ldGVyKFFVRVJZX1BBUkFNX1VTRV9TVEFHSU5HLCBmYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>82</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzQWxsRW52aXJvbm1lbnRzXD4=</last-search>
+      <last-search encoding="base64">cHJvZ3Jlc3NEaWFsb2cgPSA=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzQWxsRW52aXJvbm1lbnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">cHJvZ3Jlc3NEaWFsb2cgPSA=</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJCdXR0b25cPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>swipe</entry>
         <entry encoding="base64">XDxyZWZyZXNoTGF5b3V0XD4=</entry>
         <entry>read</entry>
         <entry encoding="base64">XDx1bnJlYWRDb3VudENhY2hlXD4=</entry>
@@ -1611,6 +1610,7 @@
         <entry>staging</entry>
         <entry encoding="base64">XDxtRW52U2VsZWN0aW9uR3JvdXBcPg==</entry>
         <entry encoding="base64">XDxzQWxsRW52aXJvbm1lbnRzXD4=</entry>
+        <entry encoding="base64">cHJvZ3Jlc3NEaWFsb2cgPSA=</entry>
       </history-search>
       <history-cmd>
         <entry>815</entry>
@@ -1627,12 +1627,12 @@
         <entry>101</entry>
         <entry>301</entry>
         <entry>351</entry>
-        <entry>noh</entry>
         <entry>208</entry>
         <entry>123</entry>
         <entry>163</entry>
         <entry>142</entry>
         <entry>82</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
