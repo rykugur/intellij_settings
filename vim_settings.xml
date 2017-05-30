@@ -722,9 +722,9 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/BaseChatFragment.java" timestamp="1496165117742">
         <mark key="'" line="44" column="3" />
         <mark key="[" line="79" column="51" />
-        <mark key="]" line="82" column="12" />
-        <mark key="^" line="82" column="12" />
-        <mark key="." line="82" column="12" />
+        <mark key="]" line="79" column="12" />
+        <mark key="^" line="79" column="12" />
+        <mark key="." line="79" column="12" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/services/RegistrationRetroService.java" timestamp="1473705153999">
         <mark key="[" line="19" column="0" />
@@ -845,6 +845,9 @@
         <mark key="]" line="38" column="55" />
         <mark key="." line="38" column="55" />
         <mark key="^" line="38" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" timestamp="1496168063047">
+        <mark key="'" line="97" column="16" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/gradle.properties" timestamp="1495799886603">
         <mark key="[" line="22" column="21" />
@@ -1286,11 +1289,12 @@
         <mark key="^" line="4" column="70" />
         <mark key="." line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatMessageListFragment.java" timestamp="1496166414173">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatMessageListFragment.java" timestamp="1496168044269">
+        <mark key="[" line="176" column="3" />
+        <mark key="]" line="161" column="13" />
+        <mark key="." line="161" column="13" />
         <mark key="n" line="75" column="7" />
+        <mark key="^" line="161" column="13" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationDefaultReceiver.java" timestamp="1494529770328">
         <mark key="[" line="6" column="62" />
@@ -1682,10 +1686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="61" filename="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/todo/view/activity/TodoActivity.java" />
-      <jump line="37" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/BaseChatFragment.java" />
-      <jump line="241" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
-      <jump line="244" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="243" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="67" column="74" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build/intermediates/exploded-aar/com.twilio/chat-android/0.12.2/jars/classes.jar!/com/twilio/chat/ChatClient.class" />
       <jump line="70" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build/intermediates/exploded-aar/com.twilio/chat-android/0.12.2/jars/classes.jar!/com/twilio/chat/ChatClient.class" />
@@ -1782,6 +1782,10 @@
       <jump line="78" column="7" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatMessageListFragment.java" />
       <jump line="156" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatMessageListFragment.java" />
       <jump line="124" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatMessageListFragment.java" />
+      <jump line="64" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
+      <jump line="86" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
+      <jump line="131" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
+      <jump line="97" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1791,7 +1795,7 @@
         <text>realm_recycler</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGF0VW5hdmFpbGFibGVNZXNzYWdlXD4=</text>
+        <text encoding="base64">XDx2aWV3XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGNvbnRleHQpOwogICAgaW5mbGF0ZShjb250ZXh0LCBSLmxheW91dC5jYXJkX3dvcmtjaGF0LCB0aGlzKTsKICAgIEJ1dHRlcktuaWZlLmJpbmQodGhpcyk7CiAgICBJbmplY3Rvci5JTlNUQU5DRS5nZXRVc2VyQ29tcG9uZW50KCkuaW5qZWN0KHRoaXMpOwogICAgc2V0T25DbGlja0xpc3RlbmVyKHRoaXMpOwo=</text>
@@ -1828,9 +1832,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGF0VW5hdmFpbGFibGVNZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDx2aWV3XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGF0VW5hdmFpbGFibGVNZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx2aWV3XD4=</last-pattern>
       <last-replace>${androidSupportVersion}</last-replace>
       <last-substitute>25.3.1</last-substitute>
       <last-dir>1</last-dir>
@@ -1838,7 +1842,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnY21SZWdpc3RyYXRpb25TdGF0dXNMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxhY2Nlc3NNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDx3b3JrQ2hhdEFwaVw+</entry>
         <entry>robol</entry>
@@ -1858,6 +1861,7 @@
         <entry encoding="base64">XDxwYXJ0aWNpcGFudHNWaWV3XD4=</entry>
         <entry>butterknife</entry>
         <entry encoding="base64">XDxjaGF0VW5hdmFpbGFibGVNZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDx2aWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyBcey9cOy9n</entry>
