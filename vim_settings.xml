@@ -1153,8 +1153,11 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatConversationListFragment.java" timestamp="1496173724660">
         <mark key="'" line="57" column="13" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1496163691817">
-        <mark key="'" line="126" column="40" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1496245437878">
+        <mark key="'" line="104" column="21" />
+        <mark key="[" line="246" column="39" />
+        <mark key="]" line="246" column="40" />
+        <mark key="." line="246" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/main/java/com/chrobinson/android/core/view/ViewUtils.java" timestamp="1479402077419">
         <mark key="[" line="141" column="37" />
@@ -1682,7 +1685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/ChannelsObservable.java" />
       <jump line="29" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/ChannelsObservable.java" />
       <jump line="34" column="57" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/ChannelsObservable.java" />
       <jump line="37" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/ChannelsObservable.java" />
@@ -1782,6 +1784,7 @@
       <jump line="12" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenterTest.java" />
       <jump line="274" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenterTest.java" />
       <jump line="379" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.9/f7b520c458572890807d143670c9b24f4de90897/joda-time-2.9.9.jar!/org/joda/time/format/DateTimeFormatter.class" />
+      <jump line="104" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1791,7 +1794,7 @@
         <text encoding="base64">QE5vbk51bGwg</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>twilio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBATm9uTnVsbCBXaGVuSVdvcmtBcHBsaWNhdGlvbiBhcHAsCiAgICAgICAgICAgICAgICAgICAgQE5vbk51bGwgVXNlciBjdXJyZW50VXNlciwKICAgICAgICAgICAgICAgICAgICBATm9uTnVsbCBBY2NvdW50IGFjY291bnQsCiAgICAgICAgICAgICAgICAgICAgQE5vbk51bGwgV29ya0NoYXRNZXNzYWdpbmdDbGllbnQgbWVzc2FnaW5nQ2xpZW50LAogICAgICAgICAgICAgICAgICAgIEBOb25OdWxsIENvbnZlcnNhdGlvbnNSZXBvc2l0b3J5IGNvbnZlcnNhdGlvbnNSZXBvc2l0b3J5LAogICAgICAgICAgICAgICAgICAgIEBOb25OdWxsIFBhcnRpY2lwYW50c0NhY2hlIHBhcnRpY2lwYW50c0NhY2hlLAogICAgICAgICAgICAgICAgICAgIEBOb25OdWxsIFdvcmtDaGF0UHJlZmVyZW5jZXMgd29ya0NoYXRQcmVmZXJlbmNlcywKICAgICAgICAgICAgICAgICAgICBATm9uTnVsbCBBbmFseXRpY3NMb2dnZXIgYW5hbHl0aWNzTG9nZ2VyLAogICAgICAgICAgICAgICAgICAgIEBOb25OdWxsIFdvcmtDaGF0QXBpIHdvcmtDaGF0QXBpLAogICAgICAgICAgICAgICAgICAgIEBOb25OdWxsIFdvcmtDaGF0VW5yZWFkQ291bnRDYWNoZSB1bnJlYWRDb3VudENhY2hlKSB7CiAgICB0aGlzLnZpZXcgPSB2aWV3OwogICAgdGhpcy5hcHAgPSBhcHA7CiAgICB0aGlzLmN1cnJlbnRVc2VyID0gY3VycmVudFVzZXI7CiAgICB0aGlzLmFjY291bnQgPSBhY2NvdW50OwogICAgdGhpcy5tZXNzYWdpbmdDbGllbnQgPSBtZXNzYWdpbmdDbGllbnQ7CiAgICB0aGlzLmNvbnZlcnNhdGlvbnNSZXBvc2l0b3J5ID0gY29udmVyc2F0aW9uc1JlcG9zaXRvcnk7CiAgICB0aGlzLnBhcnRpY2lwYW50c0NhY2hlID0gcGFydGljaXBhbnRzQ2FjaGU7CiAgICB0aGlzLndvcmtDaGF0UHJlZmVyZW5jZXMgPSB3b3JrQ2hhdFByZWZlcmVuY2VzOwogICAgdGhpcy5hbmFseXRpY3NMb2dnZXIgPSBhbmFseXRpY3NMb2dnZXI7CiAgICB0aGlzLndvcmtDaGF0QXBpID0gd29ya0NoYXRBcGk7CiAgICB0aGlzLnVucmVhZENvdW50Q2FjaGUgPSB1bnJlYWRDb3VudENhY2hlOwoKICAgIG1vbml0b3JCdXNFdmVudHMoKTsKICB9Cg==</text>
@@ -1828,9 +1831,9 @@
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>twilio</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>twilio</last-pattern>
       <last-replace>${androidSupportVersion}</last-replace>
       <last-substitute>25.3.1</last-substitute>
       <last-dir>1</last-dir>
@@ -1838,7 +1841,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LoginActi</entry>
         <entry>fireb</entry>
         <entry>firebase</entry>
         <entry>recycler</entry>
@@ -1858,6 +1860,7 @@
         <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
         <entry>rxbus</entry>
         <entry>throw</entry>
+        <entry>twilio</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
