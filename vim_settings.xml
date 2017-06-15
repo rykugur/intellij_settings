@@ -51,6 +51,12 @@
         <mark key="^" line="39" column="56" />
         <mark key="." line="39" column="56" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/settings.gradle" timestamp="1497556036523">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="67" />
+        <mark key="^" line="0" column="67" />
+        <mark key="." line="0" column="67" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" timestamp="1497531735267">
         <mark key="[" line="228" column="102" />
         <mark key="]" line="229" column="4" />
@@ -1176,10 +1182,11 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatConversationListFragment.java" timestamp="1497452845262">
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1497556663112">
+        <mark key="[" line="264" column="39" />
+        <mark key="]" line="264" column="40" />
+        <mark key="^" line="264" column="1" />
+        <mark key="." line="264" column="40" />
       </file>
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/android.core/src/main/java/com/chrobinson/android/core/view/ViewUtils.java" timestamp="1479402077419">
         <mark key="[" line="141" column="37" />
@@ -1304,7 +1311,6 @@
         <mark key="^" line="39" column="55" />
         <mark key="." line="39" column="55" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/edit/AvailabilityEditFragment.java" timestamp="1497452212505" />
       <file name="$USER_HOME$/work/code/src/NavisphereCarrier-Android/app/src/main/java/com/chrobinson/navispherecarrier/data/store/IRecentSearchStore.java" timestamp="1479571538013">
         <mark key="[" line="11" column="52" />
         <mark key="]" line="13" column="21" />
@@ -1540,6 +1546,12 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" timestamp="1497556185597">
+        <mark key="[" line="140" column="47" />
+        <mark key="]" line="144" column="12" />
+        <mark key="^" line="144" column="12" />
+        <mark key="." line="144" column="12" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/WorkChatCard.java" timestamp="1495812800396">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="37" column="28" />
@@ -1719,7 +1731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="501" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="500" column="67" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="499" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
@@ -1819,6 +1830,7 @@
       <jump line="200" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
       <jump line="271" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
       <jump line="241" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
+      <jump line="258" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1828,7 +1840,7 @@
         <text>onResult</text>
       </register>
       <register name="/" type="4">
-        <text>addByIdent</text>
+        <text>twilio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByZXNlbnRlci5vbkNoYW5uZWxGZXRjaGVkKHRoaXMuY2hhbm5lbCk7CiAgICBhc3NlcnRUaGF0KHByZXNlbnRlci5zaG93U2VuZGVySW5mbyk7Cg==</text>
@@ -1861,23 +1873,22 @@
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBpdFNldHMK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>185</text>
       </register>
     </registers>
     <search>
-      <last-search>addByIdent</last-search>
+      <last-search>twilio</last-search>
       <last-offset />
-      <last-pattern>addByIdent</last-pattern>
+      <last-pattern>twilio</last-pattern>
       <last-replace>Channel</last-replace>
       <last-substitute>R.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxPYnNlcnZhYmxlXD4=</entry>
         <entry>utils</entry>
-        <entry>twilio</entry>
         <entry>getlas</entry>
         <entry>showsender</entry>
         <entry>getlatest</entry>
@@ -1895,9 +1906,9 @@
         <entry encoding="base64">XDxXb3JrQ2hhdENoYW5uZWxMaXN0ZW5lclw+</entry>
         <entry>addbyiden</entry>
         <entry>addByIdent</entry>
+        <entry>twilio</entry>
       </history-search>
       <history-cmd>
-        <entry>142</entry>
         <entry encoding="base64">JzwsJz5zL1wnL1wiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbXBpbGUvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -1917,6 +1928,7 @@
         <entry encoding="base64">JzwsJz5zL0NoYW5uZWxEZXNjcmlwdG9yL0NoYW5uZWwvZw==</entry>
         <entry>237</entry>
         <entry>noh</entry>
+        <entry>185</entry>
       </history-cmd>
       <history-expr />
       <history-input />
