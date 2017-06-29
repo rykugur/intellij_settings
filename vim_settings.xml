@@ -182,11 +182,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="37" column="59" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1498754490562">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="143" column="99" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1498755749759">
+        <mark key="[" line="138" column="7" />
+        <mark key="]" line="138" column="9" />
+        <mark key="^" line="138" column="9" />
+        <mark key="." line="138" column="9" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/proguard-rules.pro" timestamp="1497622556324">
         <mark key="'" line="107" column="14" />
@@ -318,14 +318,14 @@
       <jump line="360" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgQ2lwaGVyU3VpdGUuVExTX0VDREhFX0VDRFNBX1dJVEhfQUVTXzI1Nl9DQkNfU0hBKSAvLyByZXF1aXJlZCBmb3Igd29ya2NoYXQud2hlbml3b3JrLioK</text>
+      <register name="&quot;" type="4">
+        <text>SSL</text>
       </register>
       <register name="-" type="4">
-        <text>TLS_DH_anon_WITH_AES_256_CBC_SHA</text>
+        <text>SSL</text>
       </register>
       <register name="/" type="4">
-        <text>Log.e</text>
+        <text>ssl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFwcFByZWZlcmVuY2VzIHByZWZzLCBBUElFbmRwb2ludCBlbmRwb2ludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFQSUVudmlyb25tZW50IGVudmlyb25tZW50KSB7Cg==</text>
@@ -362,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Log.e</last-search>
+      <last-search>ssl</last-search>
       <last-offset />
-      <last-pattern>Log.e</last-pattern>
+      <last-pattern>ssl</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bind</entry>
         <entry>unbinder</entry>
         <entry>email_is_inc</entry>
         <entry encoding="base64">PDw8</entry>
@@ -392,6 +391,7 @@
         <entry>MAIN</entry>
         <entry encoding="base64">XDx3b3JrQ2hhdEFwaVw+</entry>
         <entry>Log.e</entry>
+        <entry>ssl</entry>
       </history-search>
       <history-cmd>
         <entry>456</entry>
