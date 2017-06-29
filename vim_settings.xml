@@ -25,13 +25,6 @@
         <mark key="^" line="21" column="78" />
         <mark key="." line="21" column="78" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" timestamp="1498765704428">
-        <mark key="'" line="366" column="8" />
-        <mark key="[" line="283" column="93" />
-        <mark key="]" line="284" column="102" />
-        <mark key="^" line="284" column="102" />
-        <mark key="." line="284" column="102" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/MembersJoinObservable.java" timestamp="1498761267939" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" timestamp="1498762486100">
         <mark key="'" line="183" column="10" />
@@ -128,6 +121,9 @@
         <mark key="^" line="265" column="71" />
         <mark key="." line="265" column="71" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" timestamp="1498768648444">
+        <mark key="'" line="636" column="17" />
+      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/todo/view/activity/TodoActivity.java" timestamp="1498594265122">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="37" />
@@ -220,12 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/addcoworkers/ChatAddCoworkersActivity.java" />
-      <jump line="273" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatMessageListFragment.java" />
-      <jump line="573" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatMessageListFragment.java" />
-      <jump line="133" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
-      <jump line="47" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatReadReceiptListActivity.java" />
-      <jump line="21" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/ChatReadReceiptListPresenter.java" />
       <jump line="45" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" />
       <jump line="23" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/availability/AvailabilityCalendarModuleTest.kt" />
@@ -320,6 +310,12 @@
       <jump line="258" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/adapter/BaseMessageAdapterDelegate.java" />
       <jump line="12" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/adapter/BaseMessageAdapterDelegate.java" />
       <jump line="183" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
+      <jump line="139" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
+      <jump line="466" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
+      <jump line="632" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
+      <jump line="655" column="66" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
+      <jump line="643" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
+      <jump line="636" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -329,7 +325,7 @@
         <text>ERROR</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text>shift =</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIExvZy5kKCJERVJQIiwgIk1lc3NhZ2VzUHJlc2VudGVyLmNyZWF0ZUNvbnZlcnNhdGlvbjogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
@@ -366,18 +362,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search>shift =</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-pattern>shift =</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8</entry>
-        <entry encoding="base64">Pj4+</entry>
         <entry>twilio</entry>
         <entry>'</entry>
         <entry>::</entry>
@@ -396,6 +390,8 @@
         <entry>ssl</entry>
         <entry encoding="base64">XDxIRUFEXD4=</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry>retain</entry>
+        <entry>shift =</entry>
       </history-search>
       <history-cmd>
         <entry>456</entry>
