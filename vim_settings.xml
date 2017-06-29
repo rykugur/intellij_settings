@@ -182,11 +182,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="37" column="59" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1498752727381">
-        <mark key="[" line="135" column="30" />
-        <mark key="]" line="135" column="37" />
-        <mark key="^" line="135" column="37" />
-        <mark key="." line="135" column="37" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1498754490562">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="143" column="99" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/proguard-rules.pro" timestamp="1497622556324">
         <mark key="'" line="107" column="14" />
@@ -318,11 +318,11 @@
       <jump line="360" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TLS_1_2)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgQ2lwaGVyU3VpdGUuVExTX0VDREhFX0VDRFNBX1dJVEhfQUVTXzI1Nl9DQkNfU0hBKSAvLyByZXF1aXJlZCBmb3Igd29ya2NoYXQud2hlbml3b3JrLioK</text>
       </register>
       <register name="-" type="4">
-        <text>TLS_1_2)</text>
+        <text>TLS_DH_anon_WITH_AES_256_CBC_SHA</text>
       </register>
       <register name="/" type="4">
         <text>Log.e</text>
@@ -331,31 +331,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFwcFByZWZlcmVuY2VzIHByZWZzLCBBUElFbmRwb2ludCBlbmRwb2ludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFQSUVudmlyb25tZW50IGVudmlyb25tZW50KSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgQ2lwaGVyU3VpdGUuVExTX0VDREhFX0VDRFNBX1dJVEhfQUVTXzI1Nl9DQkNfU0hBKSAvLyByZXF1aXJlZCBmb3Igd29ya2NoYXQud2hlbml3b3JrLioK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgQ2lwaGVyU3VpdGUuVExTX0VDREhfYW5vbl9XSVRIX0FFU18yNTZfQ0JDX1NIQSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gd29yayBhcm91bmQgYnJva2VuIFNTTCBvbiBBbmRyb2lkIDcuMCAtIHNlZSBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zOTEzMzQzNy9zc2xoYW5kc2hha2VleGNlcHRpb24taGFuZHNoYWtlLWZhaWxlZC1vbi1hbmRyb2lkLW4tNy0wCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgQ2lwaGVyU3VpdGUuVExTX0RIRV9SU0FfV0lUSF9BRVNfMjU2X0NCQ19TSEEsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBpZiAoQnVpbGQuVkVSU0lPTi5TREtfSU5UID09IEJ1aWxkLlZFUlNJT05fQ09ERVMuTikgewogICAgICAvLyB3b3JrIGFyb3VuZCBicm9rZW4gU1NMIG9uIEFuZHJvaWQgNy4wIC0gc2VlIGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzM5MTMzNDM3L3NzbGhhbmRzaGFrZWV4Y2VwdGlvbi1oYW5kc2hha2UtZmFpbGVkLW9uLWFuZHJvaWQtbi03LTAKICAgICAgQ29ubmVjdGlvblNwZWMgc3BlYyA9IG5ldyBDb25uZWN0aW9uU3BlYy5CdWlsZGVyKENvbm5lY3Rpb25TcGVjLk1PREVSTl9UTFMpCiAgICAgICAgLnRsc1ZlcnNpb25zKFRsc1ZlcnNpb24uVExTXzFfMikKICAgICAgICAuY2lwaGVyU3VpdGVzKENpcGhlclN1aXRlLlRMU19ESEVfUlNBX1dJVEhfQUVTXzI1Nl9DQkNfU0hBKQogICAgICAgIC5idWlsZCgpOwogICAgICBidWlsZGVyLmNvbm5lY3Rpb25TcGVjcyhDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KHNwZWMpKTsKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgQ2lwaGVyU3VpdGUuVExTX0RIRV9EU1NfV0lUSF9BRVNfMjU2X0NCQ19TSEEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIkRFUlAiLCAiV2hlbklXb3JrUmVzdEFkYXB0ZXIuYnVpbGRIdHRwQ2xpZW50OiBhZGRpbmcgY29ubmVjdGlvbiBzcGVjIik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgQ2lwaGVyU3VpdGUuVExTX0RIX2Fub25fV0lUSF9BRVNfMjU2X0NCQ19TSEEsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vbm9pbnNwZWN0aW9uIENvbnN0YW50Q29uZGl0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIENpcGhlclN1aXRlLlRMU19QU0tfV0lUSF9BRVNfMjU2X0NCQ19TSEEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gd29yayBhcm91bmQgYnJva2VuIFNTTCBvbiBBbmRyb2lkIDcuMCAtIHNlZSBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8zOTEzMzQzNy9zc2xoYW5kc2hha2VleGNlcHRpb24taGFuZHNoYWtlLWZhaWxlZC1vbi1hbmRyb2lkLW4tNy0wCg==</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
