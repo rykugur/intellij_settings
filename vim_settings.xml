@@ -5,7 +5,7 @@
       <mark key="N" line="2312" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/shift/fragment/ShiftSwapPresenterTest.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/MembersAddObservable.java" timestamp="1498761280587">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/MembersAddObservable.java" timestamp="1499268591962">
         <mark key="'" line="51" column="17" />
         <mark key="[" line="38" column="74" />
         <mark key="]" line="38" column="80" />
@@ -25,13 +25,24 @@
         <mark key="^" line="21" column="78" />
         <mark key="." line="21" column="78" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/MembersJoinObservable.java" timestamp="1499265241482" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" timestamp="1498837911357">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" timestamp="1499268999005">
+        <mark key="[" line="293" column="101" />
+        <mark key="]" line="294" column="124" />
+        <mark key="^" line="294" column="124" />
+        <mark key="." line="294" column="124" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/MembersJoinObservable.java" timestamp="1499268150613">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="37" column="75" />
+        <mark key="." line="37" column="75" />
+        <mark key="^" line="37" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" timestamp="1499269240874">
         <mark key="'" line="183" column="10" />
-        <mark key="[" line="172" column="30" />
-        <mark key="]" line="172" column="29" />
-        <mark key="." line="172" column="29" />
-        <mark key="^" line="172" column="29" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="175" column="9" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/analytics/AnalyticsLogger.java" timestamp="1498682927103">
         <mark key="'" line="77" column="61" />
@@ -146,7 +157,7 @@
         <mark key="^" line="696" column="48" />
         <mark key="." line="692" column="48" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/ChannelCreateObservable.java" timestamp="1498762928324" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/rx/ChannelCreateObservable.java" timestamp="1499267640782" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Conversation.java" timestamp="1498243232884">
         <mark key="'" line="124" column="20" />
         <mark key="[" line="124" column="0" />
@@ -195,7 +206,7 @@
         <mark key="^" line="45" column="21" />
         <mark key="." line="45" column="21" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatChannelListener.java" timestamp="1498760993292">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatChannelListener.java" timestamp="1499268670412">
         <mark key="[" line="2" column="83" />
         <mark key="." line="2" column="90" />
       </file>
@@ -323,43 +334,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ERROR</text>
+        <text>channel</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
         <text>getbreak</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJERVJQIiwgIk1lc3NhZ2VzUHJlc2VudGVyLmNyZWF0ZUNvbnZlcnNhdGlvbjogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">ICAgIExvZy5kKCJERVJQIiwgIk1lbWJlcnNKb2luT2JzZXJ2YWJsZS5NZW1iZXJzSm9pbk9ic2VydmFibGU6IHNpZD0iICsgY2hhbm5lbC5nZXRTaWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIExvZy5kKCJERVJQIiwgIk1lbWJlcnNKb2luT2JzZXJ2YWJsZS5vblN1Y2Nlc3M6IHNpZD0iICsgY2hhbm4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLnppcCh3YWl0VW50aWxDaGFubmVsRnVsbFN5bmNPYnNlcnZhYmxlKGNoYW5uZWwpLCAoYykgLT4gewo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBPYnNlcnZhYmxlLnppcCh3YWl0VW50aWxDaGFubmVsRnVsbFN5bmNPYnNlcnZhYmxlKGNoYW5uZWwpLCAoYykgLT4gewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5qdXN0KGNoYW5uZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
