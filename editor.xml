@@ -10,13 +10,19 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern=".*todo\(jerodus.*">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern=".*todo\(dusty.*">
       <option name="FOREGROUND" value="73bf" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
-    <filter name="jerodus">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern=".*TODO(&quot;dusty:.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+    <filter name="dusty">
       <pattern index="2" />
+      <pattern index="3" />
     </filter>
   </component>
 </application>
