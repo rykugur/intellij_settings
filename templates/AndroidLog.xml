@@ -23,7 +23,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="logderpk" value="android.util.Log.d(&quot;DERP&quot;, &quot;$content$&quot;);" description="logderp+kotlin" toReformat="false" toShortenFQNames="true">
+  <template name="logderpk" value="android.util.Log.d(&quot;DERP&quot;, &quot;$content$&quot;)" description="logderp+kotlin" toReformat="false" toShortenFQNames="true">
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_STATEMENT" value="true" />
