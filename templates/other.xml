@@ -23,4 +23,11 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="todo" value="// TODO(dusty): $end$" description="todo(dusty)" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+    </context>
+  </template>
 </templateSet>
