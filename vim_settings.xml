@@ -497,13 +497,6 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" timestamp="1503503365050">
-        <mark key="'" line="55" column="12" />
-        <mark key="[" line="53" column="43" />
-        <mark key="]" line="53" column="59" />
-        <mark key="^" line="53" column="59" />
-        <mark key="." line="53" column="59" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/workplaces/onboarding/WorkplaceAdditionalInformationModule.kt" timestamp="1502999931392">
         <mark key="[" line="19" column="90" />
         <mark key="]" line="19" column="91" />
@@ -702,10 +695,11 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/give_prop_list_item.xml" timestamp="1503503456123">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/give_prop_list_item.xml" timestamp="1503504362158">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/util/realm/RealmUtil.java" timestamp="1501013596783">
         <mark key="[" line="0" column="40" />
@@ -1365,6 +1359,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/misc/listviewanimations/view/AnimatedPopCardViewListActivity.kt" timestamp="1503365026560">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="65" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/res/animator/raise.xml" timestamp="1503363503167">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="33" />
@@ -1592,7 +1592,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="67" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" />
       <jump line="47" column="55" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" />
       <jump line="52" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" />
       <jump line="53" column="53" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" />
@@ -1692,6 +1691,7 @@
       <jump line="285" column="60" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="289" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="62" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" />
+      <jump line="78" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/give_prop_list_item.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1701,7 +1701,7 @@
         <text>-world</text>
       </register>
       <register name="/" type="4">
-        <text>lottie</text>
+        <text>140</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL2NhcmRfc3dhcHNfZHJvcHNfaGVhZGVyX2NvbnRhaW5lciItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2NlbnRlckhvcml6b250YWw9InRydWUiLS0+Cg==</text>
@@ -1710,48 +1710,47 @@
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhMZW5ndGg9IjE0MCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDptYXhMZW5ndGg9IjE0MCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPEltYWdlVmlldy0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9jYXJkX3N3YXBzX2Ryb3BzX2ltYWdlIi0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkAraWQvY2FyZF9zd2Fwc19kcm9wc19oZWFkZXJfY29udGFpbmVyIi0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCItLT4KICAgICAgICAgICAgPCEtLWNhcmRfdmlldzpzcmNDb21wYXQ9IkBkcmF3YWJsZS9pY19zd2FwX2FuZF9kcm9wIi0tPgogICAgICAgICAgICA8IS0tdG9vbHM6aWdub3JlPSJDb250ZW50RGVzY3JpcHRpb24iIC8+LS0+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tPEltYWdlVmlldy0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9jYXJkX3N3YXBzX2Ryb3BzX2ltYWdlIi0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkAraWQvY2FyZF9zd2Fwc19kcm9wc19oZWFkZXJfY29udGFpbmVyIi0tPgogICAgICAgICAgICA8IS0tYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSItLT4KICAgICAgICAgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCItLT4KICAgICAgICAgICAgPCEtLWNhcmRfdmlldzpzcmNDb21wYXQ9IkBkcmF3YWJsZS9pY19zd2FwX2FuZF9kcm9wIi0tPgogICAgICAgICAgICA8IS0tdG9vbHM6aWdub3JlPSJDb250ZW50RGVzY3JpcHRpb24iIC8+LS0+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSAtPiBUcmFuc2l0aW9uc0xpc3RGcmFnbWVudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZWxzZSAtPiBUcmFuc2l0aW9uc0xpc3RGcmFnbWVudCgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3JpZW50YXRpb24gPSBMaW5lYXJMYXlvdXRNYW5hZ2VyLlZFUlRJQ0FMCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlY3ljbGVyLmxheW91dE1hbmFnZXIgPSBMaW5lYXJMYXlvdXRNYW5hZ2VyKGNvbnRleHQsIExpbmVhckxheW91dE1hbmFnZXIuVkVSVElDQUwsIGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgb3JpZW50YXRpb24gPSBMaW5lYXJMYXlvdXRNYW5hZ2VyLlZFUlRJQ0FMCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>lottie</last-search>
+      <last-search>140</last-search>
       <last-offset />
-      <last-pattern>lottie</last-pattern>
+      <last-pattern>140</last-pattern>
       <last-replace>users</last-replace>
       <last-substitute>participants</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>targetMAnager</entry>
         <entry encoding="base64">XDxUYXJnZXRUeXBlXD4=</entry>
         <entry>TargetManagerImpl</entry>
         <entry>targetManager.</entry>
@@ -1771,6 +1770,7 @@
         <entry>butterknife</entry>
         <entry>events</entry>
         <entry>lottie</entry>
+        <entry>140</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
