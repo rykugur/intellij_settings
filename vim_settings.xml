@@ -509,7 +509,6 @@
         <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" timestamp="1503592179629">
-        <mark key="'" line="47" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="55" />
       </file>
@@ -663,12 +662,6 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/props/ui/GivePropsItemView.kt" timestamp="1503594432175">
-        <mark key="[" line="174" column="26" />
-        <mark key="]" line="174" column="26" />
-        <mark key="." line="174" column="26" />
-        <mark key="^" line="174" column="25" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/location/LocationsActivity.java" timestamp="1502207503970">
         <mark key="'" line="171" column="52" />
         <mark key="[" line="183" column="0" />
@@ -737,6 +730,13 @@
         <mark key="]" line="22" column="1" />
         <mark key="^" line="22" column="1" />
         <mark key="." line="22" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/AnnotationCard.java" timestamp="1503596307787">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="143" column="95" />
+        <mark key="]" line="143" column="95" />
+        <mark key="." line="143" column="95" />
+        <mark key="^" line="143" column="95" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/UnauthAPI.java" timestamp="1500995712667">
         <mark key="'" line="27" column="17" />
@@ -1648,7 +1648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="273" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" />
       <jump line="325" column="47" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" />
       <jump line="311" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" />
@@ -1748,58 +1747,59 @@
       <jump line="86" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/workplaces/invite/ActiveUserInviteManagerPresenterTest.java" />
       <jump line="47" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/card_swaps_drops.xml" />
       <jump line="60" column="53" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/give_prop_list_item.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/AnnotationCard.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>string.format</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1Y2Nlc3NMb3R0aWUucGxheUFuaW1hdGlvbigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3VjY2Vzc0xvdHRpZS4K</text>
+        <text encoding="base64">Ly8gICAgICBzdWNjZXNzTG90dGllLnBsYXlBbmltYXRpb24oOTAwMSwgOTAwMSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3NMb3R0aWUucGxheUFuaW1hdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gb3IgdGhlIGxhc3QgZnJhbWUgZnJvbSBhIGxvdHRpZSBvYmplY3QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gaXQgZG9lc24ndCBhbmltYXRlIGFnYWluLiBUaGlzIGlzIGEgaGFjaywgSSBkb24ndCBzZWUgYSB3YXkgdG8gZ2V0IHRoZSBudW1iZXIgb2YgZnJhbWVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3VjY2Vzc0xvdHRpZS4K</text>
+        <text encoding="base64">ICAgICAgLy8gd2Ugd2VyZSBhbHJlYWR5IHNob3dpbmcgc3VjY2VzcywganVzdCBzaG93IHRoZSBsYXN0IGZyYW1lIG9mIHRoZSBsb3R0aWUgYW5pbWF0aW9uIHNvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGRlY2lkZSBob3cgdG8gZGlzcGxheSBsb3R0aWUgYW5pbWF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgc3VjY2Vzc0xvdHRpZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3NMb3R0aWUucGxheUFuaW1hdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBzaG93Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3NMb3R0aWUucGxheUFuaW1hdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgc3VjY2Vzc0xvdHRpZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgc3VjY2Vzc0ljb24udmlzaWJpbGl0eSA9IFZpZXcuVklTSUJMRQo=</text>
+        <text encoding="base64">ICAgIC8vIGRlY2lkZSBob3cgdG8gZGlzcGxheSBsb3R0aWUgYW5pbWF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>string.format</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>string.format</last-pattern>
       <last-replace>users</last-replace>
       <last-substitute>participants</last-substitute>
       <last-dir>1</last-dir>
@@ -1807,7 +1807,6 @@
     </search>
     <history>
       <history-search>
-        <entry>derp</entry>
         <entry encoding="base64">PDw8</entry>
         <entry>vector</entry>
         <entry>default</entry>
@@ -1827,6 +1826,7 @@
         <entry>networkInfo</entry>
         <entry>connec</entry>
         <entry>throw</entry>
+        <entry>string.format</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
