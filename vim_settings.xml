@@ -1945,12 +1945,12 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" timestamp="1505762140480">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" timestamp="1505767221628">
         <mark key="'" line="57" column="43" />
-        <mark key="[" line="80" column="38" />
-        <mark key="]" line="80" column="39" />
-        <mark key="." line="80" column="39" />
-        <mark key="^" line="126" column="76" />
+        <mark key="[" line="130" column="35" />
+        <mark key="]" line="130" column="35" />
+        <mark key="." line="130" column="35" />
+        <mark key="^" line="130" column="35" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/res/layout/activity_collapsing_fun.xml" timestamp="1502851573992">
         <mark key="'" line="55" column="0" />
@@ -2167,6 +2167,9 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="25" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/management.gradle" timestamp="1505766727951">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/tasks/ScheduledTaskListsResponse.java" timestamp="1505485280215">
         <mark key="[" line="57" column="33" />
         <mark key="]" line="55" column="12" />
@@ -2258,7 +2261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_choose_environment.xml" />
       <jump line="102" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/MessageComposerPresenter.java" />
       <jump line="27" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/MessageComposerPresenter.java" />
       <jump line="42" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/MessageComposerPresenter.java" />
@@ -2358,16 +2360,17 @@
       <jump line="56" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" />
       <jump line="24" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" />
       <jump line="326" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserComponent.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/management.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2NC5zZXRUYXNrcyhkYXRhLmdldFRhc2tMaXN0cygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.toString(TemporalUtils.ISO_8601_FORMATTER);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGFza3NBcGksIA==</text>
+        <text>.toString(TemporalUtils.ISO_8601_FORMATTER);</text>
       </register>
       <register name="/" type="4">
-        <text>inject(next</text>
+        <text>fileoutput</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIC5tYXAoQ29tcG9zaXRlVGFza0xpc3RNb2RlbDo6bmV3KQovLyAgICAgICAgLmNvbXBvc2Uoc2NoZWR1bGVyUHJvdmlkZXIuYXBwU2NoZWR1bGVyKCkpCi8vICAgICAgICAub25FcnJvclJldHVybih0aHJvd2FibGUgLT4gbmV3IENvbXBvc2l0ZVRhc2tMaXN0TW9kZWwobmV3IEFycmF5TGlzdDw+KDApKSk7Cg==</text>
@@ -2407,9 +2410,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inject(next</last-search>
+      <last-search>fileoutput</last-search>
       <last-offset />
-      <last-pattern>inject(next</last-pattern>
+      <last-pattern>fileoutput</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
@@ -2417,7 +2420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exceptions occurred</entry>
         <entry>exceptions</entry>
         <entry encoding="base64">XDxzY2hlZHVsZWRUYXNrTGlzdHNcPg==</entry>
         <entry encoding="base64">XDx0YXNrTGlzdElkXD4=</entry>
@@ -2437,6 +2439,7 @@
         <entry>@query</entry>
         <entry>task</entry>
         <entry>inject(next</entry>
+        <entry>fileoutput</entry>
       </history-search>
       <history-cmd>
         <entry>338</entry>
