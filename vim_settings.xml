@@ -816,7 +816,7 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1506105977385">
+      <file name="/fragment.java" timestamp="1506355344927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -857,6 +857,13 @@
         <mark key="]" line="21" column="0" />
         <mark key="^" line="28" column="1" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/AndroidPlayground/gradle.properties" timestamp="1506355366215">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/coordinatorlernen/di/CoordinatorModule.kt" timestamp="1502676348015">
         <mark key="[" line="3" column="0" />
@@ -1104,6 +1111,7 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/shift/fragment/ShiftSwapPresenterTest.java" timestamp="1506355280949" />
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/core-android/src/main/java/io/rollhax/core/android/UIUtils.kt" timestamp="1504111373231">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -1556,10 +1564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/gson/WhenIWorkGsonHelper.java" />
-      <jump line="17" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/ApiErrorV2.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/ApiErrorV2.java" />
-      <jump line="15" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/ApiErrorV2.java" />
       <jump line="77" column="61" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/tasks/ScheduledTaskResponse.java" />
       <jump line="42" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/tasks/ScheduledTaskResponse.java" />
       <jump line="70" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/tasks/ScheduledTaskResponse.java" />
@@ -1656,16 +1660,20 @@
       <jump line="8" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/view_task_item_unfinished.xml" />
       <jump line="61" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/view_task_item_completed.xml" />
       <jump line="343" column="100" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/personal/gits/AndroidPlayground/gradle.properties" />
+      <jump line="30" column="0" filename="$USER_HOME$/personal/gits/AndroidPlayground/gradle.properties" />
+      <jump line="39" column="9" filename="$USER_HOME$/personal/gits/AndroidPlayground/gradle.properties" />
+      <jump line="40" column="0" filename="$USER_HOME$/personal/gits/AndroidPlayground/gradle.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gZmF2b3IgdGFza3MgaWYgdGhlcmUncyBhbnkgdGhlcmUsIHByb2JhYmx5IGZyb20gYW4gb3JpZW50YXRpb24gY2hhbmdlCg==</text>
+      <register name="&quot;" type="4">
+        <text>=-1</text>
       </register>
       <register name="-" type="4">
-        <text>getTotalTaskCount</text>
+        <text>=-1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</text>
+        <text>kotlin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGl0LnNob3dOb1Rhc2tzKHN0YXJ0RGF0ZT86IERhdGVUaW1lLm5vdygpKQo=</text>
@@ -1705,9 +1713,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</last-search>
+      <last-search>kotlin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</last-pattern>
+      <last-pattern>kotlin</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
@@ -1715,7 +1723,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRJdGVtXD4=</entry>
         <entry>fragment</entry>
         <entry>retain</entry>
         <entry>setResult</entry>
@@ -1735,6 +1742,7 @@
         <entry>shift</entry>
         <entry>props</entry>
         <entry encoding="base64">XDxzaG93UHJvZ3Jlc3NcPg==</entry>
+        <entry>kotlin</entry>
       </history-search>
       <history-cmd>
         <entry>264</entry>
