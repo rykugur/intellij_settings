@@ -1441,6 +1441,9 @@
         <mark key="^" line="4" column="55" />
         <mark key="." line="4" column="55" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/schedule/ScheduleRepository.kt" timestamp="1506429702670">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/test/java/com/thisclicks/core/util/WorkplaceUserUtilsTest.java" timestamp="1498486986609">
         <mark key="[" line="21" column="74" />
         <mark key="]" line="21" column="78" />
@@ -1568,7 +1571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/model/SchedulingDashboardModel.java" />
       <jump line="39" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/adapters/CompositeTaskListAdapter.kt" />
       <jump line="60" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/adapters/TaskCompletedAdapterDelegate.kt" />
       <jump line="78" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/adapters/TaskCompletedAdapterDelegate.kt" />
@@ -1668,6 +1670,7 @@
       <jump line="416" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="100" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
       <jump line="72" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/schedule/ScheduleRepository.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1677,7 +1680,7 @@
         <text encoding="base64">dXNlcnMgLT4gU2luZ2xlLmZyb20odXNlcnMp</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>maprelated</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPCEtLVRhc2tzIHJvdyAtIGdvbmUgaWYgbm8gdGFza3MgYXZhaWxhYmxlLS0+CiAgICAgICAgICAgIDxSZWxhdGl2ZUxheW91dAogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90YWJsZXJvd190YXNrcyIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iQGRpbWVuL2FwcF9tYXJnaW4iCiAgICAgICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiPgoKICAgICAgICAgICAgICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ltYWdldmlld190YXNrcyIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iQGRpbWVuL2RldGFpbF92aWV3X2ljb25fc2l6ZSIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi9kZXRhaWxfdmlld19pY29uX3NpemUiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvaWNfY2hlY2tfdGFzayIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIgLz4KCiAgICAgICAgICAgICAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF90b1JpZ2h0T2Y9IkAraWQvaW1hZ2V2aWV3X3Rhc2tzIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4KCiAgICAgICAgICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGFza3NfbGFiZWwiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuVmlldy5EZXRhaWwuVXNlci5GcmFnbWVudC5IZWFkZXIiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvdGFza3MiIC8+CgogICAgICAgICAgICAgICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rhc2tzX3RleHQiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuVmlldy5EZXRhaWwuVXNlci5GcmFnbWVudC5JbnNlcnQiCiAgICAgICAgICAgICAgICAgICAgICAgIHRvb2xzOnRleHQ9IjAvNiBDb21wbGV0ZWQiIC8+CiAgICAgICAgICAgICAgICA8L0xpbmVhckxheW91dD4KICAgICAgICAgICAgPC9SZWxhdGl2ZUxheW91dD4K</text>
@@ -1717,17 +1720,16 @@
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>maprelated</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>maprelated</last-pattern>
       <last-replace>false</last-replace>
       <last-substitute>true</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2Vyc1Jvd1w+</entry>
         <entry>scheduled</entry>
         <entry>also</entry>
         <entry>also working</entry>
@@ -1747,6 +1749,7 @@
         <entry encoding="base64">XDxUQVNLU1w+</entry>
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry>version</entry>
+        <entry>maprelated</entry>
       </history-search>
       <history-cmd>
         <entry>264</entry>
