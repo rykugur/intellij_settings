@@ -466,9 +466,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="12" column="92" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.java" timestamp="1507298443296">
-        <mark key="'" line="171" column="47" />
-      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/core-android/src/main/java/io/rollhax/core/android/rx/ImmediateScheduler.kt" timestamp="1501774920379">
         <mark key="[" line="9" column="57" />
         <mark key="]" line="9" column="89" />
@@ -1491,6 +1488,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ClockinCard.java" timestamp="1507299426429">
+        <mark key="[" line="145" column="66" />
+        <mark key="]" line="145" column="65" />
+        <mark key="^" line="145" column="65" />
+        <mark key="." line="145" column="65" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/view/TaskDelegateController.kt" timestamp="1506535107543">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="21" />
@@ -1872,17 +1875,17 @@
       <jump line="171" column="47" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFza3MgPSB0YXNrczsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXNrc1w+</text>
+        <text>tasks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkYXRhIGFuZHJvaWQ6aG9zdD0iYXBwLndoZW5pd29yay5jb20iIGFuZHJvaWQ6c2NoZW1lPSJodHRwcyIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBzID0gVGVtcG9yYWxGb3JtYXR0ZXIKICAgICAgICAgIC5mb3JtYXREYXRlT3JUaW1lYnlVc2Vyc1RpbWV6b25lKHVzZXIsIHVzZXJUaW1lLmdldFN0YXJ0VGltZSgpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRoaXMudGFza3MgPSB0YXNrczsK</text>
@@ -1919,9 +1922,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXNrc1w+</last-search>
+      <last-search>tasks</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXNrc1w+</last-pattern>
+      <last-pattern>tasks</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -1929,7 +1932,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">dGhpcy50aW1lc1Jlc3BvbnNlID0g</entry>
         <entry>this.userTimesREs</entry>
         <entry encoding="base64">XDx1c2VyVGltZXNSZXNwb25zZVw+</entry>
         <entry>doonnext</entry>
@@ -1949,6 +1951,7 @@
         <entry>prior</entry>
         <entry>startService</entry>
         <entry encoding="base64">XDx0YXNrc1w+</entry>
+        <entry>tasks</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
