@@ -1134,6 +1134,13 @@
         <mark key="^" line="50" column="1" />
         <mark key="." line="50" column="1" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.kt" timestamp="1507662966471">
+        <mark key="'" line="298" column="56" />
+        <mark key="[" line="205" column="116" />
+        <mark key="]" line="205" column="132" />
+        <mark key="^" line="205" column="132" />
+        <mark key="." line="205" column="132" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/WorkPropsModule.kt" timestamp="1500484567915">
         <mark key="[" line="55" column="99" />
         <mark key="]" line="56" column="52" />
@@ -1761,7 +1768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="84" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="85" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="37" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
@@ -1861,16 +1867,17 @@
       <jump line="127" column="58" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" />
       <jump line="40" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" />
       <jump line="10" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/mercury/src/main/java/com/thisclicks/wiw/mercury/BaseMercuryLoggerImpl.kt" />
+      <jump line="294" column="56" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIFdoZW5JV29ya1Jlc3RBZGFwdGVyLmdldFZlcnNpb24zQXBpKGFwcCwgZ3NvbiwgcHJlZnMsIGVudmlyb25tZW50KTsK</text>
+      <register name="&quot;" type="4">
+        <text>t2</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;https://api.tasks.wheniwork-staging.com/&quot;</text>
+        <text>t2</text>
       </register>
       <register name="/" type="4">
-        <text>application</text>
+        <text>zip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIGV4YW1wbGU6ICJodHRwczovL2FwaS50YXNrcy53aGVuaXdvcmstc3RhZ2luZy5jb20vIgogICAgcmV0dXJuIFN0cmluZy5mb3JtYXQoIiVzOi8vJXMuJXMvIiwgZ2V0UHJvdG9jb2woKSwgZ2V0SG9zdCgpLCBnZXREb21haW4oKSk7Cg==</text>
@@ -1910,9 +1917,9 @@
       </register>
     </registers>
     <search>
-      <last-search>application</last-search>
+      <last-search>zip</last-search>
       <last-offset />
-      <last-pattern>application</last-pattern>
+      <last-pattern>zip</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -1920,7 +1927,6 @@
     </search>
     <history>
       <history-search>
-        <entry>minsdk</entry>
         <entry>intent-filter</entry>
         <entry encoding="base64">XDxkZWVwTGlua0ludGVudFw+</entry>
         <entry encoding="base64">XDxtRGlhbG9nXD4=</entry>
@@ -1940,6 +1946,7 @@
         <entry>content</entry>
         <entry>type</entry>
         <entry>application</entry>
+        <entry>zip</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
