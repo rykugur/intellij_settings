@@ -90,10 +90,10 @@
         <mark key="^" line="79" column="2" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/FeatureRouter.java" timestamp="1507833988879">
-        <mark key="[" line="108" column="82" />
-        <mark key="]" line="108" column="95" />
-        <mark key="." line="108" column="95" />
-        <mark key="^" line="108" column="95" />
+        <mark key="[" line="92" column="82" />
+        <mark key="]" line="92" column="95" />
+        <mark key="." line="92" column="95" />
+        <mark key="^" line="92" column="95" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/todo/view/TodoContract.kt" timestamp="1501773484088">
         <mark key="[" line="7" column="10" />
@@ -713,9 +713,10 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/fcm/FcmMessagePresenter.java" timestamp="1507236654717">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/fcm/FcmMessagePresenter.java" timestamp="1507836978436">
+        <mark key="'" line="140" column="40" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="147" column="4" />
         <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TasksUtils.kt" timestamp="1507054792734">
@@ -984,6 +985,12 @@
         <mark key="'" line="4" column="25" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="45" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/ChatNotificationManager.java" timestamp="1507836650298">
+        <mark key="[" line="171" column="93" />
+        <mark key="]" line="171" column="6" />
+        <mark key="^" line="171" column="6" />
+        <mark key="." line="171" column="6" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/cache/ListCache.java" timestamp="1500318377318">
         <mark key="[" line="9" column="54" />
@@ -1897,7 +1904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="230" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="234" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="238" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
@@ -1997,19 +2003,20 @@
       <jump line="72" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/mercury/src/main/java/com/thisclicks/wiw/mercury/MercuryLoggerImpl.kt" />
       <jump line="3" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/mercury/src/main/java/com/thisclicks/wiw/mercury/MercuryLoggerImpl.kt" />
       <jump line="12" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/mercury/src/main/java/com/thisclicks/wiw/mercury/MercuryLoggerImpl.kt" />
+      <jump line="140" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/fcm/FcmMessagePresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TASKS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5PKSB7CiAgICAgIE5vdGlmaWNhdGlvbkNoYW5uZWwgY2hhbm5lbCA9IG5ldyBOb3RpZmljYXRpb25DaGFubmVsKENIQU5ORUxfSUQsIENIQU5ORUxfTkFNRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlci5JTVBPUlRBTkNFX0RFRkFVTFQpOwogICAgICAoKE5vdGlmaWNhdGlvbk1hbmFnZXIpIGFwcC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuTk9USUZJQ0FUSU9OX1NFUlZJQ0UpKQogICAgICAgIC5jcmVhdGVOb3RpZmljYXRpb25DaGFubmVsKGNoYW5uZWwpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>TASKS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBcPg==</text>
+        <text>channel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvbmcgdXNlcklkID0gKHVzZXIgIT0gbnVsbCAmJiAhKHVzZXIgaW5zdGFuY2VvZiBOdWxsVXNlcikpID8gdXNlci5nZXRJZCgpIDogLTE7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5PKSB7CiAgICAgIE5vdGlmaWNhdGlvbkNoYW5uZWwgY2hhbm5lbCA9IG5ldyBOb3RpZmljYXRpb25DaGFubmVsKENIQU5ORUxfSUQsIENIQU5ORUxfTkFNRSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uTWFuYWdlci5JTVBPUlRBTkNFX0RFRkFVTFQpOwogICAgICAoKE5vdGlmaWNhdGlvbk1hbmFnZXIpIGFwcC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuTk9USUZJQ0FUSU9OX1NFUlZJQ0UpKQogICAgICAgIC5jcmVhdGVOb3RpZmljYXRpb25DaGFubmVsKGNoYW5uZWwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
@@ -2046,9 +2053,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBcPg==</last-search>
+      <last-search>channel</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
+      <last-pattern>channel</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -2056,7 +2063,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrc1w+</entry>
         <entry>tasks</entry>
         <entry>onclick</entry>
         <entry>kotlin</entry>
@@ -2076,6 +2082,7 @@
         <entry>injector</entry>
         <entry>minsdk</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
+        <entry>channel</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
