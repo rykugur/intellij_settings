@@ -212,8 +212,8 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1508272052526">
-        <mark key="'" line="236" column="55" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1508338879913">
+        <mark key="'" line="287" column="8" />
         <mark key="[" line="243" column="46" />
         <mark key="]" line="243" column="56" />
         <mark key="^" line="243" column="56" />
@@ -2022,10 +2022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.java" />
-      <jump line="44" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" />
-      <jump line="106" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" />
-      <jump line="72" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.java" />
       <jump line="210" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.java" />
       <jump line="214" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.java" />
       <jump line="213" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ShiftClockinCard.java" />
@@ -2122,6 +2118,10 @@
       <jump line="42" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/ApplicationModule.java" />
       <jump line="258" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="280" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
+      <jump line="243" column="56" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="259" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="278" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="287" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2131,7 +2131,7 @@
         <text encoding="base64">U3RyaW5nLnZhbHVlT2YodXNlcklkKSwg</text>
       </register>
       <register name="/" type="4">
-        <text>prop</text>
+        <text encoding="base64">PHJlY2VpdmVy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxjb20uYWlyYm5iLmxvdHRpZS5Mb3R0aWVBbmltYXRpb25WaWV3CiAgICAgICAgYW5kcm9pZDpjbGlja2FibGU9ImZhbHNlIgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZ2l2ZV9wcm9wc19zdWNjZXNzX2xvdHRpZSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iOTZkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ijk2ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyNGRwIgogICAgICAgIGFwcDpsb3R0aWVfZmlsZU5hbWU9ImxvdHRpZS9pY19wcm9wc190aHVtYnNfdXBfbG90dGllLmpzb24iCiAgICAgICAgYXBwOmxvdHRpZV9sb29wPSJ0cnVlIgogICAgICAgIGFwcDpsb3R0aWVfYXV0b1BsYXk9InRydWUiIC8+Cg==</text>
@@ -2171,9 +2171,9 @@
       </register>
     </registers>
     <search>
-      <last-search>prop</last-search>
+      <last-search encoding="base64">PHJlY2VpdmVy</last-search>
       <last-offset />
-      <last-pattern>prop</last-pattern>
+      <last-pattern encoding="base64">PHJlY2VpdmVy</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -2181,8 +2181,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content-type</entry>
-        <entry>content</entry>
         <entry>type</entry>
         <entry>application</entry>
         <entry>zip</entry>
@@ -2201,6 +2199,8 @@
         <entry>destroy</entry>
         <entry>lottie</entry>
         <entry>prop</entry>
+        <entry>receiver</entry>
+        <entry encoding="base64">PHJlY2VpdmVy</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
