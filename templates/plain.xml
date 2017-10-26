@@ -1,6 +1,5 @@
 <templateSet group="plain">
   <template name="serdes" value="//region Serdes&#10;public static class CustomDeserializer implements JsonDeserializer&lt;$CLASS_NAME$&gt; {&#10;    @Override&#10;    public $CLASS_NAME$ deserialize(JsonElement json, Type type, JsonDeserializationContext context) throws JsonParseException {&#10;        return null;&#10;    }&#10;}&#10;&#10;public static class CustomSerializer implements JsonSerializer&lt;$CLASS_NAME$&gt; {&#10;    @Override&#10;    public $CLASS_NAME$ serialize($CLASS_NAME$ src, Type type, JsonDeserializationContext context) throws JsonParseException {&#10;        return null;&#10;    }&#10;}&#10;//endregion" description="Derp" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
