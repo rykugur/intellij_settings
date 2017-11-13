@@ -2051,7 +2051,7 @@
         <text>wrap_content</text>
       </register>
       <register name="/" type="4">
-        <text>retrofit</text>
+        <text>datetime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiA9IHdoZW4gKGl0ZW0uaXRlbUlkKSB7CiAgICBhbmRyb2lkLlIuaWQuaG9tZSAtPiB7CiAgICAgIGhhbmRsZUJhY2tQcmVzc2VkKCkKICAgICAgdHJ1ZQogICAgfQogICAgZWxzZSAtPiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSkKICB9CgogIG92ZXJyaWRlIGZ1biBvbkJhY2tQcmVzc2VkKCkgewogICAgaGFuZGxlQmFja1ByZXNzZWQoKQogIH0KCiAgcHJpdmF0ZSBmdW4gaGFuZGxlQmFja1ByZXNzZWQoKSB7CiAgICB2YWwgZm0gPSBzdXBwb3J0RnJhZ21lbnRNYW5hZ2VyCiAgICB2YWwgZnJhZzogRnJhZ21lbnQgPSBmbS5maW5kRnJhZ21lbnRCeUlkKFIuaWQuZnJhbWVfY29udGVudCkKICAgIGlmIChmcmFnIGlzIFRhc2tzTGlzdEZyYWdtZW50KSB7CiAgICAgIHZhbCB0YXNrcyA9IGZyYWcuZ2V0VGFza3MoKQogICAgICB2YWwgaW50ZW50ID0gSW50ZW50KCkKICAgICAgaWYgKHRhc2tzICE9IG51bGwpIHsKICAgICAgICBpbnRlbnQucHV0RXh0cmEoU2hpZnREZXRhaWxBY3Rpdml0eS5UQVNLUywgdGFza3MpCiAgICAgIH0KICAgICAgc2V0UmVzdWx0KEFjdGl2aXR5LlJFU1VMVF9PSywgaW50ZW50KQogICAgfQogICAgZmluaXNoKCkKICB9Cg==</text>
@@ -2091,17 +2091,16 @@
       </register>
     </registers>
     <search>
-      <last-search>retrofit</last-search>
+      <last-search>datetime</last-search>
       <last-offset />
-      <last-pattern>retrofit</last-pattern>
+      <last-pattern>datetime</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>visibility</entry>
         <entry>my_props</entry>
         <entry encoding="base64">XDx0YXNrc0NoZWNrQm94XD4=</entry>
         <entry>mypay-test</entry>
@@ -2121,6 +2120,7 @@
         <entry>MyPropsLi</entry>
         <entry>my_hours</entry>
         <entry>retrofit</entry>
+        <entry>datetime</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
