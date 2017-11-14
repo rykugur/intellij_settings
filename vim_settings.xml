@@ -681,10 +681,11 @@
         <mark key="." line="69" column="47" />
         <mark key="^" line="69" column="47" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/myhours/MyHoursUtils.kt" timestamp="1510673577281">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/myhours/MyHoursUtils.kt" timestamp="1510674811946">
+        <mark key="[" line="9" column="86" />
+        <mark key="]" line="9" column="91" />
+        <mark key="." line="9" column="91" />
+        <mark key="^" line="9" column="91" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/res/menu/nav_drawer.xml" timestamp="1504299485464">
         <mark key="[" line="23" column="43" />
@@ -752,6 +753,9 @@
         <mark key="]" line="14" column="16" />
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/gson/WhenIWorkGsonHelper.java" timestamp="1510674725386">
+        <mark key="'" line="249" column="77" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/props/ui/GivePropsListItem.kt" timestamp="1500481322088">
         <mark key="[" line="6" column="0" />
@@ -1931,7 +1935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/ApplicationModule.java" />
       <jump line="82" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/ApplicationModule.java" />
       <jump line="61" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/FeatureRouter.java" />
       <jump line="250" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/gson/WhenIWorkGsonHelper.java" />
@@ -2031,19 +2034,20 @@
       <jump line="97" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/SchedulerDI.kt" />
       <jump line="125" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/SchedulerDI.kt" />
       <jump line="29" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
+      <jump line="249" column="77" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/gson/WhenIWorkGsonHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRVJWRVJfRk9STUFUXD4=</text>
+        <text>dateformat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiA9IHdoZW4gKGl0ZW0uaXRlbUlkKSB7CiAgICBhbmRyb2lkLlIuaWQuaG9tZSAtPiB7CiAgICAgIGhhbmRsZUJhY2tQcmVzc2VkKCkKICAgICAgdHJ1ZQogICAgfQogICAgZWxzZSAtPiBzdXBlci5vbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbSkKICB9CgogIG92ZXJyaWRlIGZ1biBvbkJhY2tQcmVzc2VkKCkgewogICAgaGFuZGxlQmFja1ByZXNzZWQoKQogIH0KCiAgcHJpdmF0ZSBmdW4gaGFuZGxlQmFja1ByZXNzZWQoKSB7CiAgICB2YWwgZm0gPSBzdXBwb3J0RnJhZ21lbnRNYW5hZ2VyCiAgICB2YWwgZnJhZzogRnJhZ21lbnQgPSBmbS5maW5kRnJhZ21lbnRCeUlkKFIuaWQuZnJhbWVfY29udGVudCkKICAgIGlmIChmcmFnIGlzIFRhc2tzTGlzdEZyYWdtZW50KSB7CiAgICAgIHZhbCB0YXNrcyA9IGZyYWcuZ2V0VGFza3MoKQogICAgICB2YWwgaW50ZW50ID0gSW50ZW50KCkKICAgICAgaWYgKHRhc2tzICE9IG51bGwpIHsKICAgICAgICBpbnRlbnQucHV0RXh0cmEoU2hpZnREZXRhaWxBY3Rpdml0eS5UQVNLUywgdGFza3MpCiAgICAgIH0KICAgICAgc2V0UmVzdWx0KEFjdGl2aXR5LlJFU1VMVF9PSywgaW50ZW50KQogICAgfQogICAgZmluaXNoKCkKICB9Cg==</text>
+        <text encoding="base64">ICB2YWwgc3RhcnRTdHJpbmcgPSBzdGFydC50b1N0cmluZyhUZW1wb3JhbFV0aWxzLklTT184NjAxX0ZPUk1BVFRFUikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdmFsIHZtOiBBdmVyYWdlSG91cnNWaWV3TW9kZWwgPSBzYXZlZFN0YXRlLmdldFBhcmNlbGFibGUoU0FWRURfVklFV19NT0RFTCkK</text>
@@ -2080,9 +2084,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTRVJWRVJfRk9STUFUXD4=</last-search>
+      <last-search>dateformat</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRVJWRVJfRk9STUFUXD4=</last-pattern>
+      <last-pattern>dateformat</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -2090,7 +2094,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mypay-test</entry>
         <entry>optimize</entry>
         <entry encoding="base64">XDxRdWVyeU1hcFw+</entry>
         <entry encoding="base64">XDxpZGVudGlmaWVyXD4=</entry>
@@ -2110,6 +2113,7 @@
         <entry>datetime</entry>
         <entry encoding="base64">XDxhY3Rpdml0eVw+</entry>
         <entry encoding="base64">XDxTRVJWRVJfRk9STUFUXD4=</entry>
+        <entry>dateformat</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
