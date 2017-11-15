@@ -790,12 +790,11 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" timestamp="1510673317417">
         <mark key="'" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/myhours/ui/AverageHoursFragment.kt" timestamp="1510717152837">
-        <mark key="'" line="39" column="50" />
-        <mark key="[" line="127" column="23" />
-        <mark key="]" line="126" column="23" />
-        <mark key="." line="127" column="32" />
-        <mark key="^" line="126" column="23" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/myhours/ui/AverageHoursFragment.kt" timestamp="1510764077436">
+        <mark key="[" line="71" column="41" />
+        <mark key="]" line="71" column="12" />
+        <mark key="^" line="71" column="12" />
+        <mark key="." line="71" column="12" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/android-mercury/build.gradle" timestamp="1507218528168">
         <mark key="[" line="15" column="0" />
@@ -1418,6 +1417,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/AcceptanceAPIEndpoint.java" timestamp="1510764347469">
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/TasksRepositoryTest.kt" timestamp="1506535979963">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1770,12 +1775,6 @@
         <mark key="." line="23" column="63" />
         <mark key="^" line="23" column="63" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_average_hours.xml" timestamp="1510694526340">
-        <mark key="[" line="12" column="44" />
-        <mark key="]" line="13" column="34" />
-        <mark key="." line="13" column="34" />
-        <mark key="^" line="13" column="34" />
-      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/todo/di/TodoComponent.kt" timestamp="1501705005928">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2050,7 +2049,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGV4dENvbG9yID0gcmVzb3VyY2VzLmdldENvbG9yKFIuY29sb3IuYWx1bWludW0pCiAgICAgIC8vIFRPRE8oZHVzdHkpOiBteSBob3VycyAtPiBmaXggdGV4dCBzaXplCi8vICAgICAgdGV4dFNpemUgPSBSLmRpbWVuLnRleHRfc2l6ZV9tZWRpdW0udG9GbG9hdCgpCiAgICAgIHRleHRTaXplID0gOGYKICAgIH0KCiAgICB3aXRoKGNoYXJ0LmF4aXNMZWZ0KSB7CiAgICAgIHNldERyYXdMYWJlbHMoZmFsc2UpCiAgICAgIHNldERyYXdBeGlzTGluZShmYWxzZSkKICAgICAgc2V0RHJhd0dyaWRMaW5lcyhmYWxzZSkKICAgIH0KCiAgICB3aXRoKGNoYXJ0LmF4aXNSaWdodCkgewogICAgICBzZXREcmF3TGFiZWxzKGZhbHNlKQogICAgICBzZXREcmF3QXhpc0xpbmUoZmFsc2UpCiAgICAgIHNldERyYXdHcmlkTGluZXMoZmFsc2UpCiAgICB9CiAgfQoKICBwcml2YXRlIGZ1biBidWlsZEJhckRhdGEodmlld01vZGVsOiBBdmVyYWdlSG91cnNWaWV3TW9kZWwpOiBCYXJEYXRhIHsKICAgIHZhbCBkYXRlcyA9IGFycmF5T2YoRGF0ZVRpbWUubm93KCkubWludXNXZWVrcygyKSwKICAgICAgRGF0ZVRpbWUubm93KCkubWludXNXZWVrcygxKSwKICAgICAgRGF0ZVRpbWUubm93KCksCiAgICAgIERhdGVUaW1lLm5vdygpLnBsdXNXZWVrcygxKSwKICAgICAgRGF0ZVRpbWUubm93KCkucGx1c1dlZWtzKDIpKQogICAgdmFsIHhBeGlzTGFiZWxzID0gYXJyYXlPZigiT2N0IDEtNyIsICJPY3QgOC0xNCIsICJPY3QgMTUtMjEiLCAiT2N0IDIyLTI4IiwgIk9jdCAyOS1Ob3YgNCIpCiAgICBjaGFydC54QXhpcy52YWx1ZUZvcm1hdHRlciA9IEluZGV4QXhpc1ZhbHVlRm9ybWF0dGVyKHhBeGlzTGFiZWxzKQoKICAgIHZhbCBlbnRyaWVzOiBNdXRhYmxlTGlzdDxCYXJFbnRyeT4gPSBtdXRhYmxlTGlzdE9mKCkKICAgIHZhbCBiYXJWYWx1ZXMgPSBhcnJheU9mKDM1ZiwgNDBmLCAyN2YsIDIyZiwgNDVmKQogICAgKDAgdW50aWwgYmFyVmFsdWVzLnNpemUpLm1hcFRvKGVudHJpZXMpIHsgQmFyRW50cnkoaXQudG9GbG9hdCgpLCBiYXJWYWx1ZXNbaXRdKSB9CiAgICB2YWwgYmFyRGF0YVNldCA9IEJhckRhdGFTZXQoZW50cmllcywgIiIpCiAgICB3aXRoKGJhckRhdGFTZXQpIHsKICAgICAgc2V0RHJhd1ZhbHVlcyh0cnVlKQogICAgICBjb2xvciA9IGdldENvbG9yKFIuY29sb3Iud2l3X2dyZWVuKQogICAgICB2YWx1ZVRleHRDb2xvciA9IGdldENvbG9yKFIuY29sb3IuYWx1bWludW0pCiAgICB9CgogICAgdmFsIGJhckRhdGEgPSBCYXJEYXRhKGJhckRhdGFTZXQpCiAgICB3aXRoIChiYXJEYXRhKSB7CiAgICAgIGJhcldpZHRoID0gMC40ZgogICAgfQoKICAgIHJldHVybiBiYXJEYXRhCiAgfQp9Cg==</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgaW50IGdldEFwaVZlcnNpb24oKSB7CiAgICByZXR1cm4gQVBJX1ZFUlNJT047CiAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2062,34 +2061,34 @@
         <text encoding="base64">ICAgICAgdGV4dENvbG9yID0gcmVzb3VyY2VzLmdldENvbG9yKFIuY29sb3IuYWx1bWludW0pCiAgICAgIC8vIFRPRE8oZHVzdHkpOiBteSBob3VycyAtPiBmaXggdGV4dCBzaXplCi8vICAgICAgdGV4dFNpemUgPSBSLmRpbWVuLnRleHRfc2l6ZV9tZWRpdW0udG9GbG9hdCgpCiAgICAgIHRleHRTaXplID0gOGYKICAgIH0KCiAgICB3aXRoKGNoYXJ0LmF4aXNMZWZ0KSB7CiAgICAgIHNldERyYXdMYWJlbHMoZmFsc2UpCiAgICAgIHNldERyYXdBeGlzTGluZShmYWxzZSkKICAgICAgc2V0RHJhd0dyaWRMaW5lcyhmYWxzZSkKICAgIH0KCiAgICB3aXRoKGNoYXJ0LmF4aXNSaWdodCkgewogICAgICBzZXREcmF3TGFiZWxzKGZhbHNlKQogICAgICBzZXREcmF3QXhpc0xpbmUoZmFsc2UpCiAgICAgIHNldERyYXdHcmlkTGluZXMoZmFsc2UpCiAgICB9CiAgfQoKICBwcml2YXRlIGZ1biBidWlsZEJhckRhdGEodmlld01vZGVsOiBBdmVyYWdlSG91cnNWaWV3TW9kZWwpOiBCYXJEYXRhIHsKICAgIHZhbCBkYXRlcyA9IGFycmF5T2YoRGF0ZVRpbWUubm93KCkubWludXNXZWVrcygyKSwKICAgICAgRGF0ZVRpbWUubm93KCkubWludXNXZWVrcygxKSwKICAgICAgRGF0ZVRpbWUubm93KCksCiAgICAgIERhdGVUaW1lLm5vdygpLnBsdXNXZWVrcygxKSwKICAgICAgRGF0ZVRpbWUubm93KCkucGx1c1dlZWtzKDIpKQogICAgdmFsIHhBeGlzTGFiZWxzID0gYXJyYXlPZigiT2N0IDEtNyIsICJPY3QgOC0xNCIsICJPY3QgMTUtMjEiLCAiT2N0IDIyLTI4IiwgIk9jdCAyOS1Ob3YgNCIpCiAgICBjaGFydC54QXhpcy52YWx1ZUZvcm1hdHRlciA9IEluZGV4QXhpc1ZhbHVlRm9ybWF0dGVyKHhBeGlzTGFiZWxzKQoKICAgIHZhbCBlbnRyaWVzOiBNdXRhYmxlTGlzdDxCYXJFbnRyeT4gPSBtdXRhYmxlTGlzdE9mKCkKICAgIHZhbCBiYXJWYWx1ZXMgPSBhcnJheU9mKDM1ZiwgNDBmLCAyN2YsIDIyZiwgNDVmKQogICAgKDAgdW50aWwgYmFyVmFsdWVzLnNpemUpLm1hcFRvKGVudHJpZXMpIHsgQmFyRW50cnkoaXQudG9GbG9hdCgpLCBiYXJWYWx1ZXNbaXRdKSB9CiAgICB2YWwgYmFyRGF0YVNldCA9IEJhckRhdGFTZXQoZW50cmllcywgIiIpCiAgICB3aXRoKGJhckRhdGFTZXQpIHsKICAgICAgc2V0RHJhd1ZhbHVlcyh0cnVlKQogICAgICBjb2xvciA9IGdldENvbG9yKFIuY29sb3Iud2l3X2dyZWVuKQogICAgICB2YWx1ZVRleHRDb2xvciA9IGdldENvbG9yKFIuY29sb3IuYWx1bWludW0pCiAgICB9CgogICAgdmFsIGJhckRhdGEgPSBCYXJEYXRhKGJhckRhdGFTZXQpCiAgICB3aXRoIChiYXJEYXRhKSB7CiAgICAgIGJhcldpZHRoID0gMC40ZgogICAgfQoKICAgIHJldHVybiBiYXJEYXRhCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Q29sbwo=</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgaW50IGdldEFwaVZlcnNpb24oKSB7CiAgICByZXR1cm4gQVBJX1ZFUlNJT047CiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFkZAo=</text>
+        <text encoding="base64">ICAgICAgZ2V0Q29sbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGUK</text>
+        <text encoding="base64">ICAgICAgcGFkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29sb3IgPSBSLmNvbG9yLndpd19ncmVlbgo=</text>
+        <text encoding="base64">ICAgICAgbGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29sb3IK</text>
+        <text encoding="base64">ICAgICAgY29sb3IgPSBSLmNvbG9yLndpd19ncmVlbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhckRhdGEuYmFyV2lkdGggPSA1Zgo=</text>
+        <text encoding="base64">ICAgICAgY29sb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhckRhdGEuYmFyV2lkdGggPSA1Zgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWVGb3JtYXR0ZXIgPSBJQXhpc1ZhbHVlRm9ybWF0dGVyIHsgdmFsdWUsIGF4aXMgLT4gInRlc3QiIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyB0ZW1wIGRhdGEgZm9yIGdyYXBoIHN0eWxpbmcgcHVycG9zZXMKLy8gICAgKDEuLjUpLm1hcFRvKGVudHJpZXMpIHsgQmFyRW50cnkoaXQudG9GbG9hdCgpLCAoaXQgKiA1KS50b0Zsb2F0KCkpIH0K</text>
+        <text encoding="base64">ICAgICAgdmFsdWVGb3JtYXR0ZXIgPSBJQXhpc1ZhbHVlRm9ybWF0dGVyIHsgdmFsdWUsIGF4aXMgLT4gInRlc3QiIH0K</text>
       </register>
       <register name=":" type="4">
         <text>1222</text>
