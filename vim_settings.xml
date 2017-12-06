@@ -742,6 +742,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.2/a686f57c1f31262aaecf0cdf700d78eaa8f6b6ab/MPAndroidChart-v3.0.2-sources.jar!/com/github/mikephil/charting/components/AxisBase.java" timestamp="1512147914745">
         <mark key="'" line="618" column="15" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/model/SchedulingDashboardModel.java" timestamp="1512582818609">
+        <mark key="[" line="49" column="103" />
+        <mark key="]" line="50" column="72" />
+        <mark key="^" line="50" column="72" />
+        <mark key="." line="50" column="72" />
+      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/coordinatorlernen/view/CoordinatorActivity.kt" timestamp="1503358782244">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="5" column="79" />
@@ -816,12 +822,12 @@
         <mark key="^" line="12" column="49" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/ChatParticipantListFragment.java" timestamp="1511896894744" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" timestamp="1512581774869">
-        <mark key="'" line="111" column="20" />
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
-        <mark key="^" line="288" column="5" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" timestamp="1512582843324">
+        <mark key="'" line="112" column="20" />
+        <mark key="[" line="266" column="102" />
+        <mark key="]" line="266" column="102" />
+        <mark key="." line="266" column="112" />
+        <mark key="^" line="287" column="102" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/SchedulerActivity.kt" timestamp="1511900000277">
         <mark key="'" line="78" column="16" />
@@ -1954,6 +1960,12 @@
         <mark key="^" line="60" column="10" />
         <mark key="." line="60" column="10" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/model/CombinedDashboardModel.java" timestamp="1512582834185">
+        <mark key="[" line="50" column="83" />
+        <mark key="]" line="50" column="83" />
+        <mark key="^" line="50" column="77" />
+        <mark key="." line="50" column="83" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/FlagsResponse.java" timestamp="1500646648920">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -2155,11 +2167,11 @@
       <jump line="49" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/fcm/FcmMessagePresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>user, tasks</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user, tasks</text>
       </register>
       <register name="/" type="4">
         <text>hours</text>
@@ -2168,34 +2180,34 @@
         <text encoding="base64">ICAgIC8vIFRPRE8oZHVzdHkpOiB0YXNrIGFkbWluIC0+IHF1ZXJ5IHRhc2tzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgKEZ1bmN0aW9uNDxMaXN0PFNoaWZ0PiwgTGlzdDxBbm5vdGF0aW9uPiwgUG9zdFNjaGVkdWxlQ2FyZENvbmZpZywgQ29tcG9zaXRlVGFza0xpc3RNb2RlbCwgU2NoZWR1bGluZ0Rhc2hib2FyZE1vZGVsPikgKHNoaWZ0cywgYW5ub3RhdGlvbnMsIHBvc3RTY2hlZHVsZUNhcmRDb25maWcpIC0+IG5ldyBTY2hlZHVsaW5nRGFzaGJvYXJkTW9kZWwoc2hpZnRzLCBhbm5vdGF0aW9ucywgcG9zdFNjaGVkdWxlQ2FyZENvbmZpZywgdXNlcikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oZHVzdHkpOiB0YXNrIGFkbWluIC0+IHF1ZXJ5IHRhc2tzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyBUT0RPKGR1c3R5KTogdGFzayBhZG1pbiAtPiBxdWVyeSB0YXNrcz8gKG5vdCBzdXJlIGlmIHRoaXMgaXMgYXR0ZW5kYW5jZSBvbmx5KQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oZHVzdHkpOiB0YXNrIGFkbWluIC0+IHF1ZXJ5IHRhc2tzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlvLnJlYWN0aXZleC5TaW5nbGU8Q29tcG9zaXRlVGFza0xpc3RNb2RlbD4gdGFza3NTaW5nbGUgPSBnZXRTY2hlZHVsZWRUYXNrc1NpbmdsZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJwYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oZHVzdHkpOiB0YXNrIGFkbWluIC0+IHF1ZXJ5IHRhc2tzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAvLyBUT0RPKGR1c3R5KTogdGFzayBhZG1pbiAtPiBxdWVyeSB0YXNrcz8gKG5vdCBzdXJlIGlmIHRoaXMgaXMgYXR0ZW5kYW5jZSBvbmx5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXB0b3AK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
