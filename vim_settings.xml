@@ -197,12 +197,12 @@
         <mark key="." line="5" column="89" />
         <mark key="^" line="5" column="89" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/view/ScheduledTaskListsPresenter.kt" timestamp="1513358914036">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="25" column="2" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="19" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/view/ScheduledTaskListsPresenter.kt" timestamp="1513361217228">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="92" column="29" />
+        <mark key="]" line="93" column="24" />
+        <mark key="^" line="93" column="24" />
+        <mark key="." line="93" column="24" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TasksRepository.kt" timestamp="1513358279424" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/adapters/ScheduledTaskListsAdapter.kt" timestamp="1513269191425">
@@ -837,12 +837,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/view/ScheduledTaskListsPresenterTest.kt" timestamp="1513359153849">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="176" column="11" />
-        <mark key="]" line="176" column="20" />
-        <mark key="." line="176" column="20" />
-        <mark key="^" line="176" column="20" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/view/ScheduledTaskListsPresenterTest.kt" timestamp="1513361259581">
+        <mark key="'" line="169" column="0" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
         <mark key="o" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/adapter/BaseMessageAdapterDelegate.java" timestamp="1498760524271">
@@ -1933,7 +1932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_average_hours.xml" />
       <jump line="10" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_average_hours.xml" />
       <jump line="17" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_average_hours.xml" />
       <jump line="43" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/myhours/ui/AverageHoursFragment.kt" />
@@ -2033,58 +2031,59 @@
       <jump line="37" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/view/ScheduledTaskListsPresenter.kt" />
       <jump line="105" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/adapters/TaskCompletedAdapterDelegate.kt" />
       <jump line="168" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/view/ScheduledTaskListsPresenterTest.kt" />
+      <jump line="33" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/view/ScheduledTaskListsPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>single</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgQFRlc3QKICBmdW4gaXRSZXN1YnNjcmliZXNUb0luRmxpZ2h0UmVxdWVzdCgpIHsKICAgIHByZXNlbnRlci5zaW5nbGUgPSBtb2NrU2luZ2xlCgogICAgcHJlc2VudGVyLmF0dGFjaFZpZXcodmlldywgbnVsbCkKCiAgICB2ZXJpZnkobW9ja1NpbmdsZSkuc3Vic2NyaWJlKGFueSgpLCBhbnkoKSkKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>single</text>
+        <text>disposable</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblN1Y2Nlc3NcPg==</text>
+        <text encoding="base64">XDxzaW5nbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQogICAgdmFsIHNpbmdsZTogU2luZ2xlPENvbXBvc2l0ZVRhc2tMaXN0TW9kZWw+ID0gbW9jayhTaW5nbGU6OmNsYXNzLmphdmEpIGFzIFNpbmdsZTxDb21wb3NpdGVUYXNrTGlzdE1vZGVsPgo=</text>
+        <text encoding="base64">CiAgQFRlc3QKICBmdW4gaXRSZXN1YnNjcmliZXNUb0luRmxpZ2h0UmVxdWVzdCgpIHsKICAgIHByZXNlbnRlci5zaW5nbGUgPSBtb2NrU2luZ2xlCgogICAgcHJlc2VudGVyLmF0dGFjaFZpZXcodmlldywgbnVsbCkKCiAgICB2ZXJpZnkobW9ja1NpbmdsZSkuc3Vic2NyaWJlKGFueSgpLCBhbnkoKSkKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQogICAgdmFsIHNpbmdsZTogU2luZ2xlPENvbXBvc2l0ZVRhc2tMaXN0TW9kZWw+ID0gbW9jayhTaW5nbGU6OmNsYXNzLmphdmEpIGFzIFNpbmdsZTxDb21wb3NpdGVUYXNrTGlzdE1vZGVsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzaW5nbGUgPSBjb20ubmhhYXJtYW4ubW9ja2l0b19rb3RsaW4ubW9jayhTaW5nbGU6OmNsYXNzLmphdmEpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdnCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzaW5nbGUgPSBjb20ubmhhYXJtYW4ubW9ja2l0b19rb3RsaW4ubW9jayhTaW5nbGU6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGdnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7IHRocm93YWJsZSAtPgo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB7IHRocm93YWJsZSAtPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudmlldz8uc2hvd0xvYWRpbmcoZmFsc2UpCiAgICAgICAgICB0aGlzLnZpZXc/LnNob3dOb0RhdGEoKQogICAgICAgICAgdmFsIGVycm9yID0gQVBJRXJyb3JIZWxwZXIuZ2V0RXJyb3IodGhyb3dhYmxlKQogICAgICAgICAgdGhpcy52aWV3Py5zaG93RXJyb3IoZXJyb3IubWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblN1Y2Nlc3NcPg==</last-search>
+      <last-search encoding="base64">XDxzaW5nbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblN1Y2Nlc3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaW5nbGVcPg==</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -2092,7 +2091,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHVEtfTVlfSE9VUlNcPg==</entry>
         <entry encoding="base64">Pj4+Pj4=</entry>
         <entry>tasks</entry>
         <entry>spannab</entry>
@@ -2112,6 +2110,7 @@
         <entry encoding="base64">XDxzY2hlZHVsZWRUYXNrTGlzdE1vZGVsc1w+</entry>
         <entry encoding="base64">XDxzaG93VGFza3NcPg==</entry>
         <entry encoding="base64">XDxvblN1Y2Nlc3NcPg==</entry>
+        <entry encoding="base64">XDxzaW5nbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
