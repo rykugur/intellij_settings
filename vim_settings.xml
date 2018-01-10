@@ -1857,13 +1857,6 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/myhours/ui/AverageHoursPresenterTest.kt" timestamp="1515519449358">
-        <mark key="'" line="27" column="6" />
-        <mark key="[" line="181" column="27" />
-        <mark key="]" line="181" column="27" />
-        <mark key="." line="181" column="29" />
-        <mark key="^" line="201" column="36" />
-      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/todo/view/TodoPresenter.kt" timestamp="1503342628023">
         <mark key="[" line="7" column="74" />
         <mark key="]" line="7" column="74" />
@@ -1893,6 +1886,12 @@
         <mark key="]" line="288" column="8" />
         <mark key="." line="288" column="8" />
         <mark key="^" line="288" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1515594745463">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="201" column="24" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/test/java/com/thisclicks/core/util/WorkplaceUserUtilsTest.java" timestamp="1498486986609">
         <mark key="[" line="21" column="74" />
@@ -2161,56 +2160,56 @@
       <jump line="27" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/myhours/ui/AverageHoursPresenterTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Has</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFkZExhdW5jaERhcmtseVVzZXJBdHRyaWJ1dGVzKGJ1aWxkZXIsIGN1cnJlbnRVc2VyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Has</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
-        <text>GtkSwapsDrops</text>
+        <text>convert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibGRfcHJvZF9tb2JpbGVfa2V5Ij48L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgLmNvdW50cnkoTERDb3VudHJ5Q29kZS5nZXRCeUxvY2FsZShMb2NhbGUuZ2V0RGVmYXVsdCgpKSkKICAgICAgLmVtYWlsKGN1cnJlbnRVc2VyLmdldEVtYWlsKCkpCiAgICAgIC5uYW1lKGN1cnJlbnRVc2VyLmdldEZ1bGxOYW1lKCkpCiAgICAgIC5maXJzdE5hbWUoY3VycmVudFVzZXIuZ2V0Rmlyc3ROYW1lKCkpCiAgICAgIC5sYXN0TmFtZShjdXJyZW50VXNlci5nZXRMYXN0TmFtZSgpKQogICAgICAuYXZhdGFyKGN1cnJlbnRVc2VyLmdldEF2YXRhcigpLmdldFVybEZvckdpdmVuU2l6ZSg2NCkpCiAgICAgIC5hbm9ueW1vdXMoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFkZExhdW5jaERhcmtseVVzZXJBdHRyaWJ1dGVzKGJ1aWxkZXIsIGN1cnJlbnRVc2VyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2b2lkIGFkZExhdW5jaERhcmtseVVzZXJBdHRyaWJ1dGVzKExEVXNlci5CdWlsZGVyIGJ1aWxkZXIsIFVzZXIgY3VycmVudFVzZXIpIHsKICAgIGlmIChjdXJyZW50VXNlciBpbnN0YW5jZW9mIE51bGxVc2VyKSB7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBidWlsZGVyCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgLmF2YXRhcihjdXJyZW50VXNlci5nZXRBdmF0YXIoKS5nZXRVcmxGb3JHaXZlblNpemUoNjQpKQogICAgICAuY291bnRyeShMRENvdW50cnlDb2RlLmdldEJ5TG9jYWxlKExvY2FsZS5nZXREZWZhdWx0KCkpKQogICAgICAuZW1haWwoY3VycmVudFVzZXIuZ2V0RW1haWwoKSkKICAgICAgLmZpcnN0TmFtZShjdXJyZW50VXNlci5nZXRGaXJzdE5hbWUoKSkKICAgICAgLmxhc3ROYW1lKGN1cnJlbnRVc2VyLmdldExhc3ROYW1lKCkpCiAgICAgIC5uYW1lKGN1cnJlbnRVc2VyLmdldEZ1bGxOYW1lKCkpCiAgICAgIC5jdXN0b20oInVzZXJSb2xlIiwgY3VycmVudFVzZXIuZ2V0Um9sZSgpLmdldEZyaWVuZGx5TmFtZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcCAK</text>
+        <text encoding="base64">ICAgICAgICAuYW5vbnltb3VzKHRydWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExEQ2xpZW50IGNsaWVudDsK</text>
+        <text encoding="base64">ICAgICAgLmFub255bW91cyhmYWxzZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIExEVXNlci5CdWlsZGVyIGJ1aWxkZXIgPSBuZXcgTERVc2VyLkJ1aWxkZXIoU3RyaW5nLnZhbHVlT2YoY3VycmVudFVzZXIuZ2V0SWQoKSkpCiAgICAgIC5jb3VudHJ5KExEQ291bnRyeUNvZGUuZ2V0QnlMb2NhbGUoTG9jYWxlLmdldERlZmF1bHQoKSkpCiAgICAgIC5lbWFpbChjdXJyZW50VXNlci5nZXRFbWFpbCgpKQogICAgICAubmFtZShjdXJyZW50VXNlci5nZXRGdWxsTmFtZSgpKQogICAgICAuZmlyc3ROYW1lKGN1cnJlbnRVc2VyLmdldEZpcnN0TmFtZSgpKQogICAgICAubGFzdE5hbWUoY3VycmVudFVzZXIuZ2V0TGFzdE5hbWUoKSkKICAgICAgLmF2YXRhcihjdXJyZW50VXNlci5nZXRBdmF0YXIoKS5nZXRVcmxGb3JHaXZlblNpemUoNjQpKQogICAgICAuYW5vbnltb3VzKGZhbHNlKQogICAgICAuY3VzdG9tKCJhY2NvdW50SWQiLCBhY2NvdW50LmdldElkKCkpCgogICAgICByZXR1cm4gYnVpbGRlci5idWlsZCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKExhdW5jaERhcmtseUV4Y2VwdGlvbiBleGNlcHRpb24pIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG5ldyBMRFVzZXIuQnVpbGRlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>340</text>
       </register>
     </registers>
     <search>
-      <last-search>GtkSwapsDrops</last-search>
+      <last-search>convert</last-search>
       <last-offset />
-      <last-pattern>GtkSwapsDrops</last-pattern>
+      <last-pattern>convert</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -2218,7 +2217,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbk9yZGVyXD4=</entry>
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry>task</entry>
         <entry>intentbu</entry>
@@ -2238,6 +2236,7 @@
         <entry encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>GtkSwapsDrops</entry>
+        <entry>convert</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
