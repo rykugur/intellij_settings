@@ -1097,11 +1097,8 @@
         <mark key="." line="9" column="53" />
         <mark key="^" line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TaskHideCompletedCache.kt" timestamp="1516033253460">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="49" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TaskHideCompletedCache.kt" timestamp="1516035122243">
+        <mark key="[" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/util/realm/GotRealMigration.kt" timestamp="1503716531239">
         <mark key="[" line="5" column="6" />
@@ -1895,12 +1892,6 @@
         <mark key="." line="30" column="90" />
         <mark key="^" line="30" column="90" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1516034253716">
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="^" line="125" column="4" />
-        <mark key="." line="289" column="0" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1516033972774">
         <mark key="'" line="149" column="44" />
         <mark key="[" line="189" column="11" />
@@ -2073,7 +2064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/FeatureRouter.java" />
       <jump line="92" column="77" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" />
       <jump line="181" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/myhours/ui/AverageHoursPresenterTest.kt" />
       <jump line="367" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
@@ -2110,7 +2100,6 @@
       <jump line="269" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="76" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="92" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
-      <jump line="205" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="71" column="61" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="1039" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
@@ -2173,6 +2162,8 @@
       <jump line="45" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserComponent.java" />
       <jump line="46" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserComponent.java" />
       <jump line="317" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserComponent.java" />
+      <jump line="55" column="65" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
+      <jump line="205" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2182,7 +2173,7 @@
         <text>taskModel.isHidingCompleted(taskHideCompletedCache)</text>
       </register>
       <register name="/" type="4">
-        <text>task</text>
+        <text>usercomp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbWJpbmVkRGFzaGJvYXJkTW9kZWwgbW9kZWwgPSBtb2NrKENvbWJpbmVkRGFzaGJvYXJkTW9kZWwuY2xhc3MpOwogICAgLy8gZW5hYmxlZCBpbiBmZWF0dXJlIHJvdXRlciwgdXNlciBoYXMgZGlzbWlzc2VkIE9SIGNsaWNrZWQgdmlldyBteSBob3VycwogICAgd2hlbihmZWF0dXJlUm91dGVyLmlzVGFza3NFbmFibGVkKCkpLnRoZW5SZXR1cm4odHJ1ZSk7CiAgICB3aGVuKHVzZXIuY2FuTWFuYWdlKCkpLnRoZW5SZXR1cm4oZmFsc2UpOwogICAgd2hlbih1c2VyLmNhblN1cGVydmlzZSgpKS50aGVuUmV0dXJuKGZhbHNlKTsKICAgIEFjY291bnQgYWNjb3VudCA9IG1vY2soQWNjb3VudC5jbGFzcyk7CiAgICB3aGVuKGFjY291bnQuaGFzQXR0ZW5kYW5jZSgpKS50aGVuUmV0dXJuKHRydWUpOwogICAgd2hlbihhY2NvdW50Lmhhc1NjaGVkdWxpbmcoKSkudGhlblJldHVybih0cnVlKTsK</text>
@@ -2222,9 +2213,9 @@
       </register>
     </registers>
     <search>
-      <last-search>task</last-search>
+      <last-search>usercomp</last-search>
       <last-offset />
-      <last-pattern>task</last-pattern>
+      <last-pattern>usercomp</last-pattern>
       <last-replace>Builder</last-replace>
       <last-substitute>MercuryBuilder</last-substitute>
       <last-dir>1</last-dir>
@@ -2232,7 +2223,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update your notifi</entry>
         <entry>gtk</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>GtkSwapsDrops</entry>
@@ -2252,6 +2242,7 @@
         <entry>ConfirmState</entry>
         <entry>confirmviewstate</entry>
         <entry>task</entry>
+        <entry>usercomp</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
