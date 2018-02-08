@@ -904,7 +904,8 @@
         <mark key="^" line="16" column="56" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/adapters/AssignTaskDetailAdapter.kt" timestamp="1518112282148">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/adapters/AssignTaskDetailAdapter.kt" timestamp="1518120654066">
+        <mark key="'" line="185" column="38" />
         <mark key="[" line="99" column="95" />
         <mark key="]" line="99" column="95" />
         <mark key="." line="99" column="95" />
@@ -2215,8 +2216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/props/ui/GivePropsPresenter.kt" />
-      <jump line="45" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/props/ui/GivePropsPresenter.kt" />
       <jump line="129" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/SingleTaskListPresenter.kt" />
       <jump line="154" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/SingleTaskListPresenter.kt" />
       <jump line="125" column="66" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/SingleTaskListPresenter.kt" />
@@ -2315,6 +2314,8 @@
       <jump line="53" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/AssignTaskDetailActivity.kt" />
       <jump line="95" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/SingleTaskListPresenter.kt" />
       <jump line="30" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/view/SingleTaskListPresenterTest.kt" />
+      <jump line="112" column="58" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/adapters/AssignTaskDetailAdapter.kt" />
+      <jump line="185" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/adapters/AssignTaskDetailAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2324,7 +2325,7 @@
         <text>-1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hRdWVyeVw+</text>
+        <text>avatar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGFyZ2VVc2Vycy5hZGRBbGwodXNlcnMpCg==</text>
@@ -2364,9 +2365,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hRdWVyeVw+</last-search>
+      <last-search>avatar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hRdWVyeVw+</last-pattern>
+      <last-pattern>avatar</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>additemde</last-substitute>
       <last-dir>1</last-dir>
@@ -2374,7 +2375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ttile</entry>
         <entry>user</entry>
         <entry encoding="base64">XDx0YXNrTGlzdElkXD4=</entry>
         <entry encoding="base64">XDx0YXNrX2NvbnRhaW5lclw+</entry>
@@ -2394,6 +2394,7 @@
         <entry encoding="base64">XDxzZWFyY2hJdGVtXD4=</entry>
         <entry encoding="base64">XDxzZXRVc2Vyc1w+</entry>
         <entry encoding="base64">XDxzZWFyY2hRdWVyeVw+</entry>
+        <entry>avatar</entry>
       </history-search>
       <history-cmd>
         <entry>195</entry>
