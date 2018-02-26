@@ -667,11 +667,11 @@
         <mark key="^" line="21" column="87" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/models/CompositeTaskListModel.kt" timestamp="1519665178769">
-        <mark key="[" line="20" column="72" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/models/CompositeTaskListModel.kt" timestamp="1519679762179">
+        <mark key="[" line="131" column="23" />
+        <mark key="]" line="131" column="28" />
+        <mark key="." line="131" column="28" />
+        <mark key="^" line="131" column="28" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/assign/AssignTaskDetailPresenterTest.kt" timestamp="1519661727196">
         <mark key="'" line="163" column="2" />
@@ -681,7 +681,6 @@
         <mark key="^" line="149" column="56" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TasksDI.kt" timestamp="1519677471262">
-        <mark key="'" line="74" column="32" />
         <mark key="[" line="102" column="73" />
         <mark key="]" line="102" column="105" />
         <mark key="." line="102" column="105" />
@@ -1012,6 +1011,13 @@
         <mark key="]" line="7" column="64" />
         <mark key="^" line="7" column="64" />
         <mark key="." line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" timestamp="1519680417946">
+        <mark key="'" line="94" column="4" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="49" column="44" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivityModule.java" timestamp="1512666789696">
         <mark key="[" line="42" column="55" />
@@ -2582,7 +2588,8 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/models/ScheduledTaskListModel.kt" timestamp="1519661284966">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/models/ScheduledTaskListModel.kt" timestamp="1519679593961">
+        <mark key="'" line="68" column="70" />
         <mark key="[" line="75" column="16" />
         <mark key="]" line="75" column="38" />
         <mark key="." line="75" column="38" />
@@ -2590,13 +2597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsActivity.kt" />
-      <jump line="3" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTasksArchitecture.kt" />
-      <jump line="101" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsActivity.kt" />
-      <jump line="56" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenter.kt" />
-      <jump line="62" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenter.kt" />
-      <jump line="68" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenter.kt" />
-      <jump line="72" column="47" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenter.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenter.kt" />
       <jump line="71" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenter.kt" />
       <jump line="150" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenter.kt" />
@@ -2690,58 +2690,65 @@
       <jump line="164" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/SingleTaskListPresenter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/SingleTaskListPresenter.kt" />
       <jump line="6" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/SingleTaskListPresenter.kt" />
+      <jump line="68" column="70" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/models/ScheduledTaskListModel.kt" />
+      <jump line="149" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" />
+      <jump line="16" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" />
+      <jump line="35" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" />
+      <jump line="65" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" />
+      <jump line="97" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" />
+      <jump line="98" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>model.locationName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>model.locationName</text>
+        <text>: refresh</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text encoding="base64">XDxkaXNwb3NhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gIHByaXZhdGUgZnVuIHJlZnJlc2hCeURhdGFTaW5nbGUoc3RhcnREYXRlOiBEYXRlVGltZSwgZW5kRGF0ZTogRGF0ZVRpbWUsIGxvY2F0aW9uSWQ6IExvbmcpOiBTaW5nbGU8Q29tcG9zaXRlVGFza0xpc3RNb2RlbD4gPQovLyAgICB0YXNrc0FwaS5nZXRTY2hlZHVsZWRUYXNrTGlzdHMocXVlcnlNYXBGb3JUYXNrcyhzdGFydERhdGUsIGVuZERhdGUsIGxvY2F0aW9uSWQpKQovLyAgICAgIC5tYXAgeyBDb21wb3NpdGVUYXNrTGlzdE1vZGVsKGl0KSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5Py5sZXQgewogICAgICB3aXRoKGl0IGFzIFRhc2tzQWN0aXZpdHkpIHsKICAgICAgICB0b29sYmFyLnRpdGxlID0gbW9kZWwubmFtZQogICAgICAgIG1vZGVsLmxvY2F0aW9uTmFtZT8ubGV0IHsKICAgICAgICAgIHRvb2xiYXIuc3VidGl0bGUgPSBpdAogICAgICAgIH0KICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdG9vbGJhci50aQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRhc2tzICE9IG51bGwgLT4gU2luZ2xlLmp1c3QodGFza3MpCiAgICAgICAgICBlbHNlIC0+IHJlZnJlc2hEYXRhU2luZ2xlKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcG9zYWJsZT8uZGlzcG9zZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgc2hvd1Byb2dyZXNzKHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmVmcmVzaERhdGFTaW5nbGUoKT8uc3Vic2NyaWJlKHsgb25TdWNjZXNzLmludm9rZShpdCkgfSwgeyBvbkVycm9yLmludm9rZShpdCkgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZSA/OiBnZXRTdHJpbmcoUi5zdHJpbmcuZXJyb3JfdGFza19nZW5lcmFsKSwK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbklkID0gdGFza3MuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAucmVnaXN0ZXJUeXBlQWRhcHRlcihTY2hlZHVsZWRUYXNrQXNzaWduUmVxdWVzdC5jbGFzcywgU2NoZWR1bGVkVGFza0Fzc2lnblJlcXVlc3QudHlwZUFkYXB0ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbklkID0gdGFza3MuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBSTy0xMDY0OiBhZGRlZCBUeXBlQWRhcHRlciBmb3IgU2NoZWR1bGVkVGFza0Fzc2lnblJlcXVlc3QsIHNvIHdlIGNhbiBwYXNzIG51bGxzIHRvIHRoZSBBUEkuCg==</text>
+        <text encoding="base64">ICAgICAgcmVmcmVzaERhdGEocmVmcmVzaERhdGFTaW5nbGUoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucmVnaXN0ZXJUeXBlQWRhcHRlcihTY2hlZHVsZWRUYXNrVXBkYXRlUmVxdWVzdC5jbGFzcywgbmV3IFNjaGVkdWxlZFRhc2tVcGRhdGVSZXF1ZXN0LkN1c3RvbVNlcmlhbGl6ZXIoKSkK</text>
+        <text encoding="base64">ICAgIHRhc2tzICE9IG51bGwgLT4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>112</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search encoding="base64">XDxkaXNwb3NhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNwb3NhYmxlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>additemde</last-substitute>
       <last-dir>1</last-dir>
@@ -2749,7 +2756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>size</entry>
         <entry>finditem</entry>
         <entry>dueDate</entry>
         <entry>view?.render</entry>
@@ -2769,6 +2775,7 @@
         <entry>oops</entry>
         <entry>nextshift</entry>
         <entry>error</entry>
+        <entry encoding="base64">XDxkaXNwb3NhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1222</entry>
