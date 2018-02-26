@@ -994,6 +994,12 @@
         <mark key="^" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/MultipleTaskListPresenter.kt" timestamp="1519672886077">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="35" column="46" />
+        <mark key="^" line="35" column="46" />
+        <mark key="." line="35" column="46" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivityModule.java" timestamp="1512666789696">
         <mark key="[" line="42" column="55" />
         <mark key="]" line="42" column="64" />
@@ -2588,47 +2594,47 @@
       <jump line="80" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TasksDI.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGFza3MgPSBzYXZlZFN0YXRlLmdldFBhcmNlbGFibGUoVEFTS1MpCiAgICAgIHN0YXJ0RGF0ZSA9IHNhdmVkU3RhdGUuZ2V0TG9uZyhTVEFSVCkudGFrZUlmIHsgaXQgPiAwIH0ubGV0IHsgRGF0ZVRpbWUoaXQpIH0KICAgICAgZW5kRGF0ZSA9IHNhdmVkU3RhdGUuZ2V0TG9uZyhFTkQpLnRha2VJZiB7IGl0ID4gMCB9LmxldCB7IERhdGVUaW1lKGl0KSB9CiAgICAgIGxvY2F0aW9uSWQgPSBzYXZlZFN0YXRlLmdldExvbmcoTE9DQVRJT05fSUQpCiAgICAgIHNoaWZ0SWQgPSBzYXZlZFN0YXRlLmdldExvbmcoU0hJRlRfSUQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>onNextTasks.accept(tasks)</text>
       </register>
       <register name="-" type="4">
-        <text>tasksApi, fullyAuthAPI, account, schedulerProviderV2</text>
+        <text>onNextTasks.accept(tasks)</text>
       </register>
       <register name="/" type="4">
         <text>oops</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIFNBVkVEX1NDSEVEVUxFRF9UQVNLX0xJU1RfUFJFU0VOVEVSID0gQnVpbGRDb25maWcuQVBQTElDQVRJT05fSUQgKyAiLlNpbmdsZVRhc2tMaXN0RnJhZ21lbnQuc2F2ZWRQcmVzZW50ZXIiCg==</text>
+        <text encoding="base64">ICAgIG1heWJlU2hvd0xpc3RSZW1vdmVkQmFubmVyKGN0bG0pCiAgICB0YXNrcyA9IGN0bG0KICAgIGlmICh0YXNrcyEhLnRvdGFsVGFza0NvdW50ID4gMCkgewogICAgICB0aGlzLnZpZXc/LmJpbmRUYXNrcyh0YXNrcyEhKQogICAgfSBlbHNlIHsKICAgICAgdGhpcy52aWV3Py5zaG93Tm9UYXNrcyhzdGFydERhdGUgPzogRGF0ZVRpbWUubm93KCkpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGFza3MgPSBzYXZlZFN0YXRlLmdldFBhcmNlbGFibGUoVEFTS1MpCiAgICAgIHN0YXJ0RGF0ZSA9IHNhdmVkU3RhdGUuZ2V0TG9uZyhTVEFSVCkudGFrZUlmIHsgaXQgPiAwIH0ubGV0IHsgRGF0ZVRpbWUoaXQpIH0KICAgICAgZW5kRGF0ZSA9IHNhdmVkU3RhdGUuZ2V0TG9uZyhFTkQpLnRha2VJZiB7IGl0ID4gMCB9LmxldCB7IERhdGVUaW1lKGl0KSB9CiAgICAgIGxvY2F0aW9uSWQgPSBzYXZlZFN0YXRlLmdldExvbmcoTE9DQVRJT05fSUQpCiAgICAgIHNoaWZ0SWQgPSBzYXZlZFN0YXRlLmdldExvbmcoU0hJRlRfSUQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1vZGVsID0gZ2V0UGFyY2VsYWJsZShFWFRSQV9UQVNLUykKICAgICAgICAgIHN0YXJ0RGF0ZSA9IGdldExvbmcoRVhUUkFfU1RBUlQpLnRha2VJZiB7IGl0ID4gMCB9LmxldCB7IERhdGVUaW1lKGl0KSB9CiAgICAgICAgICBlbmREYXRlID0gZ2V0TG9uZyhFWFRSQV9FTkQpLnRha2VJZiB7IGl0ID4gMCB9LmxldCB7IERhdGVUaW1lKGl0KSB9CiAgICAgICAgICBsb2NhdGlvbklkID0gZ2V0TG9uZyhFWFRSQV9MT0NBVElPTl9JRCkudGFrZUlmIHsgaXQgPiAwIH0KICAgICAgICAgIHNoaWZ0SWQgPSBnZXRMb25nKEVYVFJBX1NISUZUX0lEKS50YWtlSWYgeyBpdCA+IDAgfQo=</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgb25OZXh0VGFza3MgPSBDb25zdW1lcjxDb21wb3NpdGVUYXNrTGlzdE1vZGVsPiB7IGN0bG0gLT4KICAgIHRoaXMudmlldz8uc2hvd1Byb2dyZXNzKGZhbHNlKQogICAgbWF5YmVTaG93TGlzdFJlbW92ZWRCYW5uZXIoY3RsbSkKICAgIHRhc2tzID0gY3RsbQogICAgaWYgKHRhc2tzISEudG90YWxUYXNrQ291bnQgPiAwKSB7CiAgICAgIHRoaXMudmlldz8uYmluZFRhc2tzKHRhc2tzISEpCiAgICB9IGVsc2UgewogICAgICB0aGlzLnZpZXc/LnNob3dOb1Rhc2tzKHN0YXJ0RGF0ZSA/OiBEYXRlVGltZS5ub3coKSkKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluaXRpYWxUYWIgPSBnZXRJbnQoRVhUUkFfVEFTS1NfSU5JVElBTF9UQUIsIDApCg==</text>
+        <text encoding="base64">ICAgIG4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8oZHVzdHkpOiByZWZhY3RvciB0byB1c2UgcmV0YWluZWQgcHJlc2VudGVyL3ZhcmlhYmxlcwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgdGFza3MgPSBzYXZlZFN0YXRlLmdldFBhcmNlbGFibGUoVEFTS1MpCiAgICAgIHN0YXJ0RGF0ZSA9IHNhdmVkU3RhdGUuZ2V0TG9uZyhTVEFSVCkudGFrZUlmIHsgaXQgPiAwIH0ubGV0IHsgRGF0ZVRpbWUoaXQpIH0KICAgICAgZW5kRGF0ZSA9IHNhdmVkU3RhdGUuZ2V0TG9uZyhFTkQpLnRha2VJZiB7IGl0ID4gMCB9LmxldCB7IERhdGVUaW1lKGl0KSB9CiAgICAgIGxvY2F0aW9uSWQgPSBzYXZlZFN0YXRlLmdldExvbmcoTE9DQVRJT05fSUQpCiAgICAgIHNoaWZ0SWQgPSBzYXZlZFN0YXRlLmdldExvbmcoU0hJRlRfSUQpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjaGVkdWxlclByb3ZpZGVyOiBTY2hlZHVsZXJQcm92aWRlclYyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1vZGVsID0gZ2V0UGFyY2VsYWJsZShFWFRSQV9UQVNLUykKICAgICAgICAgIHN0YXJ0RGF0ZSA9IGdldExvbmcoRVhUUkFfU1RBUlQpLnRha2VJZiB7IGl0ID4gMCB9LmxldCB7IERhdGVUaW1lKGl0KSB9CiAgICAgICAgICBlbmREYXRlID0gZ2V0TG9uZyhFWFRSQV9FTkQpLnRha2VJZiB7IGl0ID4gMCB9LmxldCB7IERhdGVUaW1lKGl0KSB9CiAgICAgICAgICBsb2NhdGlvbklkID0gZ2V0TG9uZyhFWFRSQV9MT0NBVElPTl9JRCkudGFrZUlmIHsgaXQgPiAwIH0KICAgICAgICAgIHNoaWZ0SWQgPSBnZXRMb25nKEVYVFJBX1NISUZUX0lEKS50YWtlSWYgeyBpdCA+IDAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>112</text>
