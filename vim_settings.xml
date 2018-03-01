@@ -1341,11 +1341,12 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/personal/gits/code/android/RecyclerSwipeFun/app/src/main/java/io/rollhax/recyclerswipefun/MainActivity.kt" timestamp="1519877827886">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="13" />
+      <file name="$USER_HOME$/personal/gits/code/android/RecyclerSwipeFun/app/src/main/java/io/rollhax/recyclerswipefun/MainActivity.kt" timestamp="1519910947770">
+        <mark key="'" line="72" column="71" />
+        <mark key="[" line="72" column="39" />
+        <mark key="]" line="72" column="97" />
+        <mark key="^" line="72" column="97" />
+        <mark key="." line="72" column="97" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/internal/di/Injector.kt" timestamp="1503365589075">
         <mark key="[" line="16" column="0" />
@@ -1423,6 +1424,12 @@
         <mark key="]" line="8" column="39" />
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/code/android/RecyclerSwipeFun/app/src/main/res/values/strings.xml" timestamp="1519910929682">
+        <mark key="[" line="1" column="53" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/GivePropsCard.java" timestamp="1499357383386">
         <mark key="[" line="24" column="31" />
@@ -1522,11 +1529,10 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/gits/code/android/RecyclerSwipeFun/app/src/main/res/layout/activity_main.xml" timestamp="1519877004686">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
+      <file name="$USER_HOME$/personal/gits/code/android/RecyclerSwipeFun/app/src/main/res/layout/activity_main.xml" timestamp="1519910854189">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/bus/RxBus.java" timestamp="1499698616687">
         <mark key="[" line="32" column="3" />
@@ -2548,7 +2554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/adapters/AssignTaskDetailAdapter.kt" />
       <jump line="60" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenterTest.kt" />
       <jump line="44" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenterTest.kt" />
       <jump line="73" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/tasklists/tabbed/TabbedTaskListsPresenterTest.kt" />
@@ -2648,58 +2653,59 @@
       <jump line="81" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values-v21/styles.xml" />
       <jump line="82" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values-v21/styles.xml" />
       <jump line="92" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values-v21/styles.xml" />
+      <jump line="72" column="71" filename="$USER_HOME$/personal/gits/code/android/RecyclerSwipeFun/app/src/main/java/io/rollhax/recyclerswipefun/MainActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmNhcmRfdmlldz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;Item ${adapterItems[position]}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>@dimen/card_elevation</text>
+        <text>&quot;Item ${adapterItems[position]}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>background</text>
+        <text>floating</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmNhcmRfdmlldz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgaXRlbSA9IGl0ZW1zW3Bvc2l0aW9uXQogICAgICAgICAgICAgIGl0ZW1zLnJlbW92ZUF0KHBvc2l0aW9uKQogICAgICAgICAgICAgIGl0ZW1zLmFkZCgwLCBpdGVtKQogICAgICAgICAgICAgIG5vdGlmeURhdGFTZXRDaGFuZ2VkKCkKICAgICAgICAgICAgICBub3RpZnlJdGVtSW5zZXJ0ZWQoMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZz0iNWRwIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0eWxlPSJAc3R5bGUvQ2FyZFRoZW1lIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxGbG9hdGluZ0FjCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmVjeWNsZXIuYWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmVjeWNsZXIuYWRhcHRlci4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuIChkaXJlY3Rpb24pIHsKICAgICAgICAgIEl0ZW1Ub3VjaEhlbHBlci5MRUZUIC0+IHsKICAgICAgICAgICAgd2l0aCAocmVjeWNsZXIuYWRhcHRlciBhcyBNeUFkYXB0ZXIpIHsKICAgICAgICAgICAgICB2YWwgaXRlbSA9IGl0ZW1zW3Bvc2l0aW9uXQogICAgICAgICAgICAgIGl0ZW1zLnJlbW92ZUF0KHBvc2l0aW9uKQogICAgICAgICAgICAgIGl0ZW1zLmFkZCgwLCBpdGVtKQogICAgICAgICAgICAgIG5vdGlmeURhdGFTZXRDaGFuZ2VkKCkKICAgICAgICAgICAgICBub3RpZnlJdGVtSW5zZXJ0ZWQoMCkKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgICAgSXRlbVRvdWNoSGVscGVyLlJJR0hUIC0+IHsKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpdGVtcy5hZGQoMCwgaXRlbSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgaXRlbSA9IGl0ZW1zW3Bvc2l0aW9uXQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjYXJkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmdyYXZpdHkiPmNlbnRlcjwvaXRlbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>background</last-search>
+      <last-search>floating</last-search>
       <last-offset />
-      <last-pattern>background</last-pattern>
+      <last-pattern>floating</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2707,7 +2713,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNwb3NhYmxlXD4=</entry>
         <entry encoding="base64">XDxTQVZFRF9TQ0hFRFVMRURfVEFTS19MSVNUU19QUkVTRU5URVJcPg==</entry>
         <entry encoding="base64">XDxTQVZFRF9TQ0hFRFVMRURfVEFTS19MSVNUX1BSRVNFTlRFUlw+</entry>
         <entry>tasks</entry>
@@ -2727,6 +2732,7 @@
         <entry>cardview</entry>
         <entry>textview</entry>
         <entry>background</entry>
+        <entry>floating</entry>
       </history-search>
       <history-cmd>
         <entry>340</entry>
