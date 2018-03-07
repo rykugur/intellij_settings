@@ -326,6 +326,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/adapters/BaseTaskListsAdapter.kt" timestamp="1520397998796">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/res/animator-v21/raise.xml" timestamp="1503361448208">
         <mark key="[" line="1" column="64" />
         <mark key="]" line="17" column="14" />
@@ -1908,7 +1914,13 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/adapters/TaskCompletedAdapterDelegate.kt" timestamp="1520350636950" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/adapters/TaskCompletedAdapterDelegate.kt" timestamp="1520398058476">
+        <mark key="'" line="152" column="73" />
+        <mark key="[" line="123" column="85" />
+        <mark key="]" line="123" column="108" />
+        <mark key="^" line="123" column="108" />
+        <mark key="." line="123" column="108" />
+      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/todo/view/TodoDashCard.kt" timestamp="1503084036656">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -2748,8 +2760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="24" filename="$USER_HOME$/personal/gits/code/android/DragAndSwipeRecyclerWithRoom/app/src/main/java/io/rollhax/recyclerplusroom/data/room/AppDatabaseArchitecture.kt" />
-      <jump line="26" column="29" filename="$USER_HOME$/personal/gits/code/android/DragAndSwipeRecyclerWithRoom/app/src/main/java/io/rollhax/recyclerplusroom/data/room/AppDatabaseArchitecture.kt" />
       <jump line="27" column="12" filename="$USER_HOME$/personal/gits/code/android/DragAndSwipeRecyclerWithRoom/app/src/main/java/io/rollhax/recyclerplusroom/data/room/AppDatabaseArchitecture.kt" />
       <jump line="14" column="14" filename="$USER_HOME$/personal/gits/code/android/DragAndSwipeRecyclerWithRoom/app/src/main/java/io/rollhax/recyclerplusroom/data/room/AppDatabaseArchitecture.kt" />
       <jump line="15" column="39" filename="$USER_HOME$/personal/gits/code/android/DragAndSwipeRecyclerWithRoom/app/src/main/java/io/rollhax/recyclerplusroom/data/room/AppDatabaseArchitecture.kt" />
@@ -2848,58 +2858,60 @@
       <jump line="118" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/RequestsActivity.java" />
       <jump line="84" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/RequestsActivity.java" />
       <jump line="98" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/RequestsActivity.java" />
+      <jump line="104" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/adapters/TaskCompletedAdapterDelegate.kt" />
+      <jump line="152" column="73" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/adapters/TaskCompletedAdapterDelegate.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHNob3cgbm8gZGF0YSB2aWV3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>taskModel.taskListId</text>
       </register>
       <register name="-" type="4">
-        <text>NonNull</text>
+        <text>taskModel.taskListId</text>
       </register>
       <register name="/" type="4">
-        <text>hasScheduling</text>
+        <text>listener</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRvb2xiYXIubWVudS5maW5kSXRlbShSLmlkLm1lbnVfc2hvd19oaWRlX2NvbXBsZXRlZCk/LmlzVmlzaWJsZSA9IHZpc2libGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHNob3cgbm8gZGF0YSB2aWV3Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBwb3NpdGlvbiA9IGhvbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnlEYXRhU2V0Q2hhbmdlZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHNob3cgbm8gZGF0YSB2aWV3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBhZGFwdGVyLnNldERhdGEoKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2hvdwo=</text>
+        <text encoding="base64">ICAgICAgago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdG9vbGJhci5tZW51LmZpbmRJdGVtKFIuaWQubWVudV9zaG93X2hpZGVfY29tcGxldGVkKT8uaXNWaXNpYmxlID0gdmlzaWJsZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBhZGFwdGVyLnNldERhdGEoKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lbnU/LmZpbmRJdGVtKFIuaWQubWVudS5tKQo=</text>
+        <text encoding="base64">ICAgICAgc2hvdwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oZHVzdHkpOiB0YWJiZWQgdGFza3MgLT4gaWNvbiBtaXNzaW5nIGFmdGVyIG9yaWVudGF0aW9uIGNoYW5nZQo=</text>
+        <text encoding="base64">Ly8gICAgdG9vbGJhci5tZW51LmZpbmRJdGVtKFIuaWQubWVudV9zaG93X2hpZGVfY29tcGxldGVkKT8uaXNWaXNpYmxlID0gdmlzaWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>179</text>
       </register>
     </registers>
     <search>
-      <last-search>hasScheduling</last-search>
+      <last-search>listener</last-search>
       <last-offset />
-      <last-pattern>hasScheduling</last-pattern>
+      <last-pattern>listener</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -2907,7 +2919,6 @@
     </search>
     <history>
       <history-search>
-        <entry>beta</entry>
         <entry encoding="base64">XDxsZENsaWVudFw+</entry>
         <entry encoding="base64">XDx0YXNrSGlkZUNvbXBsZXRlZENhY2hlXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsVGFiXD4=</entry>
@@ -2927,6 +2938,7 @@
         <entry encoding="base64">XDxpc1JlcXVlc3RzRW5hYmxlZFw+</entry>
         <entry>fullname</entry>
         <entry>hasScheduling</entry>
+        <entry>listener</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
