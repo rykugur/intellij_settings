@@ -726,12 +726,11 @@
         <mark key="^" line="53" column="88" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/assign/AssignTaskDetailPresenterTest.kt" timestamp="1519661727196">
-        <mark key="'" line="163" column="2" />
-        <mark key="[" line="149" column="42" />
-        <mark key="]" line="149" column="56" />
-        <mark key="." line="149" column="56" />
-        <mark key="^" line="149" column="56" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/tasks/assign/AssignTaskDetailPresenterTest.kt" timestamp="1520531972447">
+        <mark key="[" line="94" column="55" />
+        <mark key="]" line="94" column="59" />
+        <mark key="^" line="94" column="59" />
+        <mark key="." line="94" column="59" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TasksDI.kt" timestamp="1520456794471">
         <mark key="[" line="94" column="64" />
@@ -2845,11 +2844,11 @@
       <jump line="26" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/adapters/AssignTaskDetailAdapter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gVE9ETyhkdXN0eSk6IHRyeSBhbmQgcGFzcyB0YXNrcyBiYWNrIHRvIGRhc2ggY2FyZHMK</text>
+      <register name="&quot;" type="4">
+        <text>(taskListModel, taskModel))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(taskListModel, taskModel))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrTGlzdE1vZGVsXD4=</text>
@@ -2858,34 +2857,34 @@
         <text encoding="base64">ICAgICAgICAvLy8gVE9ETyhkdXN0eSk6IHRyeSBhbmQgcGFzcyB0YXNrcyBiYWNrIHRvIGRhc2ggY2FyZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gVE9ETyhkdXN0eSk6IHRyeSBhbmQgcGFzcyB0YXNrcyBiYWNrIHRvIGRhc2ggY2FyZHMK</text>
+        <text encoding="base64">ICAgIHBhaXIgPSBQYWlyKHRhc2tMaXN0TW9kZWwsIHRhc2tNb2RlbCkKICAgIHZhbCBzdGF0ZSA9IEFzc2lnblRhc2tEZXRhaWxWaWV3U3RhdGUoZGF0YSA9IHBhaXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gc2V0U2VhcmNoUXVlcnkoc2VhcmNoUXVlcnk6IFN0cmluZykgewogICAgdGhpcy5zZWFyY2hRdWVyeSA9IHNlYXJjaFF1ZXJ5CiAgfQo=</text>
+        <text encoding="base64">Ly8gICAgdmVyaWZ5KHZpZXcpLnNldExpc3RVc2VycyhlcShleHBlY3RlZFVzZXJzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlc2VhcmNoUXVlcnkgPSBzdGF0ZS5zZWFyY2hRdWVyeQo=</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci50YXNrTGlzdE1vZGVsID0gdGFza0xpc3RNb2RlbAogICAgcHJlc2VudGVyLnRhc2tNb2RlbCA9IHRhc2tNb2RlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRlLnNlYXJjaFF1ZXJ5Py5sZXQgewogICAgICB0aGlzLnNlYXJjaFF1ZXJ5ID0gaXQKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci50YXNrTW9kZWwgPSB0YXNrTW9kZWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2V0U2VhcmNoUXVlcnkoaXQpCg==</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci50YXNrTGlzdE1vZGVsID0gdGFza0xpc3RNb2RlbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VhcmNoUXVlcnkuZm9jdQo=</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci50YXNrTW9kZWwgPSB0YXNrTW9kZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogIHByaXZhdGUgZnVuIHNldExpc3RVc2Vycyh1c2VyczogTGlzdDxVc2VyPikgewogICAgYWRhcHRlcj8udXBkYXRlRGlzcGxheWVkVXNlcnModXNlcnMpCiAgfQo=</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci50YXNrTGlzdE1vZGVsID0gdGFza0xpc3RNb2RlbAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gdHJ1ZSBpbiB0aGUgY2FzZSBvZiBhIAo=</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci50YXNrTW9kZWwgPSB0YXNrTW9kZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGUudmlzaWJsZVVzZXJzPy5sZXQgeyBhZGFwdGVyLiB9Cg==</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci50YXNrTGlzdE1vZGVsID0gdGFza0xpc3RNb2RlbAo=</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
