@@ -1008,7 +1008,7 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WorkChatApi.java" timestamp="1521492122102" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WorkChatApi.java" timestamp="1521492871831" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/AcceptanceAPIEndpoint.java" timestamp="1514997864272">
         <mark key="[" line="25" column="11" />
         <mark key="]" line="27" column="17" />
@@ -1036,7 +1036,7 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1519921639766">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1521493187002">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1084" column="0" />
         <mark key="]" line="1084" column="0" />
@@ -1854,6 +1854,7 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/profilesettings/ProfileSettingsActivity.java" timestamp="1521493141482" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/models/TaskListModel.kt" timestamp="1513010158182">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="10" column="76" />
@@ -2887,7 +2888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/ConversationAvatarView.java" />
       <jump line="79" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/ConversationAvatarView.java" />
       <jump line="13" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/ConversationAvatarView.java" />
       <jump line="82" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/widget/ConversationAvatarView.java" />
@@ -2987,6 +2987,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
       <jump line="218" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
       <jump line="15" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2996,7 +2997,7 @@
         <text>ERROR</text>
       </register>
       <register name="/" type="4">
-        <text>APIerrorhelper</text>
+        <text>alert pre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb252ZXJzYXRpb25zUmVwb3NpdG9yeS5nZXRDb252ZXJzYXRpb25zT2JzZXJ2YWJsZSgpCiAgICAgICAgICAuY29tcG9zZShuZXcgU2NoZWR1bGVyUHJvdmlkZXIoKS5hcHBTY2hlZHVsZXIoKSkKICAgICAgICAgIC5zdWJzY3JpYmUoY29udmVyc2F0aW9ucyAtPiB7CiAgICAgICAgICAgIExvZy5kKCJERVJQIiwgIkNvbnZlcnNhdGlvbnNQcmVzZW50ZXIuaGFuZGxlQ2hhbm5lbEV2ZW50OiBjb252ZXJzYXRpb249IiArIGNvbnZlcnNhdGlvbnMpOwogICAgICAgICAgfSwgdGhyb3dhYmxlIC0+IHsgTG9nLmQoIkRFUlAiLCAiQ29udmVyc2F0aW9uc1ByZXNlbnRlci5oYW5kbGVDaGFubmVsRXZlbnQ6IGVycm9yIGdldHRpbmcgY29udmVyc2F0aW9uLCBlcnJvcj0iICsgdGhyb3dhYmxlKTt9KTsK</text>
@@ -3036,9 +3037,9 @@
       </register>
     </registers>
     <search>
-      <last-search>APIerrorhelper</last-search>
+      <last-search>alert pre</last-search>
       <last-offset />
-      <last-pattern>APIerrorhelper</last-pattern>
+      <last-pattern>alert pre</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -3046,7 +3047,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>twilio</entry>
         <entry>deep</entry>
         <entry encoding="base64">XDxkZWVwTGlua0ludGVudFw+</entry>
@@ -3066,6 +3066,7 @@
         <entry>delete</entry>
         <entry>error</entry>
         <entry>APIerrorhelper</entry>
+        <entry>alert pre</entry>
       </history-search>
       <history-cmd>
         <entry>109</entry>
