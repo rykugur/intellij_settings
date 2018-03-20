@@ -1869,7 +1869,9 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/profilesettings/ProfileSettingsActivity.java" timestamp="1521493141482" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/profilesettings/ProfileSettingsActivity.java" timestamp="1521563662725">
+        <mark key="'" line="62" column="4" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/models/TaskListModel.kt" timestamp="1513010158182">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="10" column="76" />
@@ -2907,9 +2909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
-      <jump line="418" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
-      <jump line="419" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="429" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="126" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/chat/fragment/MessagesPresenter.java" />
       <jump line="136" column="73" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_chat_participant_list.xml" />
@@ -3007,6 +3006,9 @@
       <jump line="88" column="66" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/combined_profile_settings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/alert_settings_layout_scheduling.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/alert_settings_layout_attendance.xml" />
+      <jump line="31" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/profilesettings/ProfileSettingsActivity.java" />
+      <jump line="61" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/profilesettings/ProfileSettingsActivity.java" />
+      <jump line="62" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/profilesettings/ProfileSettingsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3016,7 +3018,7 @@
         <text>attendance_reminders</text>
       </register>
       <register name="/" type="4">
-        <text>alert pre</text>
+        <text>submit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQgc3R5bGU9IkBzdHlsZS9NYXRlcmlhbC5BY3Rpdml0eS5Qcm9maWxlLklubGluZS5PcHRpb25Db250YWluZXIiCiAgICAgICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCiAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuQWN0aXZpdHkuUHJvZmlsZS5JbmxpbmUuTGFiZWwiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9wcm9maWxlX2F0dGVuZGFuY2VfcmVtaW5kZXJzIiAvPgoKICAgICAgICA8Q2hlY2tCb3gKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jaGVja19hdHRlbmRhbmNlX3NtcyIKICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9NYXRlcmlhbC5BY3Rpdml0eS5Qcm9maWxlLkFsZXJ0VHlwZUNoZWNrYm94LlNtcyIgLz4KCiAgICAgICAgPENoZWNrQm94CiAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuQWN0aXZpdHkuUHJvZmlsZS5BbGVydFR5cGVDaGVja2JveC5FbWFpbCIKICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiIC8+CiAgICA8L0xpbmVhckxheW91dD4K</text>
@@ -3056,9 +3058,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alert pre</last-search>
+      <last-search>submit</last-search>
       <last-offset />
-      <last-pattern>alert pre</last-pattern>
+      <last-pattern>submit</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -3066,7 +3068,6 @@
     </search>
     <history>
       <history-search>
-        <entry>twilio</entry>
         <entry>deep</entry>
         <entry encoding="base64">XDxkZWVwTGlua0ludGVudFw+</entry>
         <entry>useStaging</entry>
@@ -3086,6 +3087,7 @@
         <entry>error</entry>
         <entry>APIerrorhelper</entry>
         <entry>alert pre</entry>
+        <entry>submit</entry>
       </history-search>
       <history-cmd>
         <entry>109</entry>
