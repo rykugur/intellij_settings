@@ -867,6 +867,11 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/fragment_att_profile_settings.xml" timestamp="1521560147048">
+        <mark key="[" line="97" column="31" />
+        <mark key="]" line="112" column="31" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/internal/di/AppComponent.kt" timestamp="1502756056108">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="16" column="58" />
@@ -1036,12 +1041,12 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1521493187002">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1521560100044">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1084" column="0" />
-        <mark key="]" line="1084" column="0" />
-        <mark key="." line="1084" column="0" />
-        <mark key="^" line="1083" column="66" />
+        <mark key="[" line="476" column="43" />
+        <mark key="]" line="476" column="57" />
+        <mark key="." line="476" column="57" />
+        <mark key="^" line="476" column="57" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/util/realm/RealmUtil.kt" timestamp="1504107260058">
         <mark key="[" line="32" column="0" />
@@ -1706,6 +1711,7 @@
         <mark key="^" line="28" column="54" />
         <mark key="." line="28" column="54" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/alert_settings_layout_attendance.xml" timestamp="1521560118801" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_give_props.xml" timestamp="1504122960321">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="12" />
@@ -2753,7 +2759,6 @@
         <mark key="^" line="33" column="105" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/twilio/WorkChatMessagingClient.java" timestamp="1521472630797">
-        <mark key="'" line="156" column="17" />
         <mark key="[" line="147" column="31" />
         <mark key="]" line="147" column="35" />
         <mark key="." line="147" column="35" />
@@ -2990,17 +2995,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ERROR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgc3R5bGU9IkBzdHlsZS9NYXRlcmlhbC5BY3Rpdml0eS5Qcm9maWxlLklubGluZS5PcHRpb25Db250YWluZXIiPgoKICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9NYXRlcmlhbC5BY3Rpdml0eS5Qcm9maWxlLklubGluZS5MYWJlbCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Byb2ZpbGVfdGltZW9mZl9yZXF1ZXN0cyIgLz4KCiAgICAgICAgICAgICAgICAgICAgPENoZWNrQm94CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY2hlY2tfdGltZW9mZl9zbXMiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuQWN0aXZpdHkuUHJvZmlsZS5BbGVydFR5cGVDaGVja2JveC5TbXMiIC8+CgogICAgICAgICAgICAgICAgICAgIDxDaGVja0JveAogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NoZWNrX3RpbWVvZmZfZW1haWwiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuQWN0aXZpdHkuUHJvZmlsZS5BbGVydFR5cGVDaGVja2JveC5FbWFpbCIgLz4KICAgICAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>attendance_</text>
       </register>
       <register name="/" type="4">
         <text>alert pre</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb252ZXJzYXRpb25zUmVwb3NpdG9yeS5nZXRDb252ZXJzYXRpb25zT2JzZXJ2YWJsZSgpCiAgICAgICAgICAuY29tcG9zZShuZXcgU2NoZWR1bGVyUHJvdmlkZXIoKS5hcHBTY2hlZHVsZXIoKSkKICAgICAgICAgIC5zdWJzY3JpYmUoY29udmVyc2F0aW9ucyAtPiB7CiAgICAgICAgICAgIExvZy5kKCJERVJQIiwgIkNvbnZlcnNhdGlvbnNQcmVzZW50ZXIuaGFuZGxlQ2hhbm5lbEV2ZW50OiBjb252ZXJzYXRpb249IiArIGNvbnZlcnNhdGlvbnMpOwogICAgICAgICAgfSwgdGhyb3dhYmxlIC0+IHsgTG9nLmQoIkRFUlAiLCAiQ29udmVyc2F0aW9uc1ByZXNlbnRlci5oYW5kbGVDaGFubmVsRXZlbnQ6IGVycm9yIGdldHRpbmcgY29udmVyc2F0aW9uLCBlcnJvcj0iICsgdGhyb3dhYmxlKTt9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMaW5lYXJMYXlvdXQgc3R5bGU9IkBzdHlsZS9NYXRlcmlhbC5BY3Rpdml0eS5Qcm9maWxlLklubGluZS5PcHRpb25Db250YWluZXIiPgoKICAgICAgICAgICAgICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9NYXRlcmlhbC5BY3Rpdml0eS5Qcm9maWxlLklubGluZS5MYWJlbCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL3Byb2ZpbGVfdGltZW9mZl9yZXF1ZXN0cyIgLz4KCiAgICAgICAgICAgICAgICAgICAgPENoZWNrQm94CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY2hlY2tfdGltZW9mZl9zbXMiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuQWN0aXZpdHkuUHJvZmlsZS5BbGVydFR5cGVDaGVja2JveC5TbXMiIC8+CgogICAgICAgICAgICAgICAgICAgIDxDaGVja0JveAogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NoZWNrX3RpbWVvZmZfZW1haWwiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTWF0ZXJpYWwuQWN0aXZpdHkuUHJvZmlsZS5BbGVydFR5cGVDaGVja2JveC5FbWFpbCIgLz4KICAgICAgICAgICAgICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgbGFzdENvbnN1bWVkSW5kZXggPSAtMUw7Cg==</text>
