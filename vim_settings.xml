@@ -1049,8 +1049,8 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1522096546055">
-        <mark key="'" line="198" column="25" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1522291307638">
+        <mark key="'" line="77" column="8" />
         <mark key="[" line="198" column="0" />
         <mark key="]" line="199" column="61" />
         <mark key="." line="199" column="45" />
@@ -2930,13 +2930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
-      <jump line="77" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
-      <jump line="84" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
-      <jump line="85" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
-      <jump line="86" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
-      <jump line="87" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
-      <jump line="88" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
       <jump line="281" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="244" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="245" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
@@ -3002,7 +2995,6 @@
       <jump line="31" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="32" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="185" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
-      <jump line="198" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="24" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
       <jump line="43" column="0" filename="$USER_HOME$/personal/gits/code/android/DragAndSwipeRecyclerWithRoom/app/build.gradle" />
       <jump line="23" column="60" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/TasksUtils.kt" />
@@ -3030,6 +3022,14 @@
       <jump line="215" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/TabbedTaskListsArchitecture.kt" />
       <jump line="38" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/TabbedTaskListsArchitecture.kt" />
       <jump line="36" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/TabbedTaskListsArchitecture.kt" />
+      <jump line="198" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="68" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="69" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="70" column="47" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="71" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="74" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="76" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="77" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3039,7 +3039,7 @@
         <text>refresh</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVJY29uU3RhdGVcPg==</text>
+        <text>key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBzdGF0ZSA9IHN0YXRlQ2FwdG9yLnZhbHVlCiAgICBhc3NlcnRUaGF0KHN0YXRlLnVwZGF0ZUljb25TdGF0ZSkuaXNGYWxzZSgpCiAgICBhc3NlcnRUaGF0KHN0YXRlLmlzTG9hZGluZ0luaXRpYWwpLmlzRmFsc2UoKQogICAgYXNzZXJ0VGhhdChzdGF0ZS5pc0xvYWRpbmcpLmlzRmFsc2UoKQogICAgYXNzZXJ0VGhhdChzdGF0ZS5tb2RlbCkuaXNOb3ROdWxsKCkK</text>
@@ -3079,9 +3079,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVJY29uU3RhdGVcPg==</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVJY29uU3RhdGVcPg==</last-pattern>
+      <last-pattern>key</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -3089,7 +3089,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wharton</entry>
         <entry>rxjava2</entry>
         <entry>rxlife</entry>
         <entry>retro</entry>
@@ -3109,6 +3108,7 @@
         <entry encoding="base64">XDxjdXJyZW50VXNlclw+</entry>
         <entry encoding="base64">XDxjdXJyZW50VGFiXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVJY29uU3RhdGVcPg==</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
