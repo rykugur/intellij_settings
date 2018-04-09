@@ -171,6 +171,9 @@
         <mark key="." line="43" column="28" />
         <mark key="^" line="62" column="30" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1523296671275">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/util/ExceptionUtilsTest.java" timestamp="1522084222268">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -580,7 +583,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/PasswordRetrievalFragment.java" timestamp="1523294219328">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/PasswordRetrievalFragment.java" timestamp="1523296654670">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="61" column="6" />
       </file>
@@ -3011,7 +3014,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="908" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="71" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="92" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardRepository.kt" />
@@ -3111,6 +3113,7 @@
       <jump line="27" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/UnauthAPI.java" />
       <jump line="44" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/LoginFragment.java" />
       <jump line="66" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/LoginFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3120,7 +3123,7 @@
         <text>trieval</text>
       </register>
       <register name="/" type="4">
-        <text>forgot</text>
+        <text>loginactivity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEVkaXRUZXh0IGVtYWlsRWRpdFRleHQgPSAoRWRpdFRleHQpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZWRpdF90ZXh0X2VtYWlsKTsKICAgIFRvb2xiYXIgdG9vbGJhciA9IChUb29sYmFyKSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmZvcmdvdF9wYXNzd29yZF90b29sYmFyKTsKICAgIHRvb2xiYXIuc2V0VGl0bGUoUi5zdHJpbmcuZnJhZ21lbnRfcGFzc3dvcmRfcmV0cmlldmFsX3RpdGxlKTsKICAgIHRvb2xiYXIuc2V0TmF2aWdhdGlvbk9uQ2xpY2tMaXN0ZW5lcih2IC0+IGdldEFjdGl2aXR5KCkub25CYWNrUHJlc3NlZCgpKTsKICAgIHRvb2xiYXIuaW5mbGF0ZU1lbnUoUi5tZW51LmZyYWdtZW50X3Bhc3N3b3JkX3JldHJpZXZhbCk7CgogICAgdG9vbGJhci5maW5kVmlld0J5SWQoUi5pZC5yZXRyaWV2ZV9wYXNzd29yZF9hY3Rpb25faXRlbSkuc2V0T25DbGlja0xpc3RlbmVyKHYgLT4gewogICAgICBTdHJpbmcgZW1haWwgPSBlbWFpbEVkaXRUZXh0LmdldFRleHQoKS50b1N0cmluZygpLnRyaW0oKTsKCiAgICAgIGlmIChGb3JtVXRpbHMuaXNFbWFpbFZhbGlkKGVtYWlsKSkgewogICAgICAgIFVJVXRpbHMuaGlkZUtleWJvYXJkKGVtYWlsRWRpdFRleHQpOwogICAgICAgIGluaXRQYXNzd29yZFJldHJpZXZhbEluU2VydmVyKGVtYWlsKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBWaWV3IGZvY3VzID0gZ2V0QWN0aXZpdHkoKS5nZXRDdXJyZW50Rm9jdXMoKTsKICAgICAgICBVSVV0aWxzLnNob3dTbmFja2Jhcihmb2N1cywgUi5zdHJpbmcuZW1haWxfaXNfaW5jb3JyZWN0LCBTbmFja2Jhci5MRU5HVEhfTE9ORyk7CiAgICAgICAgZW1haWxFZGl0VGV4dC5yZXF1ZXN0Rm9jdXMoKTsKICAgICAgfQogICAgfSk7Cg==</text>
@@ -3160,9 +3163,9 @@
       </register>
     </registers>
     <search>
-      <last-search>forgot</last-search>
+      <last-search>loginactivity</last-search>
       <last-offset />
-      <last-pattern>forgot</last-pattern>
+      <last-pattern>loginactivity</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -3170,7 +3173,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dUb01lcmN1cnlEYXNoYm9hcmRFcnJvclJPMTE2Nlw+</entry>
         <entry>DashboardErrorException</entry>
         <entry encoding="base64">XDxnZXRUaW1lc1w+</entry>
         <entry encoding="base64">XDxsaXN0TG9jYXRpb25zVjJcPg==</entry>
@@ -3190,6 +3192,7 @@
         <entry>hiron</entry>
         <entry>joda</entry>
         <entry>forgot</entry>
+        <entry>loginactivity</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy0vL2dn</entry>
