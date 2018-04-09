@@ -2145,7 +2145,7 @@
         <mark key="." line="43" column="92" />
         <mark key="^" line="43" column="92" />
       </file>
-      <file name="/fragment.java" timestamp="1523048797195">
+      <file name="/fragment.java" timestamp="1523277581825">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -2364,7 +2364,8 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/mercury/build.gradle" timestamp="1522096368524">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/mercury/build.gradle" timestamp="1523277758603">
+        <mark key="'" line="40" column="15" />
         <mark key="[" line="48" column="14" />
         <mark key="]" line="48" column="18" />
         <mark key="^" line="48" column="18" />
@@ -2953,7 +2954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/personal/gits/code/android/TypicalTodo/app/src/main/java/io/rollhax/typicaltodo/MainActivity.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
       <jump line="45" column="7" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
       <jump line="36" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" />
@@ -3053,6 +3053,7 @@
       <jump line="298" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="106" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="149" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="40" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/mercury/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3062,7 +3063,7 @@
         <text>'$PATH'</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>buildToolsVersion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmludGxuKCI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
@@ -3102,9 +3103,9 @@
       </register>
     </registers>
     <search>
-      <last-search>git</last-search>
+      <last-search>buildToolsVersion</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern>buildToolsVersion</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -3112,7 +3113,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWYXJpYXRpb25cPg==</entry>
         <entry>intercom</entry>
         <entry encoding="base64">XDxJbnRlcmNvbVw+</entry>
         <entry encoding="base64">XDxpbnRlcmNvbVw+</entry>
@@ -3132,6 +3132,7 @@
         <entry>sha</entry>
         <entry encoding="base64">XDxnaXRTaGFMb25nXD4=</entry>
         <entry>git</entry>
+        <entry>buildToolsVersion</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy0vL2dn</entry>
