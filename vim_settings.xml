@@ -645,11 +645,12 @@
         <mark key="^" line="22" column="1" />
         <mark key="." line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/UnauthAPI.java" timestamp="1523294284050">
-        <mark key="'" line="27" column="17" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/UnauthAPI.java" timestamp="1523305204823">
+        <mark key="'" line="25" column="17" />
+        <mark key="[" line="85" column="49" />
+        <mark key="]" line="85" column="50" />
+        <mark key="." line="85" column="50" />
+        <mark key="^" line="85" column="50" />
       </file>
       <file name="$USER_HOME$/personal/gits/AndroidPlayground/app/src/main/java/io/rollhax/playground/misc/listviewanimations/model/ListViewItemViewModel.kt" timestamp="1503090008401">
         <mark key="[" line="18" column="0" />
@@ -3017,16 +3018,14 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/login/ResetPasswordArchitecture.kt" timestamp="1523302847334">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="68" />
-        <mark key="." line="19" column="68" />
-        <mark key="^" line="19" column="68" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/login/ResetPasswordArchitecture.kt" timestamp="1523305298727">
+        <mark key="'" line="22" column="104" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
-      <jump line="92" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardRepository.kt" />
       <jump line="24" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardRepository.kt" />
       <jump line="31" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardRepository.kt" />
       <jump line="48" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardRepository.kt" />
@@ -3125,49 +3124,51 @@
       <jump line="66" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/LoginFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="50" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/TabbedTaskListsArchitecture.kt" />
+      <jump line="18" column="65" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/login/ResetPasswordArchitecture.kt" />
+      <jump line="21" column="104" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/login/ResetPasswordArchitecture.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>? = null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>? = null</text>
+        <text>t2</text>
       </register>
       <register name="/" type="4">
         <text>loginactivity</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSBzdGF0ZS5hcHBseSB7CiAgICAgIGN1cnJlbnRUYWIgPSB3aGVuIHsKICAgICAgICBzdGF0ZS5jdXJyZW50VGFiICE9IG51bGwgLT4gc3RhdGUuY3VycmVudFRhYgogICAgICAgIGVsc2UgLT4gdGhpc0BUYWJiZWRUYXNrTGlzdHNQcmVzZW50ZXIuc3RhdGUuY3VycmVudFRhYgogICAgICB9CiAgICAgIHZpZXc/LnJlbmRlcih0aGlzKQogICAgfQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBJbml0aWF0ZSBhIHBhc3N3b3JkIHJldHJpZXZhbCByZXF1ZXN0LgogICAqCiAgICogQHBhcmFtIGFBcHBLZXkgIEFuIGFwcGxpY2F0aW9uIGtleSwgaW4gU3RyaW5nIGZvcm0sIHdpdGggd2hpY2ggdG8gbWFrZSB0aGUgcmVxdWVzdC4KICAgKiBAcGFyYW0gYVJlcXVlc3QgVGhlIHtAbGluayBQYXNzd29yZFJldHJpZXZhbEJvZHl9IHJlcXVlc3QgY29udGFpbmluZyB0aGUgdXNlcnMgZW1haWwgYWRkcmVzcy4KICAgKi8KICBAUE9TVCgibG9naW4vZm9yZ290IikKICBPYnNlcnZhYmxlPFN1Y2Nlc3NGYWlsdXJlUmVzcG9uc2U+IHJldHJpZXZlUGFzc3dvcmQoQEhlYWRlcigiVy1LZXkiKSBTdHJpbmcgYUFwcEtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQEJvZHkgUGFzc3dvcmRSZXRyaWV2YWxCb2R5IGFSZXF1ZXN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgdGhpcy5zdGF0ZSA9IHN0YXRlLmFwcGx5IHsKLy8gICAgICBjdXJyZW50VGFiID0gd2hlbiB7Ci8vICAgICAgICBzdGF0ZS5jdXJyZW50VGFiICE9IG51bGwgLT4gc3RhdGUuY3VycmVudFRhYgovLyAgICAgICAgZWxzZSAtPiB0aGlzQFRhYmJlZFRhc2tMaXN0c1ByZXNlbnRlci5zdGF0ZS5jdXJyZW50VGFiCi8vICAgICAgfQovLyAgICAgIHZpZXc/LnJlbmRlcih0aGlzKQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN1cGVyLmRldGFjaFZpZXcoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIFJlc2V0UGFzc3dvcmRpCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gUmVzZXRQYXNzd29yZFZpZXdTdGF0ZShpc1Nob3dpbmdQYXNzd29yZCA9ICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFkZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
