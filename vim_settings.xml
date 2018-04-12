@@ -533,12 +533,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="60" column="61" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_reset_password.xml" timestamp="1523475005482">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="93" column="37" />
-        <mark key="]" line="67" column="26" />
-        <mark key="^" line="67" column="26" />
-        <mark key="." line="67" column="26" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_reset_password.xml" timestamp="1523475022520">
+        <mark key="'" line="94" column="8" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="38" />
+        <mark key="^" line="68" column="36" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/fcm/FcmMessagePresenter.java" timestamp="1520015015144">
         <mark key="'" line="50" column="13" />
@@ -3067,7 +3067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" />
       <jump line="303" column="63" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="257" column="69" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="586" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
@@ -3167,10 +3166,11 @@
       <jump line="57" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_reset_password.xml" />
       <jump line="31" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_reset_password.xml" />
       <jump line="81" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_reset_password.xml" />
+      <jump line="94" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_reset_password.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>oBottomOf=&quot;parent&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUGFkZGluZz0iMTVkcCIK</text>
       </register>
       <register name="-" type="4">
         <text>oBottomOf=&quot;parent&quot;</text>
@@ -3179,7 +3179,7 @@
         <text encoding="base64">XDxsYXlvdXRfd2lkdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Bhc3N3b3JkX3Rlbl9jaGFyYWN0ZXJzIgogICAgICAgIGFuZHJvaWQ6ZHJhd2FibGVTdGFydD0iQGRyYXdhYmxlL2ljX2NoZWNrX2xpZ2h0X2dyYXkiCiAgICAgICAgZm9udFBhdGg9ImZvbnRzL3NvdXJjZV9zYW5zX3Byby50dGYiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IkBkaW1lbi9wYWRkaW5nX2xhcmdlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSJAZGltZW4vcGFkZGluZ19sYXJnZSIKICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvcGFzc3dvcmRfdGVuX2NoYXJhY3RlcnMiCiAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iP2FuZHJvaWQ6dGV4dEFwcGVhcmFuY2VTbWFsbCIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3dpd19ncmVlbiIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIxNnNwIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2NvbmZpcm1fcGFzc3dvcmQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICB0b29sczppZ25vcmU9Ik1pc3NpbmdQcmVmaXgiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUGFkZGluZz0iMTVkcCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9wYWRkaW5nX2xhcmdlIgo=</text>
