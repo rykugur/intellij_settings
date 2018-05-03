@@ -109,6 +109,9 @@
         <mark key="]" line="282" column="0" />
         <mark key="." line="282" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" timestamp="1525363938372">
+        <mark key="'" line="157" column="26" />
+      </file>
       <file name="$USER_HOME$/personal/gits/code/android/TypicalTodo/app/src/main/res/values/strings.xml" timestamp="1522769621718">
         <mark key="[" line="2" column="45" />
         <mark key="]" line="4" column="44" />
@@ -1657,7 +1660,7 @@
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/RequestsListArchitecture.kt" timestamp="1525286482288">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/RequestsListArchitecture.kt" timestamp="1525363872310">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -2812,6 +2815,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="34" column="66" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/message/adapter/MessageRecyclerAdapter.java" timestamp="1525364166316" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_assign_task_detail.xml" timestamp="1517603983563">
         <mark key="[" line="1" column="72" />
         <mark key="]" line="2" column="24" />
@@ -3006,8 +3010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="70" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
-      <jump line="163" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserComponent.java" />
       <jump line="45" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/RequestsCard.java" />
       <jump line="99" column="71" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/RequestsCard.java" />
       <jump line="101" column="98" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/RequestsCard.java" />
@@ -3106,6 +3108,8 @@
       <jump line="70" column="49" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/FeatureRouterTest.java" />
       <jump line="92" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/FeatureRouter.java" />
       <jump line="33" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="42" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" />
+      <jump line="157" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/Message.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3118,7 +3122,7 @@
         <text>DesireVM(it) }</text>
       </register>
       <register name="/" type="4">
-        <text>requestsact</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV90YWJiZWRfdGFza19saXN0KQo=</text>
@@ -3158,17 +3162,16 @@
       </register>
     </registers>
     <search>
-      <last-search>requestsact</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>requestsact</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>textview_date_end</entry>
         <entry>ccccc</entry>
         <entry>freemium</entry>
         <entry>linearlayout</entry>
@@ -3188,6 +3191,7 @@
         <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c0NoZWNrQm94XD4=</entry>
         <entry>requestsact</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>102</entry>
