@@ -2773,8 +2773,8 @@
         <mark key="^" line="5" column="89" />
         <mark key="." line="5" column="89" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardAdapter.java" timestamp="1525721442449">
-        <mark key="'" line="68" column="31" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardAdapter.java" timestamp="1525783303920">
+        <mark key="'" line="57" column="45" />
         <mark key="[" line="84" column="34" />
         <mark key="]" line="84" column="35" />
         <mark key="." line="84" column="35" />
@@ -3130,7 +3130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="39" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" />
       <jump line="78" column="82" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" />
       <jump line="86" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/NextShiftCard.java" />
@@ -3230,6 +3229,7 @@
       <jump line="135" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ClockinCard.java" />
       <jump line="68" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardAdapter.java" />
       <jump line="60" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ClockinCard.java" />
+      <jump line="57" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3242,7 +3242,7 @@
         <text>clockinCard</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aXRsZVw+</text>
+        <text>openshift</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFsc29Xb3JraW5nTGF5b3V0LnNldE9uQ2xpY2tMaXN0ZW5lcih2aWV3IC0+IHsKICAgICAgZmluYWwgSW50ZW50IGludGVudDsKICAgICAgaWYgKHVzZXIuY2FuU3VwZXJ2aXNlKCkgfHwgdXNlci5jYW5NYW5hZ2UoKSkgewogICAgICAgIGludGVudCA9IENsb2NraW5BY3Rpdml0eS5uZXdJbnRlbnQoZ2V0Q29udGV4dCgpLCBmYWxzZSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgaW50ZW50ID0gbmV3IFNjaGVkdWxlckludGVudChnZXRDb250ZXh0KCksICJkYXNoYm9hcmQiLCAiY2xvY2tpbkNhcmQiKS5idWlsZCgpOwogICAgICB9CiAgICAgIGFjdGl2aXR5LnN0YXJ0QWN0aXZpdHlGb3JSZXN1bHQoaW50ZW50LCBEYXNoYm9hcmRBY3Rpdml0eS5UUklHR0VSX1JFRlJFU0hfUkVRVUVTVF9DT0RFKTsKICAgIH0pOwo=</text>
@@ -3282,9 +3282,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aXRsZVw+</last-search>
+      <last-search>openshift</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aXRsZVw+</last-pattern>
+      <last-pattern>openshift</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -3292,7 +3292,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaGlmdERldGFpbHNcPg==</entry>
         <entry encoding="base64">XDxzaG93TGFyZ2VBY2NvdW50U2NoZWR1bGVyXD4=</entry>
         <entry encoding="base64">XDxtQXBwQmFyXD4=</entry>
         <entry encoding="base64">XDx0aXRsZXNcPg==</entry>
@@ -3312,6 +3311,7 @@
         <entry>onclick</entry>
         <entry>nextshiftcard</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry>openshift</entry>
       </history-search>
       <history-cmd>
         <entry>102</entry>
