@@ -689,6 +689,9 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" timestamp="1526390408730">
+        <mark key="'" line="26" column="22" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/target/TargetManagerTest.kt" timestamp="1500666269525">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="7" column="58" />
@@ -1110,7 +1113,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/shift/fragment/ShiftSwapPresenterTest.java" timestamp="1526308383213" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/services/TaskClearHideCompletedCacheIntentService.kt" timestamp="1515786070194">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="14" />
@@ -1147,8 +1149,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1526070999987">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1526390436036">
+        <mark key="'" line="209" column="30" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="51" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/props/models/PropsModel.kt" timestamp="1499364572866">
         <mark key="[" line="2" column="18" />
@@ -3226,14 +3231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ClockinCard.java" />
-      <jump line="208" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ClockinCard.java" />
-      <jump line="2" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_clockin.xml" />
-      <jump line="47" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" />
-      <jump line="14" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" />
-      <jump line="35" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" />
-      <jump line="36" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" />
       <jump line="64" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" />
       <jump line="65" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" />
       <jump line="104" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/cards/ClockinCard.java" />
@@ -3326,19 +3323,27 @@
       <jump line="148" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ApprovableDesireUIHelper.java" />
       <jump line="153" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ApprovableDesireUIHelper.java" />
       <jump line="464" column="57" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
+      <jump line="26" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
+      <jump line="13" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="142" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="143" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="191" column="69" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="192" column="53" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="199" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="209" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>it.userId == currentUser.id }</text>
+        <text>HOT releases</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>it.userId == currentUser.id }</text>
+        <text>HOT releases</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhVXNlclw+</text>
+        <text>support</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN0aWNreVJlY3ljbGVySGVhZGVyc0RlY29yYXRpb24gaGVhZGVyc0RlY29yID0gbmV3IFN0aWNreVJlY3ljbGVySGVhZGVyc0RlY29yYXRpb24oYWRhcHRlcik7Cg==</text>
@@ -3378,9 +3383,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhVXNlclw+</last-search>
+      <last-search>support</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhVXNlclw+</last-pattern>
+      <last-pattern>support</last-pattern>
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>1</last-dir>
@@ -3388,8 +3393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@Named</entry>
-        <entry>pagechange</entry>
         <entry encoding="base64">XDxTdGlja3lSZWN5Y2xlckhlYWRlcnNBZGFwdGVyXD4=</entry>
         <entry>sticky</entry>
         <entry encoding="base64">YWRhcHRlciA9IA==</entry>
@@ -3408,6 +3411,8 @@
         <entry>type</entry>
         <entry>starttime</entry>
         <entry encoding="base64">XDxhVXNlclw+</entry>
+        <entry>27</entry>
+        <entry>support</entry>
       </history-search>
       <history-cmd>
         <entry>s/compile/implementation/g</entry>
