@@ -156,6 +156,13 @@
         <mark key="." line="115" column="17" />
         <mark key="^" line="115" column="17" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/TimeOffRequestVM.kt" timestamp="1528480213378">
+        <mark key="'" line="303" column="111" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="26" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_time_off_request_detail.xml" timestamp="1528299049439">
         <mark key="'" line="510" column="43" />
         <mark key="[" line="9" column="0" />
@@ -532,7 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/assign/adapters/TaskListLocationAdapterDelegate.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/attendance/fragment/TimeSheetEntryEditFragment.java" />
       <jump line="14" column="77" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="66" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
@@ -632,10 +638,11 @@
       <jump line="29" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
       <jump line="218" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="330" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="312" column="111" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/TimeOffRequestVM.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${playServicesVersion}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBob3VycyA9IGlmICghaXNBbGxEYXkpIGdldFBhcnRpYWxEYXlQYWlkSG91cnMoKSBlbHNlIGhvdXJzCiAgICB2YWwgc3RhcnRUaW1lID0gaWYgKCFpc0FsbERheSkgZ2V0V2l0aFRpbWUoc3RhcnREYXRlLCBzdGFydFRpbWUhISkgZWxzZSBzdGFydERhdGUKICAgIHZhbCBlbmRUaW1lID0gaWYgKCFpc0FsbERheSkgZ2V0V2l0aFRpbWUoZW5kRGF0ZSwgZW5kVGltZSEhKSBlbHNlIGVuZERhdGUKICAgIHZhbCByZXF1ZXN0ID0gUmVxdWVzdERhdGFNb2RlbCgKICAgICAgaWQgPSByZXF1ZXN0SWQsIHVzZXJJZCA9IHVzZXJJZCwgY3JlYXRvcklkID0gY3JlYXRvcklkLCBhY2NvdW50SWQgPSBhY2NvdW50SWQsIHR5cGUgPSB0eXBlLAogICAgICBzdGFydFRpbWUgPSBzdGFydFRpbWUsIGVuZFRpbWUgPSBlbmRUaW1lLCBjcmVhdGVkQXQgPSBjcmVhdGlvblRpbWUsCiAgICApCg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
@@ -644,57 +651,56 @@
         <text>${playServicesVersion}</text>
       </register>
       <register name="/" type="4">
-        <text>google-services</text>
+        <text encoding="base64">Pj4+Pg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1pbnZpdGVzOiR7cGxheVNlcnZpY2VzVmVyc2lvbn0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgIHZhbCBob3VycyA9IGlmICghaXNBbGxEYXkpIGdldFBhcnRpYWxEYXlQYWlkSG91cnMoKSBlbHNlIGhvdXJzCiAgICB2YWwgc3RhcnRUaW1lID0gaWYgKCFpc0FsbERheSkgZ2V0V2l0aFRpbWUoc3RhcnREYXRlLCBzdGFydFRpbWUhISkgZWxzZSBzdGFydERhdGUKICAgIHZhbCBlbmRUaW1lID0gaWYgKCFpc0FsbERheSkgZ2V0V2l0aFRpbWUoZW5kRGF0ZSwgZW5kVGltZSEhKSBlbHNlIGVuZERhdGUKICAgIHZhbCByZXF1ZXN0ID0gUmVxdWVzdERhdGFNb2RlbCgKICAgICAgaWQgPSByZXF1ZXN0SWQsIHVzZXJJZCA9IHVzZXJJZCwgY3JlYXRvcklkID0gY3JlYXRvcklkLCBhY2NvdW50SWQgPSBhY2NvdW50SWQsIHR5cGUgPSB0eXBlLAogICAgICBzdGFydFRpbWUgPSBzdGFydFRpbWUsIGVuZFRpbWUgPSBlbmRUaW1lLCBjcmVhdGVkQXQgPSBjcmVhdGlvblRpbWUsCiAgICApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlyZWJhc2VJbnZpdGVzVmVyc2lvbj0xNi4wLjAKZmlyZWJhc2VNZXNzYWdpbmdWZXJzaW9uPTE3LjAuMAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiB3aXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1jb3JlOiR7cGxheVNlcnZpY2VzVmVyc2lvbn0iCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ29vZ2xlKCkK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtYXV0aDoke3BsYXlTZXJ2aWNlc1ZlcnNpb259Igo=</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnJlcG9zaXRvcmllcyB7CiAgZ29vZ2xlKCkKfQo=</text>
+        <text encoding="base64">ZmlyZWJhc2VJbnZpdGVzVmVyc2lvbj0xNi4wLjAKZmlyZWJhc2VNZXNzYWdpbmdWZXJzaW9uPTE3LjAuMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiAiY29tLmFuZHJvaWQuc3VwcG9ydDpzdXBwb3J0LWNvcmUtdWk6JHN1cHBvcnRMaWJyYXJ5VmVyc2lvbiIK</text>
+        <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiAiY29tLmdvb2dsZS5maXJlYmFzZTpmaXJlYmFzZS1jb3JlOiR7cGxheVNlcnZpY2VzVmVyc2lvbn0iCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWF2ZW5Mb2NhbCgpCiAgICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgZ29vZ2xlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJjb20uZ29vZ2xlLmFuZHJvaWQuZ21zOnBsYXktc2VydmljZXMtYXV0aDoke3BsYXlTZXJ2aWNlc1ZlcnNpb259Igo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>google-services</last-search>
+      <last-search encoding="base64">Pj4+Pg==</last-search>
       <last-offset />
-      <last-pattern>google-services</last-pattern>
+      <last-pattern encoding="base64">Pj4+Pg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Simple</entry>
         <entry>status =</entry>
         <entry encoding="base64">XDxzaGlmdHNcPg==</entry>
         <entry>@link</entry>
@@ -714,6 +720,7 @@
         <entry>play-services</entry>
         <entry>services</entry>
         <entry>google-services</entry>
+        <entry encoding="base64">Pj4+Pg==</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
