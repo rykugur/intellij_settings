@@ -223,12 +223,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="44" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" timestamp="1528906533286">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" timestamp="1528909218955">
         <mark key="'" line="174" column="25" />
-        <mark key="[" line="192" column="53" />
-        <mark key="]" line="192" column="64" />
-        <mark key="." line="192" column="64" />
-        <mark key="^" line="192" column="64" />
+        <mark key="[" line="173" column="45" />
+        <mark key="]" line="173" column="52" />
+        <mark key="." line="173" column="52" />
+        <mark key="^" line="173" column="52" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/list/TimeOffRequestsListPresenterTest.kt" timestamp="1528827939940">
         <mark key="[" line="132" column="0" />
@@ -687,14 +687,14 @@
       <jump line="174" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>acceptingMessage?.userId }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGRlbnlpbmdNZXNzYWdlID0gbWVzc2FnZXMuZmlyc3RPck51bGwgeyBpdC50eXBlID09IE1lc3NhZ2UuTWVzc2FnZVR5cGUuVFlQRV9FUlJPUiB9CiAgICAgICIiCiAgICB9Cg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>acceptingMessage?.userId }</text>
+        <text>users.firstOrNull { it.id == acceptedId }</text>
       </register>
       <register name="/" type="4">
         <text>potential takers</text>
@@ -703,34 +703,34 @@
         <text encoding="base64">ICAvKioKICAgKiBCdWlsZHMgYW5kIHJldHVybnMgYSBmb3JtYXR0ZWQgdGltZSByYW5nZSBmb3IgYSBbVGltZU9mZlJlcXVlc3RWTV0uCiAgICoKICAgKiBSZXF1aXJlbWVudHM6CiAgICoKICAgKiAtIERheXMgb2YgdGhlIHdlZWsgYXJlIGFsd2F5cyBhYmJyZXZpYXRlZCB0byAzIGNoYXJhY3RlcnMuCiAgICogLSBBbGwgZGF5IHJlcXVlc3QgZm9yIGEgc2luZ2xlIGRheSBleGFtcGxlOiBXZWQsIEFwciAxOCAoQWxsIERheSkKICAgKiAtIEFsbCBkYXkgcmVxdWVzdCBmb3IgbXVsdGlwbGUgZGF5cyBleGFtcGxlOiBXZWQsIEFwciAxOCAtIEZyaSwgQXByIDI0CiAgICogLSBQYXJ0aWFsIGRheSByZXF1ZXN0IGV4YW1wbGU6IFdlZCwgQXByIDE4LCAxOjAwcCAtIDY6MDBwCiAgICovCiAgZnVuIGdldEZvcm1hdHRlZFRpbWVPZmZSZXF1ZXN0RGF0ZVJhbmdlKHJlc291cmNlczogUmVzb3VyY2VzLCB1c2VyOiBVc2VyKTogU3RyaW5nIHsKICAgIHZhbCBmb3JtYXR0ZWRTdGFydERhdGUgPQogICAgICBUZW1wb3JhbEZvcm1hdHRlci5mb3JtYXREYXRlKFRlbXBvcmFsRm9ybWF0dGVyLkRhdGVUaW1lRm9ybWF0VHlwZS5TSE9SVF9MRU5HVEgsIHN0YXJ0RGF0ZSkKCiAgICByZXR1cm4gd2hlbiAoaXNBbGxEYXkpIHsKICAgICAgdHJ1ZSAtPiB7CiAgICAgICAgdmFsIGFsbERheSA9IHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYWxsX2RheSkKICAgICAgICB2YWwgaXNTaW5nbGVEYXkgPSBzdGFydERhdGUud2l0aFRpbWVBdFN0YXJ0T2ZEYXkoKSA9PSBlbmREYXRlLndpdGhUaW1lQXRTdGFydE9mRGF5KCkKICAgICAgICB3aGVuIChpc1NpbmdsZURheSkgewogICAgICAgICAgdHJ1ZSAtPiAiJGZvcm1hdHRlZFN0YXJ0RGF0ZSAoJGFsbERheSkiCiAgICAgICAgICBmYWxzZSAtPiB7CiAgICAgICAgICAgIHZhbCBmb3JtYXR0ZWRFbmREYXRlID0gVGVtcG9yYWxGb3JtYXR0ZXIuZm9ybWF0RGF0ZShUZW1wb3JhbEZvcm1hdHRlci5EYXRlVGltZUZvcm1hdFR5cGUuU0hPUlRfTEVOR1RILCBlbmREYXRlKQogICAgICAgICAgICAiJGZvcm1hdHRlZFN0YXJ0RGF0ZSAtICRmb3JtYXR0ZWRFbmREYXRlIgogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfQogICAgICBmYWxzZSAtPiB7CiAgICAgICAgdmFsIHJlcXVlc3RGb3JtYXR0ZWRSYW5nZSA9IFRlbXBvcmFsRm9ybWF0dGVyLmZvcm1hdFRpbWVSYW5nZSh1c2VyLCBzdGFydERhdGUsIGVuZERhdGUpCiAgICAgICAgIiRmb3JtYXR0ZWRTdGFydERhdGUsICRyZXF1ZXN0Rm9ybWF0dGVkUmFuZ2UiCiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5ieW5hbSkK</text>
+        <text encoding="base64">ICAgICAgdmFsIGRlbnlpbmdNZXNzYWdlID0gbWVzc2FnZXMuZmlyc3RPck51bGwgeyBpdC50eXBlID09IE1lc3NhZ2UuTWVzc2FnZVR5cGUuVFlQRV9FUlJPUiB9CiAgICAgICIiCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5ieW5hbSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gc3BlY2lhbCBjYXNlOiBpZiB0aGUgQWN0b3JUeXBlID09IDEgKGF1dG9tYXRpYykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZ2VyLmN1cnIK</text>
+        <text encoding="base64">ICAgICAgLy8gc3BlY2lhbCBjYXNlOiBpZiB0aGUgQWN0b3JUeXBlID09IDEgKGF1dG9tYXRpYykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZ2VyQWRhcHRlcj8uY3Vycgo=</text>
+        <text encoding="base64">ICAgIHBhZ2VyLmN1cnIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXNlciA9IHZtLnVzZXJzLmZpcnN0T3JOdWxsIHsgaXQuaWQgPT0gdm0udXNlcklkIH0K</text>
+        <text encoding="base64">ICAgIHBhZ2VyQWRhcHRlcj8uY3Vycgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyPy5sZXQgewo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdXNlciA9IHZtLnVzZXJzLmZpcnN0T3JOdWxsIHsgaXQuaWQgPT0gdm0udXNlcklkIH0K</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
