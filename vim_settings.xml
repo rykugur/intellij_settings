@@ -229,6 +229,13 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="44" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" timestamp="1529347541580">
+        <mark key="'" line="173" column="66" />
+        <mark key="[" line="259" column="5" />
+        <mark key="]" line="259" column="14" />
+        <mark key="^" line="259" column="14" />
+        <mark key="." line="259" column="14" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/list/TimeOffRequestsListPresenterTest.kt" timestamp="1528988976491">
         <mark key="[" line="56" column="65" />
         <mark key="]" line="56" column="65" />
@@ -594,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="73" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" />
       <jump line="242" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="901" column="57" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
@@ -694,6 +700,7 @@
       <jump line="43" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" />
       <jump line="153" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Swap.java" />
       <jump line="51" column="66" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" />
+      <jump line="173" column="66" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/ShiftRequestVM.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -706,7 +713,7 @@
         <text encoding="base64">ICAiIg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGlmdHNcPg==</text>
+        <text>hacky</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYnlfYWxsX3JlY2lwaWVudHMpCg==</text>
@@ -746,9 +753,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaGlmdHNcPg==</last-search>
+      <last-search>hacky</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGlmdHNcPg==</last-pattern>
+      <last-pattern>hacky</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -756,7 +763,6 @@
     </search>
     <history>
       <history-search>
-        <entry>by %s on %s</entry>
         <entry>shift modified</entry>
         <entry>pending approval</entry>
         <entry>pending acceptance</entry>
@@ -776,6 +782,7 @@
         <entry>status</entry>
         <entry encoding="base64">XDxzaGlmdFw+</entry>
         <entry encoding="base64">XDxzaGlmdHNcPg==</entry>
+        <entry>hacky</entry>
       </history-search>
       <history-cmd>
         <entry>549</entry>
