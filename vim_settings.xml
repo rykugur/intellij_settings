@@ -124,12 +124,12 @@
         <mark key="^" line="450" column="68" />
         <mark key="." line="450" column="68" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/list/TimeOffRequestsListPresenterTest.kt" timestamp="1529955432255">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="138" column="14" />
-        <mark key="]" line="138" column="14" />
-        <mark key="." line="138" column="14" />
-        <mark key="^" line="39" column="145" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/list/TimeOffRequestsListPresenterTest.kt" timestamp="1530030359782">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="146" column="24" />
+        <mark key="]" line="146" column="70" />
+        <mark key="." line="146" column="70" />
+        <mark key="^" line="146" column="70" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/drawable/rectangle_gray_stroke_rounded_corners.xml" timestamp="1527866049315">
         <mark key="[" line="6" column="41" />
@@ -414,13 +414,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>TimeOffRequestsListViewState.NoDataState()</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>TimeOffRequestsListViewState.NoDataState()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGFwdGVyXD4=</text>
@@ -429,25 +429,25 @@
         <text encoding="base64">ICB2YXIgZnV0dXJlUmVxdWVzdHMgPSBUaW1lT2ZmUmVxdWVzdHNMaXN0Vk0obGlzdE9mKGZ1dHVyZVJlcXVlc3QpLCBsaXN0T2YobWVzc2FnZSksIGxpc3RPZihvdGhlclVzZXIpLCBjdXJyZW50VXNlciwgaXNTaG93aW5nT2xkZXJSZXF1ZXN0cyA9IGZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB2bSA9IFRpbWVPZmZSZXF1ZXN0c0xpc3RWTShjdXJyZW50VXNlciA9IGN1cnJlbnRVc2VyKQo=</text>
+        <text encoding="base64">ICAgIGFueTxUaW1lT2ZmUmVxdWVzdHNMaXN0Vmlld1N0YXRlLk5vRGF0YVN0YXRlPigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0ZSA9IERBdGFTVAo=</text>
+        <text encoding="base64">Ly8gICAgcHJlc2VudGVyLnN0YXRlID0gVGltZU9mZlJlcXVlc3RzTGlzdFZpZXdTdGF0ZS5EYXRhU3RhdGUodm0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCB2bSA9IFRpbWVPZmZSZXF1ZXN0c0xpc3RWTShjdXJyZW50VXNlciA9IGN1cnJlbnRVc2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBkYXRhTGlzdDogTGlzdDxBbnk+ID0gbGlzdE9mKCksCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGF0ZSA9IERBdGFTVAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBkYXRhTGlzdDogTGlzdDxBbnk+ID0gYnVpbGREYXRhTGlzdCgpLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBkYXRhTGlzdDogTGlzdDxBbnk+ID0gbGlzdE9mKCksCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICBAVGVzdAogIGZ1biBpdFJldGFpbnNTaG93aW5nT2xkZXJSZXF1ZXN0c1N0YXRlT25QYXJlbnRSZWZyZXNoKCkgewogICAgdmFsIHZtID0gYWxsUmVxdWVzdHMKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBkYXRhTGlzdDogTGlzdDxBbnk+ID0gYnVpbGREYXRhTGlzdCgpLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -456,7 +456,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGF0YSA9IGRhdGEudG9NdXRhYmxlTGlzdCgpLnJlcCB9Cg==</text>
+        <text encoding="base64">ICAKICBAVGVzdAogIGZ1biBpdFJldGFpbnNTaG93aW5nT2xkZXJSZXF1ZXN0c1N0YXRlT25QYXJlbnRSZWZyZXNoKCkgewogICAgdmFsIHZtID0gYWxsUmVxdWVzdHMKICAgIAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>250</text>
