@@ -295,12 +295,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1530812232416">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1531145594751">
         <mark key="'" line="61" column="6" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="156" column="28" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/FeatureRouterTest.java" timestamp="1525281182754">
         <mark key="'" line="70" column="49" />
@@ -545,6 +544,9 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="84" column="2" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/fcm/FcmMessagePresenter.java" timestamp="1531145784127">
+        <mark key="'" line="50" column="33" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/messages/MessageVM.kt" timestamp="1528986102394">
         <mark key="'" line="32" column="26" />
         <mark key="[" line="63" column="145" />
@@ -736,7 +738,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/TimeOffRequestViewModelTest.kt" />
       <jump line="20" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/TimeOffRequestViewModelTest.kt" />
       <jump line="42" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/TimeOffRequestViewModelTest.kt" />
       <jump line="60" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/TimeOffRequestViewModelTest.kt" />
@@ -836,69 +837,69 @@
       <jump line="40" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/myhours/ui/MyHoursActivity.kt" />
       <jump line="169" column="66" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
+      <jump line="50" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/fcm/FcmMessagePresenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgc3dhcENhbmRpZGF0ZXNaaXBGdW5jdGlvbjM6IEZ1bmN0aW9uMzxSZXF1ZXN0Vk0uU2hpZnRSZXF1ZXN0Vk0sIFNoaWZ0U3dhcENhbmRpZGF0ZXNMaXN0LCBVc2VyU2V0LCBTaGlmdFJlcXVlc3REZXRhaWxWaWV3PiA9CiAgICBGdW5jdGlvbjMoCg==</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>a: SRVM)</text>
+        <text encoding="base64">dmlld01vZGVsLCBzaGlmdFN3YXBzLCB1c2VyU3dhcHMgLT4=</text>
       </register>
       <register name="/" type="4">
-        <text>vis</text>
+        <text>open</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBTaW5nbGUuemlwKFNpbmdsZS5qdXN0KHZtKSwgcmVxdWVzdHNSZXBvc2l0b3J5Lmxpc3RTd2FwU2hpZnRDYW5kaWRhdGVzKHZtLnNoaWZ0SWQpLCByZXF1ZXN0c1JlcG9zaXRvcnkubGlzdFN3YXBVc2VyQ2FuZGlkYXRlcyh2bS5zaGlmdElkKSwKLy8gICAgICAgICAgICAgIEZ1bmN0aW9uMzxSZXF1ZXN0Vk0uU2hpZnRSZXF1ZXN0Vk0sIFNoaWZ0U3dhcENhbmRpZGF0ZXNMaXN0LCBVc2VyU2V0LCBSZXF1ZXN0Vk0uU2hpZnRSZXF1ZXN0Vk0+IHsgdmlld01vZGVsLCBzaGlmdFN3YXBzLCB1c2VyU3dhcHMgLT4KLy8gICAgICAgICAgICAgICAgdmlld01vZGVsLmFwcGx5IHsKLy8gICAgICAgICAgICAgICAgICBzaGlmdENhbmRpZGF0ZXMgPSBzaGlmdFN3YXBzLnNoaWZ0cwovLyAgICAgICAgICAgICAgICAgIHVzZXJDYW5kaWRhdGVzID0gdXNlclN3YXBzLnVzZXJzCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgc3dhcENhbmRpZGF0ZXNaaXBGdW5jdGlvbjM6IEZ1bmN0aW9uMzxSZXF1ZXN0Vk0uU2hpZnRSZXF1ZXN0Vk0sIFNoaWZ0U3dhcENhbmRpZGF0ZXNMaXN0LCBVc2VyU2V0LCBTaGlmdFJlcXVlc3REZXRhaWxWaWV3PiA9CiAgICBGdW5jdGlvbjMoCg==</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KHZpZXdNb2RlbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlLmp1c3Qodm0pCg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2YWwgc3dhcENhbmRpZGF0ZXNaaXBGdW5jdGlvbjM6IEZ1bmN0aW9uMzxSZXF1ZXN0Vk0uU2hpZnRSZXF1ZXN0Vk0sIFNoaWZ0U3dhcENhbmRpZGF0ZXNMaXN0LCBVc2VyU2V0LCBTaGlmdFJlcXVlc3REZXRhaWxWaWV3PiA9CiAgICBGdW5jdGlvbjMoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KHZpZXdNb2RlbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlLmp1c3Qodm0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZUQ4LmRlc3VnYXJpbmcgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5hcHBseSB7CiAgICAgICAgICAgICAgICAgIHNoaWZ0Q2FuZGlkYXRlcyA9IHNoaWZ0U3dhcHMuc2hpZnRzCiAgICAgICAgICAgICAgICAgIHVzZXJDYW5kaWRhdGVzID0gdXNlclN3YXBzLnVzZXJzCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbCwgc2hpZnRTd2FwcywgdXNlclN3YXBzIC0+Cg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZUQ4LmRlc3VnYXJpbmcgPSB0cnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgVE9ETygibm90IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5hcHBseSB7CiAgICAgICAgICAgICAgICAgIHNoaWZ0Q2FuZGlkYXRlcyA9IHNoaWZ0U3dhcHMuc2hpZnRzCiAgICAgICAgICAgICAgICAgIHVzZXJDYW5kaWRhdGVzID0gdXNlclN3YXBzLnVzZXJzCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
       </register>
     </registers>
     <search>
-      <last-search>vis</last-search>
+      <last-search>open</last-search>
       <last-offset />
-      <last-pattern>vis</last-pattern>
+      <last-pattern>open</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request_days_in</entry>
         <entry>employer</entry>
         <entry>fragment</entry>
         <entry>advance</entry>
@@ -918,6 +919,7 @@
         <entry>punchShiftSite</entry>
         <entry encoding="base64">XDxwdW5jaFNoaWZ0U2l0ZVw+</entry>
         <entry>vis</entry>
+        <entry>open</entry>
       </history-search>
       <history-cmd>
         <entry>130</entry>
