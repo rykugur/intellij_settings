@@ -292,12 +292,12 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1531403424654">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1531415527522">
-        <mark key="'" line="193" column="64" />
-        <mark key="[" line="120" column="147" />
-        <mark key="]" line="120" column="147" />
-        <mark key="." line="120" column="147" />
-        <mark key="^" line="120" column="147" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1531418481656">
+        <mark key="'" line="227" column="64" />
+        <mark key="[" line="208" column="10" />
+        <mark key="]" line="208" column="28" />
+        <mark key="." line="208" column="28" />
+        <mark key="^" line="208" column="28" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/FeatureRouterTest.java" timestamp="1525281182754">
         <mark key="'" line="70" column="49" />
@@ -526,11 +526,11 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/ShiftRequestDataModel.kt" timestamp="1531416170223">
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="30" column="57" />
-        <mark key="." line="30" column="57" />
-        <mark key="^" line="30" column="57" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/ShiftRequestDataModel.kt" timestamp="1531418205167">
+        <mark key="[" line="34" column="52" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="63" />
+        <mark key="^" line="34" column="63" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/availability/AvailabilityDashItemArchitecture.kt" timestamp="1525708431402">
         <mark key="'" line="40" column="73" />
@@ -553,12 +553,12 @@
         <mark key="." line="65" column="145" />
         <mark key="^" line="65" column="145" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" timestamp="1531416130274">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" timestamp="1531418465239">
         <mark key="'" line="184" column="0" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="123" column="33" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="67" column="4" />
+        <mark key="." line="126" column="47" />
+        <mark key="^" line="130" column="91" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1526579853309">
         <mark key="'" line="55" column="13" />
@@ -839,54 +839,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBmdW4gZ2V0U2hpZnRSZXF1ZXN0KCk6IFNoaWZ0UmVxdWVzdERhdGFNb2RlbCA9IFNoaWZ0UmVxdWVzdERhdGFNb2RlbCgKICAgICAgaWQgPSByZXF1ZXN0SWQsCiAgICAgIGFjY291bnRJZCA9IGFjY291bnRJZCwKICAgICAgbG9jYXRpb25JZCA9IGxvY2F0aW9uSWQsCiAgICAgIHVzZXJJZCA9IHVzZXJJZCwKICAgICAgdHlwZSA9IHR5cGUsCiAgICAgIHNoaWZ0SWQgPSBzaGlmdElkLAogICAgICBzdGF0dXMgPSBzdGF0dXMsCiAgICAgIHVzZXJTdGF0dXMgPSB1c2VyU3RhdHVzLAovLyAgICAgIGFjY2VwdGVkSWQgPSBhY2NlcHRlZElkLAovLyAgICAgIGNyZWF0b3JJZCA9IGNyZWF0b3JJZCwKLy8gICAgICB1cGRhdGVySWQgPSB1cGRhdGVySWQsCi8vICAgICAgY2FuY2VsZWRJZCA9IGNhbmNlbGVkSWQsCi8vICAgICAgY3JlYXRlZEF0ID0gY3JlYXRlZEF0LAovLyAgICAgIHVwZGF0ZWRBdCA9IHVwZGF0ZWRBdCwKLy8gICAgICBjb21wbGV0ZWRBdCA9IGNvbXBsZXRlZEF0LAovLyAgICAgIGFjdGlvbmFibGUgPSBhY3Rpb25hYmxlLAovLyAgICAgIHN0YXR1c2VzID0gc3RhdHVzZXMubWFwIHsgaXQudG9EYXRhTW9kZWwoKSB9LAovLyAgICAgIGFsbG93ZWRTdGF0dXNlcyA9IGFsbG93ZWRTdGF0dXNlcwogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgLmZsYXRNYXAgeyAgfQo=</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>serStatusViewModelDataModel</text>
+        <text>otherwise</text>
       </register>
       <register name="/" type="4">
         <text>Swap\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgbWVzc2FnZXM6IExpc3Q8TWVzc2FnZT4gPSBsaXN0T2YoKSwKICB2YWwgdXNlcnM6IExpc3Q8VXNlcj4gPSBsaXN0T2YoKSwKICB2YWwgc2hpZnRzOiBMaXN0PFNoaWZ0PiA9IGxpc3RPZigpLAogIHZhbCBsb2NhdGlvbnM6IExpc3Q8TG9jYXRpb24+ID0gbGlzdE9mKCksCiAgdmFsIHBvc2l0aW9uczogTGlzdDxQb3NpdGlvbj4gPSBsaXN0T2YoKSwKICB2YWwgbW9yZTogQm9vbGVhbiA9IGZhbHNlLAogIHZhbCBwYWdlOiBJbnQgPSAwCg==</text>
+        <text encoding="base64">ICAgIC5mbGF0TWFwIHsgdm0gLT4KICAgICAgU2luZ2xlLnppcChTaW5nbGUuanVzdCh2bSksIGxpc3RTaGlmdFJlcXVlc3RTaGlmdENhbmRpZGF0ZXModm0uc2hpZnRJZCksCiAgICAgICAgbGlzdFNoaWZ0UmVxdWVzdFVzZXJDYW5kaWRhdGVzKHZtLnNoaWZ0SWQpLAogICAgICAgIHN3YXBDYW5kaWRhdGVzRnVuY3Rpb24zKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBmdW4gZ2V0U2hpZnRSZXF1ZXN0KCk6IFNoaWZ0UmVxdWVzdERhdGFNb2RlbCA9IFNoaWZ0UmVxdWVzdERhdGFNb2RlbCgKICAgICAgaWQgPSByZXF1ZXN0SWQsCiAgICAgIGFjY291bnRJZCA9IGFjY291bnRJZCwKICAgICAgbG9jYXRpb25JZCA9IGxvY2F0aW9uSWQsCiAgICAgIHVzZXJJZCA9IHVzZXJJZCwKICAgICAgdHlwZSA9IHR5cGUsCiAgICAgIHNoaWZ0SWQgPSBzaGlmdElkLAogICAgICBzdGF0dXMgPSBzdGF0dXMsCiAgICAgIHVzZXJTdGF0dXMgPSB1c2VyU3RhdHVzLAovLyAgICAgIGFjY2VwdGVkSWQgPSBhY2NlcHRlZElkLAovLyAgICAgIGNyZWF0b3JJZCA9IGNyZWF0b3JJZCwKLy8gICAgICB1cGRhdGVySWQgPSB1cGRhdGVySWQsCi8vICAgICAgY2FuY2VsZWRJZCA9IGNhbmNlbGVkSWQsCi8vICAgICAgY3JlYXRlZEF0ID0gY3JlYXRlZEF0LAovLyAgICAgIHVwZGF0ZWRBdCA9IHVwZGF0ZWRBdCwKLy8gICAgICBjb21wbGV0ZWRBdCA9IGNvbXBsZXRlZEF0LAovLyAgICAgIGFjdGlvbmFibGUgPSBhY3Rpb25hYmxlLAovLyAgICAgIHN0YXR1c2VzID0gc3RhdHVzZXMubWFwIHsgaXQudG9EYXRhTW9kZWwoKSB9LAovLyAgICAgIGFsbG93ZWRTdGF0dXNlcyA9IGFsbG93ZWRTdGF0dXNlcwogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgLmZsYXRNYXAgeyAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNoaWZ0UmVxdWVzdCA9IHZpZXdNb2RlbAovLyAgICAgIC5nZXRTaGlmdFJlcXVlc3QoKQovLyAgICAgIC5jb3B5KHN0YXR1cyA9IFNoaWZ0UmVxdWVzdFN0YXR1cy5BUFBST1ZFRCwgdXNlclN0YXR1cyA9IFNoaWZ0UmVxdWVzdFN0YXR1cy5BUFBST1ZFRCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpdC5jb21wbGV0ZWRBdD8ubGV0IHsgZGF0ZSAtPiBjb21wbGV0ZWRBdCA9IGRhdGUgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wbGV0ZWRBdCA9IGl0LmNvbXBsZXRlZGRkQXQK</text>
+        <text encoding="base64">ICBmdW4gc2VuZE1lc3NhZ2UobWVzc2FnZTogTWVzc2FnZSk6IFNpbmdsZTxNZXNzYWdlVk0+ID0gYXBpLmNyZWF0ZU1lc3NhZ2VWMihtZXNzYWdlKQogICAgLm1hcCB7IE1lc3NhZ2VWTShpdC5zaW5nbGVNZXNzYWdlKSB9CiAgCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>Swap.SwapType.TYPE_
-Swap.SwapType.TYPE_</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU1dBUCAtPiBSLnN0cmluZy5yZXF1ZXN0X3R5cGVfc3dhcAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzaGlmdFJlcXVlc3QgPSBTaGlmdFJlcXVlc3RVcGRhdGVEYXRhTW9kZWwoCiAgICAgIHNoaWZ0SWQgPSB2aWV3TW9kZWwuc2hpZnRJZCwKICAgICAgc3RhdHVzID0gU2hpZnRSZXF1ZXN0U3RhdHVzLkRFTklFRCwKICAgICAgdXNlclN0YXR1cyA9IFNoaWZ0UmVxdWVzdFN0YXR1cy5ERU5JRUQKICAgICkKICAgIAogICAgcmV0dXJuIGFwaS51cGRhdGVTaGlmdFJlcXVlc3Qodmlld01vZGVsLnJlcXVlc3RJZCwgc2hpZnRSZXF1ZXN0KQogIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="8">
-        <text>Swap.SwapType.TYPE_
-Swap.SwapType.TYPE_</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHNoaWZ0UmVxdWVzdCA9IFNoaWZ0UmVxdWVzdFVwZGF0ZURhdGFNb2RlbCgKLy8gICAgICBzaGlmdElkID0gdmlld01vZGVsLnNoaWZ0SWQsCi8vICAgICAgc3RhdHVzID0gU2hpZnRSZXF1ZXN0U3RhdHVzLkFQUFJPVkVELAovLyAgICAgIHVzZXJTdGF0dXMgPSBTaGlmdFJlcXVlc3RTdGF0dXMuQVBQUk9WRUQKLy8gICAgKQovLwovLyAgICByZXR1cm4gYXBpLnVwZGF0ZVNoaWZ0UmVxdWVzdCh2aWV3TW9kZWwucmVxdWVzdElkLCBzaGlmdFJlcXVlc3QpCi8vICB9Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>Swap.SwapStatusCode.STATUS_
-Swap.SwapStatusCode.STATUS_
-Swap.SwapStatusCode.STATUS_
-Swap.SwapStatusCode.STATUS_</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
