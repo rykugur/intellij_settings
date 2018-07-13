@@ -58,8 +58,8 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="35" column="37" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" timestamp="1531416113620">
-        <mark key="'" line="1399" column="27" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" timestamp="1531491900380">
+        <mark key="'" line="1414" column="32" />
         <mark key="[" line="1414" column="85" />
         <mark key="]" line="1414" column="111" />
         <mark key="." line="1414" column="111" />
@@ -312,7 +312,8 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1531152947669">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1531491612932">
+        <mark key="'" line="1009" column="37" />
         <mark key="[" line="289" column="124" />
         <mark key="]" line="290" column="100" />
         <mark key="." line="290" column="100" />
@@ -486,6 +487,9 @@
         <mark key="]" line="185" column="22" />
         <mark key="^" line="185" column="22" />
         <mark key="." line="185" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/message/adapter/MessageRecyclerAdapter.java" timestamp="1531491620683">
+        <mark key="'" line="47" column="29" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/SchedulerActivity.kt" timestamp="1528298954658">
         <mark key="'" line="90" column="14" />
@@ -736,10 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="53" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
-      <jump line="203" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
-      <jump line="204" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
-      <jump line="207" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestArchitecture.kt" />
       <jump line="235" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestArchitecture.kt" />
       <jump line="237" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestArchitecture.kt" />
       <jump line="19" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/CreateRequestPresenterTest.kt" />
@@ -836,6 +836,10 @@
       <jump line="306" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
       <jump line="251" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="165" column="60" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
+      <jump line="1009" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
+      <jump line="47" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/message/adapter/MessageRecyclerAdapter.java" />
+      <jump line="1414" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -848,7 +852,7 @@
         <text>viewModel.swapCandidatePojoMap.values.flatten().filter { it.isSelected }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwqXD4=</text>
+        <text>swapshifts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFsIG1vZGVsID0gU2hpZnRSZXF1ZXN0VXBkYXRlRGF0YU1vZGVsKHNoaWZ0SWQgPSB2aWV3TW9kZWwuc2hpZnRJZCwKICAgICAgICBzdGF0dXMgPSBTaGlmdFJlcXVlc3RTdGF0dXMuQVBQUk9WRUQudmFsdWUsCiAgICAgICAgdXNlclN0YXR1cyA9IFNoaWZ0UmVxdWVzdFN0YXR1cy5BUFBST1ZFRC52YWx1ZSwKICAgICAgICBzaGlmdHMgPSB2aWV3TW9kZWwuc3dhcENhbmRpZGF0ZVBvam9NYXAudmFsdWVzLmZsYXR0ZW4oKS5maWx0ZXIgeyBpdC5pc1NlbGVjdGVkIH0ubWFwIHsgaXQuc2hpZnQuaWQgfS50b0xvbmdBcnJheSgpKQogICAgICB1cGRhdGVTaGlmdFJlcXVlc3Qodmlld01vZGVsLnJlcXVlc3RJZCwgbW9kZWwpCg==</text>
@@ -888,9 +892,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwqXD4=</last-search>
+      <last-search>swapshifts</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwqXD4=</last-pattern>
+      <last-pattern>swapshifts</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -898,8 +902,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alert_settings</entry>
-        <entry>include</entry>
         <entry>count</entry>
         <entry>punchShiftSite</entry>
         <entry encoding="base64">XDxwdW5jaFNoaWZ0U2l0ZVw+</entry>
@@ -918,6 +920,8 @@
         <entry>Swap.</entry>
         <entry>Swap\.</entry>
         <entry encoding="base64">XDwqXD4=</entry>
+        <entry>view all messages</entry>
+        <entry>swapshifts</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
