@@ -792,16 +792,15 @@
       <file name="/fragment.java" timestamp="1531930495576">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" timestamp="1531936106977">
-        <mark key="'" line="25" column="56" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="95" column="30" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" timestamp="1531940757831">
+        <mark key="'" line="96" column="16" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Request.java" />
       <jump line="31" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/TimeOffRequestDetailArchitecture.kt" />
       <jump line="193" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="1397" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
@@ -868,7 +867,6 @@
       <jump line="12" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_conversation_activity.xml" />
       <jump line="83" column="75" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
       <jump line="27" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
-      <jump line="96" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
       <jump line="109" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
       <jump line="114" column="60" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
       <jump line="119" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
@@ -900,20 +898,22 @@
       <jump line="94" column="56" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
       <jump line="13" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
       <jump line="310" column="60" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_time_off_request_detail.xml" />
-      <jump line="25" column="56" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
+      <jump line="26" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
+      <jump line="25" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
+      <jump line="96" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIK</text>
+      <register name="&quot;" type="4">
+        <text>auto</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>auto</text>
       </register>
       <register name="/" type="4">
-        <text>background</text>
+        <text>blickable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmZvY3VzYWJsZT0idHJ1ZSIK</text>
@@ -953,9 +953,9 @@
       </register>
     </registers>
     <search>
-      <last-search>background</last-search>
+      <last-search>blickable</last-search>
       <last-offset />
-      <last-pattern>background</last-pattern>
+      <last-pattern>blickable</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -963,8 +963,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwqXD4=</entry>
-        <entry>view all messages</entry>
         <entry>swapshifts</entry>
         <entry>55555</entry>
         <entry>twilio</entry>
@@ -983,6 +981,8 @@
         <entry>invalid</entry>
         <entry>selectable</entry>
         <entry>background</entry>
+        <entry>clickable</entry>
+        <entry>blickable</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
