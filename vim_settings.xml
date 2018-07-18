@@ -343,8 +343,8 @@
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_request_detail.xml" timestamp="1531928093083">
-        <mark key="'" line="64" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_request_detail.xml" timestamp="1531934511369">
+        <mark key="'" line="193" column="0" />
         <mark key="[" line="63" column="44" />
         <mark key="]" line="63" column="50" />
         <mark key="." line="63" column="50" />
@@ -792,17 +792,15 @@
       <file name="/fragment.java" timestamp="1531930495576">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" timestamp="1531933394128">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" timestamp="1531934528391">
         <mark key="'" line="9" column="34" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="67" />
-        <mark key="^" line="44" column="31" />
-        <mark key="." line="94" column="0" />
+        <mark key="[" line="94" column="16" />
+        <mark key="]" line="94" column="27" />
+        <mark key="^" line="94" column="27" />
+        <mark key="." line="94" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="731" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
-      <jump line="59" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/clockin/fragment/WorkingTodayListFragment.java" />
       <jump line="423" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
       <jump line="128" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="317" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Request.java" />
@@ -901,19 +899,21 @@
       <jump line="230" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="237" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="9" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_coworkers_potential_swaps.xml" />
+      <jump line="56" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_request_detail.xml" />
+      <jump line="193" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_request_detail.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>innerPendingSwapsLayout</text>
+        <text>wba</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>innerPendingSwapsLayout</text>
+        <text>wba</text>
       </register>
       <register name="/" type="4">
-        <text>invalid</text>
+        <text>selectable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW5uZXJQZW5kaW5nU3dhcHNMYXlvdXQuc2V0T25DbGlja0xpc3RlbmVyIHsgVG9hc3QubWFrZVRleHQodGhpc0BTaGlmdFJlcXVlc3REZXRhaWxBY3Rpdml0eSwgIk5vdCB5ZXQgaW1wbGVtZW50ZWQiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKSB9Cg==</text>
@@ -953,9 +953,9 @@
       </register>
     </registers>
     <search>
-      <last-search>invalid</last-search>
+      <last-search>selectable</last-search>
       <last-offset />
-      <last-pattern>invalid</last-pattern>
+      <last-pattern>selectable</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -963,7 +963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Swap.</entry>
         <entry>Swap\.</entry>
         <entry encoding="base64">XDwqXD4=</entry>
         <entry>view all messages</entry>
@@ -983,6 +982,7 @@
         <entry>parent</entry>
         <entry>potentialSwapsLabe</entry>
         <entry>invalid</entry>
+        <entry>selectable</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
