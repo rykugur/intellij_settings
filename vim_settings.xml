@@ -423,7 +423,9 @@
         <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/YourPotentialSwapsAdapter.kt" timestamp="1533053228828" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" timestamp="1533067400337" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" timestamp="1533068288659">
+        <mark key="'" line="72" column="39" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/TimeOffRequestDetailPresenterTest.kt" timestamp="1530631685100">
         <mark key="'" line="260" column="71" />
         <mark key="[" line="53" column="0" />
@@ -733,6 +735,9 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/UpdatedShiftsAdapter.kt" timestamp="1533053195179">
+        <mark key="'" line="75" column="21" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Shift.java" timestamp="1528390464755">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="8" />
@@ -871,13 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="442" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="444" column="47" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="447" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="18" column="62" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsActivity.kt" />
-      <jump line="20" column="80" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsActivity.kt" />
-      <jump line="23" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsActivity.kt" />
       <jump line="25" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsActivity.kt" />
       <jump line="13" column="57" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsActivity.kt" />
@@ -971,6 +969,13 @@
       <jump line="139" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/adapter/ShiftDelegate.kt" />
       <jump line="114" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/list/ShiftRequestsListPresenterTest.kt" />
       <jump line="51" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/list/ShiftRequestsListPresenterTest.kt" />
+      <jump line="128" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" />
+      <jump line="134" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" />
+      <jump line="139" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" />
+      <jump line="144" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" />
+      <jump line="149" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" />
+      <jump line="58" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" />
+      <jump line="72" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/BaseAppCompatActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -983,7 +988,7 @@
         <text>.map { SiteVM(it) }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NPclNpdGVcPg==</text>
+        <text encoding="base64">XDxpbnN0YW5jZU1hcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHZhbCBhY2NvdW50ID0gbW9jazxBY2NvdW50PiB7CiAgICBvbiB7IGxvY2F0aW9uQ291bnQgfSBkb1JldHVybiAyCiAgfQo=</text>
@@ -1023,9 +1028,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NPclNpdGVcPg==</last-search>
+      <last-search encoding="base64">XDxpbnN0YW5jZU1hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NPclNpdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnN0YW5jZU1hcFw+</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1033,7 +1038,6 @@
     </search>
     <history>
       <history-search>
-        <entry>there are no current shift</entry>
         <entry>user</entry>
         <entry>toast</entry>
         <entry encoding="base64">XDxzd2FwQ2FuZGlkYXRlUG9qb01hcFw+</entry>
@@ -1053,6 +1057,7 @@
         <entry>adapter</entry>
         <entry>layout_shift_details</entry>
         <entry encoding="base64">XDxsb2NPclNpdGVcPg==</entry>
+        <entry encoding="base64">XDxpbnN0YW5jZU1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
