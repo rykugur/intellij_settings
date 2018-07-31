@@ -150,9 +150,7 @@
         <mark key="^" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListAdapter.kt" timestamp="1532623651480">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="114" column="79" />
-        <mark key="^" line="109" column="39" />
+        <mark key="]" line="95" column="79" />
         <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_pending_swap_item.xml" timestamp="1532362068144">
@@ -199,7 +197,7 @@
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
-        <mark key="^" line="115" column="98" />
+        <mark key="^" line="108" column="98" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/mercury/build.gradle" timestamp="1528470976843">
         <mark key="'" line="18" column="0" />
@@ -305,8 +303,8 @@
         <mark key="." line="63" column="56" />
         <mark key="^" line="63" column="56" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1532622479836">
-        <mark key="'" line="179" column="43" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1533043459884">
+        <mark key="'" line="186" column="0" />
         <mark key="[" line="201" column="20" />
         <mark key="]" line="201" column="37" />
         <mark key="^" line="201" column="37" />
@@ -350,6 +348,9 @@
         <mark key="]" line="15" column="45" />
         <mark key="." line="63" column="26" />
         <mark key="^" line="63" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" timestamp="1533043792940">
+        <mark key="'" line="417" column="8" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_no_data.xml" timestamp="1532356702232">
         <mark key="[" line="0" column="38" />
@@ -893,8 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/fragment/ClockinDialogFragmentPresenter.java" />
-      <jump line="59" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
       <jump line="251" column="55" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_coworkers_pending_swaps.xml" />
       <jump line="248" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
@@ -993,6 +992,8 @@
       <jump line="179" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="71" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_time_off_request_detail.xml" />
       <jump line="403" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_time_off_request_detail.xml" />
+      <jump line="186" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
+      <jump line="417" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1005,7 +1006,7 @@
         <text>getAttributionDetail</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>userdetail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBwb3B1bGF0ZSByZXF1ZXN0IHN0YXR1cyByb3cKICAgICAgICB2YWwgc3RhdHVzQ29sb3IgPSBDb250ZXh0Q29tcGF0LmdldENvbG9yKGNvbnRleHQsIHZtLmdldENvbG9yUmVzRm9yU3RhdHVzKCkpCiAgICAgICAgY29sb3JfY2hpcC5zZXRCYWNrZ3JvdW5kQ29sb3Ioc3RhdHVzQ29sb3IpCiAgICAgICAgLy8gbXV0YXRlIHRoZSBzdGF0dXMgYmFja2dyb3VuZCBkcmF3YWJsZSBhbmQgc2V0IHRpbnQ7IHJlcXVpcmVkIHRvIGtlZXAgdGhlIHBhZGRpbmcgYW5kIGNvcm5lciByYWRpaSBjb25zaXN0ZW50CiAgICAgICAgdmFsIG11dGF0ZWREcmF3YWJsZSA9IERyYXdhYmxlQ29tcGF0LndyYXAocmVxdWVzdF9zdGF0dXMuYmFja2dyb3VuZC5tdXRhdGUoKSkKICAgICAgICBEcmF3YWJsZUNvbXBhdC5zZXRUaW50KG11dGF0ZWREcmF3YWJsZSwgc3RhdHVzQ29sb3IpCiAgICAgICAgRHJhd2FibGVDb21wYXQuc2V0VGludE1vZGUobXV0YXRlZERyYXdhYmxlLCBQb3J0ZXJEdWZmLk1vZGUuU1JDX0lOKQogICAgICAgIHJlcXVlc3Rfc3RhdHVzLnRleHQgPSBjb250ZXh0LmdldFN0cmluZyh2bS5nZXRTdHJpbmdSZXNGb3JTdGF0dXMoKSkKICAgICAgICByZXF1ZXN0X3N0YXR1c19kZXRhaWxzLnRleHQgPSB2bS5nZXRBdHRyaWJ1dGlvbkRldGFpbChjb250ZXh0LnJlc291cmNlcykK</text>
@@ -1045,9 +1046,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>userdetail</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>userdetail</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1055,7 +1056,6 @@
     </search>
     <history>
       <history-search>
-        <entry>potentialSwapsLabe</entry>
         <entry>invalid</entry>
         <entry>selectable</entry>
         <entry>background</entry>
@@ -1075,6 +1075,7 @@
         <entry>this shift is no longer eligible to trade</entry>
         <entry>exported</entry>
         <entry>status</entry>
+        <entry>userdetail</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
