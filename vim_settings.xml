@@ -101,6 +101,9 @@
         <mark key="." line="34" column="59" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/scheduler_item_shift.xml" timestamp="1533055109436" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" timestamp="1533228905765">
+        <mark key="'" line="320" column="50" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/caldroid/build.gradle" timestamp="1528472234578">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -371,10 +374,12 @@
         <mark key="." line="236" column="58" />
         <mark key="^" line="236" column="58" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1533133195154">
-        <mark key="'" line="217" column="21" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="104" column="39" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1533228715669">
+        <mark key="'" line="219" column="21" />
+        <mark key="[" line="182" column="96" />
+        <mark key="]" line="182" column="102" />
+        <mark key="^" line="182" column="102" />
+        <mark key="." line="182" column="102" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/FeatureRouterTest.java" timestamp="1525281182754">
         <mark key="'" line="70" column="49" />
@@ -886,9 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="259" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
-      <jump line="168" column="81" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="361" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="313" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
@@ -986,19 +988,22 @@
       <jump line="48" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/CreateRequestPresenterTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="115" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
+      <jump line="49" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
+      <jump line="67" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
+      <jump line="320" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5.2</text>
+        <text>ApiError(&quot;cool&quot;, 123)</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>5.2</text>
+        <text>ApiError(&quot;cool&quot;, 123)</text>
       </register>
       <register name="/" type="4">
-        <text>materialdate</text>
+        <text encoding="base64">XDxMSU5LX0FVVE9MT0dJTlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9ucyh2aWV3KQo=</text>
@@ -1038,9 +1043,9 @@
       </register>
     </registers>
     <search>
-      <last-search>materialdate</last-search>
+      <last-search encoding="base64">XDxMSU5LX0FVVE9MT0dJTlw+</last-search>
       <last-offset />
-      <last-pattern>materialdate</last-pattern>
+      <last-pattern encoding="base64">XDxMSU5LX0FVVE9MT0dJTlw+</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1048,8 +1053,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this shift is no longer eligible to trade</entry>
-        <entry>exported</entry>
         <entry>status</entry>
         <entry>userdetail</entry>
         <entry>ShiftRequestResponse</entry>
@@ -1068,6 +1071,8 @@
         <entry encoding="base64">XDxzaG93U3RhcnREYXRlUGlja2VyXD4=</entry>
         <entry>scroll</entry>
         <entry>materialdate</entry>
+        <entry>autologin</entry>
+        <entry encoding="base64">XDxMSU5LX0FVVE9MT0dJTlw+</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
