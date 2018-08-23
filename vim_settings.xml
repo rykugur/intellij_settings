@@ -742,12 +742,12 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListArchitecture.kt" timestamp="1535044162509">
-        <mark key="'" line="233" column="0" />
-        <mark key="[" line="83" column="141" />
-        <mark key="]" line="83" column="64" />
-        <mark key="^" line="83" column="64" />
-        <mark key="." line="83" column="64" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListArchitecture.kt" timestamp="1535044971020">
+        <mark key="'" line="149" column="41" />
+        <mark key="[" line="153" column="14" />
+        <mark key="]" line="153" column="14" />
+        <mark key="^" line="153" column="41" />
+        <mark key="." line="153" column="14" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_next_shift.xml" timestamp="1525885830076">
         <mark key="'" line="34" column="29" />
@@ -1170,7 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="163" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="133" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="321" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
@@ -1270,19 +1269,20 @@
       <jump line="63" column="74" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/PendingCoworkersPresenterTest.kt" />
       <jump line="60" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/onboarding/addemployee/AddEmployeeFragment.kt" />
       <jump line="68" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PendingCoworkersActivity.kt" />
+      <jump line="149" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListArchitecture.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shiftRequests</text>
+        <text>v</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>shiftRequests</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>swap</text>
+        <text>viewModels</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdXJsICdodHRwczovL25leHVzLndoZW5pd29yay5jb20vcmVwb3NpdG9yeS9hbmRyb2lkLW1pcnJvcicK</text>
@@ -1322,9 +1322,9 @@
       </register>
     </registers>
     <search>
-      <last-search>swap</last-search>
+      <last-search>viewModels</last-search>
       <last-offset />
-      <last-pattern>swap</last-pattern>
+      <last-pattern>viewModels</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1332,7 +1332,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PDw8PDw=</entry>
         <entry encoding="base64">XDxmaW5kRnJhZ21lbnRCeVRhZ1w+</entry>
         <entry>delay</entry>
         <entry>rollup</entry>
@@ -1352,6 +1351,7 @@
         <entry encoding="base64">XDxEZWxlZ2F0ZXNBZGFwdGVyXD4=</entry>
         <entry encoding="base64">XDxlbXBsb3llZXNBZGFwdGVyXD4=</entry>
         <entry>swap</entry>
+        <entry>viewModels</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
