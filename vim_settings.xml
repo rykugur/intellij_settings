@@ -376,13 +376,6 @@
         <mark key="." line="63" column="56" />
         <mark key="^" line="63" column="56" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1535396437115">
-        <mark key="'" line="58" column="59" />
-        <mark key="[" line="394" column="23" />
-        <mark key="]" line="394" column="30" />
-        <mark key="^" line="394" column="30" />
-        <mark key="." line="394" column="30" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_potential_takers_pending_rollup.xml" timestamp="1534948780183">
         <mark key="[" line="10" column="49" />
         <mark key="]" line="10" column="87" />
@@ -498,12 +491,11 @@
         <mark key="." line="14" column="45" />
         <mark key="^" line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1535532296943">
-        <mark key="'" line="104" column="48" />
-        <mark key="[" line="502" column="17" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1535554335507">
+        <mark key="[" line="502" column="30" />
         <mark key="]" line="502" column="36" />
-        <mark key="." line="502" column="36" />
         <mark key="^" line="502" column="36" />
+        <mark key="." line="502" column="36" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/FeatureRouterTest.java" timestamp="1525281182754">
         <mark key="'" line="70" column="49" />
@@ -729,10 +721,10 @@
         <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" timestamp="1535396661511">
-        <mark key="[" line="65" column="115" />
-        <mark key="]" line="65" column="105" />
-        <mark key="^" line="65" column="105" />
-        <mark key="." line="65" column="105" />
+        <mark key="[" line="37" column="115" />
+        <mark key="]" line="37" column="105" />
+        <mark key="^" line="37" column="105" />
+        <mark key="." line="37" column="105" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_potential_swaps.xml" timestamp="1535051875139">
         <mark key="[" line="21" column="25" />
@@ -1285,16 +1277,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CoworkersDeclinedSwapsActivity</text>
+        <text>MILLISECONDS</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>CoworkersDeclinedSwapsActivity</text>
+        <text>MILLISECONDS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3dvcmtlcnNEZWNsaW5lZFN3YXBzQWN0aXZpdHlcPg==</text>
+        <text>doFinally</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLmZpbHRlciB7IGl0LmlzU2VsZWN0ZWQgfQogICAgICAubWFwIHsKICAgICAgICAvLyBpZiBpdCdzIGEgc3dhcCwgd2UgcGFzcyBzaGlmdElkcwogICAgICAgIGlmICh2aWV3TW9kZWwuaXNTd2FwKCkpIGl0LnNoaWZ0LmlkCiAgICAgICAgLy8gZWxzZSBwYXNzIHVzZXJJZHMKICAgICAgICBlbHNlIGl0LnVzZXIuaWQKICAgICAgfQogICAgICAudG9Mb25nQXJyYXkoKQo=</text>
@@ -1334,9 +1326,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3dvcmtlcnNEZWNsaW5lZFN3YXBzQWN0aXZpdHlcPg==</last-search>
+      <last-search>doFinally</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3dvcmtlcnNEZWNsaW5lZFN3YXBzQWN0aXZpdHlcPg==</last-pattern>
+      <last-pattern>doFinally</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1344,7 +1336,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1NpbmdsZVNjaGVkdWxlQWNjb3VudFw+</entry>
         <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry>glide</entry>
@@ -1364,6 +1355,7 @@
         <entry>account</entry>
         <entry>Swap</entry>
         <entry encoding="base64">XDxDb3dvcmtlcnNEZWNsaW5lZFN3YXBzQWN0aXZpdHlcPg==</entry>
+        <entry>doFinally</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
