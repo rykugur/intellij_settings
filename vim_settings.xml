@@ -510,8 +510,8 @@
         <mark key="." line="589" column="16" />
         <mark key="^" line="589" column="16" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" timestamp="1532103148453">
-        <mark key="'" line="59" column="15" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" timestamp="1535658923287">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="59" column="15" />
         <mark key="]" line="59" column="15" />
         <mark key="." line="59" column="15" />
@@ -881,7 +881,7 @@
         <mark key="^" line="25" column="46" />
         <mark key="." line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1535041162941">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1535658916084">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="8" />
@@ -1227,8 +1227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
-      <jump line="120" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="307" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="23" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/DeclinedCoworkersActivity.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/DeclinedCoworkersActivity.kt" />
@@ -1327,6 +1325,8 @@
       <jump line="13" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/DropShiftsSuccessDialogFragment.kt" />
       <jump line="12" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/dialog_fragment_drop_success_modal.xml" />
       <jump line="28" column="49" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/dialog_fragment_drop_success_modal.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1339,7 +1339,7 @@
         <text>it</text>
       </register>
       <register name="/" type="4">
-        <text>swap</text>
+        <text>sdk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25WaWV3Q3JlYXRlZCh2aWV3OiBWaWV3LCBzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgIHN1cGVyLm9uVmlld0NyZWF0ZWQodmlldywgc2F2ZWRJbnN0YW5jZVN0YXRlKQoKICAgIGFyZ3VtZW50cz8uYXBwbHkgewogICAgICB2YWwgc2hpZnQgPSBnZXRQYXJjZWxhYmxlPFNoaWZ0PihLRVlfU0hJRlQpCiAgICAgIHNoaWZ0Py5sZXQgeyBuZXdTaGlmdCAtPgogICAgICAgIHZpZXdNeU5ld1NoaWZ0TGF5b3V0LnNldE9uQ2xpY2tMaXN0ZW5lciB7CiAgICAgICAgICB2YWwgaW50ZW50ID0gU2hpZnREZXRhaWxBY3Rpdml0eS5uZXdJbnRlbnQoY29udGV4dCwgbmV3U2hpZnQpCiAgICAgICAgICBjb250ZXh0Py5zdGFydEFjdGl2aXR5KGludGVudCkKICAgICAgICAgIGRpc21pc3NEaWFsb2coKQogICAgICAgIH0KICAgICAgfQogICAgICBnb3RJdC5zZXRPbkNsaWNrTGlzdGVuZXIgewogICAgICAgIGRpc21pc3NEaWFsb2coKQogICAgICB9CiAgICB9CiAgfQoKICBwcml2YXRlIGZ1biBkaXNtaXNzRGlhbG9nKCkgewogICAgYWN0aXZpdHk/LmxldCB7CiAgICAgIGlmIChpdCBpcyBTaGlmdFJlcXVlc3REZXRhaWxBY3Rpdml0eSkgewogICAgICAgIGl0Lm9uU3VjY2Vzc0RpYWxvZ0Rpc21pc3MoKQogICAgICB9CiAgICB9CiAgICBkaXNtaXNzKCkKICB9CgogIGNsYXNzIEluc3RhbmNlQnVpbGRlcihwcml2YXRlIHZhbCBzY3JlZW46IFN0cmluZz8gPSBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCB0YXJnZXQ6IFN0cmluZz8gPSBudWxsKSB7CgogICAgY29tcGFuaW9uIG9iamVjdCB7CiAgICAgIGNvbnN0IHZhbCBLRVlfU0NSRUVOID0gIiRTSElGVF9SRVFVRVNUU19ERVRBSUxfUFJFRklYLmRyb3BTdWNjZXNzTW9kYWwua2V5LnNjcmVlbiIKICAgICAgY29uc3QgdmFsIEtFWV9UQVJHRVQgPSAiJFNISUZUX1JFUVVFU1RTX0RFVEFJTF9QUkVGSVguZHJvcFN1Y2Nlc3NNb2RhbC5rZXkudGFyZ2V0IgogICAgICBjb25zdCB2YWwgS0VZX1NISUZUID0gIiRTSElGVF9SRVFVRVNUU19ERVRBSUxfUFJFRklYLmRyb3BTdWNjZXNzTW9kYWwua2V5LnNoaWZ0IgogICAgfQoKICAgIHByaXZhdGUgdmFsIGZyYWdtZW50OiBEcm9wU2hpZnRzU3VjY2Vzc0RpYWxvZ0ZyYWdtZW50ID0gRHJvcFNoaWZ0c1N1Y2Nlc3NEaWFsb2dGcmFnbWVudCgpCgogICAgZnVuIG5ld1NoaWZ0KG5ld1NoaWZ0OiBTaGlmdCk6IEluc3RhbmNlQnVpbGRlciA9IHRoaXMuYXBwbHkgewogICAgICB2YWwgYXJncyA9IEJ1bmRsZSgpCiAgICAgIGFyZ3MucHV0UGFyY2VsYWJsZShLRVlfU0hJRlQsIG5ld1NoaWZ0KQogICAgICBmcmFnbWVudC5hcmd1bWVudHMgPSBhcmdzCiAgICB9CgogICAgZnVuIGJ1aWxkKCk6IERyb3BTaGlmdHNTdWNjZXNzRGlhbG9nRnJhZ21lbnQgPSBmcmFnbWVudC5hcHBseSB7CiAgICAgIHZhbCBhcmdzID0gYXJndW1lbnRzID86IEJ1bmRsZSgpCiAgICAgIGFyZ3VtZW50cz8uYXBwbHkgewogICAgICAgIHNjcmVlbj8ubGV0IHsgcHV0U3RyaW5nKEtFWV9TQ1JFRU4sIHNjcmVlbikgfQogICAgICAgIHRhcmdldD8ubGV0IHsgcHV0U3RyaW5nKEtFWV9UQVJHRVQsIHRhcmdldCkgfQogICAgICB9CiAgICAgIGFyZ3VtZW50cyA9IGFyZ3MKICAgIH0KICB9Cg==</text>
@@ -1379,9 +1379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>swap</last-search>
+      <last-search>sdk</last-search>
       <last-offset />
-      <last-pattern>swap</last-pattern>
+      <last-pattern>sdk</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1389,8 +1389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disposable</entry>
-        <entry>request</entry>
         <entry encoding="base64">XDxhdXRvX2RlY2xpbmVkXD4=</entry>
         <entry>pending</entry>
         <entry>toast</entry>
@@ -1409,6 +1407,8 @@
         <entry encoding="base64">XDxzdWJzY3JpYmVyU2F2ZVNoaWZ0XD4=</entry>
         <entry>notify</entry>
         <entry>swap</entry>
+        <entry>target</entry>
+        <entry>sdk</entry>
       </history-search>
       <history-cmd>
         <entry>191</entry>
