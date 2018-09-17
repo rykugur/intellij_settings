@@ -98,12 +98,12 @@
         <mark key="." line="10" column="74" />
         <mark key="^" line="10" column="74" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" timestamp="1525275922681">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" timestamp="1537199089697">
         <mark key="'" line="482" column="0" />
-        <mark key="[" line="213" column="23" />
-        <mark key="]" line="213" column="24" />
-        <mark key="^" line="152" column="3" />
-        <mark key="." line="213" column="24" />
+        <mark key="[" line="245" column="57" />
+        <mark key="]" line="245" column="73" />
+        <mark key="." line="245" column="73" />
+        <mark key="^" line="245" column="73" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/TimeOffRequestVM.kt" timestamp="1529682130377">
         <mark key="'" line="291" column="3" />
@@ -366,6 +366,12 @@
         <mark key="]" line="19" column="5" />
         <mark key="." line="19" column="5" />
         <mark key="^" line="45" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/ClockInDialogFragment.java" timestamp="1537199021946">
+        <mark key="'" line="99" column="11" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/personal/gits/code/android/snippets/app/build.gradle" timestamp="1525905251608">
         <mark key="'" line="33" column="38" />
@@ -647,7 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="704" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
       <jump line="700" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
       <jump line="16" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/DeclinedCoworkersPresenterTest.kt" />
       <jump line="58" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
@@ -747,69 +752,69 @@
       <jump line="1399" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="1358" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="1368" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
+      <jump line="99" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/ClockInDialogFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>REQUESTS</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2NoZWR1bGVyUHJvdmlkZXJWMigpLnNpbmdsZVNjaGVkdWxlcjw+KCkgfQ==</text>
+        <text>REQUESTS</text>
       </register>
       <register name="/" type="4">
-        <text>POST(&quot;request</text>
+        <text>spinner_indu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBEYXNoYm9hcmRDb250cmFjdC5DYXJkcy5USU1FX09GRl9SRVFVRVNUUzoKICAgICAgICBUaW1lT2ZmUmVxdWVzdHNEYXNoYm9hcmRJdGVtIHRpbWVPZmZSZXF1ZXN0c0Rhc2hib2FyZEl0ZW0gPSBuZXcgVGltZU9mZlJlcXVlc3RzRGFzaGJvYXJkSXRlbShhY3Rpdml0eSk7CiAgICAgICAgdmlld0hvbGRlciA9IG5ldyBWaWV3SG9sZGVyKHRpbWVPZmZSZXF1ZXN0c0Rhc2hib2FyZEl0ZW0pOwogICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcHVuY2hCdXR0b24uc2V0aWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UgeyBpdC5jb21wb3NlKFNjaGVkdWxlclByb3ZpZGVyVjIoKS5zaW5nbGVTY2hlZHVsZXIoKSkgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UoQXBwU2NoZWR1bGVyY2koU2luVjIoKSkK</text>
+        <text encoding="base64">ICAgIHdoZW4oYWNjb3VudC5pc1JlcXVlc3RzRW5hYmxlZEZvcih1c2VyKSkudGhlbmRkUmV0dXJuKGlzUmVxdWVzdENhcmRFbmFibGVkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFwcFNjaGVkdWxlclYyKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBEYXNoYm9hcmRDb250cmFjdC5DYXJkcy5TSElGVF9SRVFVRVNUUzoKICAgICAgICAvLyB0b2RvIHdpdGggZnV0dXJlIFBSCiAgICAgICAgdmlld0hvbGRlciA9IG51bGw7CiAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgLmNvbXBvc2UgeyBpdC5jb21wb3NlKFNjaGVkdWxlclByb3ZpZGVyVjIoKS5zaW5nbGVTY2hlZHVsZXIoKSkgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gdG8gYmUgdW4tY29tbWVudGVkIGluIGZ1dHVyZSBQUgovLyAgICAgIGlmIChhY2NvdW50Lmhhc1NjaGVkdWxpbmcoKSkgewovLyAgICAgICAgLy8gbm8gc2hpZnQgcmVxdWVzdHMgY2FyZHMgZm9yIGF0dGVuZGFuY2Utb25seSBhY2NvdW50cwovLyAgICAgICAgY2FyZHMuYWRkKFNISUZUX1JFUVVFU1RTKTsKLy8gICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLmNvbXBvc2UoQXBwU2NoZWR1bGVyY2koU2luVjIoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aWxsIHVuLWNvbW0K</text>
+        <text encoding="base64">ICAgIEFwcFNjaGVkdWxlclYyKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lT2ZmUmVxdWVzdHNEYXNoYm9hcmRJdGVtIHRpbWVPZmZSZXF1ZXN0c0Rhc2hib2FyZEl0ZW0gPSBuZXcgVGltZU9mZlJlcXVlc3RzRGFzaGJvYXJkSXRlbShhY3Rpdml0eSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBEYXNoYm9hcmRDb250cmFjdC5DYXJkcy5TSElGVF9SRVFVRVNUUzoKICAgICAgICAvLyB0b2RvIHdpdGggZnV0dXJlIFBSCiAgICAgICAgdmlld0hvbGRlciA9IG51bGw7CiAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdG8gYmUgdW4tY29tbWVudGVkIGluIGZ1dHVyZSBQUgovLyAgICAgIGlmIChhY2NvdW50Lmhhc1NjaGVkdWxpbmcoKSkgewovLyAgICAgICAgLy8gbm8gc2hpZnQgcmVxdWVzdHMgY2FyZHMgZm9yIGF0dGVuZGFuY2Utb25seSBhY2NvdW50cwovLyAgICAgICAgY2FyZHMuYWRkKFNISUZUX1JFUVVFU1RTKTsKLy8gICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>246</text>
       </register>
     </registers>
     <search>
-      <last-search>POST(&quot;request</last-search>
+      <last-search>spinner_indu</last-search>
       <last-offset />
-      <last-pattern>POST(&quot;request</last-pattern>
+      <last-pattern>spinner_indu</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhTWFwXD4=</entry>
         <entry>startAct</entry>
         <entry>21</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
@@ -829,9 +834,9 @@
         <entry>user</entry>
         <entry>requestsdash</entry>
         <entry>POST(&quot;request</entry>
+        <entry>spinner_indu</entry>
       </history-search>
       <history-cmd>
-        <entry>191</entry>
         <entry>61</entry>
         <entry>133</entry>
         <entry>332</entry>
@@ -851,6 +856,7 @@
         <entry>65</entry>
         <entry>524</entry>
         <entry>noh</entry>
+        <entry>246</entry>
       </history-cmd>
       <history-expr />
       <history-input />
