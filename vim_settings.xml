@@ -292,12 +292,12 @@
         <mark key="." line="220" column="1" />
         <mark key="^" line="220" column="1" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1537545693983">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1538026817088">
         <mark key="'" line="192" column="6" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="567" column="85" />
-        <mark key="^" line="567" column="85" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="422" column="0" />
+        <mark key="." line="422" column="0" />
+        <mark key="^" line="422" column="30" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/legacy/dashboard/CombinedRequestsDashModel.kt" timestamp="1537889566432">
         <mark key="[" line="2" column="0" />
@@ -853,8 +853,8 @@
       <jump line="86" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterSchedulingOnlyCardsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ATTENDANCE_MAP_CLOCKIN</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2bSA9IE11dGFibGVMaXZlRGF0YSgpLAo=</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
@@ -869,10 +869,10 @@
         <text encoding="base64">ICAgIExpc3Q8SW50ZWdlcj4gY2FyZHMgPSBwcmVzZW50ZXIuYnVpbGRTY2hlZHVsaW5nT25seUNhcmRJZHMobW9kZWwsIGFjY291bnQsIHVzZXIsIGRhc2hib2FyZFByZWZlcmVuY2VzKTsKCiAgICBhc3NlcnRUaGF0KGNhcmRzLnNpemUoKSkuaXNFcXVhbFRvKDMpOwogICAgaW50IGluZGV4ID0gMDsKICAgIGFzc2VydFRoYXQoY2FyZHMuZ2V0KGluZGV4KSkuaXNFcXVhbFRvKE1ZX1NDSEVEVUxFKTsKICAgIGFzc2VydFRoYXQoY2FyZHMuZ2V0KCsraW5kZXgpKS5pc0VxdWFsVG8oQVRURU5EQU5DRV9NQVBfQ0xPQ0tJTik7CiAgICBhc3NlcnRUaGF0KGNhcmRzLmdldCgrK2luZGV4KSkuaXNFcXVhbFRvKFdPUktDSEFUKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2bSA9IE11dGFibGVMaXZlRGF0YSgpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -881,22 +881,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZW4gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoZW4oZmVhdHVyZVJvdXRlci5pc0Nsb2NraW5FbmhhbmNlbWVudEVuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
+        <text encoding="base64">ICAgIHdoZW4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHdoZW4oZmVhdHVyZVJvdXRlci5pc0Nsb2NraW5FbmhhbmNlbWVudEVuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBATW9jayBBY2NvdW50U2V0dGluZ3MgYWNjb3VudFNldHRpbmdzOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBATW9jayBTY2hlZHVsZVNldHRpbmdzIHNjaGVkdWxlU2V0dGluZ3M7Cg==</text>
+        <text encoding="base64">ICBATW9jayBBY2NvdW50U2V0dGluZ3MgYWNjb3VudFNldHRpbmdzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -909,7 +909,7 @@
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
