@@ -101,12 +101,11 @@
         <mark key="^" line="67" column="90" />
         <mark key="." line="67" column="90" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" timestamp="1538686813887">
-        <mark key="'" line="61" column="11" />
-        <mark key="[" line="119" column="99" />
-        <mark key="]" line="119" column="103" />
-        <mark key="." line="119" column="103" />
-        <mark key="^" line="119" column="103" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" timestamp="1539095656382">
+        <mark key="'" line="1077" column="40" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/SwapRequestDetailActivity.kt" timestamp="1529601127733">
         <mark key="'" line="123" column="34" />
@@ -276,6 +275,7 @@
         <mark key="]" line="154" column="113" />
         <mark key="." line="63" column="17" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/shift/fragment/ShiftSwapPresenterTest.java" timestamp="1539095354432" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/CoworkersPendingSwapsPresenterTest.kt" timestamp="1535040081588">
         <mark key="'" line="18" column="39" />
         <mark key="[" line="20" column="0" />
@@ -443,8 +443,6 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/LoaderDialogFragment.kt" timestamp="1538671462621" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_potential_takers.xml" timestamp="1538491289878" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/dashboard/DashboardPresenter.kt" timestamp="1537545349619">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -839,9 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
-      <jump line="261" column="53" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
-      <jump line="464" column="62" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/RequestsListArchitecture.kt" />
       <jump line="621" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
@@ -939,6 +934,9 @@
       <jump line="58" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
       <jump line="1031" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
       <jump line="61" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
+      <jump line="150" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
+      <jump line="1052" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
+      <jump line="1080" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -951,7 +949,7 @@
         <text>dispose()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text encoding="base64">Pj4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLm1hcCB7IGV2ZW50IC0+IGV2ZW50LnZpZXcoKS50ZXh0LnRvU3RyaW5nKCkgfQogICAgICAuY29tcG9zZShzY2hlZHVsZXIuYXBwU2NoZWR1bGVyKCkpCiAgICAgIC5zdWJzY3JpYmUoCiAgICAgICAgeyBlbnRlcmVkVGV4dCAtPiBlbWFpbENoZWNrKGVudGVyZWRUZXh0LCBlbWFpbFRleHRJbnB1dCwgUi5zdHJpbmcudXNlX3ZhbGlkX2VtYWlsX3JlZ2lzdHJhdGlvbl9oaW50KSB9LAogICAgICAgIHsgdCAtPiBMb2cuaSh0KSB9CiAgICAgICkK</text>
@@ -966,34 +964,34 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBMSi0yMTgxOiBsYXJnZSBjb21taXQgaXMgbGFyZ2U7IGFkZGluZyBTaGlmdERyb3BDcmVhdGVBY3Rpdml0eSBhbmQgcmVsYXRlZCBjbGFzc2VzLCB3aXRoIHNvbWUgY2hhbmdlcy9hZGRpdGlvbnMgdG8gc3VwcG9ydGluZyB2aWV3IG1vZGVscywgcmVwb3NpdG9yaWVzLCBldGMuCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKPDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBMSi0yMTgxOiBsYXJnZSBjb21taXQgaXMgbGFyZ2U7IGFkZGluZyBTaGlmdERyb3BDcmVhdGVBY3Rpdml0eSBhbmQgcmVsYXRlZCBjbGFzc2VzLCB3aXRoIHNvbWUgY2hhbmdlcy9hZGRpdGlvbnMgdG8gc3VwcG9ydGluZyB2aWV3IG1vZGVscywgcmVwb3NpdG9yaWVzLCBldGMuCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>449</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search encoding="base64">Pj4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern encoding="base64">Pj4=</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1001,7 +999,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Ryb3BFbGlnaWJsZVw+</entry>
         <entry encoding="base64">XDxzYXZlZEluc3RhbmNlU3RhdGVcPg==</entry>
         <entry>shiftdetailafct</entry>
         <entry>shiftDetail</entry>
@@ -1021,6 +1018,7 @@
         <entry>aftertext</entry>
         <entry encoding="base64">XDxkaXNwb3NhYmxlc1w+</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry encoding="base64">Pj4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'/g</entry>
