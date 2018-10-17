@@ -61,6 +61,13 @@
         <mark key="^" line="1331" column="62" />
         <mark key="." line="1331" column="62" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/CreateRequestPresenterTest.kt" timestamp="1539793339211">
+        <mark key="'" line="220" column="68" />
+        <mark key="[" line="220" column="36" />
+        <mark key="]" line="220" column="68" />
+        <mark key="." line="220" column="68" />
+        <mark key="^" line="220" column="68" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PotentialTakersAdapter.kt" timestamp="1538491614649">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="49" column="62" />
@@ -802,12 +809,12 @@
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/TimeOffRequestViewModelTest.kt" timestamp="1529683941169">
-        <mark key="'" line="60" column="22" />
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="60" column="21" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/TimeOffRequestViewModelTest.kt" timestamp="1539793345574">
+        <mark key="'" line="71" column="72" />
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="72" />
+        <mark key="^" line="71" column="72" />
+        <mark key="." line="71" column="72" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/fcm/FcmMessagePresenterTest.java" timestamp="1537458322756">
         <mark key="[" line="39" column="122" />
@@ -853,8 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" />
-      <jump line="203" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" />
       <jump line="208" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" />
       <jump line="210" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" />
       <jump line="211" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" />
@@ -953,16 +958,18 @@
       <jump line="579" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
       <jump line="1317" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="1330" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
+      <jump line="224" column="68" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/CreateRequestPresenterTest.kt" />
+      <jump line="71" column="72" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/TimeOffRequestViewModelTest.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Query</text>
+        <text>Request.RequestType.TYPE_TIMEOFF</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>Query</text>
+        <text>Request.RequestType.TYPE_TIMEOFF</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2FwdXNlcnNcPg==</text>
