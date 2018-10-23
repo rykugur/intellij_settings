@@ -333,8 +333,8 @@
         <mark key="." line="220" column="1" />
         <mark key="^" line="220" column="1" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1540326942340">
-        <mark key="'" line="436" column="8" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1540328300901">
+        <mark key="'" line="382" column="4" />
         <mark key="[" line="360" column="44" />
         <mark key="]" line="360" column="41" />
         <mark key="." line="360" column="41" />
@@ -500,12 +500,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" timestamp="1540327108183">
-        <mark key="'" line="314" column="4" />
-        <mark key="[" line="535" column="42" />
-        <mark key="]" line="536" column="28" />
-        <mark key="." line="536" column="28" />
-        <mark key="^" line="536" column="28" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" timestamp="1540328840872">
+        <mark key="'" line="681" column="39" />
+        <mark key="[" line="692" column="0" />
+        <mark key="]" line="692" column="0" />
+        <mark key="." line="692" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/dashboard/DashboardRepository.kt" timestamp="1537546132611">
         <mark key="[" line="57" column="92" />
@@ -876,9 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="939" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestVM.kt" />
-      <jump line="342" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Request.java" />
-      <jump line="202" column="5" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" />
       <jump line="259" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
       <jump line="23" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
       <jump line="238" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
@@ -976,55 +972,58 @@
       <jump line="312" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" />
       <jump line="347" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="436" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
+      <jump line="584" column="1" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" />
+      <jump line="382" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
+      <jump line="681" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SwapCandidatePOJO(shi)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>SwapCandidatePOJO(shi)</text>
+        <text>isPendingApproval</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYW5uZXJTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByZXNlbnRlci5yZXF1ZXN0SWQgPSByZXF1ZXN0SWQKICAgIHdoZW5ldmVyKGN1cnJlbnRVc2VyLmNhblN1cGVydmlzZSgpKS50aGVuUmV0dXJuKHRydWUpCiAgICB2YWwgdm0gPSBidWlsZFZpZXdNb2RlbCh0eXBlID0gU2hpZnRSZXF1ZXN0VHlwZS5TV0FQLAogICAgICBzdGF0dXMgPSBTaGlmdFJlcXVlc3RTdGF0dXMuUEVORElORykKICAgIHdoZW5ldmVyKHJlcXVlc3RzUmVwb3NpdG9yeS5nZXRTd2FwKHJlcXVlc3RJZCkpLnRoZW5SZXR1cm4oU2luZ2xlLmp1c3Qodm0pKQoKICAgIHByZXNlbnRlci5vblN3aXBlUmVmcmVzaCgpCgogICAgYXNzZXJ0VGhhdCgocHJlc2VudGVyLnN0YXRlIGFzIFNoaWZ0UmVxdWVzdERldGFpbFZpZXdTdGF0ZS5EYXRhU3RhdGUpLnNob3VsZFNob3dQb3RlbnRpYWxTd2FwcykuaXNUcnVlKCkK</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci5yZXF1ZXN0SWQgPSByZXF1ZXN0SWQKICAgIHdoZW5ldmVyKGN1cnJlbnRVc2VyLmNhblN1cGVydmlzZSgpKS50aGVuUmV0dXJuKHRydWUpCiAgICB2YWwgdmlld01vZGVsID0gbW9jazxSZXF1ZXN0Vk0uU2hpZnRSZXF1ZXN0Vk0+IHsKICAgICAgb24geyBpc0Ryb3AoKSB9IGRvUmV0dXJuIHRydWUKICAgICAgb24geyBpc1BlbmRpbmdBcHByb3ZhbCgpIH0gZG9SZXR1cm4gdHJ1ZQogICAgfQogICAgd2hlbmV2ZXIocmVxdWVzdHNSZXBvc2l0b3J5LmdldFN3YXAocmVxdWVzdElkKSkudGhlblJldHVybihTaW5nbGUuanVzdCh2aWV3TW9kZWwpKQoKICAgIHByZXNlbnRlci5vblN3aXBlUmVmcmVzaCgpCgogICAgYXNzZXJ0VGhhdCgocHJlc2VudGVyLnN0YXRlIGFzIFNoaWZ0UmVxdWVzdERldGFpbFZpZXdTdGF0ZS5EYXRhU3RhdGUpLnNob3VsZFNob3dQb3RlbnRpYWxUYWtlcnMpLmlzVHJ1ZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBwb2pvcyA9IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBmdW4gaXRTaG93c0FjdGlvblJvdygpIHsKICB9CiAgCiAgZnVuIGl0SGlkZXNBY3Rpb25Sb3coKSB7CiAgfQogIAogIGZ1biBpdFNob3dzQXBwcm92ZSgpIHsKICB9CiAgCiAgZnVuIGl0SGlkZXNBcHByb3ZlKCkgewogIH0KICAKICBmdW4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgd2hlbmV2ZXIoY3VycmVudFVzZXIuaWQpLnRoZW5SZXR1cm4oOTk5TCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5uZXJTdGF0ZSA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5uZXJTdGF0ZSA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5uZXJTdGF0ZSA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5uZXJTdGF0ZSA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgICAgdmVyaWZ5KHZpZXcpLnJlbmRlcihhbnk8U2hpZnRSZXF1ZXN0RGV0YWlsVmlld1N0YXRlLkRhdGFTdGF0ZT4oKSkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5uZXJTdGF0ZSA9PSBudWxsKQo=</text>
+        <text encoding="base64">Ly8gICAgICB2ZXJpZnkodmlldykucmVuZGVyKGV4cGVjdGVkU3RhdGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYW5uZXJTdGF0ZSA9PSBudWxsKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQoKHByZXNlbnRlci5zdGF0ZSBhcyBTaGlmdFJlcXVlc3REZXRhaWxWaWV3U3RhdGUuRGF0YVN0YXRlKS5zaG91bGRTaG93UG90ZW50aWFsVGFrZXJzKS5pc1RydWUoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>161</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -1034,7 +1033,7 @@
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1078,8 +1077,8 @@
         <entry>207</entry>
         <entry>449</entry>
         <entry>963</entry>
-        <entry>noh</entry>
         <entry>161</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
