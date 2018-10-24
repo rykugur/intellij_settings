@@ -610,8 +610,8 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateArchitecture.kt" timestamp="1540397933656">
-        <mark key="'" line="92" column="36" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateArchitecture.kt" timestamp="1540398098225">
+        <mark key="'" line="12" column="35" />
         <mark key="[" line="97" column="2" />
         <mark key="]" line="97" column="9" />
         <mark key="." line="97" column="9" />
@@ -914,7 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1080" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="1089" column="72" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="109" column="49" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" />
       <jump line="141" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
@@ -1014,6 +1013,7 @@
       <jump line="42" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman/mockito-kotlin/1.5.0/87eb468d9b75a267dd1a3f354e5b7284bea20217/mockito-kotlin-1.5.0-sources.jar!/com/nhaarman/mockito_kotlin/Mockito.kt" />
       <jump line="45" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman/mockito-kotlin/1.5.0/87eb468d9b75a267dd1a3f354e5b7284bea20217/mockito-kotlin-1.5.0-sources.jar!/com/nhaarman/mockito_kotlin/Mockito.kt" />
       <jump line="83" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftSwapCreatePresenterTest.kt" />
+      <jump line="12" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateArchitecture.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1026,7 +1026,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text encoding="base64">XDxTd2FwQ2FuZGlkYXRlUE9KT1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb24geyBnZXRQYXJjZWxhYmxlQXJyYXlMaXN0PExvY2F0aW9uVk0+KFNoaWZ0U3dhcENyZWF0ZUFjdGl2aXR5LkludGVudEJ1aWxkZXIuRVhUUkFfTE9DQVRJT05TKSB9IGRvUmV0dXJuIG51bGwK</text>
@@ -1066,9 +1066,9 @@
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search encoding="base64">XDxTd2FwQ2FuZGlkYXRlUE9KT1w+</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern encoding="base64">XDxTd2FwQ2FuZGlkYXRlUE9KT1w+</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1076,7 +1076,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry encoding="base64">XDxtZW51X3JlcGxhY2VcPg==</entry>
         <entry>required</entry>
         <entry encoding="base64">XDxpc0Ryb3BFbGlnaWJsZVw+</entry>
@@ -1096,6 +1095,7 @@
         <entry>state</entry>
         <entry>drop</entry>
         <entry>null</entry>
+        <entry encoding="base64">XDxTd2FwQ2FuZGlkYXRlUE9KT1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvPywvZw==</entry>
