@@ -299,10 +299,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" timestamp="1540387508146">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="97" column="14" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PendingCoworkersAdapter.kt" timestamp="1535039445279">
         <mark key="'" line="59" column="34" />
         <mark key="[" line="25" column="63" />
@@ -767,7 +763,8 @@
         <mark key="^" line="52" column="113" />
         <mark key="." line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Shift.java" timestamp="1539961913779">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Shift.java" timestamp="1540490611173">
+        <mark key="'" line="507" column="29" />
         <mark key="[" line="315" column="2" />
         <mark key="]" line="315" column="8" />
         <mark key="." line="315" column="8" />
@@ -909,15 +906,11 @@
         <mark key="." line="77" column="29" />
         <mark key="^" line="55" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1540329790121">
+      <file name="/fragment.java" timestamp="1540490181195">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="235" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="576" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
-      <jump line="577" column="49" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="212" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="226" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="225" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" />
@@ -1014,6 +1007,10 @@
       <jump line="82" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
       <jump line="130" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" />
       <jump line="291" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftSwapCreatePresenterTest.kt" />
+      <jump line="559" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Shift.java" />
+      <jump line="594" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Shift.java" />
+      <jump line="100" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Shift.java" />
+      <jump line="507" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Shift.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1026,7 +1023,7 @@
         <text>checkAllCandidates</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW51XD4=</text>
+        <text encoding="base64">XDxsb2NhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByZXNlbnRlci52aWV3ID0gdmlldwogICAgcHJlc2VudGVyLnN0YXRlID0gYnVpbGREYXRhU3RhdGUoKQoKICAgIHByZXNlbnRlci5vblNlbGVjdEFsbENhbmRpZGF0ZXNTZWxlY3RlZCgpCgogICAgdmVyaWZ5KHZpZXdNb2RlbCkuY2hlY2tBbGxDYW5kaWRhdGVzKCkKICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoYW55PFNoaWZ0U3dhcENyZWF0ZVZpZXdTdGF0ZS5EYXRhU3RhdGU+KCkpCiAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnModmlldykKICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMocmVxdWVzdHNSZXBvc2l0b3J5KQo=</text>
@@ -1066,9 +1063,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW51XD4=</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW51XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvbnNcPg==</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1076,7 +1073,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Ryb3BFbGlnaWJsZVw+</entry>
         <entry>swausers</entry>
         <entry encoding="base64">XDxzd2FwdXNlcnNcPg==</entry>
         <entry encoding="base64">XDx2aWV3TW9kZWxcPg==</entry>
@@ -1096,6 +1092,7 @@
         <entry encoding="base64">XDxTd2FwQ2FuZGlkYXRlUE9KT1w+</entry>
         <entry>DataModel</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
+        <entry encoding="base64">XDxsb2NhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvPywvZw==</entry>
