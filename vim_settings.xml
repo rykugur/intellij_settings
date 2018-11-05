@@ -42,8 +42,8 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" timestamp="1541434239130">
-        <mark key="'" line="1098" column="72" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" timestamp="1541450334295">
+        <mark key="'" line="1326" column="20" />
         <mark key="[" line="1076" column="5" />
         <mark key="]" line="1078" column="45" />
         <mark key="." line="1078" column="45" />
@@ -337,6 +337,7 @@
         <mark key="^" line="55" column="24" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/UserSet.java" timestamp="1541450290784" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_request_detail.xml" timestamp="1541436985309">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="14" column="52" />
@@ -413,10 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="68" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
-      <jump line="177" column="64" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
-      <jump line="194" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
-      <jump line="224" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
       <jump line="213" column="68" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
       <jump line="313" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
@@ -513,6 +510,10 @@
       <jump line="61" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="18" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/colors.xml" />
       <jump line="21" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_create_update.xml" />
+      <jump line="1078" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
+      <jump line="1316" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
+      <jump line="1339" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
+      <jump line="1326" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -525,7 +526,7 @@
         <text>app</text>
       </register>
       <register name="/" type="4">
-        <text>theme</text>
+        <text>swapusers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuVGV4dElucHV0RWRpdFRleHQKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9lZGl0dGV4dF9uYW1lIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL2VkaXRfdGV4dF9vZmZzZXRfdmFsdWUiCiAgICAgICAgICAgIGFuZHJvaWQ6aGludD0iQHN0cmluZy9uYW1lIgogICAgICAgICAgICBhbmRyb2lkOmlucHV0VHlwZT0idGV4dENhcFdvcmRzfHRleHRBdXRvQ29ycmVjdCIKICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL01hdGVyaWFsLkVkaXRUZXh0IgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyNHNwIiAvPgo=</text>
@@ -565,9 +566,9 @@
       </register>
     </registers>
     <search>
-      <last-search>theme</last-search>
+      <last-search>swapusers</last-search>
       <last-offset />
-      <last-pattern>theme</last-pattern>
+      <last-pattern>swapusers</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -575,7 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timeout</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry encoding="base64">XDxnZXRTd2FwXD4=</entry>
         <entry>animator</entry>
@@ -595,6 +595,7 @@
         <entry>ffcccc</entry>
         <entry>cccc</entry>
         <entry>theme</entry>
+        <entry>swapusers</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvPywvZw==</entry>
