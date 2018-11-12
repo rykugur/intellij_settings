@@ -11,11 +11,12 @@
         <mark key="." line="61" column="67" />
         <mark key="o" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1542038554919">
-        <mark key="[" line="74" column="41" />
-        <mark key="]" line="74" column="40" />
-        <mark key="." line="74" column="40" />
-        <mark key="^" line="74" column="40" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1542040833582">
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="60" column="63" />
+        <mark key="]" line="61" column="3" />
+        <mark key="." line="61" column="3" />
+        <mark key="^" line="61" column="3" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/color/state_list_shift_create_update_submit_button.xml" timestamp="1542039125194">
         <mark key="[" line="3" column="0" />
@@ -173,6 +174,10 @@
         <mark key="[" line="335" column="0" />
         <mark key="]" line="343" column="84" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/RequestsListActivity.kt" timestamp="1542040805253">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="162" column="57" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_create_update_unpaid_break.xml" timestamp="1541802022941">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="32" />
@@ -185,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="96" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
       <jump line="21" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/CreateRequestPresenterTest.kt" />
       <jump line="231" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
@@ -285,61 +289,62 @@
       <jump line="255" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
       <jump line="256" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
       <jump line="44" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/base/EditableFragmentActivity.java" />
+      <jump line="28" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ic_menu_checkmark_enabled</text>
+        <text>menu_requests_list</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>ic_menu_checkmark_enabled</text>
+        <text>menu_requests_list</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xvckdyaWRcPg==</text>
+        <text encoding="base64">XDxtZW51XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0idHJ1ZSIKICAgICAgICBhbmRyb2lkOmRyYXdhYmxlPSJAZHJhd2FibGUvaWNfbWVudV9jaGVja21hcmtfZW5hYmxlZCIgLz4K</text>
+        <text encoding="base64">ICAgIHRoaXMubWVudSA9IG1lbnUKICAgIG1lbnVJbmZsYXRlci5pbmZsYXRlKFIubWVudS5tZW51X3JlcXVlc3RzX2xpc3QsIG1lbnUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0iZmFsc2UiCiAgICAgICAgYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2ljX2Nsb2NrX2Rpc2FibGVkIiAvPgo=</text>
+        <text encoding="base64">ICAgIGxheW91dEluZmxhdGVyLmluZmxhdGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0idHJ1ZSIgYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2ljX21lbnVfY2hlY2ttYXJrX2VuYWJsZWQiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0iZmFsc2UiCiAgICAgICAgYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2ljX2Nsb2NrX2Rpc2FibGVkIiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6ZHJhd2FibGU9IkBkcmF3YWJsZS9pY19tZW51X2NoZWNrbWFya19kaXNhYmxlZCIgYW5kcm9pZDpzdGF0ZV9lbmFibGVkPSJmYWxzZSIgLz4K</text>
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0idHJ1ZSIgYW5kcm9pZDpkcmF3YWJsZT0iQGRyYXdhYmxlL2ljX21lbnVfY2hlY2ttYXJrX2VuYWJsZWQiIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0iZmFsc2UiIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9mZWlqb2EiLz4K</text>
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6ZHJhd2FibGU9IkBkcmF3YWJsZS9pY19tZW51X2NoZWNrbWFya19kaXNhYmxlZCIgYW5kcm9pZDpzdGF0ZV9lbmFibGVkPSJmYWxzZSIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHJlc291cmNlcz48L3Jlc291cmNlcz4K</text>
+        <text encoding="base64">ICAgIDxpdGVtIGFuZHJvaWQ6c3RhdGVfZW5hYmxlZD0iZmFsc2UiIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci9mZWlqb2EiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHJlc291cmNlcz48L3Jlc291cmNlcz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2V0Q29sb3JDaGlwQ29sb3IoY29sb3IpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbG9yQ2hpcC5zZXRCYWNrZ3JvdW5kQ29sb3IoY29sb3IpCg==</text>
+        <text encoding="base64">ICAgICAgc2V0Q29sb3JDaGlwQ29sb3IoY29sb3IpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yQ2hpcC5zZXRCYWNrZ3JvdW5kQ29sb3IoY29sb3IpCg==</text>
       </register>
       <register name=":" type="4">
         <text>435</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xvckdyaWRcPg==</last-search>
+      <last-search encoding="base64">XDxtZW51XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xvckdyaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtZW51XD4=</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -347,7 +352,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaGlmdFRlbXBsYXRlUmVjeWNsZXJWaWV3QWRhcHRlclw+</entry>
         <entry encoding="base64">XDxzd2Fwc1JlYnVpbGRDaGVja0JveFw+</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry>setcontent</entry>
@@ -367,6 +371,7 @@
         <entry encoding="base64">XDxjb2xvcl9ncmlkXD4=</entry>
         <entry encoding="base64">XDxjb2xvckNoaXBcPg==</entry>
         <entry encoding="base64">XDxjb2xvckdyaWRcPg==</entry>
+        <entry encoding="base64">XDxtZW51XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
