@@ -116,7 +116,8 @@
         <mark key="." line="46" column="40" />
         <mark key="^" line="46" column="40" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1542219475890">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1542234067619">
+        <mark key="'" line="22" column="26" />
         <mark key="[" line="322" column="77" />
         <mark key="]" line="323" column="41" />
         <mark key="." line="323" column="41" />
@@ -215,13 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_create_update.xml" />
-      <jump line="1078" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
-      <jump line="1316" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
-      <jump line="1339" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
-      <jump line="1326" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
-      <jump line="178" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserComponent.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
       <jump line="192" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
       <jump line="182" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
       <jump line="30" column="49" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
@@ -315,6 +309,13 @@
       <jump line="266" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
       <jump line="25" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
       <jump line="90" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" />
+      <jump line="301" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="355" column="67" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="388" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="390" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="392" column="53" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="21" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="22" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -327,7 +328,7 @@
         <text encoding="base64">IC8vIEkgZGVzcGlzZSB0aGlz</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NvdW50XD4=</text>
+        <text>locations</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHZhbCBsb2d0YWcgPSBTaGlmdFJlcXVlc3REZXRhaWxBY3Rpdml0eTo6Y2xhc3MuamF2YS5zaW1wbGVOYW1lCg==</text>
@@ -367,9 +368,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2NvdW50XD4=</last-search>
+      <last-search>locations</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NvdW50XD4=</last-pattern>
+      <last-pattern>locations</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -377,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>picker</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry>onclick(r.id.location</entry>
         <entry>finish</entry>
@@ -397,6 +397,7 @@
         <entry>.show</entry>
         <entry>supportFragmentMana</entry>
         <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
+        <entry>locations</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
