@@ -21,12 +21,12 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1543941771615">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1543942922891">
         <mark key="'" line="343" column="21" />
-        <mark key="[" line="374" column="5" />
-        <mark key="]" line="364" column="79" />
-        <mark key="." line="364" column="79" />
-        <mark key="^" line="364" column="79" />
+        <mark key="[" line="273" column="13" />
+        <mark key="]" line="273" column="54" />
+        <mark key="." line="273" column="54" />
+        <mark key="^" line="273" column="54" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/site/SitesActivity.java" timestamp="1543615078443">
         <mark key="'" line="23" column="31" />
@@ -68,11 +68,12 @@
       <file name="$USER_HOME$/code/android/gits/2018_dev_challenges/filmlocations/app/src/main/java/com/kenton/filmlocations/ui/common/FilmLocationFragment.kt" timestamp="1543424731425">
         <mark key="'" line="21" column="67" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1543941527300">
-        <mark key="[" line="394" column="26" />
-        <mark key="]" line="395" column="7" />
-        <mark key="^" line="395" column="7" />
-        <mark key="." line="395" column="7" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1543942588483">
+        <mark key="'" line="82" column="26" />
+        <mark key="[" line="383" column="44" />
+        <mark key="]" line="383" column="44" />
+        <mark key="^" line="383" column="44" />
+        <mark key="." line="383" column="44" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" timestamp="1543850628244">
         <mark key="'" line="281" column="3" />
@@ -140,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Account.java" />
       <jump line="357" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Account.java" />
       <jump line="44" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Account.java" />
       <jump line="102" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Account.java" />
@@ -240,55 +240,58 @@
       <jump line="24" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="430" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="555" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_create_update.xml" />
+      <jump line="82" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isManagerOrAdmin</text>
+        <text>getString(R.string.none)</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>isManagerOrAdmin</text>
+        <text>getString(R.string.none)</text>
       </register>
       <register name="/" type="4">
         <text>change the schedule</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzY2hlZHVsZURpc2FibGVkUmVhc29uOiBEaXNhYmxlZFJlYXNvbj8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICBzaG93U25hY2tiYXJNZXNzYWdlKGdldFN0cmluZyhkYXRhU3RhdGUuc2NoZWR1bGVEaXNhYmxlZFJlYXNvbikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc0NyZWF0ZU1vZGU6IEJvb2xlYW4gPSBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFNoaWZ0Q3JlYXRlVXBkYXRlQWN0aXZpdHksICJESVNBQkxFRCBURU1QT1JBUklMWSwgZml4ZWQgd2l0aCBmdXR1cmUgUFIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU2hpZnRDcmVhdGVVcGRhdGVWaWV3U3RhdGUuRGlzYWJsZWRSZWFzb24uQ2FudEVkaXRFeGlzdGluZ1NoaWZ0IGFzIFNoaWZ0Q3JlYXRlVXBkYXRlVmlld1N0YXRlLkRpc2FibGVkUmVhc29uKQo=</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFNoaWZ0Q3JlYXRlVXBkYXRlQWN0aXZpdHksICJESVNBQkxFRCBURU1QT1JBUklMWSwgZml4ZWQgd2l0aCBmdXR1cmUgUFIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzQ3JlYXRlKSBTaGlmdENyZWF0ZVVwZGF0ZVZpZXdTdGF0ZS5EaXNhYmxlZFJlYXNvbi5DYW50RWRpdEV4aXN0aW5nU2hpZnQgZWxzZSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFNoaWZ0Q3JlYXRlVXBkYXRlQWN0aXZpdHksICJESVNBQkxFRCBURU1QT1JBUklMWSwgZml4ZWQgd2l0aCBmdXR1cmUgUFIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="8">
+        <text>Field
+Field
+Field</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpc1NjaGVkdWxlRmllbGRFbmFibGVkID0gaXNTY2hlZHVsZUZpZWxkRW5hYmxlZCwKICAgICAgICBpc1Bvc2l0aW9uRmllbGRFbmFibGVkID0gaXNQb3NpdGlvbkZpZWxkRW5hYmxlZCwKICAgICAgICBpc0Fzc2lnbmVlRmllbGRFbmFibGVkID0gaXNBc3NpZ25lZUZpZWxkRW5hYmxlZCwKICAgICAgICBpc0pvYlNpdGVGaWVsZEVuYWJsZWQgPSBpc0pvYlNpdGVGaWVsZEVuYWJsZWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGlzRWRpdGluZ1NoaWZ0Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGlzSm9iU2l0ZUZpZWxkRW5hYmxlZCA9IHNlbGVjdGVkTG9jYXRpb24gIT0gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBqb2JTaXRlRGlzYWJsZWRSZWFzb246IFN0cmluZz8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGlzQXNzaWduZWVGaWVsZEVuYWJsZWQgPSBzZWxlY3RlZExvY2F0aW9uICE9IG51bGwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhc3NpZ25lZURpc2FibGVkUmVhc29uOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgdmFsIGlzUG9zaXRpb25GaWVsZEVuYWJsZWQgPSBzZWxlY3RlZExvY2F0aW9uICE9IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBwb3NpdGlvbkRpc2FibGVkUmVhc29uOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>349</text>
       </register>
     </registers>
     <search>
@@ -324,8 +327,6 @@
         <entry>change the schedule</entry>
       </history-search>
       <history-cmd>
-        <entry>81</entry>
-        <entry>124</entry>
         <entry>249</entry>
         <entry>267</entry>
         <entry>250</entry>
@@ -344,6 +345,8 @@
         <entry>882</entry>
         <entry>248</entry>
         <entry>noh</entry>
+        <entry>359</entry>
+        <entry>349</entry>
       </history-cmd>
       <history-expr />
       <history-input />
