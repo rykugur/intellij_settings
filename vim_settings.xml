@@ -16,6 +16,13 @@
         <mark key="'" line="524" column="25" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/log/CrashlyticsLog.java" timestamp="1544024283752" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1544475985582">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="281" column="10" />
+        <mark key="]" line="281" column="22" />
+        <mark key="." line="281" column="22" />
+        <mark key="^" line="281" column="22" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" timestamp="1543850628244">
         <mark key="'" line="281" column="3" />
       </file>
@@ -117,8 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
-      <jump line="275" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="128" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="119" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="34" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/picker/ItemPickerViewModels.kt" />
@@ -217,16 +222,18 @@
       <jump line="19" column="17" filename="$USER_HOME$/code/android/gits/2018_dev_challenges/filmlocations/app/src/main/java/com/kenton/filmlocations/ui/common/FilmLocationFragment.kt" />
       <jump line="14" column="6" filename="$USER_HOME$/code/android/gits/2018_dev_challenges/filmlocations/app/src/main/java/com/kenton/filmlocations/ui/locationlist/adapter/LocationListAdapter.kt" />
       <jump line="15" column="20" filename="$USER_HOME$/code/android/gits/2018_dev_challenges/filmlocations/app/src/main/java/com/kenton/filmlocations/ui/locationlist/adapter/LocationListAdapter.kt" />
+      <jump line="281" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5tYXAgeyB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>notes</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIFBhcmNlbGFibGU=</text>
+        <text>notes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGlja0xpc3RlbmVyXD4=</text>
@@ -235,31 +242,31 @@
         <text encoding="base64">ICAgICAgICBzaG93U25hY2tiYXJNZXNzYWdlKGdldFN0cmluZyhkYXRhU3RhdGUuc2NoZWR1bGVEaXNhYmxlZFJlYXNvbikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5tYXAgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgLHNlbGVuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYmV0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5tYXAgeyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5hbm5vdGF0aW9ucy5OdWxsYWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYmV0dGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBUaGUgQVBJIHdpbGwgcmV0dXJuIG9uZSBvZiB0aHJlZSB2YWx1ZXM6IG51bGwsICJmYWxzZSIsIG9yIGEgRGF0ZVRpbWUgc3RyaW5nLiBUaGlzIGhhY2sgd29ya3MgYXJvdW5kCiAgICogdGhhdCBBUEkgYnVnIHVudGlsIGl0J3MgZml4ZWQuCiAgICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChhdHRlbmRhbmNlRXhwaXJlcyA9PSBudWxsKSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQogICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5hbm5vdGF0aW9ucy5OdWxsYWJsZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFNoaWZ0Q3JlYXRlVXBkYXRlQWN0aXZpdHksICJESVNBQkxFRCBURU1QT1JBUklMWSwgZml4ZWQgd2l0aCBmdXR1cmUgUFIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQo=</text>
+        <text encoding="base64">ICAgKiBUaGUgQVBJIHdpbGwgcmV0dXJuIG9uZSBvZiB0aHJlZSB2YWx1ZXM6IG51bGwsICJmYWxzZSIsIG9yIGEgRGF0ZVRpbWUgc3RyaW5nLiBUaGlzIGhhY2sgd29ya3MgYXJvdW5kCiAgICogdGhhdCBBUEkgYnVnIHVudGlsIGl0J3MgZml4ZWQuCiAgICoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFNoaWZ0Q3JlYXRlVXBkYXRlQWN0aXZpdHksICJESVNBQkxFRCBURU1QT1JBUklMWSwgZml4ZWQgd2l0aCBmdXR1cmUgUFIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQo=</text>
+        <text encoding="base64">ICAgIGlmIChhdHRlbmRhbmNlRXhwaXJlcyA9PSBudWxsKSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQogICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFNoaWZ0Q3JlYXRlVXBkYXRlQWN0aXZpdHksICJESVNBQkxFRCBURU1QT1JBUklMWSwgZml4ZWQgd2l0aCBmdXR1cmUgUFIiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKQo=</text>
