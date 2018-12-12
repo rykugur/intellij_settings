@@ -8,6 +8,13 @@
       <file name="/a.dummy" timestamp="1544028297456">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_shift_create_update.xml" timestamp="1543941671895">
+        <mark key="'" line="556" column="36" />
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/2018_dev_challenges/filmlocations/app/src/main/java/com/kenton/filmlocations/data/movie/MovieWrapper.kt" timestamp="1544048513528" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/LoginFragment.java" timestamp="1542132864254">
         <mark key="'" line="98" column="33" />
@@ -16,13 +23,6 @@
         <mark key="'" line="524" column="25" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/log/CrashlyticsLog.java" timestamp="1544024283752" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1544475985582">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="281" column="10" />
-        <mark key="]" line="281" column="22" />
-        <mark key="." line="281" column="22" />
-        <mark key="^" line="281" column="22" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" timestamp="1543850628244">
         <mark key="'" line="281" column="3" />
       </file>
@@ -99,11 +99,25 @@
       <file name="$USER_HOME$/code/android/sdk/sources/android-26/android/app/DatePickerDialog.java" timestamp="1542310278059">
         <mark key="'" line="22" column="29" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1544631605765">
+        <mark key="'" line="1142" column="37" />
+        <mark key="[" line="439" column="51" />
+        <mark key="]" line="440" column="94" />
+        <mark key="^" line="440" column="94" />
+        <mark key="." line="440" column="94" />
+      </file>
       <file name="$USER_HOME$/code/android/sdk/sources/android-26/android/app/AlertDialog.java" timestamp="1542306468502">
         <mark key="'" line="308" column="16" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/login/ResetPasswordActivity.kt" timestamp="1542216989355">
         <mark key="'" line="108" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/picker/ItemPickerViewModels.kt" timestamp="1543516971519">
+        <mark key="'" line="181" column="32" />
+        <mark key="[" line="119" column="87" />
+        <mark key="]" line="119" column="94" />
+        <mark key="." line="119" column="94" />
+        <mark key="^" line="119" column="94" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Account.java" timestamp="1544023718864">
         <mark key="'" line="4" column="34" />
@@ -124,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
-      <jump line="119" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="34" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/picker/ItemPickerViewModels.kt" />
       <jump line="178" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/picker/ItemPickerViewModels.kt" />
       <jump line="308" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
@@ -224,6 +236,8 @@
       <jump line="15" column="20" filename="$USER_HOME$/code/android/gits/2018_dev_challenges/filmlocations/app/src/main/java/com/kenton/filmlocations/ui/locationlist/adapter/LocationListAdapter.kt" />
       <jump line="281" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
+      <jump line="440" column="94" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
+      <jump line="1142" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -236,7 +250,7 @@
         <text>notes</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGlja0xpc3RlbmVyXD4=</text>
+        <text>editing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzaG93U25hY2tiYXJNZXNzYWdlKGdldFN0cmluZyhkYXRhU3RhdGUuc2NoZWR1bGVEaXNhYmxlZFJlYXNvbikpCg==</text>
@@ -276,9 +290,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGlja0xpc3RlbmVyXD4=</last-search>
+      <last-search>editing</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGlja0xpc3RlbmVyXD4=</last-pattern>
+      <last-pattern>editing</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -286,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmV2U2l0ZXNcPg==</entry>
         <entry>fragment</entry>
         <entry encoding="base64">XDxzaXRlc1Jvd1w+</entry>
         <entry>site</entry>
@@ -306,6 +319,7 @@
         <entry>setOnclick</entry>
         <entry>onClick</entry>
         <entry encoding="base64">XDxjbGlja0xpc3RlbmVyXD4=</entry>
+        <entry>editing</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
