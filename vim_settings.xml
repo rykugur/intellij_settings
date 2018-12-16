@@ -47,12 +47,12 @@
         <mark key="." line="437" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/2018_dev_challenges/codeChallenge_cara/app/src/androidTest/java/com/example/android/carasmovielist/ExampleInstrumentedTest.java" timestamp="1544819231989" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1544828517000">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="^" line="196" column="90" />
-        <mark key="." line="196" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1544977594888">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="144" column="103" />
+        <mark key="]" line="144" column="103" />
+        <mark key="^" line="145" column="3" />
+        <mark key="." line="144" column="103" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" timestamp="1543850628244">
         <mark key="'" line="281" column="3" />
@@ -148,7 +148,7 @@
       <file name="/Dummy.txt" timestamp="1542038982956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" timestamp="1544816116361">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailEditableFragment.java" timestamp="1544977573270">
         <mark key="'" line="460" column="4" />
         <mark key="[" line="618" column="0" />
         <mark key="]" line="631" column="14" />
@@ -199,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
       <jump line="159" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
       <jump line="164" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
       <jump line="213" column="61" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/fragment/ShiftDetailFragment.java" />
@@ -299,19 +298,20 @@
       <jump line="248" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="243" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="257" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="157" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCB0bXBQb3NpdGlvblZNID0gaWYgKHBvc2l0aW9uVk0gIT0gbnVsbCAmJiBwb3NpdGlvblZNLmlkICE9IDBMKSBwb3NpdGlvblZNIGVsc2UgbnVsbAo=</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>tmpPositionVM</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGb3JtYXR0ZWRTaG9ydERhdGVcPg==</text>
+        <text>viewModel.copy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBkaXNwbGF5ZWRFbmREYXRlID0gZGF0YVN0YXRlLnZpZXdNb2RlbC5lbmRUaW1lPy5sZXQgeyBlbmRUaW1lIC0+CiAgICAgIGdldERpc3BsYXllZEVuZERhdGVPck51bGwoc2VsZWN0ZWREYXRlID0gZGF0YVN0YXRlLnZpZXdNb2RlbC5kYXRlLCBzdGFydFRpbWUgPSBzdGFydFRpbWUsIGVuZFRpbWUgPSBlbmRUaW1lKQogICAgfQo=</text>
@@ -351,9 +351,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGb3JtYXR0ZWRTaG9ydERhdGVcPg==</last-search>
+      <last-search>viewModel.copy</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGb3JtYXR0ZWRTaG9ydERhdGVcPg==</last-pattern>
+      <last-pattern>viewModel.copy</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -361,7 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3TW9kZWxGYWN0b3J5XD4=</entry>
         <entry>onClickLis</entry>
         <entry>setOnclick</entry>
         <entry>onClick</entry>
@@ -381,6 +380,7 @@
         <entry encoding="base64">XDxpc09wZW5TaGlmdFw+</entry>
         <entry encoding="base64">XDxnZXRGb3JtYXR0ZWREYXRlXD4=</entry>
         <entry encoding="base64">XDxnZXRGb3JtYXR0ZWRTaG9ydERhdGVcPg==</entry>
+        <entry>viewModel.copy</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
