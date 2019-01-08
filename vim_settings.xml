@@ -97,12 +97,12 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/props/ui/GivePropsActivity.kt" timestamp="1546538208965">
         <mark key="'" line="80" column="45" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/ProjectedOvertimeViewModel.kt" timestamp="1546895289385">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/ProjectedOvertimeViewModel.kt" timestamp="1546963209726">
         <mark key="'" line="13" column="9" />
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="28" column="13" />
-        <mark key="^" line="28" column="13" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/workplaces/InviteCoworkersFragment.java" timestamp="1542132856600">
         <mark key="'" line="80" column="5" />
@@ -170,6 +170,9 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1546882216639" />
       <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.0.0.aar/50447d0f8c573f3bc3d3ec2a7ce6e583/jars/classes.jar!/com/google/firebase/messaging/FirebaseMessagingService.class" timestamp="1546619882784">
         <mark key="'" line="87" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/settings/ScheduleSettings.java" timestamp="1546963135021">
+        <mark key="'" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/base/EditableFragmentActivity.java" timestamp="1542039704981">
         <mark key="'" line="44" column="28" />
@@ -269,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
       <jump line="296" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
       <jump line="300" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
       <jump line="302" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
@@ -369,10 +371,11 @@
       <jump line="60" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/OvertimeViewModels.kt" />
       <jump line="51" column="1" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/OvertimeViewModels.kt" />
       <jump line="35" column="1" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/overtime/OvertimeDataModels.kt" />
+      <jump line="27" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/settings/ScheduleSettings.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KSA6IFBhcmNlbGFibGUgewo=</text>
+        <text encoding="base64">ICB2YWwgc2NoZWR1bGVTCg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
@@ -381,49 +384,50 @@
         <text>DataModel</text>
       </register>
       <register name="/" type="4">
-        <text>double</text>
+        <text encoding="base64">XDxtU3RhcnRPZldlZWtcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRocm93IFRyYW5zYWN0aW9uVG9vTGFyZ2VFeGNlcHRpb24oInRlc3QiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KSA6IFBhcmNlbGFibGUgewo=</text>
+        <text encoding="base64">ICB2YWwgc2NoZWR1bGVTCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqLwogIGZ1biBnZXRQcm9qZWN0ZWRPdmVydGltZUhvdXJzKCk6IERvdWJsZSB7CgogICAgcmV0dXJuIDAuMAogIH0KfQo=</text>
+        <text encoding="base64">ICB2YWwgYWNjb3VudDogQWNjb3VudCwKICB2YWwgc2NoZWR1bGUK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBPdmVydGltZVRvdGFsc0RhdGFNb2RlbCgKICB2YWwgYWN0dWFsOiBPdmVydGltZUhvdXJzRGF0YU1vZGVsLAogIHZhbCBzY2hlZHVsZWQ6IE92ZXJ0aW1lSG91cnNEYXRhTW9kZWwKKQo=</text>
+      <register name="3" type="4">
+        <text>S
+  /**</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KSA6IFBhcmNlbGFibGUgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBPdmVydGltZUFjY291bnRTZXR0aW5nc0RhdGFNb2RlbCgKICB2YWwgZGFpbHlEb3VibGVPdmVydGltZVRocmVzaG9sZDogRmxvYXQsCiAgdmFsIGRhaWx5T3ZlcnRpbWVUaHJlc2hvbGQ6IEZsb2F0LAogIHZhbCB3ZWVrbHlPdmVydGltZVRocmVzaG9sZDogRmxvYXQKKQoK</text>
+        <text encoding="base64">ICAvKioKICAgKgogICAqLwogIGZ1biBnZXRQcm9qZWN0ZWRPdmVydGltZUhvdXJzKCk6IERvdWJsZSB7CgogICAgcmV0dXJuIDAuMAogIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBPdmVydGltZVRvdGFsc0RhdGFNb2RlbCgKICB2YWwgYWN0dWFsOiBPdmVydGltZUhvdXJzRGF0YU1vZGVsLAogIHZhbCBzY2hlZHVsZWQ6IE92ZXJ0aW1lSG91cnNEYXRhTW9kZWwKKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFBhcmNlbGl6ZQpkYXRhIGNsYXNzIE92ZXJ0aW1lQWNjb3VudFNldHRpbmdzVmlld01vZGVsKAogIHZhbCBkYWlseURvdWJsZU92ZXJ0aW1lVGhyZXNob2xkOiBGbG9hdCA9IDAuMGYsCiAgdmFsIGRhaWx5T3ZlcnRpbWVUaHJlc2hvbGQ6IEZsb2F0ID0gMC4wZiwKICB2YWwgd2Vla2x5T3ZlcnRpbWVUaHJlc2hvbGQ6IEZsb2F0ID0gMC4wZgopIDogUGFyY2VsYWJsZSB7CiAgY29uc3RydWN0b3IoZGF0YU1vZGVsOiBPdmVydGltZUFjY291bnRTZXR0aW5nc0RhdGFNb2RlbCkgOiB0aGlzKAogICAgZGFpbHlEb3VibGVPdmVydGltZVRocmVzaG9sZCA9IGRhdGFNb2RlbC5kYWlseURvdWJsZU92ZXJ0aW1lVGhyZXNob2xkLAogICAgZGFpbHlPdmVydGltZVRocmVzaG9sZCA9IGRhdGFNb2RlbC5kYWlseU92ZXJ0aW1lVGhyZXNob2xkLAogICAgd2Vla2x5T3ZlcnRpbWVUaHJlc2hvbGQgPSBkYXRhTW9kZWwud2Vla2x5T3ZlcnRpbWVUaHJlc2hvbGQKICApCn0K</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBPdmVydGltZUFjY291bnRTZXR0aW5nc0RhdGFNb2RlbCgKICB2YWwgZGFpbHlEb3VibGVPdmVydGltZVRocmVzaG9sZDogRmxvYXQsCiAgdmFsIGRhaWx5T3ZlcnRpbWVUaHJlc2hvbGQ6IEZsb2F0LAogIHZhbCB3ZWVrbHlPdmVydGltZVRocmVzaG9sZDogRmxvYXQKKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
       </register>
     </registers>
     <search>
-      <last-search>double</last-search>
+      <last-search encoding="base64">XDxtU3RhcnRPZldlZWtcPg==</last-search>
       <last-offset />
-      <last-pattern>double</last-pattern>
+      <last-pattern encoding="base64">XDxtU3RhcnRPZldlZWtcPg==</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -431,11 +435,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnB1dEFyZ3VtZW50c1w+</entry>
-        <entry>fcmpush</entry>
-        <entry>firebaseinstance</entry>
-        <entry>instace</entry>
-        <entry>fcm</entry>
         <entry>intent.receive</entry>
         <entry encoding="base64">XDxFZGl0Vmlld01vZGVsXD4=</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
@@ -451,6 +450,11 @@
         <entry>totals</entry>
         <entry>hours</entry>
         <entry>double</entry>
+        <entry>excempt</entry>
+        <entry>start</entry>
+        <entry>week</entry>
+        <entry>startofwwek</entry>
+        <entry encoding="base64">XDxtU3RhcnRPZldlZWtcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
