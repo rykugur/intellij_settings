@@ -94,7 +94,7 @@
         <mark key="^" line="119" column="91" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/TemporalUtils.java" timestamp="1548259237310" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/TemporalUtils.java" timestamp="1548271162167" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListArchitecture.kt" timestamp="1548176830833">
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="0" />
@@ -342,8 +342,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" timestamp="1548259514891">
-        <mark key="'" line="14" column="21" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" timestamp="1548271138900">
+        <mark key="'" line="620" column="12" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1548265033474">
         <mark key="[" line="572" column="71" />
@@ -409,6 +409,7 @@
         <mark key="]" line="25" column="2" />
         <mark key="." line="25" column="2" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/User.java" timestamp="1548271028599" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" timestamp="1548178941662">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="16" />
@@ -438,9 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="131" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
-      <jump line="281" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="62" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="71" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="81" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
@@ -538,6 +536,9 @@
       <jump line="23" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
       <jump line="21" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
       <jump line="14" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
+      <jump line="418" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
+      <jump line="619" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
+      <jump line="620" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -550,7 +551,7 @@
         <text>shi</text>
       </register>
       <register name="/" type="4">
-        <text>localtime</text>
+        <text>account</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAR0VUKCJzaGlmdHMve2lkfT9pbmNsdWRlX29iamVjdHM9dHJ1ZSIpCg==</text>
@@ -590,17 +591,16 @@
       </register>
     </registers>
     <search>
-      <last-search>localtime</last-search>
+      <last-search>account</last-search>
       <last-offset />
-      <last-pattern>localtime</last-pattern>
+      <last-pattern>account</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1NpbmdsZVNjaGVkdWxlQWNjb3VudFw+</entry>
         <entry encoding="base64">XDxtQnVpbGRlclw+</entry>
         <entry encoding="base64">XDxLRVlfU0hJRlRfUkVRVUVTVFNfTElTVF9WTVw+</entry>
         <entry>getParcelable</entry>
@@ -620,6 +620,7 @@
         <entry>parcelize</entry>
         <entry>mm</entry>
         <entry>localtime</entry>
+        <entry>account</entry>
       </history-search>
       <history-cmd>
         <entry>207</entry>
