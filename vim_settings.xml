@@ -155,8 +155,8 @@
         <mark key="." line="330" column="74" />
         <mark key="^" line="330" column="74" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1548957506049">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" timestamp="1548960702301">
+        <mark key="'" line="160" column="11" />
         <mark key="[" line="89" column="48" />
         <mark key="]" line="89" column="67" />
         <mark key="^" line="89" column="67" />
@@ -217,8 +217,8 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="/fragment.kt" timestamp="1548877732712">
-        <mark key="[" line="0" column="63" />
+      <file name="/fragment.kt" timestamp="1548960722221">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="62" />
         <mark key="." line="0" column="62" />
         <mark key="^" line="0" column="62" />
@@ -315,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="86" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/legacy/user/UsersRepository.kt" />
-      <jump line="106" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/legacy/user/LegacyUserDatabase.kt" />
       <jump line="108" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/legacy/user/LegacyUserDatabase.kt" />
       <jump line="109" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/legacy/user/LegacyUserDatabase.kt" />
       <jump line="110" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/legacy/user/LegacyUserDatabase.kt" />
@@ -415,6 +413,8 @@
       <jump line="100" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/list/TimeOffRequestsListPresenterTest.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersRepository.kt" />
       <jump line="90" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" />
+      <jump line="159" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
+      <jump line="160" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -427,7 +427,7 @@
         <text>requests</text>
       </register>
       <register name="/" type="4">
-        <text>TABLE_</text>
+        <text encoding="base64">XDxHZW5lcmljRXJyb3JTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHZhbCB1c2VyMSA9IG1vY2s8VXNlcj4ge30K</text>
@@ -467,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TABLE_</last-search>
+      <last-search encoding="base64">XDxHZW5lcmljRXJyb3JTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>TABLE_</last-pattern>
+      <last-pattern encoding="base64">XDxHZW5lcmljRXJyb3JTdGF0ZVw+</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -477,8 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWaWV3VHlwZVw+</entry>
-        <entry>type</entry>
         <entry encoding="base64">XDxVc2VyVk1cPg==</entry>
         <entry>,</entry>
         <entry encoding="base64">XDw7XD4=</entry>
@@ -497,6 +495,8 @@
         <entry>sort</entry>
         <entry encoding="base64">XDxSZXF1ZXN0c0NhY2hlXD4=</entry>
         <entry>TABLE_</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0RGVsZXRlZFN0YXRlXD4=</entry>
+        <entry encoding="base64">XDxHZW5lcmljRXJyb3JTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>963</entry>
