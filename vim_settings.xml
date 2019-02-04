@@ -76,12 +76,12 @@
         <mark key="^" line="51" column="21" />
         <mark key="." line="51" column="21" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersDatabase.kt" timestamp="1549299932586">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersDatabase.kt" timestamp="1549301174284">
         <mark key="'" line="96" column="8" />
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="19" />
-        <mark key="." line="58" column="19" />
-        <mark key="^" line="58" column="19" />
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsPresenterTest.kt" timestamp="1548951827587">
         <mark key="'" line="57" column="89" />
@@ -119,6 +119,12 @@
         <mark key="]" line="114" column="73" />
         <mark key="^" line="114" column="73" />
         <mark key="." line="114" column="73" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/DatabaseConstants.kt" timestamp="1549301475555">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/conversations/ConversationsPresenterTest.kt" timestamp="1548951745656">
         <mark key="'" line="82" column="57" />
@@ -227,10 +233,10 @@
         <mark key="." line="135" column="36" />
         <mark key="^" line="135" column="36" />
       </file>
-      <file name="/fragment.kt" timestamp="1549300482197">
-        <mark key="[" line="0" column="104" />
-        <mark key="]" line="0" column="70" />
-        <mark key="." line="0" column="70" />
+      <file name="/fragment.kt" timestamp="1549301403860">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="70" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/TimeOffRequestDetailArchitecture.kt" timestamp="1548954647703">
@@ -239,7 +245,7 @@
         <mark key="." line="82" column="4" />
         <mark key="^" line="82" column="4" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersRepository.kt" timestamp="1549300221505" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersRepository.kt" timestamp="1549301351107" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/DeclinedCoworkersPresenterTest.kt" timestamp="1548951950855">
         <mark key="'" line="49" column="62" />
         <mark key="[" line="36" column="0" />
@@ -430,13 +436,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>legacy_users</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>legacy_users</text>
       </register>
       <register name="/" type="4">
         <text>room</text>
@@ -485,7 +491,7 @@
       <last-replace>?,</last-replace>
       <last-substitute>Interval</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
