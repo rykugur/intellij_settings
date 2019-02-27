@@ -135,6 +135,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListAdapter.kt" timestamp="1551302299583">
+        <mark key="'" line="101" column="31" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="33" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/PendingCoworkersPresenterTest.kt" timestamp="1548951966410">
         <mark key="'" line="67" column="20" />
         <mark key="[" line="52" column="82" />
@@ -315,8 +321,8 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="45" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1551118507080">
-        <mark key="'" line="412" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1551302391894">
+        <mark key="'" line="67" column="34" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListFragment.kt" timestamp="1551118581965">
         <mark key="'" line="70" column="4" />
@@ -674,6 +680,7 @@
         <mark key="." line="16" column="1" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/util/formatting/TemporalFormatter.java" timestamp="1551302561613" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1551200463871">
         <mark key="[" line="361" column="4" />
         <mark key="]" line="361" column="4" />
@@ -889,10 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ProjectedOvertimeViewModel.kt" />
-      <jump line="108" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ProjectedOvertimeViewModel.kt" />
-      <jump line="124" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ProjectedOvertimeViewModel.kt" />
-      <jump line="139" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ProjectedOvertimeViewModel.kt" />
       <jump line="162" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ProjectedOvertimeViewModel.kt" />
       <jump line="23" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ProjectedOvertimeViewModel.kt" />
       <jump line="24" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ProjectedOvertimeViewModel.kt" />
@@ -989,6 +992,10 @@
       <jump line="8" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
       <jump line="223" column="96" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
       <jump line="215" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
+      <jump line="101" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListAdapter.kt" />
+      <jump line="84" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
+      <jump line="215" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
+      <jump line="67" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1001,7 +1008,7 @@
         <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>employeevm</text>
+        <text>timerange</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcHJpdmF0ZSBmdW4gYnVpbGRDb21iaW5lZENoaXBTdHJpbmcoaG91cnNPdmVyTWF4OiBEb3VibGUsIG92ZXJ0aW1lOiBEb3VibGUpOiBTdHJpbmcgPQogICAgICAgIGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm92ZXJ0aW1lX2NoaXBfY29tYmluZWQsIGhvdXJzT3Zlck1heC50b0ludCgpLCBvdmVydGltZS50b0ludCgpKQoKICAgICAgcHJpdmF0ZSBmdW4gYnVpbGRNYXhIb3Vyc0NoaXBTdHJpbmcoaG91cnNPdmVyTWF4OiBEb3VibGUpOiBTdHJpbmcgPQogICAgICAgIGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm92ZXJ0aW1lX2NoaXBfcGx1c19tYXgsIGhvdXJzT3Zlck1heC50b0ludCgpKQoKICAgICAgcHJpdmF0ZSBmdW4gYnVpbGRPdmVydGltZUNoaXBTdHJpbmcob3ZlcnRpbWU6IERvdWJsZSk6IFN0cmluZyA9CiAgICAgICAgY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcub3ZlcnRpbWVfY2hpcF9wbHVzX290LCBvdmVydGltZS50b0ludCgpKQo=</text>
@@ -1041,9 +1048,9 @@
       </register>
     </registers>
     <search>
-      <last-search>employeevm</last-search>
+      <last-search>timerange</last-search>
       <last-offset />
-      <last-pattern>employeevm</last-pattern>
+      <last-pattern>timerange</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>Interval</last-substitute>
       <last-dir>1</last-dir>
@@ -1051,9 +1058,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaGlmdFZpZXdNb2RlbFw+</entry>
-        <entry>shift:</entry>
-        <entry>named</entry>
         <entry encoding="base64">PDw8PA==</entry>
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry encoding="base64">PDw8</entry>
@@ -1071,6 +1075,9 @@
         <entry encoding="base64">XDxPdmVydGltZVw+</entry>
         <entry>getConflict</entry>
         <entry>employeevm</entry>
+        <entry>request_time</entry>
+        <entry>time</entry>
+        <entry>timerange</entry>
       </history-search>
       <history-cmd>
         <entry>882</entry>
