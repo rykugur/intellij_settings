@@ -222,8 +222,8 @@
         <mark key="." line="82" column="57" />
         <mark key="^" line="82" column="57" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1551895652288">
-        <mark key="'" line="202" column="25" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1551986341947">
+        <mark key="'" line="557" column="25" />
         <mark key="[" line="425" column="0" />
         <mark key="]" line="425" column="0" />
         <mark key="." line="425" column="0" />
@@ -387,11 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
-      <jump line="245" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
-      <jump line="95" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
-      <jump line="227" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
       <jump line="244" column="61" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
       <jump line="246" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
       <jump line="33" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateActivity.kt" />
@@ -487,6 +482,11 @@
       <jump line="131" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="153" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="224" column="61" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
+      <jump line="490" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="524" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="530" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="544" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="557" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -499,7 +499,7 @@
         <text>Type</text>
       </register>
       <register name="/" type="4">
-        <text>isOtShift</text>
+        <text>picker</text>
       </register>
       <register name="0" type="4">
         <text>override val overtimeViewModel: OvertimeViewModel</text>
@@ -539,9 +539,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isOtShift</last-search>
+      <last-search>picker</last-search>
       <last-offset />
-      <last-pattern>isOtShift</last-pattern>
+      <last-pattern>picker</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>Interval</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +553,6 @@
         <entry>%d</entry>
         <entry>%2</entry>
         <entry>5a133</entry>
-        <entry>picker</entry>
         <entry>generic</entry>
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry encoding="base64">PDw8PA==</entry>
@@ -569,6 +568,7 @@
         <entry>toast</entry>
         <entry encoding="base64">XDxvdFNoaWZ0QXNzaWduRW5hYmxlZFw+</entry>
         <entry>isOtShift</entry>
+        <entry>picker</entry>
       </history-search>
       <history-cmd>
         <entry>882</entry>
