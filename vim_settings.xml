@@ -108,12 +108,18 @@
         <mark key="^" line="482" column="75" />
         <mark key="." line="424" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerAdapter.kt" timestamp="1551896318115">
-        <mark key="'" line="203" column="48" />
-        <mark key="[" line="249" column="25" />
-        <mark key="]" line="249" column="35" />
-        <mark key="." line="249" column="35" />
-        <mark key="^" line="249" column="35" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerAdapter.kt" timestamp="1551970552192">
+        <mark key="'" line="305" column="98" />
+        <mark key="[" line="293" column="38" />
+        <mark key="]" line="293" column="37" />
+        <mark key="." line="293" column="37" />
+        <mark key="^" line="293" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1551970457158">
+        <mark key="[" line="231" column="65" />
+        <mark key="]" line="231" column="68" />
+        <mark key="." line="231" column="68" />
+        <mark key="^" line="231" column="68" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/legacy/user/UserDatabase.kt" timestamp="1548703946975">
         <mark key="[" line="80" column="40" />
@@ -134,12 +140,12 @@
         <mark key="^" line="52" column="102" />
         <mark key="." line="52" column="102" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" timestamp="1551895126654">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" timestamp="1551970480122">
         <mark key="'" line="132" column="8" />
-        <mark key="[" line="211" column="65" />
-        <mark key="]" line="211" column="82" />
-        <mark key="." line="211" column="82" />
-        <mark key="^" line="211" column="82" />
+        <mark key="[" line="309" column="70" />
+        <mark key="]" line="309" column="70" />
+        <mark key="." line="309" column="70" />
+        <mark key="^" line="309" column="107" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersDatabase.kt" timestamp="1549301174284">
         <mark key="'" line="96" column="8" />
@@ -307,7 +313,6 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/list/ShiftRequestsListFragment.kt" timestamp="1551714239920">
         <mark key="'" line="71" column="35" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/shift/fragment/ShiftSwapPresenterTest.java" timestamp="1551454030327" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/ShiftDatabase.kt" timestamp="1548432017311">
         <mark key="[" line="110" column="26" />
         <mark key="]" line="110" column="25" />
@@ -826,7 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="65" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="207" column="66" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="193" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
@@ -926,52 +930,54 @@
       <jump line="304" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="509" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
       <jump line="202" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
+      <jump line="305" column="98" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerAdapter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wwasted</text>
+        <text>conflict.hoursOverMax</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>wwasted</text>
+        <text>conflict.hoursOverMax</text>
       </register>
       <register name="/" type="4">
         <text>reason</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF2YWlsYWJpbGl0aWVzPy5maWx0ZXIgeyBpdC51c2VySWQgPT0gZW1wbG95ZWVWTS51c2VyLmlkIH0/LmZpcnN0T3JOdWxsIHsgaXQuaGFzQW55T3ZlcmxhcChzaGlmdCkgfT8ubGV0IHsgdHJ1ZSB9CiAgICAgICAgICAgID86IGZhbHNlIC0+IENvbmZsaWN0VHlwZS5VbmF2YWlsYWJsZVByZWZlcmVuY2UKICAgICAgICAgIG92ZXJ0aW1lVmlld01vZGVsICE9IG51bGwgLT4gZ2V0T3ZlcnRpbWVDb25mbGljdE9yTnVsbChlbXBsb3llZVZNKQo=</text>
+      <register name="0" type="4">
+        <text>override val overtimeViewModel: OvertimeViewModel</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBjb25mbGkgPSBvdmVydGltZUNvbmZsaWN0Lm92ZXJ0aW1lVmlld01vZGVsCg==</text>
+      <register name="1" type="4">
+        <text>val hoursOverMax: Double,
+                      val overtimeHours: Double</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICB2YWwgb3ZlcnRpbWVWaWV3TW9kZWw6IE92ZXJ0aW1lVmlld01vZGVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgT3ZlcnRpbWVDb25mbGljdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIERldGVybWluZXMgaWYgYW55IGF2YWlsYWJpbGl0eSBwcmVmZXJlbmNlcyBvdmVybGFwIHRoZSBnaXZlbiBzaGlmdC4KICAgICAqLwogICAgcHJpdmF0ZSBmdW4gQXZhaWxhYmlsaXR5Lmhhc0FueU92ZXJsYXAoc2hpZnQ6IFNoaWZ0Vmlld01vZGVsPyk6IEJvb2xlYW4gewogICAgICB2YWwgc3RhcnREYXRlID0gdGhpcy5zdGFydERhdGUKICAgICAgdmFsIGVuZERhdGUgPSB0aGlzLmVuZERhdGUKCiAgICAgIGlmIChzdGFydERhdGUgIT0gbnVsbCAmJiBlbmREYXRlICE9IG51bGwpIHsKICAgICAgICB0aGlzLml0ZW1zLmZpcnN0T3JOdWxsIHsKICAgICAgICAgIHZhbCBpbnRlcnZhbCA9IEludGVydmFsKHN0YXJ0RGF0ZS50b0RhdGVUaW1lKGl0LnN0YXJ0VGltZSksIGVuZERhdGUudG9EYXRlVGltZShpdC5lbmRUaW1lKSkKICAgICAgICAgIGludGVydmFsLm92ZXJsYXBzU2hpZnQoc2hpZnQpCiAgICAgICAgfT8ubGV0IHsgcmV0dXJuIHRydWUgfQogICAgICB9CgogICAgICByZXR1cm4gZmFsc2UKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAtPiBudWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgPy5maXJzdE9yTnVsbCB7IGl0Lmhhc0FueU92ZXJsYXAoc2hpZnQpIH0/LmxldCB7IHRydWUgfQovLyAgICAgICAgICAgID86IGZhbHNlIC0+IENvbmZsaWN0VHlwZS5VbmF2YWlsYWJsZVByZWZlcmVuY2UKLy8gICAgICAgIHdoZW4gewovLyAgICAgICAgICB0aW1lT2ZmUmVxdWVzdHM/LmZpbHRlciB7IGl0LnVzZXJJZCA9PSBlbXBsb3llZVZNLnVzZXIuaWQgfT8ubGV0IHsgcmVxdWVzdHMgLT4KLy8gICAgICAgICAgICB2YWwgb3ZlcmxhcHBpbmdSZXF1ZXN0cyA9IHJlcXVlc3RzLmZpbHRlciB7IGl0LmludGVydmFsKCk/Lm92ZXJsYXBzU2hpZnQoc2hpZnQpID09IHRydWUgfQovLyAgICAgICAgICAgIGlmIChvdmVybGFwcGluZ1JlcXVlc3RzLmlzTm90RW1wdHkoKSkgQ29uZmxpY3RUeXBlLkFwcHJvdmVkVGltZU9mZihvdmVybGFwcGluZ1JlcXVlc3RzKSBlbHNlIG51bGwKLy8gICAgICAgICAgfQovLyAgICAgICAgICB0aW1lT2ZmUmVxdWVzdHM/LmZpbHRlciB7IGl0LnVzZXJJZCA9PSBlbXBsb3llZVZNLnVzZXIuaWQgfT8uYW55IHsgaXQuaW50ZXJ2YWwoKT8ub3ZlcmxhcHNTaGlmdChzaGlmdCkgPT0gdHJ1ZSB9ID09IHRydWUgLT4gQ29uZmxpY3RUeXBlLkFwcHJvdmVkVGltZU9mZgovLyAgICAgICAgICBzaGlmdHM/LmZpbHRlciB7Ci8vICAgICAgICAgICAgaXQudXNlcklkID09IGVtcGxveWVlVk0udXNlci5pZAovLyAgICAgICAgICAgICAgLy8gaWdub3JlIHRoZSBzaGlmdCBiZWluZyBlZGl0ZWQgZm9yIHB1cnBvc2VzIG9mIGRldGVybWluaW5nIHdoZXRoZXIgdG8gc2hvdyBbQ29uZmxpY3RUeXBlLkFzc2lnbmVkU2hpZnRzXSBjb25mbGljdHMKLy8gICAgICAgICAgICAgICYmIGl0LmlkICE9IGRhdGEuc2hpZnQ/LmlkCi8vICAgICAgICAgIH0KLy8gICAgICAgICAgICA/LmFueSB7IGl0LmludGVydmFsKCkub3ZlcmxhcHNTaGlmdChzaGlmdCkgfSA9PSB0cnVlIC0+IENvbmZsaWN0VHlwZS5Bc3NpZ25lZFNoaWZ0cwovLyAgICAgICAgICBhdmFpbGFiaWxpdGllcz8uZmlsdGVyIHsgaXQudXNlcklkID09IGVtcGxveWVlVk0udXNlci5pZCB9Py5maXJzdE9yTnVsbCB7IGl0Lmhhc0FueU92ZXJsYXAoc2hpZnQpIH0/LmxldCB7IHRydWUgfQovLyAgICAgICAgICAgID86IGZhbHNlIC0+IENvbmZsaWN0VHlwZS5VbmF2YWlsYWJsZVByZWZlcmVuY2UKLy8gICAgICAgICAgb3ZlcnRpbWVWaWV3TW9kZWwgIT0gbnVsbCAtPiBnZXRPdmVydGltZUNvbmZsaWN0T3JOdWxsKGVtcGxveWVlVk0pCi8vICAgICAgICAgIGVsc2UgLT4gbnVsbAovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydCAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBjb25mbGkgPSBvdmVydGltZUNvbmZsaWN0Lm92ZXJ0aW1lVmlld01vZGVsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG92ZXJ0aW1lVmlld01vZGVsICE9IG51bGwgLT4gZ2V0T3ZlcnRpbWVDb25mbGljdE9yTnVsbChlbXBsb3llZVZNKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgT3ZlcnRpbWVDb25mbGljdC4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
