@@ -126,6 +126,9 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Position.java" timestamp="1552332269639">
+        <mark key="'" line="41" column="19" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/CoworkersDeclinedSwapsPresenterTest.kt" timestamp="1548951827587">
         <mark key="'" line="57" column="89" />
         <mark key="[" line="35" column="0" />
@@ -197,6 +200,10 @@
         <mark key="]" line="46" column="32" />
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/gson/WhenIWorkGsonHelper.java" timestamp="1552335053617">
+        <mark key="'" line="252" column="55" />
+        <mark key="[" line="261" column="2" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftAssignConflictConfirmationDialogFragment.kt" timestamp="1552079997087">
         <mark key="[" line="2" column="0" />
@@ -382,6 +389,9 @@
         <mark key="^" line="41" column="171" />
         <mark key="." line="41" column="171" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1552334899188">
+        <mark key="'" line="36" column="13" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/BaseEmployeePickerListFragment.kt" timestamp="1552316678445">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -404,10 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="7" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
-      <jump line="90" column="61" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
-      <jump line="91" column="96" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
-      <jump line="83" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
       <jump line="101" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
       <jump line="465" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
@@ -504,6 +510,10 @@
       <jump line="170" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
       <jump line="172" column="57" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
       <jump line="173" column="78" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
+      <jump line="41" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Position.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/gson/WhenIWorkGsonHelper.java" />
+      <jump line="252" column="55" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/gson/WhenIWorkGsonHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -516,7 +526,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>activit</text>
+        <text>under</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25DcmVhdGVEaWFsb2coc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KTogRGlhbG9nIHsKICAgIHZhbCBkaWFsb2cgPSBzdXBlci5vbkNyZWF0ZURpYWxvZyhzYXZlZEluc3RhbmNlU3RhdGUpCgogICAgZGlhbG9nLnNldE9uS2V5TGlzdGVuZXIgeyBfLCBrZXlDb2RlLCBfIC0+CiAgICAgIGlmIChrZXlDb2RlID09IEtleUV2ZW50LktFWUNPREVfQkFDSykgewogICAgICAgIGRpc21pc3NEaWFsb2coKQogICAgICAgIHRydWUKICAgICAgfSBlbHNlIGZhbHNlCiAgICB9CgogICAgcmV0dXJuIGRpYWxvZwogIH0K</text>
@@ -556,9 +566,9 @@
       </register>
     </registers>
     <search>
-      <last-search>activit</last-search>
+      <last-search>under</last-search>
       <last-offset />
-      <last-pattern>activit</last-pattern>
+      <last-pattern>under</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>Interval</last-substitute>
       <last-dir>1</last-dir>
@@ -566,9 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+Pg==</entry>
-        <entry encoding="base64">PDw8PA==</entry>
-        <entry encoding="base64">XDxjb2xvclBpY2tlckRpYWxvZ0ZyYWdtZW50XD4=</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>tasks</entry>
         <entry>single</entry>
@@ -586,6 +593,9 @@
         <entry encoding="base64">XDxsb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxwcmVzZW50ZXJcPg==</entry>
         <entry>activit</entry>
+        <entry encoding="base64">XDxtUG9zaXRpb25cPg==</entry>
+        <entry>snake</entry>
+        <entry>under</entry>
       </history-search>
       <history-cmd>
         <entry>882</entry>
