@@ -82,12 +82,15 @@
         <mark key="." line="65" column="116" />
         <mark key="^" line="65" column="116" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/data/AvailabilityDatabase.kt" timestamp="1552674588986">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/data/AvailabilityDatabase.kt" timestamp="1552674741625">
         <mark key="'" line="38" column="30" />
-        <mark key="[" line="114" column="53" />
-        <mark key="]" line="114" column="51" />
-        <mark key="." line="114" column="51" />
-        <mark key="^" line="114" column="51" />
+        <mark key="[" line="122" column="4" />
+        <mark key="]" line="122" column="7" />
+        <mark key="." line="122" column="7" />
+        <mark key="^" line="122" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/user/fragment/UserDetailModule.kt" timestamp="1552674658123">
+        <mark key="'" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/DatabaseConstants.kt" timestamp="1552669200526">
         <mark key="[" line="5" column="0" />
@@ -187,12 +190,12 @@
         <mark key="." line="59" column="63" />
         <mark key="^" line="59" column="63" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftAssignConflictConfirmationDialogFragment.kt" timestamp="1552665130193">
-        <mark key="'" line="136" column="10" />
-        <mark key="[" line="128" column="59" />
-        <mark key="]" line="128" column="59" />
-        <mark key="^" line="128" column="59" />
-        <mark key="." line="128" column="59" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftAssignConflictConfirmationDialogFragment.kt" timestamp="1552674949332">
+        <mark key="'" line="135" column="10" />
+        <mark key="[" line="132" column="57" />
+        <mark key="]" line="132" column="56" />
+        <mark key="^" line="132" column="56" />
+        <mark key="." line="132" column="56" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1552499966107">
         <mark key="'" line="255" column="71" />
@@ -234,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Availability.java" />
       <jump line="215" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Availability.java" />
       <jump line="218" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Availability.java" />
       <jump line="220" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/Availability.java" />
@@ -334,64 +336,65 @@
       <jump line="36" column="77" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/data/AvailabilityRepository.kt" />
       <jump line="44" column="62" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/data/AvailabilityRepository.kt" />
       <jump line="29" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/data/AvailabilityRepository.kt" />
+      <jump line="26" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/user/fragment/UserDetailModule.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.toDateTimeToday()</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QEVtYmVkZGVkIA==</text>
+        <text>.toDateTimeToday()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBdmFpbGFiaWxpdGllc0Zyb21DYWNoZVw+</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgKiAgICAgICAgICAgICAgICAKICAgKiBAZGVwcmVjYXRlZCB1c2Uge0BsaW5rIEZ1bGx5QXV0aEFQSSNsaXN0QXZhaWxhYmlsaXR5RXZlbnREYXRhTW9kZWxzKE1hcCl9IGluc3RlYWQuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGNvbmZsaWN0aW5nQXZhaWxhYmlsaXR5SXRlbSA9IGNvbmZsaWN0QmVhbi5jb25mbGljdGluZ0F2YWlsYWJpbGl0eUl0ZW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyByb29tIHJlcXVpcmVzIGFuIGVtcHR5IGNvbnN0cnVjdG9yIGZvciBlbWJlZGRlZCBvYmplY3RzLCBoYWNrIHRvIGdldCBpdCB0byBidWlsZCBidXQgd2UnbGwKICAvLyBuZXZlciB1c2UgaXQKICBASWdub3JlIGNvbnN0cnVjdG9yKCk6IHRoaXMoRGF0ZVRpbWUubm93KCksIERhdGVUaW1lLm5vdygpKQo=</text>
+        <text encoding="base64">Ly8gIHJldHVybiBnc29uLmZyb21Kc29uKGl0LCBvYmplY3QgOiBUeXBlVG9rZW48QXJyYXlMaXN0PFBvc2l0aW9uPj4oKSB7fS50eXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVudGl0eQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
-      <register name="4" type="4">
-        <text>)
-  
-  constructor</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>start: DateTime = DateTime.now(),
-                      end: DateTime = DateTime.now()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyByb29tIHJlcXVpcmVzIGFuIGVtcHR5IGNvbnN0cnVjdG9yIGZvciBlbWJlZGRlZCBvYmplY3RzLCBoYWNrIHRvIGdldCBpdCB0byBidWlsZCBidXQgd2UnbGwKICAvLyBuZXZlciB1c2UgaXQKICBASWdub3JlIGNvbnN0cnVjdG9yKCk6IHRoaXMoRGF0ZVRpbWUubm93KCksIERhdGVUaW1lLm5vdygpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">QEVudGl0eQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text>)
+  
+  constructor</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdHJkZHVjdG9yKHN0YXJ0VGltZTogRGF0ZVRpbWUsIGVuZFRpbWU6IERhdGVUaW1lKTogdGhpcyhzdGFydCwgZW5kKQo=</text>
+      <register name="8" type="4">
+        <text>start: DateTime = DateTime.now(),
+                      end: DateTime = DateTime.now()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIEF2YWlsYWJpbGl0eUV2ZW50Vmlld01vZGVscy5pbnRlcnZhbCgpOiBJbnRlcnZhbCA9IEludGVydmFsKHN0YXJ0RGF0ZSwgZW5kRGF0ZSkKCiAgICBwcml2YXRlIGZ1biBBdmFpbGFiaWxpdHlJdGVtVk0uaW50ZXJ2YWwoKTogSW50ZXJ2YWwgPSB3aXRoKERhdGVUaW1lLm5vdygpKSB7CiAgICAgIEludGVydmFsKHdpdGhUaW1lKHN0YXJ0VGltZSksIHdpdGhUaW1lKGVuZFRpbWUpKQogICAgfQoK</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRBdmFpbGFiaWxpdGllc0Zyb21DYWNoZVw+</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBdmFpbGFiaWxpdGllc0Zyb21DYWNoZVw+</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>linkedusers</last-substitute>
       <last-dir>1</last-dir>
@@ -399,7 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>linkedusers</entry>
         <entry encoding="base64">XDxsaW5rZWRVc2Vyc1w+</entry>
         <entry encoding="base64">XDx0YWJzXD4=</entry>
         <entry>linked</entry>
@@ -419,6 +421,7 @@
         <entry encoding="base64">XDxhdmFpbGFiaWxpdHlldmVudHNcPg==</entry>
         <entry encoding="base64">XDxBdmFpbGFiaWxpdHlEYXRhTW9kZWxcPg==</entry>
         <entry encoding="base64">XDxnZXRBdmFpbGFiaWxpdGllc0Zyb21DYWNoZVw+</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>882</entry>
