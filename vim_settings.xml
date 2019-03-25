@@ -70,12 +70,12 @@
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerAdapter.kt" timestamp="1553267216604" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar!/android/support/annotation/VisibleForTesting.class" timestamp="1553191582448" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1553269285388">
-        <mark key="'" line="216" column="26" />
-        <mark key="[" line="121" column="52" />
-        <mark key="]" line="121" column="64" />
-        <mark key="." line="121" column="64" />
-        <mark key="^" line="121" column="64" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1553527836899">
+        <mark key="'" line="155" column="52" />
+        <mark key="[" line="163" column="29" />
+        <mark key="]" line="163" column="34" />
+        <mark key="." line="163" column="34" />
+        <mark key="^" line="163" column="34" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/AvailabilityRepository.java" timestamp="1552499952860">
         <mark key="[" line="33" column="91" />
@@ -83,7 +83,7 @@
         <mark key="^" line="36" column="34" />
         <mark key="." line="36" column="34" />
       </file>
-      <file name="/fragment.kt" timestamp="1553267442049">
+      <file name="/fragment.kt" timestamp="1553526668479">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
@@ -141,7 +141,7 @@
         <mark key="." line="59" column="63" />
         <mark key="^" line="59" column="63" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftAssignConflictConfirmationDialogFragment.kt" timestamp="1553269173979">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftAssignConflictConfirmationDialogFragment.kt" timestamp="1553526419981">
         <mark key="'" line="135" column="10" />
         <mark key="[" line="156" column="61" />
         <mark key="]" line="156" column="87" />
@@ -279,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/shift/ShiftDetailActivity.java" />
       <jump line="189" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
       <jump line="701" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="313" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/AddShiftDialogFragment.java" />
@@ -379,52 +378,53 @@
       <jump line="42" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/position/fragment/PositionDetailFragment.kt" />
       <jump line="121" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/position/fragment/PositionDetailFragment.kt" />
       <jump line="216" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
+      <jump line="155" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>overtimeHours</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgcmV0dXJuIChob3VycyArIG5ld0hvdXJzKSAtIG1heEhvdXJzCg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>overtimeHours</text>
+        <text>0.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNwb3NhYmxlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gYnVpbGQgdGhlIGludGVydmFsIGZvciB0aGlzIHdlZWsKICAgICAgdmFsIHdlZWtJbnRlcnZhbCA9IEludGVydmFsKGl0LCBpdC5wbHVzRGF5cyg3KSkKICAgICAgLy8gaWYgdGhlIHdlZWtJbnRlcnZhbCBjb250YWlucyB0aGUgY3VycmVudCBkYXRlL3RpbWUsIHJldHVybiBpdAogICAgICB3ZWVrSW50ZXJ2YWwuY29udGFpbnMobm93KQogICAgfS52YWx1ZXMuZmlyc3RPck51bGwoKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gZW1wbG95ZWUgaXMgYWxyZWFkeSBvdmVyIHRoZWlyIG1heCwgcmV0dXJuIG5ld0hvdXJzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBUaGUgc2hpZnQgdGhhdCBpcyBjb25mbGljdGluZyB3aXRoCiAgICovCg==</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIChob3VycyArIG5ld0hvdXJzKSAtIG1heEhvdXJzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBudW1iZXIgb2YgW25ld0hvdXJzXSB0byBhbiBlbXBsb3llZS4K</text>
+        <text encoding="base64">ICAgKgogICAqIEV4YW1wbGU6CiAgICoKICAgKiAtIFVzZXIncyBtYXhIb3VycyBhcmUgMjAKICAgKiAtIEFscmVhZHkgaGFzIDIyIGhvdXJzIHNjaGVkdWxlZAogICAqIC0gU2hpZnQgd2UncmUgYXNzaWduaW5nIGlzIDYgaG91cnMgbG9uZwogICAqCiAgICogUmV0dXJuIDgsIHdoaWNoIGlzICgyMis2KS0yMCA9IDI4LTIwID0gOAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYXhIb3VycyA9IGdldFZpZXdNb2RlbEZvclVzZXIodXNlcklkKT8ubWF4SG91cnMgPzogcmV0dXJuIDAuMAogICAgdmFsIGhvdXJzID0gZ2V0V2Vla1NjaGVkdWxlZEhvdXJzKHVzZXJJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhleSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGJ1aWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgKiBPVC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgKiBFeGFtcGxlOgogICAqCiAgICogLSBVc2VyJ3MgbWF4SG91cnMgYXJlIDIwCiAgICogLSBBbHJlYWR5IGhhcyAyMiBob3VycyBzY2hlZHVsZWQKICAgKiAtIFNoaWZ0IHdlJ3JlIGFzc2lnbmluZyBpcyA2IGhvdXJzIGxvbmcKICAgKgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNjaGVkdWxlZFJPVCA9IGdldE5ld1JlZ3VsYXJPdmVydGltZSh1c2VySWQsIG5ld0hvdXJzKQo=</text>
+        <text encoding="base64">ICAgKiBSZXR1cm4gNCwgd2hpY2ggaXMgNi0oY3VycmVudEhvdXJzT3Zlck1heCk9Ni0yPTQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgCg==</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIGlmIChjdXJyZW50SG91cnNPdmVyTWF4ID49IDAuMCkgewovLyAgICAgIG5ld0hvdXJzIC0gY3VycmVudEhvdXJzT3Zlck1heAovLyAgICB9IGVsc2UgMC4wCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
