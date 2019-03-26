@@ -176,12 +176,12 @@
         <mark key="." line="662" column="0" />
         <mark key="^" line="696" column="56" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" timestamp="1553610766458">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" timestamp="1553611720658">
         <mark key="'" line="283" column="60" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="^" line="350" column="52" />
-        <mark key="." line="353" column="0" />
+        <mark key="[" line="284" column="31" />
+        <mark key="]" line="284" column="42" />
+        <mark key="^" line="284" column="42" />
+        <mark key="." line="284" column="42" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/AvailabilityEventViewModels.kt" timestamp="1552672063632">
         <mark key="[" line="75" column="3" />
@@ -195,7 +195,8 @@
         <mark key="^" line="16" column="109" />
         <mark key="." line="16" column="109" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1553189477254">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1553612282165">
+        <mark key="'" line="496" column="54" />
         <mark key="[" line="1319" column="44" />
         <mark key="]" line="1319" column="45" />
         <mark key="." line="1319" column="45" />
@@ -245,9 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
-      <jump line="200" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
-      <jump line="205" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
       <jump line="206" column="57" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
       <jump line="208" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
       <jump line="213" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" />
@@ -345,6 +343,9 @@
       <jump line="283" column="60" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/CreateRequestActivity.kt" />
       <jump line="6" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
       <jump line="212" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerActivity.kt" />
+      <jump line="1325" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
+      <jump line="1229" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
+      <jump line="496" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,7 +358,7 @@
         <text encoding="base64">IGVtcGxveWVlcy5pc05vdEVtcHR5KCk=</text>
       </register>
       <register name="/" type="4">
-        <text>finish</text>
+        <text>[WIW</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gZW1wbG95ZWUgaXMgYWxyZWFkeSBvdmVyIHRoZWlyIG1heCwgcmV0dXJuIG5ld0hvdXJzCg==</text>
@@ -397,9 +398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>finish</last-search>
+      <last-search>[WIW</last-search>
       <last-offset />
-      <last-pattern>finish</last-pattern>
+      <last-pattern>[WIW</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>finish</last-substitute>
       <last-dir>1</last-dir>
@@ -407,10 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRUb2RheVNjaGVkdWxlZEhvdXJzXD4=</entry>
-        <entry encoding="base64">XDwvXD4=</entry>
-        <entry encoding="base64">XDxnZXRWaWV3TW9kZWxGb3JVc2VyXD4=</entry>
-        <entry>filterable</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxPdmVydGltZURheXNWaWV3TW9kZWxcPg==</entry>
         <entry>forPattern</entry>
@@ -427,6 +424,10 @@
         <entry encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</entry>
         <entry encoding="base64">XDxUWVBFX1VTRVJcPg==</entry>
         <entry>finish</entry>
+        <entry>com.thisclicks.wiw.fcm.ACTION_REQUEST</entry>
+        <entry>\n-- \n[%1$s] \n[WIW v%2$s] \n[Android v%3$s]</entry>
+        <entry>]WIW</entry>
+        <entry>[WIW</entry>
       </history-search>
       <history-cmd>
         <entry>882</entry>
