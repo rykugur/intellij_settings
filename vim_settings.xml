@@ -81,7 +81,6 @@
         <mark key="." line="51" column="67" />
         <mark key="^" line="51" column="67" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar!/android/support/annotation/VisibleForTesting.class" timestamp="1553191582448" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1553696401574">
         <mark key="'" line="117" column="19" />
         <mark key="[" line="163" column="29" />
@@ -95,11 +94,11 @@
         <mark key="^" line="36" column="34" />
         <mark key="." line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1553708217254">
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="^" line="272" column="90" />
-        <mark key="." line="275" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateArchitecture.kt" timestamp="1553708495557">
+        <mark key="[" line="256" column="37" />
+        <mark key="]" line="256" column="40" />
+        <mark key="^" line="256" column="40" />
+        <mark key="." line="256" column="40" />
       </file>
       <file name="/fragment.kt" timestamp="1553707734549">
         <mark key="[" line="0" column="0" />
@@ -205,12 +204,12 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1553707925803">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" timestamp="1553708764559">
         <mark key="'" line="171" column="67" />
-        <mark key="[" line="173" column="87" />
-        <mark key="]" line="174" column="60" />
-        <mark key="." line="174" column="60" />
-        <mark key="^" line="174" column="60" />
+        <mark key="[" line="172" column="14" />
+        <mark key="]" line="172" column="14" />
+        <mark key="." line="172" column="14" />
+        <mark key="^" line="176" column="13" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/picker/ItemPickerActivity.java" timestamp="1553623206388">
         <mark key="[" line="78" column="0" />
@@ -225,6 +224,7 @@
         <mark key="." line="38" column="1" />
         <mark key="^" line="38" column="1" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/shift/fragment/ShiftSwapPresenterTest.java" timestamp="1553708590766" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/conflicts/ConflictUtils.kt" timestamp="1553698175241">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -303,7 +303,6 @@
         <mark key="." line="295" column="15" />
         <mark key="^" line="295" column="15" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/WhenIWorkRestAdapter.java" timestamp="1553189300947" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeUtils.kt" timestamp="1553697612248">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="43" column="73" />
@@ -311,8 +310,6 @@
         <mark key="." line="43" column="83" />
         <mark key="^" line="43" column="83" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/proguard-rules.pro" timestamp="1553621423234" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/BaseEmployeePickerListFragment.kt" timestamp="1553701044896" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/query/OvertimeQueryKeys.kt" timestamp="1553096494571">
         <mark key="'" line="31" column="324" />
         <mark key="[" line="3" column="0" />
@@ -442,14 +439,14 @@
       <jump line="171" column="67" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>selectedAssigned</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>employeevm</text>
@@ -458,34 +455,34 @@
         <text encoding="base64">ICAgIHZhbCBpc09wZW4gPSBzZWxlY3RlZEFzc2lnbmVlIGlzIE9wZW5TaGlmdFVzZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzZWxlY3RlZFVzZXI6IEVtcGxveWVlVk0/ID0gZGF0YQogICAgICAgICAgICA/LmdldFBhcmNlbGFibGVBcnJheUxpc3RFeHRyYTxFbXBsb3llZVZNPihLRVlfU0VMRUNURURfRU1QTE9ZRUVTKQogICAgICAgICAgICA/LmZpcnN0T3JOdWxsKCkKICAgICAgICAgIHNlbGVjdGVkVXNlcj8ubGV0IHsgcHJlc2VudGVyLm9uVXNlclNlbGVjdGVkKGl0LnVzZXIpIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGF0YVN0YXRlLnZpZXdNb2RlbC51c2VySWQgPSBzZWxlY3RlZEFzc2lnbmVkLmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIENvbmZsaWN0Vmlld01vZGVsKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgZWxzZSAoc3RhdGUgYXM/IFNoaWZ0Q3JlYXRlVXBkYXRlVmlld1N0YXRlLkRhdGFTdGF0ZSk/LnVzZXJzPy5maXJzdE9yTnVsbCB7IGl0LmlkID09IHVzZXJJZCB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNlbGVjdGVkQXNzaWduZWQgPSBpZiAodXNlcklkID09IE9wZW5TaGlmdFVzZXIuT1BFTl9TSElGVF9VU0VSX0lELnRvTG9uZygpKSBPcGVuU2hpZnRVc2VyKCkKLy8gICAgZWxzZSAoc3RhdGUgYXM/IFNoaWZ0Q3JlYXRlVXBkYXRlVmlld1N0YXRlLkRhdGFTdGF0ZSk/LnVzZXJzPy5maXJzdE9yTnVsbCB7IGl0LmlkID09IHVzZXJJZCB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNlbGVjdGVkQXNzCg==</text>
+        <text encoding="base64">ICBmdW4gb25Vc2VyU2VsZWN0ZWQodXNlcjogVXNlcikgPSAoc3RhdGUgYXM/IFNoaWZ0Q3JlYXRlVXBkYXRlVmlld1N0YXRlLkRhdGFTdGF0ZSk/LmxldCB7IGRhdGFTdGF0ZSAtPgogICAgLy8gSXRlbVBpY2tlckFjdGl2aXR5IGZvciBzb21lIHJlYXNvbiBjYXN0cyBPcGVuU2hpZnRVc2VyIHRvIFVzZXIsIHNvIGNhc3RpbmcgYmFjayBoZXJlCiAgICB2YWwgc2VsZWN0ZWRBc3NpZ25lZSA9IGlmICh1c2VyLmlkID09IE9wZW5TaGlmdFVzZXIuT1BFTl9TSElGVF9VU0VSX0lELnRvTG9uZygpKSBPcGVuU2hpZnRVc2VyKCkgZWxzZSB1c2VyCiAgICB2YWwgaXNPcGVuID0gc2VsZWN0ZWRBc3NpZ25lZSBpcyBPcGVuU2hpZnRVc2VyCiAgICBkYXRhU3RhdGUudmlld01vZGVsLnVzZXJJZCA9IHNlbGVjdGVkQXNzaWduZWUuaWQKICAgIGRhdGFTdGF0ZS52aWV3TW9kZWwuaXNPcGVuID0gaXNPcGVuCiAgICB2YWwgY29uZmxpY3RWaWV3TW9kZWwgPSBpZiAoIWlzT3BlbikgewogICAgICBnZXRDb25mbGljdE9yTnVsbCgKICAgICAgICB1c2VyID0gc2VsZWN0ZWRBc3NpZ25lZSwKICAgICAgICBzaGlmdCA9IGRhdGFTdGF0ZS52aWV3TW9kZWwsCiAgICAgICAgb3JpZ2luYWxTaGlmdCA9IGRhdGFTdGF0ZS5vcmlnaW5hbFNoaWZ0LAogICAgICAgIG92ZXJ0aW1lVmlld01vZGVsID0gZGF0YVN0YXRlLm92ZXJ0aW1lVmlld01vZGVsLAogICAgICAgIG90U2hpZnRBc3NpZ25FbmFibGVkID0gZGF0YVN0YXRlLm90U2hpZnRBc3NpZ25FbmFibGVkCiAgICAgICkKICAgIH0gZWxzZSBudWxsCiAgICBkaXNwbGF5RGF0YShkYXRhU3RhdGUuY29weShjb25mbGljdFZpZXdNb2RlbCA9IGNvbmZsaWN0Vmlld01vZGVsKSkKICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>296</text>
@@ -498,7 +495,7 @@
       <last-replace>?,</last-replace>
       <last-substitute>finish</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
