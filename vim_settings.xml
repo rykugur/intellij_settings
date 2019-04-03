@@ -81,12 +81,12 @@
         <mark key="^" line="25" column="50" />
         <mark key="." line="25" column="50" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1554309556249">
-        <mark key="'" line="171" column="32" />
-        <mark key="[" line="200" column="34" />
-        <mark key="]" line="200" column="41" />
-        <mark key="." line="200" column="41" />
-        <mark key="^" line="200" column="41" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1554311672099">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="56" column="105" />
+        <mark key="]" line="56" column="105" />
+        <mark key="." line="56" column="105" />
+        <mark key="^" line="56" column="105" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/AvailabilityRepository.java" timestamp="1552499952860">
         <mark key="[" line="33" column="91" />
@@ -165,12 +165,12 @@
         <mark key="." line="59" column="63" />
         <mark key="^" line="59" column="63" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftConflictAndProjectedImpactDialogFragment.kt" timestamp="1554309694276">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="225" column="59" />
-        <mark key="]" line="225" column="61" />
-        <mark key="." line="225" column="61" />
-        <mark key="^" line="225" column="61" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftConflictAndProjectedImpactDialogFragment.kt" timestamp="1554311679342">
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="216" column="115" />
+        <mark key="]" line="216" column="115" />
+        <mark key="." line="216" column="115" />
+        <mark key="^" line="216" column="115" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/timesheets/TimeSheetEntryEditFragment.java" timestamp="1553616854048">
         <mark key="'" line="662" column="88" />
@@ -353,8 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="41" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
-      <jump line="329" column="84" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="159" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" />
       <jump line="21" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/conflict/ConflictUtils.kt" />
       <jump line="385" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/create/ShiftCreateUpdateActivity.kt" />
@@ -453,6 +451,8 @@
       <jump line="288" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
       <jump line="469" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
       <jump line="171" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
+      <jump line="195" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
+      <jump line="227" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/ShiftConflictAndProjectedImpactDialogFragment.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -465,7 +465,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>currentHoursOverMax</text>
+        <text>changed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgKiBOT1RFMjogW3RyaW1NaWxsaXNlY29uZHNdIGRlZmF1bHRzIHRvIHRydWUhCg==</text>
@@ -505,9 +505,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currentHoursOverMax</last-search>
+      <last-search>changed</last-search>
       <last-offset />
-      <last-pattern>currentHoursOverMax</last-pattern>
+      <last-pattern>changed</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute>finish</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conflictBean</entry>
         <entry>supportFragmentManager</entry>
         <entry encoding="base64">XDxkaXNtaXNzXD4=</entry>
         <entry>kotlin-stdlib</entry>
@@ -535,6 +534,7 @@
         <entry encoding="base64">XDxJdGVtUGlja2VyQWN0aXZpdHlcPg==</entry>
         <entry>isOtVisible</entry>
         <entry>currentHoursOverMax</entry>
+        <entry>changed</entry>
       </history-search>
       <history-cmd>
         <entry>349</entry>
