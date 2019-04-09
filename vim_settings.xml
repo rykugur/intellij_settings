@@ -466,6 +466,13 @@
         <mark key="^" line="29" column="164" />
         <mark key="." line="22" column="27" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" timestamp="1554821974196">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/BaseEmployeePickerListFragment.kt" timestamp="1553887127626">
         <mark key="'" line="139" column="2" />
         <mark key="[" line="46" column="49" />
@@ -491,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/position/PositionsDatabase.kt" />
       <jump line="71" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/ShiftsDatabase.kt" />
       <jump line="72" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/ShiftsDatabase.kt" />
       <jump line="73" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/ShiftsDatabase.kt" />
@@ -591,19 +597,20 @@
       <jump line="76" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PotentialTakersAdapter.kt" />
       <jump line="94" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PotentialTakersAdapter.kt" />
       <jump line="95" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PotentialTakersAdapter.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>holder.</text>
+        <text>#</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>holder.</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVtVmlld1w+</text>
+        <text>sdk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBidW5kbGUgPSBtb2NrPEJ1bmRsZT4gewogICAgICBvbiB7IGdldExvbmcoU2hpZnRSZXF1ZXN0RGV0YWlsQWN0aXZpdHkuSW50ZW50QnVpbGRlci5FWFRSQV9SRVFVRVNUX0lEKSB9IGRvUmV0dXJuIHJlcXVlc3RJZAogICAgfQoKICAgIHByZXNlbnRlci5hdHRhY2hWaWV3KHZpZXcsIGJ1bmRsZSkKCiAgICB2ZXJpZnkocmVxdWVzdHNSZXBvc2l0b3J5KS5nZXRTaGlmdFJlcXVlc3QocmVxdWVzdElkKQogICAgaW5PcmRlcih2aWV3KSB7CiAgICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoU2hpZnRSZXF1ZXN0RGV0YWlsVmlld1N0YXRlLkxvYWRpbmdTdGF0ZS5Jbml0aWFsTG9hZGluZ1N0YXRlKQogICAgICB2ZXJpZnkodmlldykucmVuZGVyKGFueTxTaGlmdFJlcXVlc3REZXRhaWxWaWV3U3RhdGUuRGF0YVN0YXRlPigpKQogICAgfQogICAgdmVyaWZ5Tm9Nb3JlSW50ZXJhY3Rpb25zKHJlcXVlc3RzUmVwb3NpdG9yeSwgdmlldykK</text>
@@ -643,9 +650,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdGVtVmlld1w+</last-search>
+      <last-search>sdk</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVtVmlld1w+</last-pattern>
+      <last-pattern>sdk</last-pattern>
       <last-replace>?,</last-replace>
       <last-substitute encoding="base64">XDxzaG93U2hpZnRDb25mbGljdFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +660,6 @@
     </search>
     <history>
       <history-search>
-        <entry>splittoseq</entry>
         <entry>position</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDxzaGlmdFw+</entry>
@@ -673,6 +679,7 @@
         <entry>potentialTakersadap</entry>
         <entry>accountsettings</entry>
         <entry encoding="base64">XDxpdGVtVmlld1w+</entry>
+        <entry>sdk</entry>
       </history-search>
       <history-cmd>
         <entry>349</entry>
