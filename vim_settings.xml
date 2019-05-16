@@ -348,12 +348,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="12" column="109" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/DateTimeFormatter.kt" timestamp="1558024345154">
-        <mark key="'" line="82" column="42" />
-        <mark key="[" line="118" column="47" />
-        <mark key="]" line="118" column="44" />
-        <mark key="." line="118" column="44" />
-        <mark key="^" line="118" column="44" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/DateTimeFormatter.kt" timestamp="1558025021554">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/AvailabilityItemVM.kt" timestamp="1552665010771">
         <mark key="[" line="43" column="3" />
@@ -682,8 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="87" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" />
-      <jump line="1327" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="538" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" />
       <jump line="637" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" />
       <jump line="638" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" />
@@ -782,16 +779,18 @@
       <jump line="105" column="62" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/TemporalUtils.kt" />
       <jump line="71" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/TemporalUtils.kt" />
       <jump line="76" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/DateTimeFormatter.kt" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/DateTimeFormatter.kt" />
+      <jump line="85" column="5" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/DateTimeFormatter.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>= &quot;&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgKiBbaXMyNF0K</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>= &quot;&quot;</text>
+        <text>em</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
@@ -800,34 +799,34 @@
         <text encoding="base64">ICAvKioKICAgKiBGb3JtYXRzIHRoZSBnaXZlbiBbZGF0ZV0gYW5kIFt0aW1lXSBhcyBhIHN0cmluZy4KICAgKgogICAqIElmIHRoZSBbZGV2aWNlVFpdIGFuZCBbdGltZVpvbmVdIGRvIG5vdCBtYXRjaCwgYXBwZW5kIGEgc2hvcnQgdGltZXpvbmUgY29kZSAoaW4gcGFyZW50aGVzZXMpCiAgICogdG8gdGhlIGVuZCBvZiB0aGUgc3RyaW5nLgogICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvCg==</text>
+        <text encoding="base64">ICAgKiBbaXMyNF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGZvcm1hdHRlZFN0cmluZyA9ICIke2Zvcm1hdFRpbWVOb1pvbmVJbnRlcm5hbCh0aW1lMSl9IC0gJHtmb3JtYXRUaW1lTm9ab25lSW50ZXJuYWwodGltZTIpfSIKLy8gICAgcmV0dXJuIG1heWJlQXBwZW5kU2hvcnRUaW1lem9uZUNvZGUoZm9ybWF0dGVkU3RyaW5nKQovLyAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIERhdGVUaW1lWm9uZS5nZXRTaG9ydFpvbmVDb2RlKCk6IFN0cmluZyA9ICIiCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmb3JtYXR0ZWRUaW1lMSA9IGZvcm1hdFRpbWVOb1pvbmVJbnRlcm5hbCh0aW1lMSkKICAgIHZhbCBmb3JtYXR0ZWRUaW1lMiA9IGZvcm1hdFRpbWVOb1pvbmVJbnRlcm5hbCh0aW1lMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZ1biBEYXRlVGltZVpvbmUuZ2V0U2hvcnRUaW1lWm9uZUNvZGUoKTogU3RyaW5nID0gIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChkZXZpY2VUWiAhPSB0aW1lWm9uZSkgewo=</text>
+        <text encoding="base64">ICAKICBwcml2YXRlIGZ1biBtYXliZUFwcGVuZFNob3J0VGltZXpvbmVDb2RlKGZvcm1hdHRlZFN0cmluZzogU3RyaW5nKTogU3RyaW5nID0gd2hlbiAoZGV2aWNlVFopIHsKICAgIHRpbWVab25lIC0+IGZvcm1hdHRlZFN0cmluZwogICAgZWxzZSAtPiAiJGZvcm1hdHRlZFN0cmluZyAoJHt0aW1lWm9uZS5nZXRTaG9ydFRpbWVab25lQ29kZSgpfSIKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZWxzZSAtPiAiJGZvcm1hdHRlZFRpbWUgKCR7dGltZVpvbmUuZ2V0U2hvcnRUaW1lWm9uZUNvZGUoKX0pIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgdGltZVpvbmUgLT4gZm9ybWF0dGVkVGltZQo=</text>
       </register>
       <register name=":" type="4">
         <text>293</text>
