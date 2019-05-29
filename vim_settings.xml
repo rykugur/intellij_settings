@@ -119,6 +119,7 @@
         <mark key="^" line="426" column="35" />
         <mark key="." line="403" column="35" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1559144106595" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_potential_taker_item.xml" timestamp="1554739166967">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="38" />
@@ -457,18 +458,18 @@
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="18" />
       </file>
-      <file name="/fragment.kt" timestamp="1559140282623">
+      <file name="/fragment.kt" timestamp="1559145415357">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" timestamp="1559142945603">
-        <mark key="[" line="208" column="70" />
-        <mark key="]" line="208" column="78" />
-        <mark key="^" line="208" column="78" />
-        <mark key="." line="208" column="78" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" timestamp="1559145392828">
+        <mark key="[" line="199" column="14" />
+        <mark key="]" line="199" column="38" />
+        <mark key="^" line="199" column="38" />
+        <mark key="." line="199" column="38" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/AvailabilityEventVM.kt" timestamp="1552670038563">
         <mark key="[" line="22" column="41" />
@@ -848,51 +849,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3ZlcnRpbWVBbW91bnRzPy5oYXNNYXhIb3Vyc0ltcGFjdCgpID09IHRydWUgfHwgb3ZlcnRpbWVBbW91bnRzPy5oYXNPdmVydGltZSgpID09IHRydWUgLT4=</text>
+        <text>test</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3ZlcnRpbWVBbW91bnRzPy5oYXNNYXhIb3Vyc0ltcGFjdCgpID09IHRydWUgfHwgb3ZlcnRpbWVBbW91bnRzPy5oYXNPdmVydGltZSgpID09IHRydWUgLT4=</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdElzVmlzaWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIGZ1biBpdFNob3dzU2hpZnRSZXNwb25zaWJpbGl0eU1vZGFsU01BSCgpIHsKICAgIHByZXNlbnRlci52aWV3ID0gdmlldwogICAgdmFsIHVzZXJJZCA9IDEwMEwKICAgIHZhbCBzaGlmdCA9IG1vY2s8U2hpZnRWaWV3TW9kZWw+IHsKICAgICAgb24geyB0aGlzLnVzZXJJZCB9IGRvUmV0dXJuIHVzZXJJZAogICAgfQogICAgd2hlbmV2ZXIoY3VycmVudFVzZXIuY2FuU3VwZXJ2aXNlKCkpLmRvUmV0dXJuKHRydWUpCiAgICB3aGVuZXZlcihjdXJyZW50VXNlci5pZCkuZG9SZXR1cm4oNTAwTCkKICAgIHZhbCB2aWV3TW9kZWwgPSBtb2NrPFJlcXVlc3RWTS5TaGlmdFJlcXVlc3RWTT4gewogICAgICBvbiB7IHRoaXMuc2hpZnQgfSBkb1JldHVybiBzaGlmdAogICAgfQogICAgcHJlc2VudGVyLnN0YXRlID0gYnVpbGREYXRhU3RhdGUodmlld01vZGVsID0gdmlld01vZGVsKQoKICAgIHByZXNlbnRlci5vbk9mZmVyU2hpZnRDbGlja2VkKCkKCiAgICBhc3NlcnRUaGF0KChwcmVzZW50ZXIuc3RhdGUgYXMgU2hpZnREcm9wQ3JlYXRlVmlld1N0YXRlLkRhdGFTdGF0ZSkubW9kYWxTdGF0ZSA9PSBTaGlmdERyb3BDcmVhdGVWaWV3U3RhdGUuTW9kYWxTdGF0ZS5TaGlmdFJlc3BvbnNpYmlsaXR5U01BSCkuaXNUcnVlKCkKICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoU2hpZnREcm9wQ3JlYXRlVmlld1N0YXRlLk1vZGFsU3RhdGUuU2hpZnRSZXNwb25zaWJpbGl0eVNNQUgpCiAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnModmlldykKICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMocmVxdWVzdHNSZXBvc2l0b3J5LCBlbXBsb3llZVJlcG9zaXRvcnksIHNoaWZ0c1JlcG9zaXRvcnkpCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsLmRyb3BDYW5kaWRhdGVzCiAgICAgICAgICAgICAgLmZpbHRlciB7IGl0LmlzU2VsZWN0ZWQgfQogICAgICAgICAgICAgIC5tYXAgeyBpdC51c2VyIH0KICAgICAgICAgICAgICAuYW55IHsgc2hpZnRVc2VyIC0+CiAgICAgICAgICAgICAgICBvdmVydGltZVZpZXdNb2RlbD8uZ2V0UHJvamVjdGVkT3ZlcnRpbWVBbW91bnRzRm9yKHNoaWZ0LCBzaGlmdFVzZXIsIGFjY291bnQsIG51bGwsIG90SXNWaXNpYmxlKQogICAgICAgICAgICAgICAgICA/LmxldCB7IGl0Lmhhc01heEhvdXJzSW1wYWN0KCkgfHwgaXQuaGFzT3ZlcnRpbWUoKSB9ID86IGZhbHNlCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBwb3RlbnRpYWxUYWtlckhhc092ZXJ0aW1lID0gaWYgKHNoaWZ0ICE9IG51bGwpIHsKICAgICAgICAgICAgdmlld01vZGVsLmRyb3BDYW5kaWRhdGVzCiAgICAgICAgICAgICAgLmZpbHRlciB7IGl0LmlzU2VsZWN0ZWQgfQogICAgICAgICAgICAgIC5tYXAgeyBpdC51c2VyIH0KICAgICAgICAgICAgICAuYW55IHsgdXNlciAtPgogICAgICAgICAgICAgICAgdmFsIG92ZXJ0aW1lQW1vdW50cyA9IG92ZXJ0aW1lVmlld01vZGVsCiAgICAgICAgICAgICAgICAgID8uZ2V0UHJvamVjdGVkT3ZlcnRpbWVBbW91bnRzRm9yKHNoaWZ0LCB1c2VyLCBhY2NvdW50LCBudWxsLCBvdElzVmlzaWJsZSkKICAgICAgICAgICAgICAgIG92ZXJ0aW1lQW1vdW50cz8uaGFzTWF4SG91cnNJbXBhY3QoKSA9PSB0cnVlIHx8IG92ZXJ0aW1lQW1vdW50cz8uaGFzT3ZlcnRpbWUoKSA9PSB0cnVlCiAgICAgICAgICAgICAgfQogICAgICAgICAgfSBlbHNlIGZhbHNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBvdmVydGltZUFtb3VudHMgPQogICAgICAgICAgICBpZiAoc2hpZnQgIT0gbnVsbCAmJiBzaGlmdFVzZXIgIT0gbnVsbCkKICAgICAgICAgICAgICBvdmVydGltZVZpZXdNb2RlbD8uZ2V0UHJvamVjdGVkT3ZlcnRpbWVBbW91bnRzRm9yKAogICAgICAgICAgICAgICAgc2hpZnQgPSBzaGlmdCwKICAgICAgICAgICAgICAgIHVzZXIgPSBzaGlmdFVzZXIsCiAgICAgICAgICAgICAgICBhY2NvdW50ID0gYWNjb3VudCwKICAgICAgICAgICAgICAgIG9sZFNoaWZ0ID0gbnVsbCwKICAgICAgICAgICAgICAgIG90SXNWaXNpYmxlID0gb3RJc1Zpc2libGUpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb3ZlcnRpbWVBbW91bnRzPy5oYXNPdmVydGltZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBhbnlVc2VySGFzT3ZlcnRpbWUgPSB2aWV3TW9kZWwuZHJvcENhbmRpZGF0ZXMKICAgICAgICAgICAgLmZpbHRlciB7IGl0LmlzU2VsZWN0ZWQgfQogICAgICAgICAgICAubWFwIHsgaXQudXNlciB9CiAgICAgICAgICAgIC5hbnkgeyBzaGlmdFVzZXIgLT4KICAgICAgICAgICAgfQogICAgICAgICAgdmFsIG92ZXJ0aW1lQW1vdW50cyA9CiAgICAgICAgICAgIGlmIChzaGlmdCAhPSBudWxsICYmIHNoaWZ0VXNlciAhPSBudWxsKQogICAgICAgICAgICAgIG92ZXJ0aW1lVmlld01vZGVsPy5nZXRQcm9qZWN0ZWRPdmVydGltZUFtb3VudHNGb3IoCiAgICAgICAgICAgICAgICBzaGlmdCA9IHNoaWZ0LAogICAgICAgICAgICAgICAgdXNlciA9IHNoaWZ0VXNlciwKICAgICAgICAgICAgICAgIGFjY291bnQgPSBhY2NvdW50LAogICAgICAgICAgICAgICAgb2xkU2hpZnQgPSBudWxsLAogICAgICAgICAgICAgICAgb3RJc1Zpc2libGUgPSBvdElzVmlzaWJsZSkKICAgICAgICAgICAgZWxzZSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBvdmVydGltZUFtb3VudHMgPSBvdm0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPy5sZXQgeyBpdC5oYXNNYXhIb3Vyc0ltcGFjdCgpIHx8IGl0Lmhhc092ZXJ0aW1lKCkgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBmdW4gZ2V0T3ZlcnRpbWVBbW91bnRzRm9yKGRhdGFTdGF0ZTogU2hpZnREcm9wQ3JlYXRlVmlld1N0YXRlLkRhdGFTdGF0ZSk6IE92ZXJ0aW1lQW1vdW50cz8gewogICAgdmFsIHNoaWZ0ID0gZGF0YVN0YXRlLnZpZXdNb2RlbC5zaGlmdAogICAgdmFsIHNoaWZ0VXNlciA9IAogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChzaGlmdCAhPSBudWxsKSB7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChzaGlmdCA9PSBudWxsIHx8IHNoaWZ0VXNlciA9PSBudWxsKQogICAgICBudWxsCiAgICBlbHNlCiAgICAgIG92ZXJ0aW1lVmlld01vZGVsPy5nZXRQcm9qZWN0ZWRPdmVydGltZUFtb3VudHNGb3Ioc2hpZnQgPSBzaGlmdCwKICAgICAgICB1c2VyID0gc2hpZnRVc2VyLAogICAgICAgIGFjY291bnQgPSBhY2NvdW50LAogICAgICAgIG9sZFNoaWZ0ID0gbnVsbCwKICAgICAgICBvdElzVmlzaWJsZSA9IG90SXNWaXNpYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>overtimeViewModel: OvertimeViewModel?,
-                                    shift: ShiftViewModel?,
-                                    shiftUser: User?</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChzaGlmdCAhPSBudWxsKSB7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbHNlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>508</text>
