@@ -31,4 +31,9 @@
       <option name="KOTLIN_TOPLEVEL" value="false" />
     </context>
   </template>
+  <template name="pval" value="private val " description="Inserts &quot;private val&quot; at cursor location" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
