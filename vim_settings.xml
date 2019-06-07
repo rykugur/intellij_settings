@@ -238,12 +238,14 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="78" column="36" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1559576341109">
-        <mark key="'" line="564" column="83" />
-        <mark key="]" line="463" column="7" />
-        <mark key="." line="463" column="7" />
-        <mark key="^" line="463" column="7" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailActivity.kt" timestamp="1559921751633">
+        <mark key="'" line="570" column="83" />
+        <mark key="[" line="362" column="0" />
+        <mark key="]" line="368" column="44" />
+        <mark key="." line="368" column="42" />
+        <mark key="^" line="368" column="42" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/shift/fragment/ShiftSwapPresenterTest.java" timestamp="1559921404076" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PotentialSwapsAdapter.kt" timestamp="1559921015713">
         <mark key="[" line="23" column="57" />
         <mark key="]" line="24" column="56" />
@@ -523,12 +525,12 @@
         <mark key="." line="304" column="0" />
         <mark key="^" line="305" column="74" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateArchitecture.kt" timestamp="1559575386161">
-        <mark key="'" line="295" column="80" />
-        <mark key="[" line="53" column="61" />
-        <mark key="]" line="54" column="5" />
-        <mark key="." line="54" column="5" />
-        <mark key="^" line="54" column="5" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateArchitecture.kt" timestamp="1559921798792">
+        <mark key="'" line="298" column="80" />
+        <mark key="[" line="71" column="44" />
+        <mark key="]" line="71" column="44" />
+        <mark key="." line="71" column="44" />
+        <mark key="^" line="77" column="35" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/sites/model/SiteVM.kt" timestamp="1557846912674">
         <mark key="[" line="7" column="0" />
@@ -638,12 +640,12 @@
         <mark key="." line="155" column="30" />
         <mark key="^" line="155" column="30" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" timestamp="1559317738407">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateActivity.kt" timestamp="1559921762592">
         <mark key="'" line="187" column="45" />
-        <mark key="[" line="203" column="56" />
-        <mark key="]" line="203" column="55" />
-        <mark key="." line="203" column="55" />
-        <mark key="^" line="203" column="55" />
+        <mark key="[" line="204" column="26" />
+        <mark key="]" line="204" column="49" />
+        <mark key="." line="204" column="49" />
+        <mark key="^" line="204" column="49" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/CoworkersPendingSwapsAdapter.kt" timestamp="1559317613378">
         <mark key="[" line="45" column="2" />
@@ -896,47 +898,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context, viewModel, presenter</text>
+        <text>,</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>context, viewModel, presenter</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVydGltZVZpZXdNb2RlbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LkFwcENvbXBhdFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9vdmVydGltZUNoaXAiCiAgICAgICAgZm9udFBhdGg9ImZvbnRzL3NvdXJjZV9zYW5zX3Byby50dGYiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjlkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOWRwIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JlZF9yb3VuZGVkX3JlY3RhbmdsZSIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGFuZHJvaWQ6Y29sb3Ivd2hpdGUiCiAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIKICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC91c2VyRGV0YWlsc0xheW91dCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRMZWZ0X3RvUmlnaHRPZj0iQGlkL3VzZXJEZXRhaWxzTGF5b3V0IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFJpZ2h0X3RvTGVmdE9mPSJAaWQvYWN0aW9uSG9sZGVyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvdXNlckRldGFpbHNMYXlvdXQiCiAgICAgICAgdG9vbHM6dGV4dD0iKzIgTUFYIHwgKzQgT1QiCiAgICAgICAgdG9vbHM6dmlzaWJpbGl0eT0idmlzaWJsZSIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgIGFkYXB0ZXIgPSBQb3RlbnRpYWxTd2Fwc0FkYXB0ZXIoCiAgICAgICAgICAgIGNvbnRleHQgPSB0aGlzQFNoaWZ0UmVxdWVzdERldGFpbEFjdGl2aXR5LAogICAgICAgICAgICBhY2NvdW50ID0gc3RhdGUuYWNjb3VudCwKICAgICAgICAgICAgdmlld01vZGVsID0gc3RhdGUudmlld01vZGVsLAogICAgICAgICAgICBwcmVzZW50ZXIgPSBwcmVzZW50ZXIsCiAgICAgICAgICAgIG92ZXJ0aW1lVmlld01vZGVsID0gc3RhdGUub3ZlcnRpbWVWaWV3TW9kZWwsCiAgICAgICAgICAgIG90SXNWaXNpYmxlID0gc3RhdGUub3RJc1Zpc2libGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFkYXB0ZXIgPSBQb3RlbnRpYWxTd2Fwc0FkYXB0ZXIodGhpc0BTaGlmdFN3YXBDcmVhdGVBY3Rpdml0eSwgc3RhdGUudmlld01vZGVsLCBwcmVzZW50ZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNoaWZ0ID0gdmlld01vZGVsLnNoaWZ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHVzZXIgPSB2aWV3TW9kZWwudXNlcgo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHNoaWZ0ID0gdmlld01vZGVsLnNoaWZ0Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHVzZXIgPSB2aWV3TW9kZWwudXNlcgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>private val context: Context,
                                             private val presenter: SelectableSwapCandidatePresenter</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCB2bTogUmVxdWVzdFZNLlNoaWZ0UmVxdWVzdFZNLAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcml2YXRlIHZhbCB2bTogUmVxdWVzdFZNLlNoaWZ0UmVxdWVzdFZNLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -952,7 +954,7 @@
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
