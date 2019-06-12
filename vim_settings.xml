@@ -322,6 +322,9 @@
         <mark key="." line="47" column="47" />
         <mark key="^" line="47" column="47" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginController.java" timestamp="1560371676521">
+        <mark key="'" line="62" column="13" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1559935281078">
         <mark key="'" line="1350" column="18" />
         <mark key="[" line="1352" column="32" />
@@ -832,7 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="200" column="58" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" />
       <jump line="296" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" />
       <jump line="283" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" />
@@ -932,6 +934,7 @@
       <jump line="65" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
       <jump line="59" column="12" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
       <jump line="162" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateArchitecture.kt" />
+      <jump line="62" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -944,7 +947,7 @@
         <text>overtimeAmounts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNvbmZsaWN0Q29udGFpbmVyQ2xpY2tlZFw+</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgPGluY2x1ZGUKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9vcmlnaW5hbFNoaWZ0UHJvamVjdGVkSW1wYWN0IgogICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvbGF5b3V0X3Byb2plY3RlZF9pbXBhY3RfaG91cnMiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI0ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIxNmRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjJkcCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50TGVmdF90b1JpZ2h0T2Y9IkBpZC9vcmlnaW5hbFNoaWZ0VXNlckF2YXRhciIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50UmlnaHRfdG9SaWdodE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvb3JpZ2luYWxTaGlmdFVzZXJOYW1lIiAvPgo=</text>
@@ -984,9 +987,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNvbmZsaWN0Q29udGFpbmVyQ2xpY2tlZFw+</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNvbmZsaWN0Q29udGFpbmVyQ2xpY2tlZFw+</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -994,7 +997,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swapshifts</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
         <entry>otisvisible</entry>
         <entry>taskscompleted</entry>
@@ -1014,6 +1016,7 @@
         <entry encoding="base64">XDxvdElzVmlzaWJsZVw+</entry>
         <entry encoding="base64">XDxvbGRTaGlmdFw+</entry>
         <entry encoding="base64">XDxvbkNvbmZsaWN0Q29udGFpbmVyQ2xpY2tlZFw+</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
