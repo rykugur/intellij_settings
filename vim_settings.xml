@@ -561,11 +561,12 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" timestamp="1559745711710">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="523" column="5" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" timestamp="1560530930619">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="55" column="41" />
+        <mark key="." line="55" column="41" />
+        <mark key="^" line="55" column="41" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/AvailabilityEventList.java" timestamp="1552668794861">
         <mark key="[" line="12" column="101" />
@@ -852,7 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="60" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" />
       <jump line="167" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" />
       <jump line="169" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" />
       <jump line="361" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftDropCreateArchitecture.kt" />
@@ -952,10 +952,11 @@
       <jump line="215" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailArchitecture.kt" />
       <jump line="74" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PotentialSwapsAdapter.kt" />
       <jump line="542" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/create/ShiftDropCreatePresenterTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>expectedState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBwYXlyb2xsU2V0dGluZ3MgPSBtb2NrPFBheXJvbGxTZXR0aW5ncz4gewogICAgb24geyB1c2VTb3dGb3JPdCgpIH0gZG9SZXR1cm4gdHJ1ZQogIH0KICBwcml2YXRlIHZhbCBhY2NvdW50U2V0dGluZ3MgPSBtb2NrPEFjY291bnRTZXR0aW5ncz4gewogICAgb24geyBwYXlyb2xsU2V0dGluZ3MgfSBkb1JldHVybiBwYXlyb2xsU2V0dGluZ3MKICB9CiAgcHJpdmF0ZSB2YWwgYWNjb3VudCA9IG1vY2s8QWNjb3VudD4gewogICAgb24geyBhY2NvdW50U2V0dGluZ3MgfSBkb1JldHVybiBhY2NvdW50U2V0dGluZ3MKICB9Cg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
@@ -964,10 +965,10 @@
         <text>expectedState</text>
       </register>
       <register name="/" type="4">
-        <text>hasOver</text>
+        <text encoding="base64">bW9jazxhY2NvdW50</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocHJlc2VudGVyLnN0YXRlID09IGV4cGVjdGVkU3RhdGUpLmlzVHJ1ZSgpCiAgICB2ZXJpZnkodmlldykucmVuZGVyKGV4cGVjdGVkU3RhdGUpCiAgICB2ZXJpZnlOb01vcmVJbnRlcmFjdGlvbnModmlldykKICAgIHZlcmlmeVplcm9JbnRlcmFjdGlvbnMocmVxdWVzdHNSZXBvc2l0b3J5LCBlbXBsb3llZVJlcG9zaXRvcnkpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBwYXlyb2xsU2V0dGluZ3MgPSBtb2NrPFBheXJvbGxTZXR0aW5ncz4gewogICAgb24geyB1c2VTb3dGb3JPdCgpIH0gZG9SZXR1cm4gdHJ1ZQogIH0KICBwcml2YXRlIHZhbCBhY2NvdW50U2V0dGluZ3MgPSBtb2NrPEFjY291bnRTZXR0aW5ncz4gewogICAgb24geyBwYXlyb2xsU2V0dGluZ3MgfSBkb1JldHVybiBwYXlyb2xsU2V0dGluZ3MKICB9CiAgcHJpdmF0ZSB2YWwgYWNjb3VudCA9IG1vY2s8QWNjb3VudD4gewogICAgb24geyBhY2NvdW50U2V0dGluZ3MgfSBkb1JldHVybiBhY2NvdW50U2V0dGluZ3MKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBleHBlY3RlZFN0YXRlID0gc3RhdGUuY29weShtb2RhbFN0YXRlID0gU2hpZnRSZXF1ZXN0RGV0YWlsVmlld1N0YXRlLk1vZGFsU3RhdGUuUHJvamVjdGVkSW1wYWN0TW9kYWxTdGF0ZShjb25mbGljdFZpZXdNb2RlbCkpCg==</text>
@@ -1004,9 +1005,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hasOver</last-search>
+      <last-search encoding="base64">bW9jazxhY2NvdW50</last-search>
       <last-offset />
-      <last-pattern>hasOver</last-pattern>
+      <last-pattern encoding="base64">bW9jazxhY2NvdW50</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,7 +1015,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on { hasO</entry>
         <entry encoding="base64">XDxyZWZyZXNoRGF0YVw+</entry>
         <entry>title</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
@@ -1034,6 +1034,7 @@
         <entry encoding="base64">XDxQcm9qZWN0ZWRJbXBhY3RNb2RhbFN0YXRlXD4=</entry>
         <entry>hasCon</entry>
         <entry>hasOver</entry>
+        <entry encoding="base64">bW9jazxhY2NvdW50</entry>
       </history-search>
       <history-cmd>
         <entry>62</entry>
