@@ -96,12 +96,6 @@
         <mark key="." line="108" column="72" />
         <mark key="^" line="108" column="72" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/availability/data/AvailabilityRepository.kt" timestamp="1560978381250">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="34" column="35" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/FeatureRouter.java" timestamp="1560969188666">
         <mark key="'" line="83" column="97" />
         <mark key="[" line="256" column="11" />
@@ -192,7 +186,12 @@
         <mark key="^" line="29" column="95" />
         <mark key="." line="29" column="95" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" timestamp="1560978087236" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerArchitecture.kt" timestamp="1561041695767">
+        <mark key="[" line="413" column="47" />
+        <mark key="]" line="413" column="76" />
+        <mark key="." line="413" column="76" />
+        <mark key="^" line="413" column="76" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/SwapShiftsSuccessDialogFragment.kt" timestamp="1558450850564">
         <mark key="[" line="40" column="70" />
         <mark key="]" line="40" column="91" />
@@ -967,20 +966,20 @@
       <jump line="56" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/EmployeeRepository.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmRvT25FcnJvciB7IExvZy5kKCJERVJQIiwgImdldEFsbEF2YWlsYWJpbGl0aWVzRnJvbUNhY2hlT3JRdWVyeUFQSSIpIH0K</text>
+      <register name="&quot;" type="4">
+        <text>listAvailabilities</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>refreshAllAvailabilityEventsFromAPI</text>
+        <text>listAvailabilities</text>
       </register>
       <register name="/" type="4">
         <text>adapter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmRvT25FcnJvciB7IExvZy5kKCJERVJQIiwgInJlZnJlc2hBbGxBdmFpbGFiaWxpdHlFdmVudHNGcm9tQVBJIikgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5kb09uRXJyb3IgeyBMb2cuZCgiREVSUCIsICIgIGVycm9yOiBsaXN0QXZhaWxhYmlsaXRpZXMiKSB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLmRvT25FcnJvciB7IExvZy5kKCJERVJQIiwgImdldEFsbEF2YWlsYWJpbGl0aWVzRnJvbUNhY2hlT3JRdWVyeUFQSSIpIH0K</text>
