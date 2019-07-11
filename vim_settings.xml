@@ -551,12 +551,12 @@
         <mark key="^" line="11" column="40" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" timestamp="1562874263533">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/requests/detail/ShiftRequestDetailPresenterTest.kt" timestamp="1562875123958">
         <mark key="'" line="957" column="51" />
-        <mark key="[" line="870" column="47" />
-        <mark key="]" line="870" column="47" />
-        <mark key="^" line="870" column="55" />
-        <mark key="." line="870" column="55" />
+        <mark key="[" line="1069" column="55" />
+        <mark key="]" line="1069" column="61" />
+        <mark key="." line="1069" column="61" />
+        <mark key="^" line="1069" column="61" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/confirmation/ConfirmationRepository.kt" timestamp="1557258566460">
         <mark key="[" line="64" column="20" />
@@ -1017,42 +1017,41 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)
-  }</text>
+        <text>333L</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>isFalse</text>
+        <text>333L</text>
       </register>
       <register name="/" type="4">
         <text>isFalse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkFzc2VydGlvbnMuYXNzZXJ0VGhhdAo=</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci5zdGF0ZSA9IGJ1aWxkRGF0YVN0YXRlKHZtID0gdmlld01vZGVsLCBvdmVydGltZVZpZXdNb2RlbCA9IG92ZXJ0aW1lVmlld01vZGVsKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdGhpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>)
   }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkFic3RyYWN0Qm9vbGVhbkFzc2VydAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hc3NlcnRqLmNvcmUuYXBpLkFic3RyYWN0Qm9vbGVhbkFzc2VydC5pc1RydWUoKSAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgb24geyBnZXRQcm9qZWN0ZWRJbXBhY3RzRm9yKHNoaWZ0ID0gYW55KCksIHVzZXIgPSBlcSh1c2VyMiksIGFjY291bnQgPSBhbnkoKSwgb3RJc1Zpc2libGUgPSBlcSh0cnVlKSkgfSBkb1JldHVybiBlbXB0eU92ZXJ0aW1lQW1vdW50cwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgb24geyBnZXRQcm9qZWN0ZWRJbXBhY3RzRm9yKHNoaWZ0ID0gYW55KCksIHVzZXIgPSBlcSh1c2VyMSksIGFjY291bnQgPSBhbnkoKSwgb3RJc1Zpc2libGUgPSBlcSh0cnVlKSkgfSBkb1JldHVybiBvdmVydGltZUFtb3VudHMK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmlzVHJ1ZSgpCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb24geyBnZXRQcm9qZWN0ZWRJbXBhY3RzRm9yKGFueSgpLCBhbnkoKSwgYW55KCksIGFueSgpKSB9IGRvUmV0dXJuIG92ZXJ0aW1lQW1vdW50cwo=</text>
+        <text encoding="base64">ICAgICAgLmlzVHJ1ZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1061,7 +1060,7 @@
         <text encoding="base64">ICAgICAgb24geyBnZXRQcm9qZWN0ZWRJbXBhY3RzRm9yKGFueSgpLCBhbnkoKSwgYW55KCksIGFueSgpKSB9IGRvUmV0dXJuIG92ZXJ0aW1lQW1vdW50cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWV3TW9kZWwgPSBtb2NrPFJlcXVlc3RWTS5TaGlmdFJlcXVlc3RWTT4gewogICAgICBvbiB7IHRoaXMuc2hpZnQgfSBkb1JldHVybiBzaGlmdAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgb24geyBnZXRQcm9qZWN0ZWRJbXBhY3RzRm9yKGFueSgpLCBhbnkoKSwgYW55KCksIGFueSgpKSB9IGRvUmV0dXJuIG92ZXJ0aW1lQW1vdW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>552</text>
