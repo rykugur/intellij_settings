@@ -317,6 +317,9 @@
         <mark key="^" line="5" column="52" />
         <mark key="." line="5" column="52" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/FileObservable.java" timestamp="1563828247391">
+        <mark key="'" line="28" column="13" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/detail/PotentialSwapsAdapter.kt" timestamp="1563807185071">
         <mark key="[" line="36" column="61" />
         <mark key="]" line="37" column="43" />
@@ -676,8 +679,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/LDModule.kt" timestamp="1563814881678">
-        <mark key="'" line="34" column="70" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/LDModule.kt" timestamp="1563828729094">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="168" column="80" />
+        <mark key="]" line="169" column="3" />
+        <mark key="." line="169" column="3" />
+        <mark key="^" line="169" column="3" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/create/ShiftSwapCreateArchitecture.kt" timestamp="1560440712915">
         <mark key="[" line="164" column="0" />
@@ -982,8 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
-      <jump line="509" column="55" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="581" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="676" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="3" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
@@ -1082,61 +1087,63 @@
       <jump line="34" column="70" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/LDModule.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/TabbedTaskListsArchitecture.kt" />
       <jump line="18" column="49" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/TabbedTaskListsArchitecture.kt" />
+      <jump line="38" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/LDModule.kt" />
+      <jump line="28" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/FileObservable.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>candHours=$candHours</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>candHours=$candHours</text>
+        <text encoding="base64">TERDbGllbnQ+</text>
       </register>
       <register name="/" type="4">
-        <text>.cache()</text>
+        <text>observable.create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIkRFUlAiLCAiIyMjIyMgY2FuZEhvdXJzPSRjYW5kSG91cnMiKQo=</text>
+        <text encoding="base64">ICAgIHZhciBjbGllbnQ6IExEQ2xpZW50CiAgICB0cnkgewogICAgICBjbGllbnQgPSBMRENsaWVudC5nZXQoKQogICAgfSBjYXRjaCAoZXhjZXB0aW9uOiBMYXVuY2hEYXJrbHlFeGNlcHRpb24pIHsKICAgICAgLy8gYSB0aHJvd24gZXhjZXB0aW9uIGhlcmUgbWVhbnMgdGhlIGNsaWVudCBoYXMgbm90IHlldCBiZWVuIGluaXRpYWxpemVkCiAgICAgIGNsaWVudCA9IExEQ2xpZW50LmluaXQoYXBwLCBsZENvbmZpZywgbGRVc2VyLCAyKQogICAgfQoKICAgIC8vIGlkZW50aWZ5IHRoZSBjdXJyZW50IHVzZXI7IHRoaXMgaXNuJ3QgZXhwbGljaXRseSBuZWNlc3NhcnkgRVhDRVBUIGluIHRoZSBjYXNlIHdoZXJlIGEgZGlmZmVyZW50CiAgICAvLyB1c2VyIHdhcyBwcmV2aW91c2x5IGxvZ2dlZCBpbgogICAgY2xpZW50LmlkZW50aWZ5KGxkVXNlcikKCiAgICByZXR1cm4gY2xpZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTG9nLmQoIkRFUlAiLCAiIyMjIyMgY2FuZEhvdXJzPSRjYW5kSG91cnMiKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nZGVwcmsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gc3RhcnRPZldlZWsgdGhlIGFjY291bnQtZGVmaW5lZCBzdGFydCBvZiB0aGUgd29yay13ZWVrCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAU2luZ2xldG9uCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGwK</text>
+        <text encoding="base64">ICAgICAgTERDbGllbnQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExvZy5kKCJERVJQIiwgIi0tLS0tLS0tLS0tLS0tLS0tLS0gZ2V0UHJvamVjdGVkU3dhcEltcGFjdHMiKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW1pdHRlci5vbk5leHQobGF6eUxkQ2xpZW50LnZhbHVlKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmdW4gYnVpbGRXZWVrSG91ckNoYW5nZXMoc2NoZWR1bGVTZXR0aW5nczogU2NoZWR1bGVTZXR0aW5ncywKICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF5SG91ckNoYW5nZXM6IE1hcDxMb2NhbERhdGUsIERvdWJsZT4pOiBNYXA8SW50ZXJ2YWwsIERvdWJsZT4gewogICAgdmFsIHdlZWtIb3VyQ2hhbmdlcyA9IG11dGFibGVNYXBPZjxJbnRlcnZhbCwgRG91YmxlPigpCgogICAgZGF5SG91ckNoYW5nZXMuZm9yRWFjaCB7IGVudHJ5IC0+CiAgICAgIHZhbCBkYXkgPSBlbnRyeS5rZXkudG9EYXRlVGltZUF0U3RhcnRPZkRheSgpCiAgICAgIHZhbCBob3VycyA9IGVudHJ5LnZhbHVlCgogICAgICB2YWwgc3RhcnRPZldlZWsgPSBzY2hlZHVsZVNldHRpbmdzLmdldFN0YXJ0T2ZXZWVrKGRheSkud2l0aFRpbWVBdFN0YXJ0T2ZEYXkoKQogICAgICB2YWwgZW5kT2ZXZWVrID0gc3RhcnRPZldlZWsucGx1c0RheXMoNykud2l0aFRpbWUoTG9jYWxUaW1lLk1JRE5JR0hUKQogICAgICB2YWwgd2Vla0ludGVydmFsID0gSW50ZXJ2YWwoc3RhcnRPZldlZWssIGVuZE9mV2VlaykKICAgICAgdmFsIGN1cnJlbnRWYWx1ZSA9IHdlZWtIb3VyQ2hhbmdlc1t3ZWVrSW50ZXJ2YWxdCiAgICAgIC8vIHNldCBvciBhZGQgaG91cnMgZm9yIGRheSB0byB0aGUgd2Vla0hvdXJDaGFuZ2VzIG1hcCAobWF5IGFscmVhZHkgaGF2ZSBhbiBlbnRyeSBmb3IgdGhpcyBpbnRlcnZhbCkKICAgICAgd2Vla0hvdXJDaGFuZ2VzW3dlZWtJbnRlcnZhbF0gPSAoY3VycmVudFZhbHVlID86IDAuMCkgKyBob3VycwogICAgfQoKICAgIHJldHVybiB3ZWVrSG91ckNoYW5nZXMKICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBvYnMgPSBPYnNlcnZhYmxlLmNyZWF0ZSB7IGVtaXR0ZXIgLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZwo=</text>
+        <text encoding="base64">ICAgIG9icy5vbm4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>.cache()</last-search>
+      <last-search>observable.create</last-search>
       <last-offset />
-      <last-pattern>.cache()</last-pattern>
+      <last-pattern>observable.create</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1144,7 +1151,6 @@
     </search>
     <history>
       <history-search>
-        <entry>annotations</entry>
         <entry>lottieVersion</entry>
         <entry encoding="base64">XDxsb3R0aWVfY2FjaGVTdHJhdGVneVw+</entry>
         <entry>lottie</entry>
@@ -1164,6 +1170,7 @@
         <entry>ldclient</entry>
         <entry>cache</entry>
         <entry>.cache()</entry>
+        <entry>observable.create</entry>
       </history-search>
       <history-cmd>
         <entry>685</entry>
