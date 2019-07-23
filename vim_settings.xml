@@ -159,10 +159,12 @@
         <mark key="." line="25" column="51" />
         <mark key="^" line="25" column="51" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1563811782839">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" timestamp="1563897429355">
+        <mark key="'" line="77" column="23" />
+        <mark key="[" line="122" column="9" />
+        <mark key="]" line="123" column="18" />
+        <mark key="." line="123" column="18" />
+        <mark key="^" line="123" column="18" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_requests_potential_taker_item.xml" timestamp="1559836744745">
         <mark key="[" line="22" column="0" />
@@ -982,7 +984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="581" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="676" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="3" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="301" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
@@ -1082,61 +1083,62 @@
       <jump line="18" column="49" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/tasks/tasklists/TabbedTaskListsArchitecture.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/LDModule.kt" />
       <jump line="28" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/FileObservable.java" />
+      <jump line="87" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/overtime/OvertimeViewModels.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TERDbGllbnQ+</text>
+        <text>netNewHoursForDay</text>
       </register>
       <register name="/" type="4">
-        <text>observable.create</text>
+        <text>weekModel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBjbGllbnQ6IExEQ2xpZW50CiAgICB0cnkgewogICAgICBjbGllbnQgPSBMRENsaWVudC5nZXQoKQogICAgfSBjYXRjaCAoZXhjZXB0aW9uOiBMYXVuY2hEYXJrbHlFeGNlcHRpb24pIHsKICAgICAgLy8gYSB0aHJvd24gZXhjZXB0aW9uIGhlcmUgbWVhbnMgdGhlIGNsaWVudCBoYXMgbm90IHlldCBiZWVuIGluaXRpYWxpemVkCiAgICAgIGNsaWVudCA9IExEQ2xpZW50LmluaXQoYXBwLCBsZENvbmZpZywgbGRVc2VyLCAyKQogICAgfQoKICAgIC8vIGlkZW50aWZ5IHRoZSBjdXJyZW50IHVzZXI7IHRoaXMgaXNuJ3QgZXhwbGljaXRseSBuZWNlc3NhcnkgRVhDRVBUIGluIHRoZSBjYXNlIHdoZXJlIGEgZGlmZmVyZW50CiAgICAvLyB1c2VyIHdhcyBwcmV2aW91c2x5IGxvZ2dlZCBpbgogICAgY2xpZW50LmlkZW50aWZ5KGxkVXNlcikKCiAgICByZXR1cm4gY2xpZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvL3JlZ2lvbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAU2luZ2xldG9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTERDbGllbnQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF5SG91ckNoYW5nZXMuZm9yRWFjaCB7IGVudHJ5IC0+CiAgICAgICAgICAgICAgdmFsIGRhdGUgPSBlbnRyeS5rZXkudG9EYXRlVGltZUF0U3RhcnRPZkRheSgpCiAgICAgICAgICAgICAgdmFsIG5ldE5ld0hvdXJzRm9yRGF5ID0gZW50cnkudmFsdWUKICAgICAgICAgICAgICB2YWwgZGF5SG91cnMgPSBkYXlNb2RlbD8ubm9ybWFsaXplZD8udG90YWxIb3VycyA/OiAwLjAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW1pdHRlci5vbk5leHQobGF6eUxkQ2xpZW50LnZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBERE9UCiAgICAgICAgICAgICAgdmFsIHRvdGFsRERPVCA9IG1heChkYXlIb3VycyArIG5ldE5ld0hvdXJzRm9yRGF5IC0gYWNjb3VudFNldHRpbmdzLmRhaWx5RG91YmxlT3ZlcnRpbWVUaHJlc2hvbGQsIDAuMCkKICAgICAgICAgICAgICBuZXdERE9UICs9IHRvdGFsRERPVCAtIChkYXlNb2RlbD8ubm9ybWFsaXplZD8uZG91YmxlT3ZlcnRpbWVIb3VycyA/OiAwLjApCgogICAgICAgICAgICAgIC8vIERPVAogICAgICAgICAgICAgIHZhbCB0b3RhbERPVCA9IG1heChkYXlIb3VycyArIG5ldE5ld0hvdXJzRm9yRGF5IC0gdG90YWxERE9UIC0gYWNjb3VudFNldHRpbmdzLmRhaWx5T3ZlcnRpbWVUaHJlc2hvbGQsIDAuMCkKICAgICAgICAgICAgICBuZXdET1QgKz0gdG90YWxET1QgLSAoZGF5TW9kZWw/Lm5vcm1hbGl6ZWQ/Lm92ZXJ0aW1lSG91cnMgPzogMC4wKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBvYnMgPSBPYnNlcnZhYmxlLmNyZWF0ZSB7IGVtaXR0ZXIgLT4K</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9icy5vbm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>observable.create</last-search>
+      <last-search>weekModel</last-search>
       <last-offset />
-      <last-pattern>observable.create</last-pattern>
+      <last-pattern>weekModel</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1144,7 +1146,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lottieVersion</entry>
         <entry encoding="base64">XDxsb3R0aWVfY2FjaGVTdHJhdGVneVw+</entry>
         <entry>lottie</entry>
         <entry encoding="base64">XDxTaGlmdERldGFpbE1vZHVsZVw+</entry>
@@ -1164,6 +1165,7 @@
         <entry>cache</entry>
         <entry>.cache()</entry>
         <entry>observable.create</entry>
+        <entry>weekModel</entry>
       </history-search>
       <history-cmd>
         <entry>685</entry>
