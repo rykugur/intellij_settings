@@ -27,4 +27,16 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="tderp" value="timber.log.Timber.tag(&quot;DERP&quot;).d(&quot;$content$&quot;);" description="timber-&gt;&quot;DERP&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tderpk" value="timber.log.Timber.tag(&quot;DERP&quot;).d(&quot;$content$&quot;);" description="timber-&gt;&quot;DERP&quot;+kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
