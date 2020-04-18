@@ -1,6 +1,20 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxvcHRcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -57,13 +71,180 @@
         <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/40dfd9fdef125e19136135e68d54af6d9b0cfbb8/commons-cli-1.4-sources.jar!/org/apache/commons/cli/Option.java" timestamp="1566179435784">
+        <mark key="'" line="794" column="29" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/resources/vokira.properties" timestamp="1566173079371">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="/fragment.kt" timestamp="1566182003095">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/build.gradle" timestamp="1566178996860">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/cmdline/CmdParser.kt" timestamp="1566178424340">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/Application.kt" timestamp="1566173262414">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+        <mark key="^" line="2" column="58" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/marko/src/main/kotlin/io/rollhax/markov/Main.kt" timestamp="1587246913877">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/gradle.properties" timestamp="1566173213932">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/cmdline/HeathenMailGenerator.kt" timestamp="1566182711769">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="49" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/BoredBot.kt" timestamp="1570808798198">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/boredbot/build.gradle" timestamp="1570728389831">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/io/rollhax/boredbot/BoredBot.kt" timestamp="1570808962897">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/cmdline/CmdLineParams.kt" timestamp="1566182392776">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/io/rollhax/boredbot/bot/EventListener.kt" timestamp="1570809016318">
+        <mark key="[" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/Main.kt" timestamp="1570730050103">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/Application.kt" timestamp="1566182382686">
+        <mark key="[" line="28" column="54" />
+        <mark key="]" line="29" column="11" />
+        <mark key="." line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/boredbot/EventListener.kt" timestamp="1570808923202">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/PurificationMailGenerator.kt" timestamp="1566182701504">
+        <mark key="[" line="2" column="67" />
+        <mark key="]" line="2" column="76" />
+        <mark key="^" line="2" column="76" />
+        <mark key="." line="2" column="76" />
+      </file>
+      <file name="/fragment.java" timestamp="1587246920315">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/boredbot/BoredBot.kt" timestamp="1570808902206">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="794" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.4/40dfd9fdef125e19136135e68d54af6d9b0cfbb8/commons-cli-1.4-sources.jar!/org/apache/commons/cli/Option.java" />
+      <jump line="38" column="28" filename="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/Application.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/Application.kt" />
+      <jump line="9" column="18" filename="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/Application.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>fun</text>
+      </register>
+      <register name="-" type="4">
+        <text>fun</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxvcHRcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC52YWx1ZVNlcGFyYXRvcigpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oImRlcnAiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cGFja2EK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhbCBjbGlwYm9hcmQgPSBUb29sa2l0LmdldERlZmF1bHRUb29sa2l0KCkuc3lzdGVtQ2xpcGJvYXJkLnNldENvbnRlbnRzKHB1cmlmaWVkLCBudWxsKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZ1NlbGVjdGlvbihwdXJpZmllZCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxvcHRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxvcHRcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
