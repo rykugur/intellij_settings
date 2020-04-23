@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>datamap</entry>
         <entry>login</entry>
         <entry>token</entry>
         <entry encoding="base64">XDxzaG91bGRSZWZyZXNoXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxwYXlyb2xsSW50ZXJ2YWxcPg==</entry>
         <entry>recyc</entry>
         <entry encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</entry>
+        <entry encoding="base64">XDxvcmlnaW5hbERhdGFTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -47,8 +47,8 @@
         <entry>324</entry>
         <entry>2009</entry>
         <entry>227</entry>
-        <entry>noh</entry>
         <entry>53</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -163,12 +163,10 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" timestamp="1587661003941">
-        <mark key="'" line="126" column="15" />
-        <mark key="[" line="657" column="10" />
-        <mark key="]" line="657" column="56" />
-        <mark key="." line="657" column="56" />
-        <mark key="^" line="657" column="56" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" timestamp="1587663523932">
+        <mark key="[" line="671" column="0" />
+        <mark key="]" line="671" column="0" />
+        <mark key="." line="671" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/login/LoginTokenRepository.kt" timestamp="1587072369712">
         <mark key="'" line="17" column="63" />
@@ -196,9 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/TimePickerDialog.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
-      <jump line="38" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
       <jump line="536" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
       <jump line="372" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
       <jump line="373" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
@@ -296,69 +291,72 @@
       <jump line="154" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailVM.kt" />
       <jump line="157" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
       <jump line="125" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
+      <jump line="183" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
+      <jump line="459" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
+      <jump line="492" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZHVyYXRpb24gIT0gbnVsbCAmJiBkdXJhdGlvbiA+PSAzLjUp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBoYXNWYWxpZER1cmF0aW9uID0gKCkK</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHVyYXRpb24gIT0gbnVsbCAmJiBkdXJhdGlvbiA+PSAzLjUp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</text>
+        <text encoding="base64">XDxvcmlnaW5hbERhdGFTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChkYXRhU3RhdGUuc2VsZWN0ZWREYXRlICE9IG51bGwgJiYgZGF0YVN0YXRlLnNlbGVjdGVkSW5UaW1lICE9IG51bGwpIHsKICAgICAgZGF0YVN0YXRlLnNlbGVjdGVkRGF0ZS50b0RhdGVUaW1lKGRhdGFTdGF0ZS5zZWxlY3RlZEluVGltZSkKICAgIH0gZWxzZSBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCAK</text>
+        <text encoding="base64">ICAgIHZhbCBoYXNWYWxpZER1cmF0aW9uID0gKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgJiYgdm0uZW5kVGltZSA9PSBudWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRkbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChkYXRhU3RhdGUuICE9IG51bGwgJiYgZGF0YVN0YXRlLnNlbGVjdGVkSW5UaW1lICE9IG51bGwpIHsKICAgICAgZGF0YVN0YXRlLnNlbGVjdGVkRGF0ZS50b0RhdGVUaW1lKGRhdGFTdGF0ZS5zZWxlY3RlZEluVGltZSkKICAgIH0gZWxzZSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZVRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbnVsbAo=</text>
+        <text encoding="base64">ICAgIHZhbCBvdXRUaW1lV2FzTnVsbCA9IG9yaWdpbmFsRGF0YVN0YXRlPy5zZWxlY3RlZE91dFRpbWUgPT0gbnVsbAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9yaWdpbmFsRGF0YVN0YXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</last-search>
+      <last-search encoding="base64">XDxvcmlnaW5hbERhdGFTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxvcmlnaW5hbERhdGFTdGF0ZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
