@@ -115,19 +115,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailActivity.kt" timestamp="1588001716595">
-        <mark key="'" line="32" column="6" />
-        <mark key="[" line="173" column="46" />
-        <mark key="]" line="173" column="22" />
-        <mark key="." line="173" column="21" />
-        <mark key="^" line="173" column="22" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailActivity.kt" timestamp="1588005396012">
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="176" column="101" />
+        <mark key="]" line="176" column="113" />
+        <mark key="." line="176" column="112" />
+        <mark key="^" line="176" column="113" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" timestamp="1588004852529">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" timestamp="1588005215733">
         <mark key="'" line="219" column="6" />
-        <mark key="[" line="211" column="82" />
-        <mark key="]" line="211" column="117" />
-        <mark key="." line="211" column="116" />
-        <mark key="^" line="211" column="117" />
+        <mark key="[" line="109" column="85" />
+        <mark key="]" line="109" column="90" />
+        <mark key="." line="109" column="89" />
+        <mark key="^" line="109" column="90" />
       </file>
       <file name="/a.dummy" timestamp="1587673230610">
         <mark key="[" line="0" column="0" />
@@ -181,6 +181,13 @@
         <mark key="^" line="163" column="53" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/FeatureRouter.kt" timestamp="1587669236469" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/TemporalUtils.kt" timestamp="1588005386667">
+        <mark key="'" line="363" column="0" />
+        <mark key="[" line="270" column="19" />
+        <mark key="]" line="270" column="97" />
+        <mark key="." line="270" column="96" />
+        <mark key="^" line="270" column="97" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1587654324114">
         <mark key="'" line="0" column="0" />
       </file>
@@ -190,7 +197,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1588004023469">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1588005945522">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1528" column="0" />
         <mark key="]" line="1528" column="0" />
@@ -222,9 +229,6 @@
         <mark key="]" line="437" column="0" />
         <mark key="." line="437" column="0" />
         <mark key="^" line="436" column="62" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/site/SitesDatabase.kt" timestamp="1587408449595">
-        <mark key="'" line="20" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -333,49 +337,51 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>you_created_visible_in_past_period</text>
+        <text>Length()))</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>you_created_visible_in_past_period</text>
+        <text>Length()))</text>
       </register>
       <register name="/" type="4">
         <text>rxbus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YWwgcGF5cm9sbEludGVydmFsID0gcGF5cm9sbD8uaW50ZXJ2YWwoKQovLyAgICAgICAgICAgIHZhbCB0aW1lSW50ZXJ2YWwgPSBpdC5pbnRlcnZhbCgpCi8vICAgICAgICAgICAgLy8gaWYgdGhlcmUncyBubyBvdmVybGFwLCBkaXNwbGF5IGEgbWVzc2FnZSBpbmRpY2F0aW5nIHRoYXQgdGhlIG5ld2x5IGNyZWF0ZWQgZW50cnkgaXMKLy8gICAgICAgICAgICAvLyB2aXNpYmxlIG9uIGFub3RoZXIgcGF5cm9sbCBwZXJpb2QKLy8gICAgICAgICAgICBpZiAocGF5cm9sbEludGVydmFsICE9IG51bGwKLy8gICAgICAgICAgICAgICYmIHRpbWVJbnRlcnZhbCAhPSBudWxsCi8vICAgICAgICAgICAgICAmJiAhcGF5cm9sbEludGVydmFsLm92ZXJsYXBzKHRpbWVJbnRlcnZhbCkpIHsKLy8gICAgICAgICAgICAgIHZhbCBzdHJpbmdSZXNJZCA9IHdoZW4gewovLyAgICAgICAgICAgICAgICBwYXlyb2xsSW50ZXJ2YWwuaXNCZWZvcmUodGltZUludGVydmFsKSAtPiBSLnN0cmluZy50aW1lc2hlZXRfZW50cnlfeW91X2NyZWF0ZWRfdmlzaWJsZV9pbl9mdXR1cmVfcGVyaW9kCi8vICAgICAgICAgICAgICAgIHBheXJvbGxJbnRlcnZhbC5pc0FmdGVyKHRpbWVJbnRlcnZhbCkgLT4gUi5zdHJpbmcudGltZXNoZWV0X2VudHJ5X3lvdV9jcmVhdGVkX3Zpc2libGVfaW5fcGFzdF9wZXJpb2QKLy8gICAgICAgICAgICAgICAgZWxzZSAtPiBSLnN0cmluZy50aW1lc2hlZXRfZW50cnlfeW91X2NyZWF0ZWRfZ2VuZXJpYwovLyAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgdmlldz8ucmVuZGVyKFBheXJvbGxEZXRhaWxWaWV3U3RhdGUuRGlmZmVyZW50UGF5cm9sbFBlcmlvZFN0YXRlKHN0cmluZ1Jlc0lkKSkKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">LyoqCiAqIEZvcm1hdHMgYSBMb2NhbERhdGUgdG8gU0hPUlRfTU9OVEhfREFZIHdoaWNoIGlzICJNTU0gZCIuCiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zdWJzY3JpYmUoCi8vICAgICAgICAgIHsgdGltZSAtPiB9LAovLyAgICAgICAgICB7IGVycm9yIC0+IH0KLy8gICAgICAgICkKLy8gICAgICAgIC5zdWJzY3JpYmUgeyB0aW1lLCBlcnJvciAtPgovLyAgICAgICAgICB0aW1lPy5sZXQgewovLyAgICAgICAgICAgIHZhbCBwYXlyb2xsSW50ZXJ2YWwgPSBwYXlyb2xsPy5pbnRlcnZhbCgpCi8vICAgICAgICAgICAgdmFsIHRpbWVJbnRlcnZhbCA9IGl0LmludGVydmFsKCkKLy8gICAgICAgICAgICAvLyBpZiB0aGVyZSdzIG5vIG92ZXJsYXAsIGRpc3BsYXkgYSBtZXNzYWdlIGluZGljYXRpbmcgdGhhdCB0aGUgbmV3bHkgY3JlYXRlZCBlbnRyeSBpcwovLyAgICAgICAgICAgIC8vIHZpc2libGUgb24gYW5vdGhlciBwYXlyb2xsIHBlcmlvZAovLyAgICAgICAgICAgIGlmIChwYXlyb2xsSW50ZXJ2YWwgIT0gbnVsbAovLyAgICAgICAgICAgICAgJiYgdGltZUludGVydmFsICE9IG51bGwKLy8gICAgICAgICAgICAgICYmICFwYXlyb2xsSW50ZXJ2YWwub3ZlcmxhcHModGltZUludGVydmFsKSkgewovLyAgICAgICAgICAgICAgdmFsIHN0cmluZ1Jlc0lkID0gd2hlbiB7Ci8vICAgICAgICAgICAgICAgIHBheXJvbGxJbnRlcnZhbC5pc0JlZm9yZSh0aW1lSW50ZXJ2YWwpIC0+IFIuc3RyaW5nLnRpbWVzaGVldF9lbnRyeV95b3VfY3JlYXRlZF92aXNpYmxlX2luX2Z1dHVyZV9wZXJpb2QKLy8gICAgICAgICAgICAgICAgcGF5cm9sbEludGVydmFsLmlzQWZ0ZXIodGltZUludGVydmFsKSAtPiBSLnN0cmluZy50aW1lc2hlZXRfZW50cnlfeW91X2NyZWF0ZWRfdmlzaWJsZV9pbl9wYXN0X3BlcmlvZAovLyAgICAgICAgICAgICAgICBlbHNlIC0+IFIuc3RyaW5nLnRpbWVzaGVldF9lbnRyeV95b3VfY3JlYXRlZF9nZW5lcmljCi8vICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICB2aWV3Py5yZW5kZXIoUGF5cm9sbERldGFpbFZpZXdTdGF0ZS5EaWZmZXJlbnRQYXlyb2xsUGVyaW9kU3RhdGUoc3RyaW5nUmVzSWQpKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgfQovLyAgICAgICAgICBlcnJvcj8ubGV0IHsKLy8gICAgICAgICAgICBUaW1iZXIuZChpdCwgIkZhaWxlZCBsb2FkaW5nIG5ldyB0aW1lc2hlZXQgZW50cnk7IGlkPSRuZXdUaW1lc2hlZXRJZCIpCi8vICAgICAgICAgIH0KLy8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZWxzZSAtPiBSLnN0cmluZy50aW1lc2hlZXRfZW50cnlfeW91X2NyZWF0ZWRfZ2VuZXJpYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuc3Vic2NyaWJlIHsgdGltZSAtPgogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0cmluZ1Jlc0lkID0gd2hlbiB7CiAgICAgICAgICAgICAgcGF5cm9sbEludGVydmFsLmlzQmVmb3JlKHRpbWVJbnRlcnZhbCkgLT4gUi5zdHJpbmcudGltZXNoZWV0X2VudHJ5X2Zvcl9kYXRlX3Zpc2libGVfaW5fZnV0dXJlX3BlcmlvZAogICAgICAgICAgICAgIHBheXJvbGxJbnRlcnZhbC5pc0FmdGVyKHRpbWVJbnRlcnZhbCkgLT4gUi5zdHJpbmcudGltZXNoZWV0X2VudHJ5X2Zvcl9kYXRlX3Zpc2libGVfaW5fcHJldmlvdXNfcGVyaW9kCiAgICAgICAgICAgICAgZWxzZSAtPiBSLnN0cmluZy50aW1lc2hlZXRfZW50cnlfeW91X2NyZWF0ZWRfZ2VuZXJpYwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuY29tcG9zZShzY2hlZHVsZXJQcm92aWRlclYyLnNpbmdsZVNjaGVkdWxlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0cmluZ1Jlc0lkID0gd2hlbiB7CiAgICAgICAgICAgICAgcGF5cm9sbEludGVydmFsLmlzQmVmb3JlKHRpbWVJbnRlcnZhbCkgLT4gUi5zdHJpbmcudGltZXNoZWV0X2VudHJ5X2Zvcl9kYXRlX3Zpc2libGVfaW5fZnV0dXJlX3BlcmlvZAogICAgICAgICAgICAgIHBheXJvbGxJbnRlcnZhbC5pc0FmdGVyKHRpbWVJbnRlcnZhbCkgLT4gUi5zdHJpbmcudGltZXNoZWV0X2VudHJ5X2Zvcl9kYXRlX3Zpc2libGVfaW5fcHJldmlvdXNfcGVyaW9kCiAgICAgICAgICAgICAgZWxzZSAtPiBSLnN0cmluZy50aW1lc2hlZXRfZW50cnlfeW91X2NyZWF0ZWRfZ2VuZXJpYwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGltZXNSZXBvc2l0b3J5LmdldFRpbWUodGltZUlkID0gbmV3VGltZXNoZWV0SWQsIGZvcmNlUmVmcmVzaCA9IGZhbHNlKQo=</text>
+      <register name="6" type="4">
+        <text>val userTimeVM: UserTimeVM,
+                                         val payroll: PayrollVM</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="7" type="4">
+        <text>val userTimeVM: UserTimeVM,
+                                         val payroll: PayrollVM</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuY29tcG9zZShzY2hlZHVsZXJQcm92aWRlclYyCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIC5zdWJzY3JpYmUoCi8vICAgICAgICAgIHsgdGltZSAtPiB9LAovLyAgICAgICAgICB7IGVycm9yIC0+IH0KLy8gICAgICAgICkKLy8gICAgICAgIC5zdWJzY3JpYmUgeyB0aW1lLCBlcnJvciAtPgovLyAgICAgICAgICB0aW1lPy5sZXQgewovLyAgICAgICAgICAgIHZhbCBwYXlyb2xsSW50ZXJ2YWwgPSBwYXlyb2xsPy5pbnRlcnZhbCgpCi8vICAgICAgICAgICAgdmFsIHRpbWVJbnRlcnZhbCA9IGl0LmludGVydmFsKCkKLy8gICAgICAgICAgICAvLyBpZiB0aGVyZSdzIG5vIG92ZXJsYXAsIGRpc3BsYXkgYSBtZXNzYWdlIGluZGljYXRpbmcgdGhhdCB0aGUgbmV3bHkgY3JlYXRlZCBlbnRyeSBpcwovLyAgICAgICAgICAgIC8vIHZpc2libGUgb24gYW5vdGhlciBwYXlyb2xsIHBlcmlvZAovLyAgICAgICAgICAgIGlmIChwYXlyb2xsSW50ZXJ2YWwgIT0gbnVsbAovLyAgICAgICAgICAgICAgJiYgdGltZUludGVydmFsICE9IG51bGwKLy8gICAgICAgICAgICAgICYmICFwYXlyb2xsSW50ZXJ2YWwub3ZlcmxhcHModGltZUludGVydmFsKSkgewovLyAgICAgICAgICAgICAgdmFsIHN0cmluZ1Jlc0lkID0gd2hlbiB7Ci8vICAgICAgICAgICAgICAgIHBheXJvbGxJbnRlcnZhbC5pc0JlZm9yZSh0aW1lSW50ZXJ2YWwpIC0+IFIuc3RyaW5nLnRpbWVzaGVldF9lbnRyeV95b3VfY3JlYXRlZF92aXNpYmxlX2luX2Z1dHVyZV9wZXJpb2QKLy8gICAgICAgICAgICAgICAgcGF5cm9sbEludGVydmFsLmlzQWZ0ZXIodGltZUludGVydmFsKSAtPiBSLnN0cmluZy50aW1lc2hlZXRfZW50cnlfeW91X2NyZWF0ZWRfdmlzaWJsZV9pbl9wYXN0X3BlcmlvZAovLyAgICAgICAgICAgICAgICBlbHNlIC0+IFIuc3RyaW5nLnRpbWVzaGVldF9lbnRyeV95b3VfY3JlYXRlZF9nZW5lcmljCi8vICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICB2aWV3Py5yZW5kZXIoUGF5cm9sbERldGFpbFZpZXdTdGF0ZS5EaWZmZXJlbnRQYXlyb2xsUGVyaW9kU3RhdGUoc3RyaW5nUmVzSWQpKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgfQovLyAgICAgICAgICBlcnJvcj8ubGV0IHsKLy8gICAgICAgICAgICBUaW1iZXIuZChpdCwgIkZhaWxlZCBsb2FkaW5nIG5ldyB0aW1lc2hlZXQgZW50cnk7IGlkPSRuZXdUaW1lc2hlZXRJZCIpCi8vICAgICAgICAgIH0KLy8gICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuYXBwbHkgeyBkaXNwb3NhYmxlcy5hZGQoaXQpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
