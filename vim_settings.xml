@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUaW1lT2ZmUmVxdWVzdFR5cGVcPg==</entry>
         <entry encoding="base64">XDxwYXlyb2xsSW50ZXJ2YWxcPg==</entry>
         <entry>recyc</entry>
         <entry encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</entry>
@@ -27,6 +26,7 @@
         <entry>setResult</entry>
         <entry>audit</entry>
         <entry>rxbus</entry>
+        <entry>todatetime</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -191,7 +191,13 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1587654324114">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1587658376303">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailVM.kt" timestamp="1588020076742">
+        <mark key="[" line="89" column="15" />
+        <mark key="]" line="89" column="18" />
+        <mark key="^" line="89" column="18" />
+        <mark key="." line="89" column="17" />
+      </file>
+      <file name="/fragment.kt" timestamp="1588019935713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -219,9 +225,6 @@
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.java" timestamp="1587742870262">
         <mark key="'" line="84" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/site/SitesRepository.kt" timestamp="1587408460946">
-        <mark key="'" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" timestamp="1588002437230">
         <mark key="'" line="428" column="78" />
@@ -337,16 +340,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Length()))</text>
+        <text>ise</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>Length()))</text>
+        <text>ise</text>
       </register>
       <register name="/" type="4">
-        <text>rxbus</text>
+        <text>todatetime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIEZvcm1hdHMgYSBMb2NhbERhdGUgdG8gU0hPUlRfTU9OVEhfREFZIHdoaWNoIGlzICJNTU0gZCIuCiAqLwo=</text>
@@ -390,13 +393,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>rxbus</last-search>
+      <last-search>todatetime</last-search>
       <last-offset />
-      <last-pattern>rxbus</last-pattern>
+      <last-pattern>todatetime</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
