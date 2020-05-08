@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>apiErr</entry>
         <entry>swap</entry>
         <entry>swapusers</entry>
         <entry encoding="base64">XDx0YXJnZXRNYW5hZ2VyXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>spv2</entry>
         <entry>getshiftbyid</entry>
         <entry>swipe</entry>
+        <entry>release</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -148,12 +148,12 @@
         <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/shifts/ShiftsDatabase.kt" timestamp="1588888235568" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" timestamp="1588887132451">
-        <mark key="'" line="321" column="29" />
-        <mark key="[" line="251" column="8" />
-        <mark key="]" line="251" column="9" />
-        <mark key="^" line="251" column="9" />
-        <mark key="." line="251" column="8" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" timestamp="1588954253476">
+        <mark key="'" line="404" column="6" />
+        <mark key="[" line="1236" column="0" />
+        <mark key="]" line="1236" column="0" />
+        <mark key="^" line="1236" column="4" />
+        <mark key="." line="1236" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterSchedulingOnlyCardsTest.java" timestamp="1588863108057">
         <mark key="'" line="51" column="0" />
@@ -235,12 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
-      <jump line="706" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
-      <jump line="723" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="468" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="514" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="170" column="5" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
@@ -335,12 +329,18 @@
       <jump line="243" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="321" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="165" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
+      <jump line="305" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
+      <jump line="1236" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
+      <jump line="253" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
+      <jump line="325" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
+      <jump line="355" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
+      <jump line="404" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>, -1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
@@ -349,40 +349,40 @@
         <text>, -1</text>
       </register>
       <register name="/" type="4">
-        <text>swipe</text>
+        <text>release</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzcygiVXNlUHJvcGVydHlBY2Nlc3NTeW50YXgiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQocHJlc2VudGVyLnN0YXRlKS5pc0VxdWFsVG8oZXhwZWN0ZWRTdGF0ZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoZXhwZWN0ZWRTdGF0ZSkK</text>
+        <text encoding="base64">ICBAVGVzdAogIGZ1biBpdFNob3dzUmVsZWFzZVNoaWZ0UHJvbXB0KCkgewogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZFN0YXRlID0gc3RhdGUuY29weShtb2RhbCA9IFNoaWZ0RGV0YWlsc1ZpZXdTdGF0ZS5Nb2RhbFN0YXRlLlJlbGVhc2VTaGlmdENvbmZpcm1hdGlvbk1vZGFsU3RhdGUpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocHJlc2VudGVyLnN0YXRlKS5pc0VxdWFsVG8oZXhwZWN0ZWRTdGF0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZFN0YXRlID0gc3RhdGUuY29weShtb2RhbCA9IFNoaWZ0RGV0YWlsc1ZpZXdTdGF0ZS5Nb2RhbFN0YXRlLkRlbGV0ZVNoaWZ0TW9kYWxTdGF0ZSkK</text>
+        <text encoding="base64">ICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoZXhwZWN0ZWRTdGF0ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZpZXc/LnJlbmRlcihkYXRhU3RhdGUuY29weShtb2RhbCA9IFNoaWZ0RGV0YWlsc1ZpZXdTdGF0ZS5Nb2RhbFN0YXRlLlJlbGVhc2VTaGlmdENvbmZpcm1hdGlvbk1vZGFsU3RhdGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZFN0YXRlID0gc3RhdGUuY29weShtb2RhbCA9IFNoaWZ0RGV0YWlsc1ZpZXdTdGF0ZS5Nb2RhbFN0YXRlLlJlbGVhc2VTaGlmdENvbmZpcm1hdGlvbk1vZGFsU3RhdGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByZXNlbnRlci52aWV3ID0gdmlldwogICAgcHJlc2VudGVyLnNoaWZ0ID0gc2hpZnQKICAgIHZhbCBzdGF0ZSA9IGJ1aWxkRGF0YVN0YXRlKCkKICAgIHByZXNlbnRlci5zdGF0ZSA9IHN0YXRlCiAgICAKICAgIHZhbCBleHBlY3RlZFN0YXRlID0gc3RhdGUuY29weShtb2RhbCA9IFNoaWZ0RGV0YWlsc1ZpZXdTdGF0ZS5Nb2RhbFN0YXRlLlJlbGVhc2VTaGlmdENvbmZpcm1hdGlvbk1vZGFsU3RhdGUpCiAgICAKICAgIHByZXNlbnRlci5vblJlbGVhc2VTaGlmdENsaWNrZWQoKQogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -391,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>swipe</last-search>
+      <last-search>release</last-search>
       <last-offset />
-      <last-pattern>swipe</last-pattern>
+      <last-pattern>release</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
