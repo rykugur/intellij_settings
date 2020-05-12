@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>private</entry>
         <entry>private fun</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">XDxzaGlmdENhbkJlUmVsZWFzZWRcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxnZXRTdGF0c1NpbmdsZVw+</entry>
         <entry>datamodel</entry>
         <entry encoding="base64">XDxQYXlyb2xsU3RhdHNSZXNwb25zZURhdGFNb2RlbFw+</entry>
+        <entry>table_name</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -158,6 +158,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" timestamp="1589297583427">
+        <mark key="'" line="43" column="34" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryStateModel.kt" timestamp="1589234060196">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="35" />
@@ -221,12 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="321" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="165" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
-      <jump line="305" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1236" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="253" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="325" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="355" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="404" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
@@ -321,6 +318,12 @@
       <jump line="1542" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="29" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" />
       <jump line="34" column="73" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/attendance/fragment/PayrollEmployeeListPresenterTest.java" />
+      <jump line="12" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" />
+      <jump line="21" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" />
+      <jump line="24" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" />
+      <jump line="27" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" />
+      <jump line="33" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" />
+      <jump line="43" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +338,7 @@
         <text>DataModel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYXlyb2xsU3RhdHNSZXNwb25zZURhdGFNb2RlbFw+</text>
+        <text>table_name</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBpZHMgPSBVbmlxdWVJbnRlbnRTZXJ2aWNlSURzCiAgICAgIC52YWx1ZXMoKQogICAgICAubWFwIHsgaXQuaWQgfQoKICAgIHZhbCBoYXNoU2V0ID0gSGFzaFNldChpZHMpCiAgICBBc3NlcnRpb25zLmFzc2VydFRoYXQoaWRzLnNpemUpLmlzRXF1YWxUbyhoYXNoU2V0LnNpemUpCg==</text>
@@ -377,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQYXlyb2xsU3RhdHNSZXNwb25zZURhdGFNb2RlbFw+</last-search>
+      <last-search>table_name</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYXlyb2xsU3RhdHNSZXNwb25zZURhdGFNb2RlbFw+</last-pattern>
+      <last-pattern>table_name</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
