@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">XDxzaGlmdENhbkJlUmVsZWFzZWRcPg==</entry>
         <entry encoding="base64">XDxNb2RhbFN0YXRlXD4=</entry>
         <entry encoding="base64">XDxtb2RhbFw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxQYXlyb2xsU3RhdHNSZXNwb25zZURhdGFNb2RlbFw+</entry>
         <entry>table_name</entry>
         <entry encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</entry>
+        <entry>tablename</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -136,6 +136,9 @@
         <mark key="]" line="1542" column="33" />
         <mark key="." line="1542" column="33" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/shifts/ShiftsDatabase.kt" timestamp="1589383864029">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/services/ParticipantsIntentService.java" timestamp="1589212858123">
         <mark key="[" line="30" column="71" />
         <mark key="]" line="30" column="80" />
@@ -148,12 +151,6 @@
         <mark key="]" line="312" column="17" />
         <mark key="." line="312" column="16" />
         <mark key="^" line="312" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/chat/services/MessageSendIntentService.java" timestamp="1589212843630">
-        <mark key="[" line="43" column="78" />
-        <mark key="]" line="43" column="86" />
-        <mark key="." line="43" column="85" />
-        <mark key="^" line="43" column="86" />
       </file>
       <file name="/fragment.kt" timestamp="1589215624700">
         <mark key="[" line="0" column="1" />
@@ -221,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="1254" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="911" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="912" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
@@ -321,6 +317,7 @@
       <jump line="43" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" />
       <jump line="24" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
       <jump line="124" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/shifts/ShiftsDatabase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +332,7 @@
         <text>DataModel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</text>
+        <text>tablename</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBpZHMgPSBVbmlxdWVJbnRlbnRTZXJ2aWNlSURzCiAgICAgIC52YWx1ZXMoKQogICAgICAubWFwIHsgaXQuaWQgfQoKICAgIHZhbCBoYXNoU2V0ID0gSGFzaFNldChpZHMpCiAgICBBc3NlcnRpb25zLmFzc2VydFRoYXQoaWRzLnNpemUpLmlzRXF1YWxUbyhoYXNoU2V0LnNpemUpCg==</text>
@@ -377,13 +374,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</last-search>
+      <last-search>tablename</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</last-pattern>
+      <last-pattern>tablename</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
