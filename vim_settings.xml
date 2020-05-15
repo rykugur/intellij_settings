@@ -115,18 +115,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" timestamp="1589382910693">
-        <mark key="'" line="124" column="15" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" timestamp="1589234616529">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="1542" column="33" />
-        <mark key="]" line="1542" column="33" />
-        <mark key="." line="1542" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/shifts/ShiftsDatabase.kt" timestamp="1589383864029">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryArchitecture.kt" timestamp="1589234053712">
         <mark key="'" line="257" column="60" />
         <mark key="[" line="312" column="12" />
@@ -134,11 +122,35 @@
         <mark key="." line="312" column="16" />
         <mark key="^" line="312" column="17" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/ShiftsApi.kt" timestamp="1589400713834">
+        <mark key="[" line="4" column="73" />
+        <mark key="]" line="4" column="96" />
+        <mark key="^" line="4" column="96" />
+        <mark key="." line="4" column="95" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/model/PayrollStatsViewModel.kt" timestamp="1589234035375">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1589397741572">
+        <mark key="'" line="303" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" timestamp="1589397980864">
+        <mark key="'" line="183" column="14" />
+      </file>
       <file name="/fragment.kt" timestamp="1589396567913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1589396749381">
+        <mark key="[" line="126" column="19" />
+        <mark key="]" line="126" column="23" />
+        <mark key="." line="126" column="22" />
+        <mark key="^" line="126" column="23" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/user/UsersLiteDatabase.kt" timestamp="1589297583427">
         <mark key="'" line="43" column="34" />
@@ -149,20 +161,14 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/ShiftsApi.kt" timestamp="1589400713834">
-        <mark key="[" line="4" column="73" />
-        <mark key="]" line="4" column="96" />
-        <mark key="^" line="4" column="96" />
-        <mark key="." line="4" column="95" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" timestamp="1589382910693">
+        <mark key="'" line="124" column="15" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/requests/RequestsRepository.kt" timestamp="1589397980864">
-        <mark key="'" line="183" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1589396749381">
-        <mark key="[" line="126" column="19" />
-        <mark key="]" line="126" column="23" />
-        <mark key="." line="126" column="22" />
-        <mark key="^" line="126" column="23" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/FullyAuthAPI.java" timestamp="1589234616529">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="1542" column="33" />
+        <mark key="]" line="1542" column="33" />
+        <mark key="." line="1542" column="33" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/payroll/legacy/PayrollStatsResponse.java" timestamp="1589234369814">
         <mark key="'" line="17" column="80" />
@@ -171,14 +177,8 @@
         <mark key="." line="73" column="57" />
         <mark key="^" line="68" column="37" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/model/PayrollStatsViewModel.kt" timestamp="1589234035375">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1589397741572">
-        <mark key="'" line="303" column="42" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/shifts/ShiftsDatabase.kt" timestamp="1589383864029">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/ShiftDataModel.kt" timestamp="1589400702482">
         <mark key="[" line="32" column="1" />
@@ -347,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>timber</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>timber</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
