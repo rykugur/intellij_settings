@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>unique</entry>
-        <entry>datamodel</entry>
-        <entry encoding="base64">XDxQYXlyb2xsU3RhdHNSZXNwb25zZURhdGFNb2RlbFw+</entry>
-        <entry>table_name</entry>
         <entry encoding="base64">XDxCcmVha0RpYWxvZ0NvbmZpcm1hdGlvblw+</entry>
         <entry>tablename</entry>
         <entry encoding="base64">XDxsaXN0VXNlckNhbmRpZGF0ZXNGb3JTaGlmdFJlcXVlc3RcPg==</entry>
@@ -27,6 +23,10 @@
         <entry>nam</entry>
         <entry encoding="base64">XDxGaWVsZE5hbWluZ1BvbGljeVw+</entry>
         <entry>branch</entry>
+        <entry>wages</entry>
+        <entry encoding="base64">XDxjdXJyZW5jeUZvcm1hdFw+</entry>
+        <entry encoding="base64">XDxkZWNpbWFsRm9ybWF0XD4=</entry>
+        <entry>currency</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -115,8 +115,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" timestamp="1589559432308">
-        <mark key="'" line="49" column="13" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" timestamp="1589818885081">
+        <mark key="'" line="171" column="44" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryArchitecture.kt" timestamp="1589561525214">
         <mark key="'" line="188" column="47" />
@@ -152,8 +152,8 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/di/ApiModule.kt" timestamp="1589568238475">
         <mark key="'" line="61" column="6" />
       </file>
-      <file name="/fragment.kt" timestamp="1589562417340">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.kt" timestamp="1589818362583">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,6 +176,13 @@
         <mark key="]" line="182" column="15" />
         <mark key="^" line="182" column="15" />
         <mark key="." line="182" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" timestamp="1589819087274">
+        <mark key="'" line="26" column="65" />
+        <mark key="[" line="93" column="49" />
+        <mark key="]" line="94" column="51" />
+        <mark key="." line="94" column="50" />
+        <mark key="^" line="94" column="51" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/di/WhenIWorkBaseApplicationModule.java" timestamp="1589568307140">
         <mark key="'" line="6" column="23" />
@@ -203,15 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1137" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1138" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1152" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1153" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1166" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1167" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1181" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1182" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="1195" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="1196" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="1210" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="1211" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
@@ -303,54 +301,63 @@
       <jump line="122" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" />
       <jump line="124" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" />
       <jump line="127" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" />
+      <jump line="23" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
+      <jump line="205" column="70" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" />
+      <jump line="200" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" />
+      <jump line="172" column="31" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" />
+      <jump line="85" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
+      <jump line="25" column="65" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
+      <jump line="211" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" />
+      <jump line="155" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" />
+      <jump line="171" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVSVV0aWxzLmhpZGVLZXlib2FyZCh2aWV3KQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGZvcm1hdHRlZExhYm9yID0gCg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>laborText</text>
       </register>
       <register name="/" type="4">
-        <text>branch</text>
+        <text>currency</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZW1wbG95ZWVTdGF0cyA9IHN0YXRzLnN0YXRzLmVtcGxveWVlcywKICAgICAgdXNlcnMgPSBzdGF0cy51c2VycywKICAgICAgcG9zaXRpb25TdGF0cyA9IHN0YXRzLnN0YXRzLnBvc2l0aW9ucywKICAgICAgcG9zaXRpb25zID0gc3RhdHMucG9zaXRpb25zLAogICAgICBjdXJyZW50VXNlciA9IGN1cnJlbnRVc2VyLAogICAgICBhY2NvdW50ID0gYWNjb3VudCwKICAgICAgd29ya0RheVN0YXJ0ID0gZ2V0QXBwcm9wcmlhdGVTdGFydE9mV29ya0RheShhY2NvdW50LnNldHRpbmdzPy5wYXlyb2xsU2V0dGluZ3MpLAogICAgICBpczI0SG91ckZvcm1hdCA9IGlzMjRIb3VyRm9ybWF0Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGNvbG9yID0gQ29udGV4dENvbXBhdC5nZXRDb2xvcihjb250ZXh0LCBSLmNvbG9yLmFsdW1pbnVtKQogICAgICBsYWJvci5zZXRUZXh0Q29sb3IoY29sb3IpCiAgICAgIHZhbCBsYWJvclRleHQgY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcubm90X2FwcGxpY2FibGUpCiAgICAgIGxhYm9yLnRleHQgPSBsYWJvclRleHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVSVV0aWxzLmhpZGVLZXlib2FyZCh2aWV3KQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGZvcm1hdHRlZExhYm9yID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWx1ZS52YWx1ZS5zaXRlcy5tYXAgewovLyAgICAgICAgRW1wbG95ZWVQYXlyb2xsU3RhdHNWaWV3TW9kZWwoaXQpCi8vICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWUudmFsdWUuZGQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgbG9jYXRpb25zID0gZGF0YU1vZGVsLmxvY2F0aW9ucy5tYXBWYWx1ZXMgeyBFbXBsb3llZVBheXJvbGxTdGF0c1ZpZXdNb2RlbChpdC52YWx1ZSkgfQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGxhYm9yVGV4dCA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLm5vdF9hcHBsaWNhYmxlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9ucyA9IGRhdGFNb2RlbC5sb2NhdGlvbnMubWFwVmFsdWVzIHsgaXQudmFsdWUuc2l0ZXMubWFwIHsgbW9kZWwgLT4gRW1wbG95ZWVQYXlyb2xsU3RhdHNWaWV3TW9kZWwobW9kZWwpIH0gfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBsYWJvclRleHQgPSBnZXRMYWJvclRleHQoYmVhbi5sYWJvcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBnZXRTaGlmdEJyZWFrc1NpbmdsZShzdGFydERhdGU6IERhdGVUaW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZERhdGU6IERhdGVUaW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcmNlUmVmcmVzaDogQm9vbGVhbiA9IGZhbHNlKTogU2luZ2xlPExpc3Q8U2hpZnRCcmVha1ZNPj4gPSBzaGlmdEJyZWFrc1JlcG9zaXRvcnkKICAgIC5saXN0U2hpZnRCcmVha3MoVGltZXNoZWV0VXRpbHMuc2hpZnRCcmVha3NRdWVyeU1hcCgKICAgICAgc3RhcnRUaW1lID0gc3RhcnREYXRlLAogICAgICBlbmRUaW1lID0gZW5kRGF0ZSwKICAgICAgdGltZUlkID0gMEwKICAgICkpCiAgICAubWFwIHsgc2hpZnRCcmVha0xpc3QgLT4KICAgICAgc2hpZnRCcmVha0xpc3QuZmlsdGVyIHsgaXQudHlwZSA9PSBTaGlmdEJyZWFrRE0uVHlwZS5VTlBBSUQgJiYgaXQubGVuZ3RoICE9IDBMIH0KICAgIH0KCiAgcHJpdmF0ZSBmdW4gZ2V0U2hpZnRzU2luZ2xlKHN0YXJ0RGF0ZTogRGF0ZVRpbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZERhdGU6IERhdGVUaW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JjZVJlZnJlc2g6IEJvb2xlYW4gPSBmYWxzZSk6IFNpbmdsZTxMaXN0PFNoaWZ0Vmlld01vZGVsPj4gPQogICAgc2hpZnRzUmVwb3NpdG9yeS5saXN0U2hpZnRzKAogICAgICBxdWVyeU1hcCA9IG1hcE9mKAogICAgICAgIFNoaWZ0UXVlcnlLZXlzLlNUQVJUX0RBVEUgdG8gc3RhcnREYXRlLAogICAgICAgIFNoaWZ0UXVlcnlLZXlzLkVORF9EQVRFIHRvIGVuZERhdGUKICAgICAgKSkKCiAgcHJpdmF0ZSBmdW4gZ2V0VGltZU9mZlJlcXVlc3RzU2luZ2xlKHN0YXJ0RGF0ZTogRGF0ZVRpbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZERhdGU6IERhdGVUaW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JjZVJlZnJlc2g6IEJvb2xlYW4gPSBmYWxzZSk6IFNpbmdsZTxMaXN0PFJlcXVlc3RWTS5UaW1lT2ZmUmVxdWVzdFZNPj4gPQogICAgcmVxdWVzdHNSZXBvc2l0b3J5Lmxpc3RUaW1lT2ZmUmVxdWVzdHNCZXR3ZWVuKHN0YXJ0RGF0ZSwgZW5kRGF0ZSwgbnVsbCwgZm9yY2VSZWZyZXNoKQogICAgICAubWFwIHsgcmVxdWVzdHMgLT4KICAgICAgICByZXF1ZXN0cwogICAgICAgICAgLmZpbHRlciB7IHJlcXVlc3QgLT4KICAgICAgICAgICAgcmVxdWVzdC5ob3VycyA+IDAuMAogICAgICAgICAgICAgICYmIHJlcXVlc3Quc3RhdHVzICE9IFRpbWVPZmZSZXF1ZXN0U3RhdHVzLkNBTkNFTEVECiAgICAgICAgICB9CiAgICAgIH0KCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBsYWJvclRleHQgPSBpZiAoYmVhbi5sYWJvciA8PSAwKSBzZXRMYWJvck5BKCkKLy8gICAgICAgIGVsc2UgZGVjaW1hbEZvcm1hdC5mb3JtYXQoY3VycmVuY3lGb3JtYXQuZm9ybWF0KGJlYW4ubGFib3IpKQovLyAgICAgICAgbGFib3IudGV4dCA9IGxhYm9yVGV4dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBwYXlyb2xsU3RhdHNCaUNvbnN1bWVyID0gQmlDb25zdW1lcjxQYXlyb2xsU3RhdHMsIFRocm93YWJsZT4geyBzdGF0cywgZXJyb3IgLT4KICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBmdW4gZ2V0TGFib3JUZXh0KGxhYm9yOiBGbG9hdCk6IFN0cmluZyB7CiAgICAgIHJldHVybiBpZiAobGFib3IgPD0gMCkgewogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -359,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>branch</last-search>
+      <last-search>currency</last-search>
       <last-offset />
-      <last-pattern>branch</last-pattern>
+      <last-pattern>currency</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
