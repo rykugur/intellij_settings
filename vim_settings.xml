@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRUaW1lT2ZmUmVxdWVzdHNTaW5nbGVcPg==</entry>
         <entry>canberel</entry>
         <entry encoding="base64">XDxzaGlmdENhbkJlUmVsZWFzZWRcPg==</entry>
         <entry>not yet</entry>
@@ -25,8 +24,9 @@
         <entry encoding="base64">XDxzZXR1cE5hdmlnYXRpb25EcmF3ZXJcPg==</entry>
         <entry>timber</entry>
         <entry>debug</entry>
-        <entry>invalid account</entry>
         <entry>mercury</entry>
+        <entry encoding="base64">XDxhY2NvdW50XD4=</entry>
+        <entry>invalid account</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
@@ -200,8 +200,8 @@
         <mark key="." line="84" column="9" />
         <mark key="^" line="84" column="10" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" timestamp="1589986679947">
-        <mark key="'" line="348" column="37" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" timestamp="1589988401935">
+        <mark key="'" line="286" column="23" />
         <mark key="[" line="282" column="94" />
         <mark key="]" line="282" column="114" />
         <mark key="." line="282" column="113" />
@@ -222,12 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
-      <jump line="249" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailActivity.kt" />
-      <jump line="94" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListActivity.kt" />
-      <jump line="451" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
-      <jump line="143" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
-      <jump line="194" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
       <jump line="203" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
       <jump line="174" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
       <jump line="265" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
@@ -322,6 +316,12 @@
       <jump line="347" column="98" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="348" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="54" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/APIErrorHelper.java" />
+      <jump line="173" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="213" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="276" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="283" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="284" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="286" column="23" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +336,7 @@
         <text>valid</text>
       </register>
       <register name="/" type="4">
-        <text>mercury</text>
+        <text>invalid account</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgVGltYmVyLnRhZygiREVSUCIpLmQoInNldHVwTmF2aWdhdGlvbkRyYXdlckhlYWRlcjogZ290IHZhbGlkIGFjY291bnQiKTsK</text>
@@ -378,9 +378,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mercury</last-search>
+      <last-search>invalid account</last-search>
       <last-offset />
-      <last-pattern>mercury</last-pattern>
+      <last-pattern>invalid account</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>KEY_</last-substitute>
       <last-dir>1</last-dir>
