@@ -8,7 +8,6 @@
     <history>
       <history-search>
         <entry>menu</entry>
-        <entry>mercury</entry>
         <entry>launchintent</entry>
         <entry encoding="base64">XDxzdGFydEFjdGl2aXR5XD4=</entry>
         <entry>finish</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDx1c2VyV29ya2VkTXVsdGlwbGVQb3NpdGlvbnNcPg==</entry>
         <entry>different</entry>
         <entry>differ</entry>
+        <entry>mercury</entry>
       </history-search>
       <history-cmd>
         <entry>394</entry>
@@ -196,6 +196,12 @@
         <mark key="^" line="85" column="33" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1590605178984">
+        <mark key="'" line="316" column="20" />
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="449" column="65" />
+        <mark key="." line="449" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/PayrollApi.kt" timestamp="1590527640884">
         <mark key="[" line="36" column="6" />
         <mark key="]" line="36" column="75" />
@@ -227,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="75" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="205" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="47" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="417" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
@@ -327,12 +332,13 @@
       <jump line="108" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailActivity.kt" />
       <jump line="100" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListArchitecture.kt" />
       <jump line="209" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PositionSummaryFragment.java" />
+      <jump line="316" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBzbyBhbnl3YXksIHRoZW4gSSBzYWlkICJidXQgSSBuZWVkIHh5eiBkYXRhIiBhbmQgdGhlIGJhY2tlbmQgZGV2cyB0b2xkIG1lIHRvIHVzZSB0aGUgc3RhdHMgZW5kcG9pbnQKICAvLyBzby4uLi4uLi4uLi4uLi4gOmZpbmdlcmd1bnM6CiAgLy8gVGhlIHByZXNlbmNlIG9mIHRoZSBoYXJkLWNvZGVkIG1hcE9iamVjdHM9dHJ1ZSBxdWVyeSBwYXJhbWV0ZXIgZml4ZXMgb25lIG9mIHRoZSBpc3N1ZXMgaGludGVkIGF0IGluCiAgLy8gZ2V0UGF5cm9sbERhdGEoLi4uKSBhYm92ZSAoaXQgZm9yY2VzIHRoZSBBUEkgdG8gZG91YmxlIGNoZWNrIHRoYXQgaXQncyBub3Qgc2VuZGluZyB1cyBhIGxpc3QgZm9yCiAgLy8gY2VydGFpbiBvYmplY3RzIHdoZW4gaXQgc2hvdWxkIGJlIHNlbmRpbmcgdXMgYSBtYXApLgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9KT0JfU0VSVklDRSIgLz4K</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
@@ -341,40 +347,40 @@
         <text>...</text>
       </register>
       <register name="/" type="4">
-        <text>differ</text>
+        <text>mercury</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBmdW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW06IE1lbnVJdGVtKTogQm9vbGVhbiA9IHdoZW4gKGl0ZW0uaXRlbUlkKSB7CiAgICBhbmRyb2lkLlIuaWQuaG9tZSAtPiB7CiAgICAgIGZpbmlzaCgpCiAgICAgIHRydWUKICAgIH0KICAgIGVsc2UgLT4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9KT0JfU0VSVklDRSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBzbyBhbnl3YXksIHRoZW4gSSBzYWlkICJidXQgSSBuZWVkIHh5eiBkYXRhIiBhbmQgdGhlIGJhY2tlbmQgZGV2cyB0b2xkIG1lIHRvIHVzZSB0aGUgc3RhdHMgZW5kcG9pbnQKICAvLyBzby4uLi4uLi4uLi4uLi4gOmZpbmdlcmd1bnM6CiAgLy8gVGhlIHByZXNlbmNlIG9mIHRoZSBoYXJkLWNvZGVkIG1hcE9iamVjdHM9dHJ1ZSBxdWVyeSBwYXJhbWV0ZXIgZml4ZXMgb25lIG9mIHRoZSBpc3N1ZXMgaGludGVkIGF0IGluCiAgLy8gZ2V0UGF5cm9sbERhdGEoLi4uKSBhYm92ZSAoaXQgZm9yY2VzIHRoZSBBUEkgdG8gZG91YmxlIGNoZWNrIHRoYXQgaXQncyBub3Qgc2VuZGluZyB1cyBhIGxpc3QgZm9yCiAgLy8gY2VydGFpbiBvYmplY3RzIHdoZW4gaXQgc2hvdWxkIGJlIHNlbmRpbmcgdXMgYSBtYXApLgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSIiLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgbG9jYXRpb25zID0gZGF0YU1vZGVsLmxvY2F0aW9ucy5tYXBWYWx1ZXMgeyB2YWx1ZSAtPgovLyAgICAgIFBheXJvbGxTdGF0c1NpdGVzVmlld01vZGVsKHZhbHVlLnZhbHVlLnNpdGVzLm1hcCB7IEVtcGxveWVlUGF5cm9sbFN0YXRzVmlld01vZGVsKGl0KSB9KQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAvLyBzbyBhbnl3YXksIHRoZW4gSSBzYWlkICJidXQgSSBuZWVkIHh5eiBkYXRhIiBhbmQgdGhlIGJhY2tlbmQgZGV2cyB0b2xkIG1lIHRvIHVzZSB0aGUgc3RhdHMgZW5kcG9pbnQKICAvLyBzby4uLi4uLi4uLi4uLi4gOmZpbmdlcmd1bnM6CiAgLy8gVGhlIHByZXNlbmNlIG9mIHRoZSBoYXJkLWNvZGVkIG1hcE9iamVjdHM9dHJ1ZSBxdWVyeSBwYXJhbWV0ZXIgZml4ZXMgb25lIG9mIHRoZSBpc3N1ZXMgaGludGVkIGF0IGluCiAgLy8gZ2V0UGF5cm9sbERhdGEoLi4uKSBhYm92ZSAoaXQgZm9yY2VzIHRoZSBBUEkgdG8gZG91YmxlIGNoZWNrIHRoYXQgaXQncyBub3Qgc2VuZGluZyB1cyBhIGxpc3QgZm9yCiAgLy8gY2VydGFpbiBvYmplY3RzIHdoZW4gaXQgc2hvdWxkIGJlIHNlbmRpbmcgdXMgYSBtYXApLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgbG9jYXRpb25zID0gZGF0YU1vZGVsLmxvY2F0aW9ucy5tYXBWYWx1ZXMgeyB2YWx1ZSAtPgovLyAgICAgIFBheXJvbGxTdGF0c1NpdGVzVmlld01vZGVsKHZhbHVlLnZhbHVlLnNpdGVzLm1hcCB7IEVtcGxveWVlUGF5cm9sbFN0YXRzVmlld01vZGVsKGl0KSB9KQovLyAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9jYXRpb25FbnRyeS52YWx1ZS5zaXRlcy5tYXBWYWx1ZXMgeyBzaXRlRW50cnkgLT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9jYXRpb25FbnRyeS52YWx1ZS5zaXRlcwo=</text>
+        <text encoding="base64">ICAgICAgbG9jYXRpb25FbnRyeS52YWx1ZS5zaXRlcy5tYXBWYWx1ZXMgeyBzaXRlRW50cnkgLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYXlyb2xsU3RhdHNTaXRlc1ZpZXdNb2RlbChzaXRlRW50cnkudmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgbG9jYXRpb25FbnRyeS52YWx1ZS5zaXRlcwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQYXlyb2xsU3RhdHNTaXRlc1ZpZXdNb2RlbChzaXRlRW50cnkudmFsdWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -383,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>differ</last-search>
+      <last-search>mercury</last-search>
       <last-offset />
-      <last-pattern>differ</last-pattern>
+      <last-pattern>mercury</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
