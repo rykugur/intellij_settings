@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>doreturn</entry>
         <entry>viewdrop</entry>
         <entry>clicke</entry>
         <entry>payroll</entry>
@@ -27,6 +26,7 @@
         <entry>formatted</entry>
         <entry>%</entry>
         <entry>%s</entry>
+        <entry encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>394</entry>
@@ -162,12 +162,21 @@
         <mark key="^" line="37" column="53" />
         <mark key="." line="262" column="42" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/SwapDropIntentService.java" timestamp="1590696673552">
+        <mark key="'" line="32" column="27" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/APIErrorHelper.java" timestamp="1590607610408">
         <mark key="'" line="40" column="21" />
         <mark key="[" line="165" column="63" />
         <mark key="]" line="165" column="24" />
         <mark key="." line="165" column="23" />
         <mark key="^" line="165" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/LogoutIntentService.kt" timestamp="1590696743836">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="40" column="92" />
+        <mark key="." line="40" column="91" />
+        <mark key="^" line="40" column="92" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1590679575626">
         <mark key="'" line="316" column="20" />
@@ -176,22 +185,12 @@
         <mark key="." line="450" column="0" />
         <mark key="^" line="449" column="61" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/PayrollApi.kt" timestamp="1590607249511">
-        <mark key="[" line="42" column="118" />
-        <mark key="]" line="42" column="119" />
-        <mark key="^" line="42" column="119" />
-        <mark key="." line="42" column="118" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/PayrollRepository.kt" timestamp="1590608817011">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/UniqueIntentServiceIDs.kt" timestamp="1590685404764">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/UniqueIntentServiceIDs.kt" timestamp="1590696721407" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/androidx/core/app/JobIntentService.java" timestamp="1590693721398" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollListArchitecture.kt" timestamp="1590607672345">
         <mark key="[" line="149" column="0" />
@@ -200,8 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
-      <jump line="533" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
       <jump line="26" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
@@ -300,54 +297,56 @@
       <jump line="37" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="38" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="201" column="69" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
+      <jump line="61" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/SwapDropIntentService.java" />
+      <jump line="32" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/SwapDropIntentService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9KT0JfU0VSVklDRSIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>?mapObjects=true</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>%s</text>
+        <text encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9KT0JfU0VSVklDRSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5tYXAgewogICAgICBpdC5ib2R5KCkKICAgIH0K</text>
+        <text encoding="base64">ICBMT0dPVVQoMTkwMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVAo=</text>
+        <text encoding="base64">ICAgIC5tYXAgewogICAgICBpdC5ib2R5KCkKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5tYXAgeyBpdC5ib2R5KCkgfQo=</text>
+        <text encoding="base64">ICAgICAgVAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5tYXAK</text>
+        <text encoding="base64">ICAgIC5tYXAgeyBpdC5ib2R5KCkgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKgogICAqIE1ha2Ugc3VyZSB0aGF0IHRoaXMgbWV0aG9kIGlzIG5vdCBjYWxsZWQgZnJvbSBhIGxlZ2FjeSBwYXlyb2xsIHNjcmVlbi4K</text>
+        <text encoding="base64">ICAgIC5tYXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSIiLz4K</text>
+        <text encoding="base64">ICAgKgogICAqIE1ha2Ugc3VyZSB0aGF0IHRoaXMgbWV0aG9kIGlzIG5vdCBjYWxsZWQgZnJvbSBhIGxlZ2FjeSBwYXlyb2xsIHNjcmVlbi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBzbyBhbnl3YXksIHRoZW4gSSBzYWlkICJidXQgSSBuZWVkIHh5eiBkYXRhIiBhbmQgdGhlIGJhY2tlbmQgZGV2cyB0b2xkIG1lIHRvIHVzZSB0aGUgc3RhdHMgZW5kcG9pbnQKICAvLyBzby4uLi4uLi4uLi4uLi4gOmZpbmdlcmd1bnM6CiAgLy8gVGhlIHByZXNlbmNlIG9mIHRoZSBoYXJkLWNvZGVkIG1hcE9iamVjdHM9dHJ1ZSBxdWVyeSBwYXJhbWV0ZXIgZml4ZXMgb25lIG9mIHRoZSBpc3N1ZXMgaGludGVkIGF0IGluCiAgLy8gZ2V0UGF5cm9sbERhdGEoLi4uKSBhYm92ZSAoaXQgZm9yY2VzIHRoZSBBUEkgdG8gZG91YmxlIGNoZWNrIHRoYXQgaXQncyBub3Qgc2VuZGluZyB1cyBhIGxpc3QgZm9yCiAgLy8gY2VydGFpbiBvYmplY3RzIHdoZW4gaXQgc2hvdWxkIGJlIHNlbmRpbmcgdXMgYSBtYXApLgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSIiLz4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgbG9jYXRpb25zID0gZGF0YU1vZGVsLmxvY2F0aW9ucy5tYXBWYWx1ZXMgeyB2YWx1ZSAtPgovLyAgICAgIFBheXJvbGxTdGF0c1NpdGVzVmlld01vZGVsKHZhbHVlLnZhbHVlLnNpdGVzLm1hcCB7IEVtcGxveWVlUGF5cm9sbFN0YXRzVmlld01vZGVsKGl0KSB9KQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAvLyBzbyBhbnl3YXksIHRoZW4gSSBzYWlkICJidXQgSSBuZWVkIHh5eiBkYXRhIiBhbmQgdGhlIGJhY2tlbmQgZGV2cyB0b2xkIG1lIHRvIHVzZSB0aGUgc3RhdHMgZW5kcG9pbnQKICAvLyBzby4uLi4uLi4uLi4uLi4gOmZpbmdlcmd1bnM6CiAgLy8gVGhlIHByZXNlbmNlIG9mIHRoZSBoYXJkLWNvZGVkIG1hcE9iamVjdHM9dHJ1ZSBxdWVyeSBwYXJhbWV0ZXIgZml4ZXMgb25lIG9mIHRoZSBpc3N1ZXMgaGludGVkIGF0IGluCiAgLy8gZ2V0UGF5cm9sbERhdGEoLi4uKSBhYm92ZSAoaXQgZm9yY2VzIHRoZSBBUEkgdG8gZG91YmxlIGNoZWNrIHRoYXQgaXQncyBub3Qgc2VuZGluZyB1cyBhIGxpc3QgZm9yCiAgLy8gY2VydGFpbiBvYmplY3RzIHdoZW4gaXQgc2hvdWxkIGJlIHNlbmRpbmcgdXMgYSBtYXApLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgbG9jYXRpb25zID0gZGF0YU1vZGVsLmxvY2F0aW9ucy5tYXBWYWx1ZXMgeyB2YWx1ZSAtPgovLyAgICAgIFBheXJvbGxTdGF0c1NpdGVzVmlld01vZGVsKHZhbHVlLnZhbHVlLnNpdGVzLm1hcCB7IEVtcGxveWVlUGF5cm9sbFN0YXRzVmlld01vZGVsKGl0KSB9KQovLyAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -356,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>%s</last-search>
+      <last-search encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</last-search>
       <last-offset />
-      <last-pattern>%s</last-pattern>
+      <last-pattern encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
