@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>payroll</entry>
         <entry>summary</entry>
         <entry>onclick</entry>
         <entry encoding="base64">XDxQYXlyb2xsU3VtbWFyeUJlYW5cPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</entry>
         <entry>account</entry>
         <entry encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2dpbkNvbnRyb2xsZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>394</entry>
@@ -124,6 +124,9 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values-fr/strings.xml" timestamp="1590685908800">
         <mark key="[" line="1241" column="72" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/account/AccountsActivity.java" timestamp="1590778705323">
+        <mark key="'" line="73" column="26" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/RequestIntentService.java" timestamp="1590765897375">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -162,6 +165,12 @@
         <mark key="." line="61" column="6" />
         <mark key="^" line="60" column="58" />
       </file>
+      <file name="/fragment.kt" timestamp="1590778958750">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/app/WhenIWorkBaseApplication.java" timestamp="1590771823953">
         <mark key="'" line="43" column="32" />
       </file>
@@ -190,12 +199,12 @@
         <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/androidx/core/app/JobIntentService.java" timestamp="1590693721398" />
-      <file name="/fragment.java" timestamp="1590771315824">
+      <file name="/fragment.java" timestamp="1590779351032">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" timestamp="1590779511363" />
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="288" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="132" column="104" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" />
@@ -295,6 +304,7 @@
       <jump line="32" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/SwapDropIntentService.java" />
       <jump line="113" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
       <jump line="43" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/app/WhenIWorkBaseApplication.java" />
+      <jump line="73" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/account/AccountsActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +319,7 @@
         <text>e.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</text>
+        <text encoding="base64">XDxsb2dpbkNvbnRyb2xsZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9KT0JfU0VSVklDRSIgLz4K</text>
@@ -351,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dpbkNvbnRyb2xsZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dpbkNvbnRyb2xsZXJcPg==</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
