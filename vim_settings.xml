@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>viewdrop</entry>
-        <entry>clicke</entry>
         <entry>payroll</entry>
         <entry>summary</entry>
         <entry>onclick</entry>
@@ -27,6 +25,8 @@
         <entry>%</entry>
         <entry>%s</entry>
         <entry encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</entry>
+        <entry>account</entry>
+        <entry encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>394</entry>
@@ -162,15 +162,14 @@
         <mark key="." line="61" column="6" />
         <mark key="^" line="60" column="58" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1590683353879">
-        <mark key="'" line="201" column="69" />
-        <mark key="[" line="262" column="26" />
-        <mark key="]" line="37" column="53" />
-        <mark key="^" line="37" column="53" />
-        <mark key="." line="262" column="42" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/app/WhenIWorkBaseApplication.java" timestamp="1590771823953">
+        <mark key="'" line="43" column="32" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/SwapDropIntentService.java" timestamp="1590696673552">
         <mark key="'" line="32" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" timestamp="1590771121095">
+        <mark key="'" line="113" column="13" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/NotificationIntentService.java" timestamp="1590765990103">
         <mark key="[" line="11" column="25" />
@@ -184,13 +183,6 @@
         <mark key="." line="40" column="91" />
         <mark key="^" line="40" column="92" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1590679575626">
-        <mark key="'" line="316" column="20" />
-        <mark key="[" line="450" column="7" />
-        <mark key="]" line="450" column="65" />
-        <mark key="." line="450" column="0" />
-        <mark key="^" line="449" column="61" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/UniqueIntentServiceIDs.kt" timestamp="1590766110615">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="20" />
@@ -198,13 +190,11 @@
         <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/androidx/core/app/JobIntentService.java" timestamp="1590693721398" />
-      <file name="/fragment.java" timestamp="1590769848071">
+      <file name="/fragment.java" timestamp="1590771315824">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="288" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
@@ -303,6 +293,8 @@
       <jump line="201" column="69" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" />
       <jump line="61" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/SwapDropIntentService.java" />
       <jump line="32" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/services/SwapDropIntentService.java" />
+      <jump line="113" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/widget/nav/NavigationDrawerActivity.java" />
+      <jump line="43" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/app/WhenIWorkBaseApplication.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +309,7 @@
         <text>e.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</text>
+        <text encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJhbmRyb2lkLnBlcm1pc3Npb24uQklORF9KT0JfU0VSVklDRSIgLz4K</text>
@@ -359,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</last-search>
+      <last-search encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVTklRVUVfSk9CX0lEXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtVXNlck1vZGVsT2JzZXJ2ZXJcPg==</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
