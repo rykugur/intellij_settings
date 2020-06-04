@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>maptointent</entry>
         <entry>mapto</entry>
         <entry>controller.login</entry>
         <entry encoding="base64">XDxzaG93TG9naW5BY3Rpdml0eVw+</entry>
@@ -27,6 +26,7 @@
         <entry>confirm</entry>
         <entry encoding="base64">XDxtUHJlZmVyZW5jZXNcPg==</entry>
         <entry encoding="base64">XDxQUkVGX0xBU1RfVVNFUk5BTUVcPg==</entry>
+        <entry encoding="base64">XDxsYXVuY2hBY3Rpdml0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>385</entry>
@@ -118,11 +118,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailActivity.kt" timestamp="1591282887485">
+        <mark key="'" line="287" column="14" />
+        <mark key="[" line="116" column="20" />
+        <mark key="]" line="116" column="43" />
+        <mark key="." line="116" column="42" />
+        <mark key="^" line="116" column="43" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" timestamp="1591201294836">
         <mark key="'" line="103" column="19" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="36" />
         <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" timestamp="1591282956190">
+        <mark key="[" line="471" column="36" />
+        <mark key="]" line="471" column="47" />
+        <mark key="." line="471" column="46" />
+        <mark key="^" line="471" column="47" />
       </file>
       <file name="/fragment.kt" timestamp="1591125992456">
         <mark key="[" line="0" column="0" />
@@ -222,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/LoginResponse.java" />
       <jump line="185" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/LoginResponse.java" />
       <jump line="186" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/LoginResponse.java" />
       <jump line="187" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/LoginResponse.java" />
@@ -322,54 +334,55 @@
       <jump line="45" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/AppPreferences.java" />
       <jump line="21" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/AppPreferences.java" />
       <jump line="39" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/pref/AppPreferences.java" />
+      <jump line="283" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UobmV3IEFwcFNjaGVkdWxlcjw+KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">dmFsIHRlcnRpYXJ5U2luZ2xlID0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQUkVGX0xBU1RfVVNFUk5BTUVcPg==</text>
+        <text encoding="base64">XDxsYXVuY2hBY3Rpdml0eVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1vdmUoUFJFRl9VU0VSX1RPS0VOKQogICAgICAgICAgICAgICAgLnJlbW92ZShQUkVGX1VTRVJfSUQpCiAgICAgICAgICAgICAgICAucmVtb3ZlKFBSRUZfQ1VSUkVOVF9MT0dJTikKICAgICAgICAgICAgICAgIC5yZW1vdmUoUFJFRl9TS0lQX1NISUZUX0FDS05PV0xFRE1FTlQpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHN0YXRlID0gU2hpZnREZXRhaWxzVmlld1N0YXRlLkxhdW5jaEludGVudFN0YXRlKGludGVudCwgUkVRVUVTVF9UQVNLX0NIQU5HRUQpCiAgICAgIHZpZXc/LnJlbmRlcihzdGF0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UobmV3IEFwcFNjaGVkdWxlcjw+KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UobmV3IEFwcFNjaGVkdWxlcjw+KCkpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UobmV3IEFwcFNjaGVkdWxlcjw+KCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UobmV3IFNjaGVkdWxlclByb3ZpZGVyKCkuYXBwU2NoZWR1bGVyKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3Py5yZW5kZXIoU2hpZnREZXRhaWxzVmlld1N0YXRlLkxhdW5jaEludGVudFN0YXRlKGludGVudCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNvbXBvc2UobmV3IFNjaGVkdWxlclByb3ZpZGVyKCkuYXBwU2NoZWR1bGVyKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWFsb2cuZGlzbWlzcygpOwo=</text>
+        <text encoding="base64">Y29uc3QgdmFsIFJFUVVFU1RfQURERUQgPSAzMzEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0YXJ0QWN0aXZpdHkoc3RhdGUuaW50ZW50KQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlcXVlc3RDb2RlID09IFJFUVVFU1RfVEFTS19DSEFOR0VEKSB7CiAgICAgIH0KICAgICAgaWYgKHJlcXVlc3RDb2RlID09IERhc2hib2FyZEFjdGl2aXR5LlRSSUdHRVJfUkVGUkVTSF9SRVFVRVNUX0NPREUpIHsKICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVmcy5yZW1vdmVVc2VySW5mb3JtYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmVzZW50ZXIub25DbG9ja0luU3RhdGVDaGFuZ2VkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>210</text>
@@ -378,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQUkVGX0xBU1RfVVNFUk5BTUVcPg==</last-search>
+      <last-search encoding="base64">XDxsYXVuY2hBY3Rpdml0eVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQUkVGX0xBU1RfVVNFUk5BTUVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsYXVuY2hBY3Rpdml0eVw+</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
