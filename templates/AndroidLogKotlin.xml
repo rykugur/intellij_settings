@@ -1,0 +1,10 @@
+<templateSet group="AndroidLogKotlin">
+  <template name="tderp" value="timber.log.Timber.tag(&quot;DERP&quot;).d(&quot;$CLASS_NAME$.$METHOD_NAME$: $content$&quot;)" description="timber-&gt;&quot;DERP&quot;+kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
