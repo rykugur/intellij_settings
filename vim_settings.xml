@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>unit</entry>
         <entry>databinding</entry>
         <entry>buildFe</entry>
         <entry>fabric</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxhY2NvdW50c1JlcG9zaXRvcnlcPg==</entry>
         <entry>worker</entry>
         <entry>refresh</entry>
+        <entry>receiver</entry>
       </history-search>
       <history-cmd>
         <entry>385</entry>
@@ -125,11 +125,11 @@
         <mark key="." line="113" column="2" />
         <mark key="^" line="113" column="3" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1591648924747">
-        <mark key="[" line="204" column="120" />
-        <mark key="]" line="204" column="127" />
-        <mark key="^" line="204" column="127" />
-        <mark key="." line="204" column="126" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1591654471460">
+        <mark key="[" line="195" column="7" />
+        <mark key="]" line="195" column="12" />
+        <mark key="^" line="195" column="12" />
+        <mark key="." line="195" column="11" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailActivity.kt" timestamp="1591370965979">
         <mark key="'" line="385" column="78" />
@@ -138,16 +138,17 @@
         <mark key="." line="116" column="42" />
         <mark key="^" line="116" column="43" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/PeriodicWorkUtils.kt" timestamp="1591654561570">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="55" column="44" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="50" />
+        <mark key="^" line="55" column="51" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/account/RefreshAccountWorker.kt" timestamp="1591649456189">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" timestamp="1591292347529">
-        <mark key="[" line="1386" column="41" />
-        <mark key="]" line="1386" column="42" />
-        <mark key="." line="1386" column="41" />
-        <mark key="^" line="1386" column="42" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/AccountsRepository.kt" timestamp="1591649127517">
         <mark key="'" line="88" column="28" />
@@ -175,12 +176,6 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1591292339518">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/app/WhenIWorkBaseApplication.java" timestamp="1591645270779">
         <mark key="'" line="43" column="32" />
         <mark key="[" line="150" column="14" />
@@ -191,26 +186,35 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/User.java" timestamp="1591633058904">
         <mark key="'" line="672" column="11" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1591653583591">
-        <mark key="'" line="256" column="47" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/LogoutIntentService.kt" timestamp="1591654534887">
+        <mark key="'" line="30" column="58" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/scheduler/schedule/SchedulerActivity.kt" timestamp="1591370863152">
-        <mark key="'" line="178" column="4" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1591654009542">
+        <mark key="'" line="257" column="40" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/login/RefreshLoginTokenWorker.kt" timestamp="1591648494212">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591648681394">
+      <file name="/fragment.java" timestamp="1591654660093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" timestamp="1591631787335">
         <mark key="'" line="48" column="13" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/BootCompletedReceiver.kt" timestamp="1591654580647">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/account/fragment/FindWorkplaceFragment.java" />
       <jump line="48" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/account/fragment/FindWorkplaceFragment.java" />
       <jump line="49" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/account/fragment/FindWorkplaceFragment.java" />
       <jump line="98" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/account/fragment/FindWorkplaceFragment.java" />
@@ -299,7 +303,6 @@
       <jump line="88" column="28" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/AccountsRepository.kt" />
       <jump line="212" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="7" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
-      <jump line="257" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="358" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="365" column="43" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="366" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
@@ -310,54 +313,56 @@
       <jump line="253" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="254" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
       <jump line="256" column="47" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="257" column="40" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="17" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/PeriodicWorkUtils.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIHN0YXJ0V29yaygpOiBMaXN0ZW5hYmxlRnV0dXJlPFJlc3VsdD4gewogICAgVGltYmVyLnRhZygiREVSUCIpLmQoIlJlZnJlc2hBY2NvdW50V29ya2VyLnN0YXJ0V29yazogZW50ZXIiKQogICAgcmV0dXJuIHN1cGVyLnN0YXJ0V29yaygpCiAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>MINUTES</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>receiver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByZXNlbnRlci52aWV3ID0gdmlldwogICAgcHJlc2VudGVyLnNoaWZ0ID0gc3R1YmJlZFVwY29taW5nU2hpZnRWaWV3TW9kZWwKICAgIHByZXNlbnRlci5zdGF0ZSA9IGJ1aWxkRGF0YVN0YXRlKCkK</text>
+        <text encoding="base64">ICAgIHdvcmtNYW5hZ2VyCiAgICAgIC5lbnF1ZXVlVW5pcXVlUGVyaW9kaWNXb3JrKAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgb3ZlcnJpZGUgZnVuIHN0YXJ0V29yaygpOiBMaXN0ZW5hYmxlRnV0dXJlPFJlc3VsdD4gewogICAgVGltYmVyLnRhZygiREVSUCIpLmQoIlJlZnJlc2hBY2NvdW50V29ya2VyLnN0YXJ0V29yazogZW50ZXIiKQogICAgcmV0dXJuIHN1cGVyLnN0YXJ0V29yaygpCiAgfQo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">IFdvcmtNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMpCiBXb3JrTWFuYWdlci5nZXRJbnN0YW5jZSh0aGlzKQogV29ya01hbmFnZXIuZ2V0SW5zdGFuY2UodGhpcykKIFdvcmtNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCB7IGl0IGFzIEFjY291bnQgfQo=</text>
+        <text encoding="base64">ICAgIFdvcmtNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMpLmNhbmNlbFVuaXF1ZVdvcmsoUkVGUkVTSF9MT0dJTl9UT0tFTl9XT1JLRVJfTkFNRSkKICAgIFdvcmtNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMpLmNhbmNlbFVuaXF1ZVdvcmsoUkVGUkVTSF9BQ0NPVU5UX1dPUktFUl9OQU1FKQogICAgV29ya01hbmFnZXIuZ2V0SW5zdGFuY2UodGhpcykuY2FuY2VsVW5pcXVlV29yayhSRUZSRVNIX1YzX0FQSV9XT1JLRVJfTkFNRSkKICAgIFdvcmtNYW5hZ2VyLmdldEluc3RhbmNlKHRoaXMpLmNhbmNlbFVuaXF1ZVdvcmsoUkVGUkVTSF9WMl9BUElfV09SS0VSX05BTUUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBXb3JrTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5lbnF1ZXVlVW5pcXVlUGVyaW9kaWNXb3JrKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBXb3JrTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5lbnF1ZXVlVW5pcXVlUGVyaW9kaWNXb3JrKAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRpbWJlci50YWcoIkRFUlAiKS5kKCJSZWZyZXNoTG9naW5Ub2tlbldvcmtlci5jcmVhdGVXb3JrOiBlbmQiKQo=</text>
+        <text encoding="base64">ICBXb3JrTWFuYWdlci5nZXRJbnN0YW5jZShjb250ZXh0KS5lbnF1ZXVlVW5pcXVlUGVyaW9kaWNXb3JrKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgVGltYmVyLnRhZygiREVSUCIpLmQoIi5jcmVhdGVXb3JrOiAiKQogICAgVGltYmVyLnRhZygiREVSUCIpLmQoIi5jcmVhdGVXb3JrOiAiKQo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChhY2NvdW50ICE9IG51bGwgJiYgdXNlciAhPSBudWxsKSB7CiAgICB9IGVsc2UgewogICAgICBTdHJpbmcgbWVzc2FnZSA9ICIiCiAgICAgIFRpbWJlci5kKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gbm90IGxvZ2dlZCBpbiwgZG9uJ3Qgc3RhcnQgam9icwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -366,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>refresh</last-search>
+      <last-search>receiver</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>receiver</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
