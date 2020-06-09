@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>databinding</entry>
         <entry>buildFe</entry>
         <entry>fabric</entry>
         <entry>fabric.tools</entry>
@@ -27,6 +26,7 @@
         <entry>worker</entry>
         <entry>refresh</entry>
         <entry>receiver</entry>
+        <entry>action</entry>
       </history-search>
       <history-cmd>
         <entry>385</entry>
@@ -211,11 +211,11 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" timestamp="1591631787335">
         <mark key="'" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/BootCompletedReceiver.kt" timestamp="1591654904385">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="14" column="66" />
-        <mark key="." line="14" column="65" />
-        <mark key="^" line="14" column="66" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/BootCompletedReceiver.kt" timestamp="1591716559624">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="15" column="72" />
+        <mark key="^" line="15" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -333,7 +333,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>receiver</text>
+        <text>action</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdvcmtNYW5hZ2VyCiAgICAgIC5lbnF1ZXVlVW5pcXVlUGVyaW9kaWNXb3JrKAo=</text>
@@ -375,13 +375,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>receiver</last-search>
+      <last-search>action</last-search>
       <last-offset />
-      <last-pattern>receiver</last-pattern>
+      <last-pattern>action</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
