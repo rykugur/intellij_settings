@@ -118,10 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginControllerTest.java" timestamp="1591978076106">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginControllerTest.java" timestamp="1591978186837">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="92" column="50" />
-        <mark key="]" line="92" column="50" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="98" />
         <mark key="^" line="92" column="50" />
         <mark key="." line="92" column="49" />
       </file>
@@ -188,8 +188,11 @@
         <mark key="." line="86" column="23" />
         <mark key="^" line="86" column="24" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginPresenterTest.java" timestamp="1591978078962">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginPresenterTest.java" timestamp="1591978189184">
+        <mark key="[" line="56" column="98" />
+        <mark key="]" line="57" column="4" />
+        <mark key="." line="57" column="3" />
+        <mark key="^" line="57" column="4" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/RegistrationFragment.java" timestamp="1591911612594">
         <mark key="[" line="229" column="104" />
@@ -334,8 +337,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>User.class, Account.class, Throwable.class);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
@@ -347,37 +350,37 @@
         <text>logto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIGxvZ1RvVHJhY2UobWVzc2FnZTogU3RyaW5nLAogICAgICAgICAgICAgICB1c2VyOiBVc2VyPyA9IG51bGwsCiAgICAgICAgICAgICAgIGFjY291bnQ6IEFjY291bnQ/ID0gbnVsbCwKICAgICAgICAgICAgICAgdGhyb3dhYmxlOiBUaHJvd2FibGU/ID0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIFBvd2VyTW9ja2l0by5kb05vdGhpbmcoKS53aGVuKExvZ2dpbmdVdGlsc0t0LmNsYXNzLCAibG9nVG9UcmFjZSIsIGFueSgpLCBhbnkoKSwgYW55KCksIGFueSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBvd2VyTW9ja2l0by53aGVuKExvZ2dpbmdVdGlsc0t0LmNsYXNzLCAibG9nVG9UcmFjZSIpLnRoZW5BbnN3ZXIoaW52b2NhdGlvbiAtPiBudWxsKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFBvd2VyTW9ja2l0by5kb05vdGhpbmcoKS53aGVuKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFBvd2VyTW9ja2l0by53aGVuKExvZ2dpbmdVdGlsc0t0LmNsYXNzLCAibG9nVG9UcmFjZSIpLnRoZW5BbnN3ZXIoaW52b2NhdGlvbiAtPiBudWxsKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgbm90aGluZygpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoZW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoZW4oTG9nZ2luZ1V0aWxzS3QubG9nVG9UcmFjZShWa2FueSgpLCBhbnkoKSwgYW55KCksIGFueSgpKSkudGhlbkFuc3dlcihuZXcgQW5zd2VyPE9iamVjdD4oKSB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgT2JqZWN0IGFuc3dlcihJbnZvY2F0aW9uT25Nb2NrIGludm9jYXRpb24pIHRocm93cyBUaHJvd2FibGUgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CiAgICB9KTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgbm90aGluZygpIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ1RvVHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIHdoZW4oKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4oTG9nZ2luZ1V0aWxzS3QubG9nVG9UcmFjZShWa2FueSgpLCBhbnkoKSwgYW55KCksIGFueSgpKSkudGhlbkFuc3dlcihuZXcgQW5zd2VyPE9iamVjdD4oKSB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgT2JqZWN0IGFuc3dlcihJbnZvY2F0aW9uT25Nb2NrIGludm9jYXRpb24pIHRocm93cyBUaHJvd2FibGUgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmdW4gbG9nVG9UcmFjZQo=</text>
+        <text encoding="base64">ICAgIGxvZ1RvVHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>292</text>
