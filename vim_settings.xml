@@ -118,13 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginControllerTest.java" timestamp="1591978186837">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="98" />
-        <mark key="^" line="92" column="50" />
-        <mark key="." line="92" column="49" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1592255748327">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
@@ -132,6 +125,12 @@
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1592256152994">
         <mark key="'" line="85" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailActivity.kt" timestamp="1592320890731">
+        <mark key="[" line="406" column="30" />
+        <mark key="]" line="406" column="53" />
+        <mark key="." line="406" column="52" />
+        <mark key="^" line="406" column="53" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/PeriodicWorkUtils.kt" timestamp="1592257156882">
         <mark key="[" line="66" column="14" />
@@ -195,11 +194,11 @@
       <file name="/fragment.kt" timestamp="1592246854503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginPresenterTest.java" timestamp="1591983893999">
-        <mark key="[" line="56" column="98" />
-        <mark key="]" line="56" column="98" />
-        <mark key="." line="56" column="97" />
-        <mark key="^" line="56" column="98" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1592320884504">
+        <mark key="[" line="372" column="58" />
+        <mark key="]" line="373" column="70" />
+        <mark key="^" line="373" column="70" />
+        <mark key="." line="373" column="69" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/RefreshV3ApiWorker.kt" timestamp="1592256575936">
         <mark key="[" line="30" column="48" />
@@ -332,13 +331,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>startPeriodicWork</text>
+        <text>shift_released</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>startPeriodicWork</text>
+        <text>shift_released</text>
       </register>
       <register name="/" type="4">
         <text>periodic</text>
