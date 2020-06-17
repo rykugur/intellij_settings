@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dnaW5nVXRpbHNLdFw+</entry>
         <entry>logto</entry>
         <entry>approval</entry>
         <entry>isPending</entry>
@@ -27,6 +26,7 @@
         <entry>destroy</entry>
         <entry encoding="base64">XDxpc0FwcENvbGRTdGFydGluZ1w+</entry>
         <entry encoding="base64">XDxhY3Rpdml0eUxpZmVjeWNsZUNhbGxiYWNrc1w+</entry>
+        <entry>released</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -146,12 +146,6 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/AccountsRepository.kt" timestamp="1592255878171">
-        <mark key="[" line="25" column="68" />
-        <mark key="]" line="25" column="68" />
-        <mark key="." line="25" column="67" />
-        <mark key="^" line="25" column="68" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" timestamp="1592257086248">
         <mark key="'" line="165" column="19" />
         <mark key="[" line="76" column="0" />
@@ -159,8 +153,12 @@
         <mark key="^" line="77" column="4" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" timestamp="1592421794160">
+        <mark key="'" line="147" column="50" />
+        <mark key="^" line="759" column="26" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/TemporalUtils.kt" timestamp="1592420711436" />
-      <file name="/fragment.kt" timestamp="1592326936631">
+      <file name="/fragment.kt" timestamp="1592421696796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1592320884504">
@@ -207,9 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
-      <jump line="15" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="36" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="53" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="86" column="21" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
@@ -307,6 +302,9 @@
       <jump line="132" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="133" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="214" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
+      <jump line="693" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
+      <jump line="700" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
+      <jump line="147" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +319,7 @@
         <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpdml0eUxpZmVjeWNsZUNhbGxiYWNrc1w+</text>
+        <text>released</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ1RvVHJhY2UobWVzc2FnZSA9ICJSZWZyZXNoQWNjb3VudFdvcmtlci5jcmVhdGVXb3JrOiBlbnRlciIsIHVzZXIgPSBjdXJyZW50VXNlciwgYWNjb3VudCA9IGFjY291bnQpCg==</text>
@@ -363,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhY3Rpdml0eUxpZmVjeWNsZUNhbGxiYWNrc1w+</last-search>
+      <last-search>released</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpdml0eUxpZmVjeWNsZUNhbGxiYWNrc1w+</last-pattern>
+      <last-pattern>released</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
