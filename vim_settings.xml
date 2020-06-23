@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>periodic</entry>
         <entry>max</entry>
         <entry encoding="base64">XDxtYXhMZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxtYXhWYWx1ZVw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxkaXNwb3NhYmxlc1w+</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxEZXByZWNhdGVkXD4=</entry>
+        <entry>got cached user</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -153,11 +153,12 @@
         <mark key="." line="200" column="3" />
         <mark key="^" line="200" column="4" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1592860518032">
-        <mark key="[" line="187" column="62" />
-        <mark key="]" line="187" column="64" />
-        <mark key="." line="187" column="63" />
-        <mark key="^" line="187" column="64" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1592931821877">
+        <mark key="'" line="139" column="3" />
+        <mark key="[" line="68" column="80" />
+        <mark key="]" line="68" column="94" />
+        <mark key="." line="68" column="93" />
+        <mark key="^" line="68" column="94" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1592858329010">
         <mark key="'" line="66" column="32" />
@@ -171,12 +172,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/EnvironmentDebugActivity.kt" timestamp="1592929376207">
-        <mark key="'" line="35" column="32" />
-        <mark key="[" line="84" column="20" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="34" />
-        <mark key="^" line="84" column="35" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/EnvironmentDebugActivity.kt" timestamp="1592931310081">
+        <mark key="'" line="85" column="42" />
+        <mark key="[" line="75" column="73" />
+        <mark key="]" line="75" column="75" />
+        <mark key="." line="75" column="74" />
+        <mark key="^" line="75" column="75" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/PlanIds.java" timestamp="1592496747087" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/Injector.java" timestamp="1592498537527">
@@ -230,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="70" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginControllerTest.java" />
-      <jump line="310" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginControllerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/login/LoginControllerTest.java" />
       <jump line="205" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
       <jump line="751" column="86" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
@@ -330,21 +329,23 @@
       <jump line="493" column="5" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/User.java" />
       <jump line="498" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/User.java" />
       <jump line="35" column="32" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/EnvironmentDebugActivity.kt" />
+      <jump line="85" column="42" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/EnvironmentDebugActivity.kt" />
+      <jump line="139" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>userString</text>
+        <text>}</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>userString</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZXByZWNhdGVkXD4=</text>
+        <text>got cached user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdXNlckluZm8iCiAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSJAZGltZW4vdGV4dF9zaXplX21lZGl1bSIKICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvYmxhY2tfZGFyayIKICAgICAgICAgIHRvb2xzOnRleHQ9IkxvZ2luIFRva2VuIGlzc3VlZCBhdDoiCiAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9tYXJnaW5fbGFyZ2UiCiAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL21hcmdpbl9sYXJnZSIKICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEhvcml6b250YWxfYmlhcz0iMCIKICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvYnJhbmNoX2RpdmlkZXIiCiAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiLz4KCiAgICAgICAgPFZpZXcKICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdXNlcl9pbmZvX2RpdmlkZXIiCiAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIxZHAiCiAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9wYWRkaW5nX21lZGl1bSIKICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b0JvdHRvbU9mPSJAaWQvbG9naW5Ub2tlbklhdCIKICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2JsYWNrX2RhcmsiLz4K</text>
@@ -386,9 +387,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxEZXByZWNhdGVkXD4=</last-search>
+      <last-search>got cached user</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZXByZWNhdGVkXD4=</last-pattern>
+      <last-pattern>got cached user</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
