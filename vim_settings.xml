@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXlyb2xsU3RhcnRcPg==</entry>
         <entry>onclick</entry>
         <entry>requirements</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxSRUZSRVNIX0FDQ09VTlRfV09SS0VSX05BTUVcPg==</entry>
         <entry>account</entry>
         <entry encoding="base64">XDxsb2dUb1RyYWNlXD4=</entry>
+        <entry>multiple</entry>
       </history-search>
       <history-cmd>
         <entry>199</entry>
@@ -182,8 +182,8 @@
         <mark key="." line="34" column="52" />
         <mark key="^" line="34" column="53" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" timestamp="1593532312164">
-        <mark key="'" line="78" column="18" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" timestamp="1593641103256">
+        <mark key="'" line="78" column="33" />
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="85" />
         <mark key="." line="80" column="37" />
@@ -298,7 +298,6 @@
       <jump line="50" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/AttendanceUtils.kt" />
       <jump line="92" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
       <jump line="74" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
-      <jump line="78" column="18" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
       <jump line="68" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/payroll_position_summary_item.xml" />
       <jump line="9" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/payroll_position_summary_item.xml" />
       <jump line="61" column="51" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/payroll_position_summary_item.xml" />
@@ -330,6 +329,7 @@
       <jump line="71" column="133" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/AccountsRepository.kt" />
       <jump line="74" column="125" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/AccountsRepository.kt" />
       <jump line="149" column="90" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/AccountsRepository.kt" />
+      <jump line="78" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,7 +344,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dUb1RyYWNlXD4=</text>
+        <text>multiple</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbG9nVG9UcmFjZShtZXNzYWdlID0gIkFjY291bnRzUmVwb3NpdG9yeS5nZXRDdXJyZW50QWNjb3VudElkOiByZXR1cm5pbmcgYWNjb3VudElkIGZyb20gY3VycmVudFVzZXIuYWNjb3VudElkOyBhY2NvdW50SWQ9JHRtcEFjY3RJZCIsIHVzZXIgPSBjdXJyZW50VXNlcikK</text>
@@ -387,9 +387,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dUb1RyYWNlXD4=</last-search>
+      <last-search>multiple</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dUb1RyYWNlXD4=</last-pattern>
+      <last-pattern>multiple</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
