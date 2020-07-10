@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>logtag</entry>
-        <entry>start</entry>
         <entry>workDay</entry>
         <entry encoding="base64">XDxwYXlyb2xsSWRcPg==</entry>
         <entry encoding="base64">XDx1c2VyQ29udGFpbmVyXD4=</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">dXNlciA9IA==</entry>
         <entry>ccccc</entry>
         <entry>f7f7f7</entry>
+        <entry>stacktrace</entry>
+        <entry encoding="base64">XDx0aHJvd2FibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>199</entry>
@@ -128,21 +128,15 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/UserModule.java" timestamp="1594149080477">
         <mark key="'" line="56" column="20" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1594147802987">
-        <mark key="'" line="164" column="29" />
-        <mark key="[" line="159" column="10" />
-        <mark key="]" line="159" column="17" />
-        <mark key="^" line="159" column="17" />
-        <mark key="." line="159" column="16" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/account/RefreshAccountWorker.kt" timestamp="1594397114294">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="65" />
+        <mark key="." line="35" column="64" />
+        <mark key="^" line="35" column="65" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/colors.xml" timestamp="1594312411835">
         <mark key="'" line="28" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/AccountsRepository.kt" timestamp="1594148131113">
-        <mark key="'" line="27" column="14" />
-        <mark key="]" line="71" column="43" />
-        <mark key="." line="71" column="42" />
-        <mark key="^" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/logging/TraceDebugTree.kt" timestamp="1594149797077">
         <mark key="[" line="32" column="23" />
@@ -161,6 +155,9 @@
         <mark key="]" line="227" column="0" />
         <mark key="." line="227" column="0" />
         <mark key="^" line="222" column="87" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/logging/LoggingUtils.kt" timestamp="1594396766274">
+        <mark key="'" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/TemporalUtils.kt" timestamp="1594150657963" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryArchitecture.kt" timestamp="1594311826617">
@@ -181,17 +178,18 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/APIErrorHelper.java" timestamp="1594140753348">
-        <mark key="]" line="17" column="109" />
-        <mark key="^" line="17" column="109" />
-        <mark key="." line="17" column="108" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryStateModel.kt" timestamp="1594309623571" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/payroll_summary_item.xml" timestamp="1594310843646">
         <mark key="[" line="61" column="20" />
         <mark key="]" line="61" column="20" />
         <mark key="." line="61" column="20" />
         <mark key="^" line="61" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/login/RefreshLoginTokenWorker.kt" timestamp="1594397211770">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="65" />
+        <mark key="." line="43" column="64" />
+        <mark key="^" line="43" column="65" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" timestamp="1594313527511">
         <mark key="'" line="51" column="0" />
@@ -203,10 +201,9 @@
       <file name="/fragment.java" timestamp="1594309559117">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/RefreshV2ApiWorker.kt" timestamp="1594396883193" />
     </filemarks>
     <jumps>
-      <jump line="372" column="5" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/read/TimesheetDetailArchitecture.kt" />
-      <jump line="240" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="244" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="251" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
       <jump line="252" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailArchitecture.kt" />
@@ -305,21 +302,23 @@
       <jump line="35" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/colors.xml" />
       <jump line="28" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/colors.xml" />
       <jump line="199" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryArchitecture.kt" />
+      <jump line="25" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/logging/LoggingUtils.kt" />
+      <jump line="37" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/logging/LoggingUtils.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Color.parseC</text>
+        <text>singleScheduler</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>Color.parseC</text>
+        <text>singleScheduler</text>
       </register>
       <register name="/" type="4">
-        <text>f7f7f7</text>
+        <text encoding="base64">XDx0aHJvd2FibGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBwYXlyb2xsID0gcGF5cm9sbFN1bW1hcnlTdGF0ZU1vZGVsLnBheXJvbGwK</text>
@@ -361,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>f7f7f7</last-search>
+      <last-search encoding="base64">XDx0aHJvd2FibGVcPg==</last-search>
       <last-offset />
-      <last-pattern>f7f7f7</last-pattern>
+      <last-pattern encoding="base64">XDx0aHJvd2FibGVcPg==</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
