@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>listallshift</entry>
-        <entry>canshiftbe</entry>
-        <entry>dropcand</entry>
         <entry>fetchpunch</entry>
         <entry>gettagsfor</entry>
         <entry>scheduleprov</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxnZXRQYXlyb2xsSW50ZXJuYWxcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
         <entry>position</entry>
+        <entry encoding="base64">XDxQZXJpb2RCZWFuTGl0ZVw+</entry>
+        <entry>sortedby</entry>
+        <entry>sorted</entry>
       </history-search>
       <history-cmd>
         <entry>120</entry>
@@ -136,20 +136,30 @@
         <mark key="^" line="4" column="58" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="/fragment.kt" timestamp="1595541583905">
+      <file name="/fragment.kt" timestamp="1595604729496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/PositionSummaryTotals.java" timestamp="1595540775451" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryStateModel.kt" timestamp="1595539466484">
-        <mark key="'" line="54" column="18" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryStateModel.kt" timestamp="1595604711898">
+        <mark key="'" line="31" column="16" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="45" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/payroll_position_summary_item.xml" timestamp="1595359915460">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailStateModel.kt" timestamp="1595603960231">
+        <mark key="'" line="147" column="11" />
+        <mark key="[" line="208" column="55" />
+        <mark key="]" line="208" column="85" />
+        <mark key="." line="208" column="84" />
+        <mark key="^" line="208" column="85" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/PayrollRepository.kt" timestamp="1595542123978">
         <mark key="'" line="73" column="14" />
@@ -169,9 +179,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="32" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" timestamp="1595359676711">
-        <mark key="'" line="121" column="13" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/PayrollViewModels.kt" timestamp="1595519789196">
         <mark key="[" line="46" column="0" />
@@ -195,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
-      <jump line="157" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="41" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" />
       <jump line="174" column="35" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" />
       <jump line="72" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" />
@@ -295,21 +300,23 @@
       <jump line="45" column="5" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/PayrollDatabase.kt" />
       <jump line="100" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/PayrollDatabase.kt" />
       <jump line="189" column="52" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" />
+      <jump line="147" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollDetailStateModel.kt" />
+      <jump line="31" column="16" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryStateModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIFBBWVJPTExfREJfVEFCTEVfTkFNRSA9ICJwYXlyb2xsIgo=</text>
+      <register name="&quot;" type="4">
+        <text>rmat: Boolean</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>rmat: Boolean</text>
       </register>
       <register name="/" type="4">
-        <text>position</text>
+        <text>sorted</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gVE9ETyhkdXN0eSk6IGRpc2NvdmVyZWQgd2hpbGUgdHdlYWtpbmcvZml4aW5nIGEgYnVnIHRoYXQgd2UgZG9uJ3QgYWN0dWFsbHkgbmVlZCB0byB1c2UgdGhlIFBheXJvbGxTdGF0c1Jlc3BvbnNlVmlld01vZGxlCi8vIGhlcmUsIGFsbCB0aGUgZGF0YSB3ZSBuZWVkIGlzIGFscmVhZHkgaW5jbHVkZWQgaW4gdGhlIFBheXJvbGxSZXNwb25zZURNLiBXZSBzaG91bGQgY29uc2lkZXIgc3RyaXBwaW5nCi8vIHRoZSBkYXRhIHdlIGRvbid0IG5lZWQgb3V0IG9mIGhlcmUgYW5kIHRoZSByZWxhdGVkIHByZXNlbnRlci4gU2VlIGh0dHBzOi8vd2hlbml3b3JrLmF0bGFzc2lhbi5uZXQvYnJvd3NlL0FORC0zODM5Ci8vIGZvciBtb3JlIGluZm8uCg==</text>
@@ -351,13 +358,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>position</last-search>
+      <last-search>sorted</last-search>
       <last-offset />
-      <last-pattern>position</last-pattern>
+      <last-pattern>sorted</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
