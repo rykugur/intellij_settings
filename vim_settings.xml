@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>timesheet</entry>
         <entry encoding="base64">XDxuYXZfdGltZXNoZWV0c1w+</entry>
         <entry>timesheets</entry>
         <entry encoding="base64">XDxnZXRMYXVuY2hJbnRlbnRcPg==</entry>
@@ -27,6 +26,7 @@
         <entry>title</entry>
         <entry encoding="base64">XDxzY2hlZHVsZXJQcm92aWRlclYyXD4=</entry>
         <entry encoding="base64">XDxkb1JldHVyblw+</entry>
+        <entry>ignore</entry>
       </history-search>
       <history-cmd>
         <entry>227</entry>
@@ -184,8 +184,8 @@
         <mark key="^" line="109" column="4" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" timestamp="1596215213325">
-        <mark key="'" line="218" column="3" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" timestamp="1596215754176">
+        <mark key="'" line="31" column="36" />
         <mark key="[" line="217" column="91" />
         <mark key="]" line="218" column="4" />
         <mark key="." line="218" column="3" />
@@ -219,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="275" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="367" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
@@ -319,6 +318,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" />
       <jump line="218" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" />
+      <jump line="31" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +333,7 @@
         <text encoding="base64">IHsgXyAtPg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb1JldHVyblw+</text>
+        <text>ignore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYW5kcm9pZDpsYWJlbD0iQHN0cmluZy90aXRsZV9hY3Rpdml0eV9zaGlmdF9kZXRhaWwiCg==</text>
@@ -375,9 +375,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkb1JldHVyblw+</last-search>
+      <last-search>ignore</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb1JldHVyblw+</last-pattern>
+      <last-pattern>ignore</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
