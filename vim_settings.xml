@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRMYXVuY2hJbnRlbnRcPg==</entry>
-        <entry encoding="base64">XDxvblBheVBlcmlvZFNlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDxQYXlyb2xsTGlzdEFkYXB0ZXJcPg==</entry>
         <entry encoding="base64">XDxmZWF0dXJlUm91dGVyXD4=</entry>
         <entry>nav_attendance</entry>
@@ -26,6 +24,8 @@
         <entry encoding="base64">XDxkb1JldHVyblw+</entry>
         <entry>ignore</entry>
         <entry>clockin</entry>
+        <entry>dashboard</entry>
+        <entry>clock_in</entry>
         <entry encoding="base64">XDxjbG9ja0luQnV0dG9uXD4=</entry>
       </history-search>
       <history-cmd>
@@ -127,6 +127,9 @@
         <mark key="^" line="184" column="28" />
         <mark key="." line="184" column="27" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_dashboard.xml" timestamp="1596465216276">
+        <mark key="'" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" timestamp="1596122026401">
         <mark key="'" line="72" column="4" />
         <mark key="[" line="72" column="48" />
@@ -141,8 +144,8 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" timestamp="1596464433463">
-        <mark key="'" line="183" column="14" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" timestamp="1596465656789">
+        <mark key="'" line="183" column="4" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollListAdapter.kt" timestamp="1596051540331">
         <mark key="[" line="127" column="79" />
@@ -156,9 +159,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="27" column="107" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/legacy/PayrollSummaryFragment.java" timestamp="1596040574781">
-        <mark key="'" line="209" column="28" />
       </file>
       <file name="/fragment.kt" timestamp="1596214048917">
         <mark key="[" line="0" column="0" />
@@ -193,8 +193,8 @@
         <mark key="." line="218" column="3" />
         <mark key="^" line="218" column="4" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1596212185508">
-        <mark key="'" line="299" column="65" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1596465155930">
+        <mark key="'" line="170" column="11" />
         <mark key="[" line="175" column="6" />
         <mark key="]" line="175" column="58" />
         <mark key="^" line="175" column="58" />
@@ -221,8 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
-      <jump line="23" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="45" column="29" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
       <jump line="456" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shift/read/ShiftDetailArchitecture.kt" />
       <jump line="241" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shift/read/ShiftDetailPresenterTest.kt" />
@@ -318,9 +316,11 @@
       <jump line="218" column="3" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" />
       <jump line="31" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonPresenterTest.kt" />
       <jump line="474" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
-      <jump line="135" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="230" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
-      <jump line="183" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
+      <jump line="135" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
+      <jump line="170" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" />
+      <jump line="3" column="39" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_dashboard.xml" />
+      <jump line="183" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
