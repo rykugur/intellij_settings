@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mercury</entry>
-        <entry>tab</entry>
-        <entry encoding="base64">XDx0YWJzXD4=</entry>
-        <entry encoding="base64">XDx0YWJWaXNpYmlsaXR5XD4=</entry>
         <entry>clockinbutton</entry>
         <entry encoding="base64">XDxjbG9ja0luQnV0dG9uRW5hYmxlZFw+</entry>
         <entry>end lunch</entry>
@@ -27,6 +23,10 @@
         <entry>double</entry>
         <entry>hours</entry>
         <entry>otHours</entry>
+        <entry encoding="base64">XDxnZXRPdEhvdXJzXD4=</entry>
+        <entry>totalHours</entry>
+        <entry>this.totalHours</entry>
+        <entry>this.ot.text</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
@@ -180,11 +180,11 @@
         <mark key="." line="286" column="122" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/payroll/legacy/EmployeePayrollStats.java" timestamp="1596812976823" />
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryStateModel.kt" timestamp="1596813870389">
-        <mark key="[" line="170" column="26" />
-        <mark key="]" line="170" column="26" />
-        <mark key="^" line="170" column="26" />
-        <mark key="." line="170" column="25" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryStateModel.kt" timestamp="1596814026276">
+        <mark key="[" line="176" column="6" />
+        <mark key="]" line="176" column="22" />
+        <mark key="." line="176" column="21" />
+        <mark key="^" line="176" column="22" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/gradle.properties" timestamp="1596813814477">
         <mark key="[" line="1" column="25" />
@@ -199,12 +199,12 @@
         <mark key="^" line="188" column="21" />
         <mark key="." line="188" column="20" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" timestamp="1596813747009">
-        <mark key="'" line="116" column="54" />
-        <mark key="[" line="116" column="51" />
-        <mark key="]" line="116" column="51" />
-        <mark key="." line="116" column="61" />
-        <mark key="^" line="78" column="63" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" timestamp="1596814080556">
+        <mark key="'" line="154" column="10" />
+        <mark key="[" line="154" column="51" />
+        <mark key="]" line="154" column="51" />
+        <mark key="." line="154" column="54" />
+        <mark key="^" line="78" column="69" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/legacy/TimeSheetEntryEditFragment.java" timestamp="1596741963604">
         <mark key="'" line="692" column="5" />
@@ -217,11 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="549" column="46" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
-      <jump line="269" column="78" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
-      <jump line="240" column="78" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
-      <jump line="556" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="24" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="56" column="80" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="130" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
@@ -313,55 +308,60 @@
       <jump line="19" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditArchitecture.kt" />
       <jump line="119" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
       <jump line="29" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollSummaryAdapter.kt" />
+      <jump line="156" column="37" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
+      <jump line="28" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
+      <jump line="112" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
+      <jump line="150" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
+      <jump line="74" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
-      <jump line="154" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
-      <jump line="78" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
-      <jump line="116" column="54" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
+      <jump line="78" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
+      <jump line="116" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
+      <jump line="154" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollPositionSummaryAdapter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>otHours</text>
+        <text>getOtHours</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>otHours</text>
+        <text>getOtHours</text>
       </register>
       <register name="/" type="4">
-        <text>otHours</text>
+        <text>this.ot.text</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRoaXMucmVnLnRleHQgPSBkZWNpbWFsRm9ybWF0LmZvcm1hdChiZWFuLnJlZ3VsYXJIb3VycykKICAgICAgICAgIHRoaXMub3QudGV4dCA9IGRlY2ltYWxGb3JtYXQuZm9ybWF0KGJlYW4ub3RIb3VycykKICAgICAgICAgIHRoaXMucHRvLnRleHQgPSBkZWNpbWFsRm9ybWF0LmZvcm1hdChiZWFuLnB0b0hvdXJzKQogICAgICAgICAgdGhpcy5ob2wudGV4dCA9IGRlY2ltYWxGb3JtYXQuZm9ybWF0KGJlYW4uaG9saWRheUhvdXJzKQogICAgICAgICAgdGhpcy5zaWMudGV4dCA9IGRlY2ltYWxGb3JtYXQuZm9ybWF0KGJlYW4uc2lja0hvdXJzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVnLnRleHQgPSBiZWFuLnJlZ3VsYXJIb3Vycy50b1N0cmluZygpCiAgICAgICAgICB0aGlzLm90LnRleHQgPSBiZWFuLm90SG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5wdG8udGV4dCA9IGJlYW4ucHRvSG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5ob2wudGV4dCA9IGJlYW4uaG9saWRheUhvdXJzLnRvU3RyaW5nKCkKICAgICAgICAgIHRoaXMuc2ljLnRleHQgPSBiZWFuLnNpY2tIb3Vycy50b1N0cmluZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVnLnRleHQgPSBiZWFuLnJlZ3VsYXJIb3Vycy50b1N0cmluZygpCiAgICAgICAgICB0aGlzLm90LnRleHQgPSBiZWFuLm90SG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5wdG8udGV4dCA9IGJlYW4ucHRvSG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5ob2wudGV4dCA9IGJlYW4uaG9saWRheUhvdXJzLnRvU3RyaW5nKCkKICAgICAgICAgIHRoaXMuc2ljLnRleHQgPSBiZWFuLnNpY2tIb3Vycy50b1N0cmluZygpCg==</text>
+        <text encoding="base64">ICBmdW4gZ2V0T3RIb3VycygpID0gb3RIb3VycyArIGRvdWJsZU90SG91cnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRvdGFsSG91cnMudGV4dCA9IGJlYW4uZ2V0VG90YWxIb3VycygpLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgIGdldCgpID0gb3RIb3VycyArIGRvdWJsZU90SG91cnMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIG1heExlbmd0aDogSW50PyA9IGlmICh0bXBEYXRlICE9IG51bGwgJiYgdG1wSW4gIT0gbnVsbCAmJiB0bXBPdXQgIT0gbnVsbCkgewovLyAgICAgIE1pbnV0ZXMubWludXRlc0JldHdlZW4odG1wRGF0ZS50b0RhdGVUaW1lKHRtcEluKSwgdG1wRGF0ZS50b0RhdGVUaW1lKHRtcE91dCkpLm1pbnV0ZXMKLy8gICAgfSBlbHNlIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVnLnRleHQgPSBiZWFuLnJlZ3VsYXJIb3Vycy50b1N0cmluZygpCiAgICAgICAgICB0aGlzLm90LnRleHQgPSBiZWFuLm90SG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5wdG8udGV4dCA9IGJlYW4ucHRvSG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5ob2wudGV4dCA9IGJlYW4uaG9saWRheUhvdXJzLnRvU3RyaW5nKCkKICAgICAgICAgIHRoaXMuc2ljLnRleHQgPSBiZWFuLnNpY2tIb3Vycy50b1N0cmluZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgZW5kRGF0ZSA9IGlmICh0bXBPdXQuaXNCZWZvcmUodG1wSW4pKSB7Ci8vICAgICAgICB0bXBEYXRlLnBsdXNEYXlzKDEpLnRvRGF0ZVRpbWUodG1wT3V0KQovLyAgICAgIH0gZWxzZSB0bXBEYXRlLnRvRGF0ZVRpbWUodG1wT3V0KQovLyAgICAgIE1pbnV0ZXMubWludXRlc0JldHdlZW4oc3RhcnREYXRlLCBlbmREYXRlKSkubWludXRlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVnLnRleHQgPSBiZWFuLnJlZ3VsYXJIb3Vycy50b1N0cmluZygpCiAgICAgICAgICB0aGlzLm90LnRleHQgPSBiZWFuLm90SG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5wdG8udGV4dCA9IGJlYW4ucHRvSG91cnMudG9TdHJpbmcoKQogICAgICAgICAgdGhpcy5ob2wudGV4dCA9IGJlYW4uaG9saWRheUhvdXJzLnRvU3RyaW5nKCkKICAgICAgICAgIHRoaXMuc2ljLnRleHQgPSBiZWFuLnNpY2tIb3Vycy50b1N0cmluZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRvdGFsSG91cnMudGV4dCA9IGJlYW4uZ2V0VG90YWxIb3VycygpLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgdmFsIG1heExlbmd0aDogSW50PyA9IGlmICh0bXBEYXRlICE9IG51bGwgJiYgdG1wSW4gIT0gbnVsbCAmJiB0bXBPdXQgIT0gbnVsbCkgewovLyAgICAgIE1pbnV0ZXMubWludXRlc0JldHdlZW4odG1wRGF0ZS50b0RhdGVUaW1lKHRtcEluKSwgdG1wRGF0ZS50b0RhdGVUaW1lKHRtcE91dCkpLm1pbnV0ZXMKLy8gICAgfSBlbHNlIG51bGwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgdG1wT3V0IGlzIGJlZm9yZSB0bXBJbiwgdGhlIGVudHJ5IGVuZHMgb24gdGhlIG5leHQgZGF5Cg==</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgZW5kRGF0ZSA9IGlmICh0bXBPdXQuaXNCZWZvcmUodG1wSW4pKSB7Ci8vICAgICAgICB0bXBEYXRlLnBsdXNEYXlzKDEpLnRvRGF0ZVRpbWUodG1wT3V0KQovLyAgICAgIH0gZWxzZSB0bXBEYXRlLnRvRGF0ZVRpbWUodG1wT3V0KQovLyAgICAgIE1pbnV0ZXMubWludXRlc0JldHdlZW4oc3RhcnREYXRlLCBlbmREYXRlKSkubWludXRlcwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -373,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>otHours</last-search>
+      <last-search>this.ot.text</last-search>
       <last-offset />
-      <last-pattern>otHours</last-pattern>
+      <last-pattern>this.ot.text</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute>launchintent</last-substitute>
       <last-dir>1</last-dir>
