@@ -118,12 +118,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/punchstate/PunchState.kt" timestamp="1597173259079">
-        <mark key="'" line="54" column="24" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="64" column="32" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/punchstate/PunchState.kt" timestamp="1597175744372">
+        <mark key="'" line="58" column="24" />
+        <mark key="[" line="82" column="34" />
+        <mark key="]" line="82" column="32" />
+        <mark key="^" line="82" column="32" />
+        <mark key="." line="82" column="31" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListArchitecture.kt" timestamp="1597098392419">
         <mark key="'" line="217" column="159" />
@@ -144,18 +144,18 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/PunchStateApi.kt" timestamp="1597159410912">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/PunchStateApi.kt" timestamp="1597175365400">
+        <mark key="[" line="21" column="103" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="1" />
+        <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateRepository.kt" timestamp="1597174119503">
-        <mark key="'" line="27" column="2" />
-        <mark key="[" line="29" column="91" />
-        <mark key="]" line="30" column="92" />
-        <mark key="." line="30" column="91" />
-        <mark key="^" line="30" column="92" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerActivity.kt" timestamp="1596820776394">
-        <mark key="'" line="17" column="30" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateRepository.kt" timestamp="1597175423240">
+        <mark key="'" line="55" column="2" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="3" />
+        <mark key="." line="67" column="2" />
+        <mark key="^" line="67" column="3" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerAdapter.kt" timestamp="1596820922391">
         <mark key="'" line="83" column="14" />
@@ -178,8 +178,8 @@
         <mark key="^" line="49" column="23" />
         <mark key="." line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateViewModel.kt" timestamp="1597173321033">
-        <mark key="[" line="2" column="11" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateViewModel.kt" timestamp="1597175447591">
+        <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="11" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="10" />
@@ -201,11 +201,17 @@
       <file name="/fragment.java" timestamp="1597161635342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/ApiUtils.kt" timestamp="1597174063822">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/ApiUtils.kt" timestamp="1597174798596">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="2" />
         <mark key="^" line="9" column="11" />
         <mark key="." line="18" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateVM.kt" timestamp="1597175761319">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -313,50 +319,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZmFsc2UK</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>(PunchStateQueryKeys.)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbGxVc2Vyc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBASnNvbkFkYXB0ZXIodmFsdWUgPSBQdW5jaFN0YXRlTnVtYmVyT3JTdHJpbmdEZXNlcmlhbGl6ZXI6OmNsYXNzLCBudWxsU2FmZSA9IHRydWUpCg==</text>
+        <text encoding="base64">ICAgIHNoaWZ0SWQ/LmxldCB7IGJ1aWxkZXIuc2hpZnRJZChpdCl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICByZXR1cm4gc3VwZXIuYnVpbGQoKS5hbHNvIHsgCi8vICAgICAgICBpdFtQdW5jaFN0YXRlUXVlcnlLZXlzLkRFVklDRV9UWVBFXSA9IFB1bmNoU3RhdGVEZXZpY2VUeXBlLk1PQklMRS50eXBlCi8vICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG1hcCA9IAo=</text>
+        <text encoding="base64">ICAgICkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBxdWVyeU1hcDogTXV0YWJsZU1hcDxTdHJpbmcsIEFueT4gPSBtdXRhYmxlTWFwT2YoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGwK</text>
+        <text encoding="base64">ICBAR0VUKCJwdW5jaC9wb3NpdGlvbnMiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBidWlsZCgpOiBNYXBNCg==</text>
+        <text encoding="base64">ICAgIGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBkZXZpY2VUeXBlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
