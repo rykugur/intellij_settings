@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>LogginUt</entry>
         <entry>LoggingUti</entry>
         <entry encoding="base64">XDxjbG9ja0luQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxib3R0b21TaGVldExheW91dFw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxjb25maWd1cmVDbG9ja2luVmlld1w+</entry>
         <entry encoding="base64">XDxzaG93T3JIaWRlQ2xvY2tpbkJ1dHRvblw+</entry>
         <entry>onclicklistener</entry>
+        <entry encoding="base64">XDxuZWVkc0JyZWFrQ29uZmlybWF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0tFWV8vVGltZXNoZWV0RWRpdEtleXMuL2c=</entry>
@@ -118,18 +118,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/punchstate/PunchState.kt" timestamp="1597783265724">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="37" column="31" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="37" column="30" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/punchstate/PunchState.kt" timestamp="1597858840890">
+        <mark key="[" line="92" column="21" />
+        <mark key="]" line="92" column="45" />
+        <mark key="^" line="92" column="45" />
+        <mark key="." line="92" column="44" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_dashboard.xml" timestamp="1597857318617">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_dashboard.xml" timestamp="1597858639505">
         <mark key="'" line="44" column="3" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="26" column="17" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_break_button.xml" timestamp="1597778777499">
         <mark key="'" line="9" column="0" />
@@ -193,8 +192,8 @@
         <mark key="^" line="79" column="73" />
         <mark key="." line="79" column="72" />
       </file>
-      <file name="/fragment.kt" timestamp="1597854587791">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.kt" timestamp="1597858733738">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/view_clock_in_button.xml" timestamp="1597778715392">
         <mark key="[" line="58" column="0" />
@@ -202,11 +201,12 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateViewModel.kt" timestamp="1597857803669">
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="36" column="27" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateViewModel.kt" timestamp="1597857921475">
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="52" column="57" />
+        <mark key="]" line="52" column="58" />
+        <mark key="^" line="52" column="58" />
+        <mark key="." line="52" column="57" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/api/PunchApi.kt" timestamp="1597857632191">
         <mark key="[" line="30" column="0" />
@@ -230,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="94" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="101" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
       <jump line="111" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/LaunchActivity.java" />
@@ -330,54 +329,55 @@
       <jump line="349" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="677" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="594" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
+      <jump line="28" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBASnZtU3VwcHJlc3NXaWxkY2FyZHMK</text>
+      <register name="&quot;" type="4">
+        <text>asJsonObject.asString</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2sgaW4g</text>
+        <text>asJsonObject.asString</text>
       </register>
       <register name="/" type="4">
-        <text>onclicklistener</text>
+        <text encoding="base64">XDxuZWVkc0JyZWFrQ29uZmlybWF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBASnZtU3VwcHJlc3NXaWxkY2FyZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJ2aXNpYmxlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNpbmdsZS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYXNlbGluZUFsaWduZWQ9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgIFNpbmdsZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYXNlbGluZUFsaWduZWQ9ImZhbHNlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXQ9IkBsYXlvdXQvdmlld19jbG9ja19pbl9idXR0b25fc3R1YiIK</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXQ9IkBsYXlvdXQvdmlld19jbG9ja19pbl9idXR0b25fc3R1YiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5kcm9pZDpiYXNlbGluZUFsaWduZWQ9ImZhbHNlIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -386,12 +386,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onclicklistener</last-search>
+      <last-search encoding="base64">XDxuZWVkc0JyZWFrQ29uZmlybWF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>onclicklistener</last-pattern>
+      <last-pattern encoding="base64">XDxuZWVkc0JyZWFrQ29uZmlybWF0aW9uXD4=</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute encoding="base64">XDxsb2dUb1RyYWNlXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
