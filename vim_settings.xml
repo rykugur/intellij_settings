@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZWdhY3lDbG9ja2luQ29udGFpbmVyXD4=</entry>
         <entry>zip</entry>
         <entry encoding="base64">XDxnZXRQdW5jaFN0YXRlRm9yQ3VycmVudFVzZXJTaW5nbGVcPg==</entry>
         <entry>subscribe</entry>
@@ -27,6 +26,7 @@
         <entry>refresh</entry>
         <entry encoding="base64">XDxyZWZyZXNoTGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxjbG9ja19pbl92aWV3XD4=</entry>
+        <entry>launch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0tFWV8vVGltZXNoZWV0RWRpdEtleXMuL2c=</entry>
@@ -123,18 +123,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/activity_dashboard.xml" timestamp="1597866408878">
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="40" column="53" />
-        <mark key="." line="40" column="52" />
-        <mark key="^" line="40" column="53" />
-      </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_break_button.xml" timestamp="1597778777499">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/view_clock_in_button_stub.xml" timestamp="1597851724995">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -179,6 +167,9 @@
         <mark key="^" line="55" column="75" />
         <mark key="." line="55" column="74" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1597934428606">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenterTest.java" timestamp="1597782426141">
         <mark key="[" line="79" column="51" />
         <mark key="]" line="79" column="73" />
@@ -212,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
       <jump line="316" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
       <jump line="145" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginActivity.java" />
@@ -312,6 +302,7 @@
       <jump line="205" column="36" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="602" column="53" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="204" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +317,7 @@
         <text>View</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbG9ja19pbl92aWV3XD4=</text>
+        <text>launch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChmZWF0dXJlUm91dGVyLmlzUHVuY2hTdGF0ZVJlZmFjdG9yRW5hYmxlZCgpKSB7Cg==</text>
@@ -368,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjbG9ja19pbl92aWV3XD4=</last-search>
+      <last-search>launch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbG9ja19pbl92aWV3XD4=</last-pattern>
+      <last-pattern>launch</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute encoding="base64">XDxsb2dUb1RyYWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
