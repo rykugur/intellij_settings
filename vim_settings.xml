@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lunch</entry>
         <entry>generic</entry>
         <entry encoding="base64">XDxlbmRfbHVuY2hcPg==</entry>
         <entry encoding="base64">XDx0YWtlX2x1bmNoXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDx0aW1lclRleHRcPg==</entry>
         <entry>timer</entry>
         <entry encoding="base64">XDxzaGlmdEJyZWFrTW9kZWxcPg==</entry>
+        <entry>firebase</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0tFWV8vVGltZXNoZWV0RWRpdEtleXMuL2c=</entry>
@@ -187,36 +187,30 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/fragment/EnvironmentChoiceFragment.kt" timestamp="1597946107294">
-        <mark key="'" line="173" column="8" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-        <mark key="^" line="178" column="35" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateRepository.kt" timestamp="1598285685661">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="35" column="10" />
         <mark key="." line="35" column="9" />
         <mark key="^" line="35" column="10" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/values/strings.xml" timestamp="1597938958451">
-        <mark key="'" line="390" column="18" />
-        <mark key="[" line="993" column="0" />
-        <mark key="]" line="993" column="0" />
-        <mark key="." line="993" column="0" />
-        <mark key="^" line="392" column="38" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1598368880583">
+        <mark key="'" line="332" column="2" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/documents/DocumentsPresenterTest.kt" timestamp="1597949357455">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/timesheets/update/TimesheetEditActivity.kt" timestamp="1598369085182">
+        <mark key="[" line="382" column="33" />
+        <mark key="]" line="382" column="36" />
+        <mark key="." line="382" column="35" />
+        <mark key="^" line="382" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1597949274218">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardPresenter.java" />
       <jump line="574" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="240" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/dashboard/DashboardActivity.java" />
       <jump line="27" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/button/ClockinView.kt" />
@@ -316,21 +310,22 @@
       <jump line="47" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonArchitecture.kt" />
       <jump line="60" column="9" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/shiftbreaks/ShiftBreakButtonArchitecture.kt" />
       <jump line="119" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/button/ClockinButtonPresenterTest.kt" />
+      <jump line="332" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>take_lunch</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGlmdEJyZWFrTW9kZWxcPg==</text>
+        <text>firebase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5jbG9ja19vdXQpCg==</text>
@@ -372,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzaGlmdEJyZWFrTW9kZWxcPg==</last-search>
+      <last-search>firebase</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGlmdEJyZWFrTW9kZWxcPg==</last-pattern>
+      <last-pattern>firebase</last-pattern>
       <last-replace>TimesheetEditKeys.</last-replace>
       <last-substitute encoding="base64">XDxsb2dUb1RyYWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
