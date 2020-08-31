@@ -78,6 +78,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/personal/gits/kotlin-playground/build.gradle" timestamp="1598887171295">
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+        <mark key="." line="16" column="48" />
+      </file>
       <file name="/fragment.kt" timestamp="1587251383556">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,6 +110,12 @@
         <mark key="]" line="11" column="49" />
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
+      </file>
+      <file name="$USER_HOME$/personal/gits/kotlin-playground/src/main/kotlin/io/rollhax/kotlin/playground/Playground.kt" timestamp="1598887161707">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/BoredBot.kt" timestamp="1570808798198">
         <mark key="[" line="5" column="19" />
@@ -146,12 +158,6 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/cmdline/CmdLineParams.kt" timestamp="1566182392776">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-      </file>
       <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/io/rollhax/boredbot/bot/EventListener.kt" timestamp="1570809016318">
         <mark key="[" line="0" column="31" />
       </file>
@@ -169,12 +175,6 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/PurificationMailGenerator.kt" timestamp="1566182701504">
-        <mark key="[" line="2" column="67" />
-        <mark key="]" line="2" column="76" />
-        <mark key="^" line="2" column="76" />
-        <mark key="." line="2" column="76" />
       </file>
       <file name="/fragment.java" timestamp="1587246920315">
         <mark key="[" line="0" column="0" />
@@ -202,7 +202,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbigibWFpbiBjYWxsZWQiKQp9Cg==</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
         <text>dict</text>
@@ -214,32 +214,32 @@
         <text encoding="base64">ICB2YWwgb3V0cHV0ID0gbXV0YWJsZUxpc3RPZjxTdHJpbmc+KCkKICB2YXIgcHJlZml4ID0gZGljdC5rZXlzLnJhbmRvbSgpCiAgb3V0cHV0ICs9IHByZWZpeC5zcGxpdCgnICcpCgogIGZvciAobiBpbiAxLi53b3Jkcy5zaXplKSB7CiAgICB2YWwgbmV4dFdvcmQgPSBkaWN0W3ByZWZpeF0hIS5yYW5kb20oKQogICAgaWYgKG5leHRXb3JkLmlzRW1wdHkoKSkgYnJlYWsKCiAgICBvdXRwdXQgKz0gbmV4dFdvcmQKICAgIGlmIChvdXRwdXQuc2l6ZSA+PSBvdXRwdXRTaXplKSBicmVhawoKICAgIHByZWZpeCA9IG91dHB1dC5zdWJMaXN0KG4sIG4gKyBrZXlTaXplKS5qb2luVG9TdHJpbmcoIiAiKQogIH0KCiAgcmV0dXJuIG91dHB1dC50YWtlKG91dHB1dFNpemUpLmpvaW5Ub1N0cmluZygiICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbigibWFpbiBjYWxsZWQiKQp9Cg==</text>
+        <text>}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbigibWFpbiBjYWxsZWQiKQp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBwcml2YXRlIHZhbCBvdXRwdXRTaXplOiBJbnQgPSAxMDAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>keySize: Int,
             outputSize: Int</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleVNpemU6IEludAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGtleVNpemU6IEludAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB3b3JkcyA9IGxpbmUudHJpbUVuZCgpLnNwbGl0KCcgJykKICAgIGZvciAod29yZCBpbiAwLi4od29yZHMuc2l6ZSAtIGtleVNpemUpKSB7CiAgICAgIHZhbCBwcmVmaXggPSB3b3Jkcy5zdWJMaXN0KHdvcmQsIHdvcmQgKyBrZXlTaXplKS5qb2luVG9TdHJpbmcoIiAiKQogICAgICB2YWwgc3VmZml4ID0gaWYgKHdvcmQgKyBrZXlTaXplIDwgd29yZHMuc2l6ZSkgd29yZHNbd29yZCArIGtleVNpemVdIGVsc2UgIiIKICAgICAgdmFsIHN1ZmZpeGVzOiBNdXRhYmxlTGlzdDxTdHJpbmc+ID0gZGljdGlvbmFyeS5nZXRPclB1dChwcmVmaXgpIHsgbXV0YWJsZUxpc3RPZigpIH0KICAgICAgc3VmZml4ZXMgKz0gc3VmZml4CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGtleVNpemU6IEludAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
