@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>clock in</entry>
         <entry>clockinbutton</entry>
         <entry encoding="base64">XDxjbG9ja0luQnV0dG9uXD4=</entry>
         <entry>kotlin</entry>
@@ -27,6 +26,7 @@
         <entry>build</entry>
         <entry>28.0</entry>
         <entry>account</entry>
+        <entry>adjust</entry>
       </history-search>
       <history-cmd>
         <entry>176</entry>
@@ -177,12 +177,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="65" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1598895893803">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" timestamp="1598896156814">
         <mark key="'" line="155" column="25" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
-        <mark key="^" line="193" column="42" />
+        <mark key="[" line="352" column="51" />
+        <mark key="]" line="352" column="51" />
+        <mark key="." line="352" column="50" />
+        <mark key="^" line="352" column="51" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/PeriodicWorkUtils.kt" timestamp="1598892947122">
         <mark key="'" line="19" column="21" />
@@ -194,8 +194,8 @@
       <file name="/Dummy.txt" timestamp="1598895171473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1598891972252">
-        <mark key="'" line="358" column="60" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1598896282788">
+        <mark key="'" line="215" column="38" />
         <mark key="[" line="358" column="60" />
         <mark key="]" line="358" column="60" />
         <mark key="." line="358" column="60" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/button/ClockinButtonArchitecture.kt" />
       <jump line="162" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/button/ClockinButtonArchitecture.kt" />
       <jump line="169" column="13" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/button/ClockinButtonArchitecture.kt" />
       <jump line="17" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/button/ClockinButtonArchitecture.kt" />
@@ -327,6 +326,7 @@
       <jump line="153" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="154" column="34" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
       <jump line="155" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/WhenIWorkApplication.java" />
+      <jump line="215" column="38" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +341,7 @@
         <text>8.0.3</text>
       </register>
       <register name="/" type="4">
-        <text>account</text>
+        <text>adjust</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBsZW1lbnRhdGlvbiAiYW5kcm9pZHguYXBwY29tcGF0OmFwcGNvbXBhdDokcm9vdFByb2plY3QuZXh0LmFwcENvbXBhdFZlcnNpb24iCg==</text>
@@ -383,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>account</last-search>
+      <last-search>adjust</last-search>
       <last-offset />
-      <last-pattern>account</last-pattern>
+      <last-pattern>adjust</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
