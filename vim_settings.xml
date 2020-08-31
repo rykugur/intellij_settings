@@ -87,6 +87,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="8" column="55" />
       </file>
+      <file name="$USER_HOME$/personal/gits/kotlin-playground/src/io/rollhax/kotlin/playground/Main.kt" timestamp="1598886649808">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="32" />
+      </file>
       <file name="$USER_HOME$/personal/gits/marko/src/main/kotlin/io/rollhax/markov/Main.kt" timestamp="1587246913877">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="24" />
@@ -152,12 +158,6 @@
       <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/Main.kt" timestamp="1570730050103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/gits/vokira/purifier/src/main/kotlin/io/rollhax/vokira/Application.kt" timestamp="1566182382686">
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="11" />
-      </file>
       <file name="$USER_HOME$/personal/gits/markov/vulk.txt" timestamp="1587250020067">
         <mark key="[" line="20" column="86" />
         <mark key="]" line="21" column="0" />
@@ -202,7 +202,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBvdXRwdXRTaXplOiBJbnQgPSAxMDAK</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbigibWFpbiBjYWxsZWQiKQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>dict</text>
@@ -214,32 +214,32 @@
         <text encoding="base64">ICB2YWwgb3V0cHV0ID0gbXV0YWJsZUxpc3RPZjxTdHJpbmc+KCkKICB2YXIgcHJlZml4ID0gZGljdC5rZXlzLnJhbmRvbSgpCiAgb3V0cHV0ICs9IHByZWZpeC5zcGxpdCgnICcpCgogIGZvciAobiBpbiAxLi53b3Jkcy5zaXplKSB7CiAgICB2YWwgbmV4dFdvcmQgPSBkaWN0W3ByZWZpeF0hIS5yYW5kb20oKQogICAgaWYgKG5leHRXb3JkLmlzRW1wdHkoKSkgYnJlYWsKCiAgICBvdXRwdXQgKz0gbmV4dFdvcmQKICAgIGlmIChvdXRwdXQuc2l6ZSA+PSBvdXRwdXRTaXplKSBicmVhawoKICAgIHByZWZpeCA9IG91dHB1dC5zdWJMaXN0KG4sIG4gKyBrZXlTaXplKS5qb2luVG9TdHJpbmcoIiAiKQogIH0KCiAgcmV0dXJuIG91dHB1dC50YWtlKG91dHB1dFNpemUpLmpvaW5Ub1N0cmluZygiICIpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbigibWFpbiBjYWxsZWQiKQp9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBwcml2YXRlIHZhbCBvdXRwdXRTaXplOiBJbnQgPSAxMDAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>keySize: Int,
             outputSize: Int</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGtleVNpemU6IEludAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGtleVNpemU6IEludAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB3b3JkcyA9IGxpbmUudHJpbUVuZCgpLnNwbGl0KCcgJykKICAgIGZvciAod29yZCBpbiAwLi4od29yZHMuc2l6ZSAtIGtleVNpemUpKSB7CiAgICAgIHZhbCBwcmVmaXggPSB3b3Jkcy5zdWJMaXN0KHdvcmQsIHdvcmQgKyBrZXlTaXplKS5qb2luVG9TdHJpbmcoIiAiKQogICAgICB2YWwgc3VmZml4ID0gaWYgKHdvcmQgKyBrZXlTaXplIDwgd29yZHMuc2l6ZSkgd29yZHNbd29yZCArIGtleVNpemVdIGVsc2UgIiIKICAgICAgdmFsIHN1ZmZpeGVzOiBNdXRhYmxlTGlzdDxTdHJpbmc+ID0gZGljdGlvbmFyeS5nZXRPclB1dChwcmVmaXgpIHsgbXV0YWJsZUxpc3RPZigpIH0KICAgICAgc3VmZml4ZXMgKz0gc3VmZml4CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGtleVNpemU6IEludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGtleVNpemU6IEludAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIG1hcmtvdigKICBmaWxlUGF0aDogU3RyaW5nLAogIGtleVNpemU6IEludCwKICBvdXRwdXRTaXplOiBJbnQsCiAgc2VlZDogU3RyaW5nPyA9IG51bGwKKTogU3RyaW5nIHsKICByZXF1aXJlKGtleVNpemUgPj0gMSkgeyAiS2V5IHNpemUgY2FuJ3QgYmUgbGVzcyB0aGFuIDEiIH0KCiAgdmFsIHdvcmRzID0gRmlsZShmaWxlUGF0aCkucmVhZFRleHQoKS50cmltRW5kKCkuc3BsaXQoJyAnKQovLyAgICByZXF1aXJlKG91dHB1dFNpemUgaW4ga2V5U2l6ZS4ud29yZHMuc2l6ZSkgeyAiT3V0cHV0IHNpemUgaXMgb3V0IG9mIHJhbmdlIiB9CgogIHZhbCBkaWN0ID0gbXV0YWJsZU1hcE9mPFN0cmluZywgTXV0YWJsZUxpc3Q8U3RyaW5nPj4oKQoKICBmb3IgKGkgaW4gMC4uKHdvcmRzLnNpemUgLSBrZXlTaXplKSkgewogICAgdmFsIHByZWZpeCA9IHdvcmRzLnN1Ykxpc3QoaSwgaSArIGtleVNpemUpLmpvaW5Ub1N0cmluZygiICIpCiAgICB2YWwgc3VmZml4ID0gaWYgKGkgKyBrZXlTaXplIDwgd29yZHMuc2l6ZSkgd29yZHNbaSArIGtleVNpemVdIGVsc2UgIiIKICAgIHZhbCBzdWZmaXhlcyA9IGRpY3QuZ2V0T3JQdXQocHJlZml4KSB7IG11dGFibGVMaXN0T2YoKSB9CiAgICBzdWZmaXhlcyArPSBzdWZmaXgKICB9CgogIHZhbCBvdXRwdXQgPSBtdXRhYmxlTGlzdE9mPFN0cmluZz4oKQogIHZhciBwcmVmaXggPSBkaWN0LmtleXMucmFuZG9tKCkKICBvdXRwdXQgKz0gcHJlZml4LnNwbGl0KCcgJykKCiAgZm9yIChuIGluIDEuLndvcmRzLnNpemUpIHsKICAgIHZhbCBuZXh0V29yZCA9IGRpY3RbcHJlZml4XSEhLnJhbmRvbSgpCiAgICBpZiAobmV4dFdvcmQuaXNFbXB0eSgpKSBicmVhawoKICAgIG91dHB1dCArPSBuZXh0V29yZAogICAgaWYgKG91dHB1dC5zaXplID49IG91dHB1dFNpemUpIGJyZWFrCgogICAgcHJlZml4ID0gb3V0cHV0LnN1Ykxpc3QobiwgbiArIGtleVNpemUpLmpvaW5Ub1N0cmluZygiICIpCiAgfQoKICByZXR1cm4gb3V0cHV0LnRha2Uob3V0cHV0U2l6ZSkuam9pblRvU3RyaW5nKCIgIikKfQ==</text>
+        <text encoding="base64">ICAgIHZhbCB3b3JkcyA9IGxpbmUudHJpbUVuZCgpLnNwbGl0KCcgJykKICAgIGZvciAod29yZCBpbiAwLi4od29yZHMuc2l6ZSAtIGtleVNpemUpKSB7CiAgICAgIHZhbCBwcmVmaXggPSB3b3Jkcy5zdWJMaXN0KHdvcmQsIHdvcmQgKyBrZXlTaXplKS5qb2luVG9TdHJpbmcoIiAiKQogICAgICB2YWwgc3VmZml4ID0gaWYgKHdvcmQgKyBrZXlTaXplIDwgd29yZHMuc2l6ZSkgd29yZHNbd29yZCArIGtleVNpemVdIGVsc2UgIiIKICAgICAgdmFsIHN1ZmZpeGVzOiBNdXRhYmxlTGlzdDxTdHJpbmc+ID0gZGljdGlvbmFyeS5nZXRPclB1dChwcmVmaXgpIHsgbXV0YWJsZUxpc3RPZigpIH0KICAgICAgc3VmZml4ZXMgKz0gc3VmZml4CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
