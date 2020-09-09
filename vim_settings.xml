@@ -111,12 +111,12 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="$USER_HOME$/personal/gits/kotlin-playground/src/main/kotlin/io/rollhax/kotlin/playground/Playground.kt" timestamp="1599687583531">
+      <file name="$USER_HOME$/personal/gits/kotlin-playground/src/main/kotlin/io/rollhax/kotlin/playground/Playground.kt" timestamp="1599692174223">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="52" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="23" column="22" />
       </file>
       <file name="$USER_HOME$/personal/gits/boredbot/src/main/kotlin/BoredBot.kt" timestamp="1570808798198">
         <mark key="[" line="5" column="19" />
@@ -205,10 +205,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogICAgcHJpbnRsbigibWFpbiBjYWxsZWQiKQoKICAgIHRlc3QoKQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VzcGVuZCA=</text>
+        <text>scope.launch {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWZmaXhlc1w+</text>
@@ -217,31 +217,31 @@
         <text encoding="base64">ICAgICAgICBwcmludGxuKCJwcmludFN0dWZmOyBbdGhyZWFkTmFtZT0ke1RocmVhZC5jdXJyZW50VGhyZWFkKCkubmFtZX1dIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogICAgcHJpbnRsbigibWFpbiBjYWxsZWQiKQoKICAgIHRlc3QoKQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB2YWwgZDEgPSBzY29wZS5hc3luYyB7CiAgICAgICAgZGVsYXkoMTAwMCkKICAgICAgICAiZDEgcmV0dXJuZWQiCiAgICB9CiAgICB2YWwgZDIgPSBzY29wZS5hc3luYyB7CiAgICAgICAgZGVsYXkoNTAwMCkKICAgICAgICAiZDIgcmV0dXJuZWQiCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIHByaW50U3R1ZmZOb25CbG9ja2luZygpIHsKICAgIHByaW50bG4oInByaW50U3R1ZmZOb25CbG9ja2luZzsgW3RocmVhZE5hbWU9JHtUaHJlYWQuY3VycmVudFRocmVhZCgpLm5hbWV9XSIpCn0KCmZ1biBwcmludFN0dWZmKCkgPSBydW5CbG9ja2luZyB7CiAgICB3aXRoQ29udGV4dChEaXNwYXRjaGVycy5JTykgewogICAgICAgIHByaW50bG4oInByaW50U3R1ZmY7IFt0aHJlYWROYW1lPSR7VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5uYW1lfV0iKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImRvbmU7IGQxPSR7ZDEuYXdhaXQoKX0sIGQyPSR7ZDIuYXdhaXQoKX0iKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50U3R1ZmYoKQoKICAgIHRocmVhZCB7CiAgICAgICAgcHJpbnRTdHVmZk5vbkJsb2NraW5nKCkKICAgIH0KCi8vICAgIEdsb2JhbFNjb3BlLmxhdW5jaCB7IC8vIGxhdW5jaCBhIG5ldyBjb3JvdXRpbmUgaW4gYmFja2dyb3VuZCBhbmQgY29udGludWUKLy8gICAgICAgIGRlbGF5KDEwMDBMKSAvLyBub24tYmxvY2tpbmcgZGVsYXkgZm9yIDEgc2Vjb25kIChkZWZhdWx0IHRpbWUgdW5pdCBpcyBtcykKLy8gICAgICAgIHByaW50bG4oIldvcmxkISBbdGhyZWFkTmFtZT0ke1RocmVhZC5jdXJyZW50VGhyZWFkKCkubmFtZX1dIikgLy8gcHJpbnQgYWZ0ZXIgZGVsYXkKLy8gICAgfQovLyAgICBwcmludGxuKCJIZWxsbywgW3RocmVhZE5hbWU9JHtUaHJlYWQuY3VycmVudFRocmVhZCgpLm5hbWV9XSIpIC8vIG1haW4gdGhyZWFkIGNvbnRpbnVlcyB3aGlsZSBjb3JvdXRpbmUgaXMgZGVsYXllZAovLyAgICBUaHJlYWQuc2xlZXAoMjAwMEwpIC8vIGJsb2NrIG1haW4gdGhyZWFkIGZvciAyIHNlY29uZHMgdG8ga2VlcCBKVk0gYWxpdmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
