@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDbG9ja2luQ29tcG9uZW50XD4=</entry>
-        <entry encoding="base64">XDxnZXRQdW5jaFN0YXRlRm9yQ3VycmVudFVzZXJTaW5nbGVcPg==</entry>
         <entry encoding="base64">XDxzaG93T3JIaWRlQ2xvY2tpbkJ1dHRvblw+</entry>
         <entry encoding="base64">XDxsYXVuY2hcPg==</entry>
         <entry>corout</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDx1c2VyVGltZXNcPg==</entry>
         <entry encoding="base64">XDxzaG93U2hpZnRQcm94aW1pdHlEaWFsb2dcPg==</entry>
         <entry>Dispatchers</entry>
+        <entry>test</entry>
+        <entry>haarman</entry>
       </history-search>
       <history-cmd>
         <entry>261</entry>
@@ -184,9 +184,6 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/LocationPermissionArchitecture.kt" timestamp="1600099809169">
-        <mark key="'" line="184" column="47" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/util/TestUtils.kt" timestamp="1600269355813">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -205,6 +202,13 @@
         <mark key="]" line="8" column="103" />
         <mark key="." line="8" column="102" />
         <mark key="^" line="8" column="103" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1600273985955">
+        <mark key="'" line="50" column="45" />
+        <mark key="[" line="389" column="64" />
+        <mark key="]" line="389" column="71" />
+        <mark key="." line="389" column="70" />
+        <mark key="^" line="389" column="71" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/AttendanceUtils.kt" timestamp="1600118777734">
         <mark key="[" line="12" column="43" />
@@ -226,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/LocationPermissionTaskFragment.kt" />
-      <jump line="25" column="33" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/LocationPermissionTaskFragment.kt" />
       <jump line="193" column="19" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/LocationPermissionTaskFragment.kt" />
       <jump line="191" column="48" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/LocationPermissionTaskFragment.kt" />
       <jump line="172" column="4" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/LocationPermissionTaskFragment.kt" />
@@ -326,21 +328,23 @@
       <jump line="265" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/button/ClockinButtonArchitecture.kt" />
       <jump line="58" column="1" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/button/ClockinButtonPresenterTest.kt" />
       <jump line="254" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/button/ClockinButtonPresenterTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="50" column="45" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJ1bkJsb2NraW5n</text>
+        <text>1.6.0</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJ1bkJsb2NraW5n</text>
+        <text>1.6.0</text>
       </register>
       <register name="/" type="4">
-        <text>Dispatchers</text>
+        <text>haarman</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAU3VwcHJlc3MoIlByb3BlcnR5TmFtZSIpCg==</text>
@@ -382,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Dispatchers</last-search>
+      <last-search>haarman</last-search>
       <last-offset />
-      <last-pattern>Dispatchers</last-pattern>
+      <last-pattern>haarman</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
