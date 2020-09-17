@@ -165,12 +165,6 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListArchitecture.kt" timestamp="1600118938430">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="22" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" timestamp="1600361650106">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="112" column="38" />
@@ -192,6 +186,12 @@
         <mark key="]" line="8" column="103" />
         <mark key="." line="8" column="102" />
         <mark key="^" line="8" column="103" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListPresenterTest.kt" timestamp="1600380886469">
+        <mark key="[" line="186" column="53" />
+        <mark key="]" line="186" column="54" />
+        <mark key="^" line="186" column="45" />
+        <mark key="." line="186" column="54" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/util/KotlinTestUtils.kt" timestamp="1600276720962">
         <mark key="[" line="7" column="0" />
@@ -324,14 +324,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICBkaXNwb3NhYmxlLmFkZCgKLy8gICAgICAgIGdldFB1bmNoU3RhdGVGb3JDdXJyZW50VXNlclNpbmdsZSgpCi8vICAgICAgICAgIC5jb21wb3NlKG5ldyBTY2hlZHVsZXJQcm92aWRlclYyKCkuc2luZ2xlU2NoZWR1bGVyKCkpCi8vICAgICAgICAgIC5zdWJzY3JpYmUodGhpczo6c2hvd09ySGlkZUNsb2NraW5CdXR0b24sCi8vICAgICAgICAgICAgICAgICAgICAgdGhyb3dhYmxlIC0+IHdoZW5Ob25OdWxsKGRhc2hib2FyZFZpZXcsIHYgLT4gdi5zaG93QXBpRXJyb3IodGhyb3dhYmxlKSkKLy8gICAgICAgICAgKQovLyAgICAgICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>jan</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>180</text>
+        <text>jan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXaGVuSVdvcmtSZXN0QWRhcHRlclw+</text>
@@ -340,10 +340,10 @@
         <text encoding="base64">ICAvLyAgICBJZiBhIHNoaWZ0IGlzIHNjaGVkdWxlZCBkdXJpbmcgdGhlIGN1cnJlbnQgdGltZSwgYW5kIHRoZXJlIGFyZSBubyBzaGlmdHMgc2NoZWR1bGVkIHRvIHN0YXJ0IHdpdGhpbiB0aGUgbmV4dCA0IGhvdXJzLCBhc3N1bWUgdGhlIHVzZXIgaXMgY2xvY2tpbmcgaW50byB0aGF0IHNoaWZ0Lgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBkaXNwb3NhYmxlLmFkZCgKLy8gICAgICAgIGdldFB1bmNoU3RhdGVGb3JDdXJyZW50VXNlclNpbmdsZSgpCi8vICAgICAgICAgIC5jb21wb3NlKG5ldyBTY2hlZHVsZXJQcm92aWRlclYyKCkuc2luZ2xlU2NoZWR1bGVyKCkpCi8vICAgICAgICAgIC5zdWJzY3JpYmUodGhpczo6c2hvd09ySGlkZUNsb2NraW5CdXR0b24sCi8vICAgICAgICAgICAgICAgICAgICAgdGhyb3dhYmxlIC0+IHdoZW5Ob25OdWxsKGRhc2hib2FyZFZpZXcsIHYgLT4gdi5zaG93QXBpRXJyb3IodGhyb3dhYmxlKSkKLy8gICAgICAgICAgKQovLyAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9uc0ludGVybmFsKCkK</text>
+        <text encoding="base64">Ly8gICAgICBkaXNwb3NhYmxlLmFkZCgKLy8gICAgICAgIGdldFB1bmNoU3RhdGVGb3JDdXJyZW50VXNlclNpbmdsZSgpCi8vICAgICAgICAgIC5jb21wb3NlKG5ldyBTY2hlZHVsZXJQcm92aWRlclYyKCkuc2luZ2xlU2NoZWR1bGVyKCkpCi8vICAgICAgICAgIC5zdWJzY3JpYmUodGhpczo6c2hvd09ySGlkZUNsb2NraW5CdXR0b24sCi8vICAgICAgICAgICAgICAgICAgICAgdGhyb3dhYmxlIC0+IHdoZW5Ob25OdWxsKGRhc2hib2FyZFZpZXcsIHYgLT4gdi5zaG93QXBpRXJyb3IodGhyb3dhYmxlKSkKLy8gICAgICAgICAgKQovLyAgICAgICk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHZlcmlmeU5vTW9yZUludGVyYWN0aW9uc0ludGVybmFsKCkK</text>
