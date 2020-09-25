@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>punchstate</entry>
         <entry>clockin</entry>
         <entry encoding="base64">XDxDbG9ja0luRGlhbG9nRnJhZ21lbnRcPg==</entry>
         <entry encoding="base64">XDxTaW5nbGVTaGlmdFNjaGVkdWxlZENvbXBvbmVudFw+</entry>
@@ -27,6 +26,7 @@
         <entry>dispatchers</entry>
         <entry encoding="base64">XDxUUkFDRVw+</entry>
         <entry>continuation</entry>
+        <entry>scope</entry>
       </history-search>
       <history-cmd>
         <entry>221</entry>
@@ -205,9 +205,9 @@
         <mark key="^" line="123" column="79" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/button/ClockinButtonArchitecture.kt" timestamp="1601062960634">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/data/punchstate/PunchStateViewModel.kt" timestamp="1601061998577">
         <mark key="[" line="32" column="24" />
@@ -352,7 +352,7 @@
         <text>also</text>
       </register>
       <register name="/" type="4">
-        <text>continuation</text>
+        <text>scope</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRha2VFbmRCcmVha1RleHQudGV4dCA9IHdoZW4gKGRhdGFTdGF0ZS5lbmRCcmVha1Zpc2libGUpIHsKICAgICAgICAgICAgdHJ1ZSAtPiBjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5lbmRfYnJlYWspCiAgICAgICAgICAgIGZhbHNlIC0+IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLnRha2VfbHVuY2gpCiAgICAgICAgICB9Cg==</text>
@@ -394,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>continuation</last-search>
+      <last-search>scope</last-search>
       <last-offset />
-      <last-pattern>continuation</last-pattern>
+      <last-pattern>scope</last-pattern>
       <last-replace encoding="base64">IHsgcmVuZGVy</last-replace>
       <last-substitute>.render</last-substitute>
       <last-dir>1</last-dir>
