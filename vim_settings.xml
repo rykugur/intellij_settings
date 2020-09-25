@@ -145,12 +145,12 @@
         <mark key="^" line="20" column="17" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutActivity.kt" timestamp="1601047103857">
-        <mark key="'" line="107" column="17" />
-        <mark key="[" line="143" column="47" />
-        <mark key="]" line="144" column="66" />
-        <mark key="." line="144" column="65" />
-        <mark key="^" line="144" column="66" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutActivity.kt" timestamp="1601047846392">
+        <mark key="'" line="110" column="17" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="83" column="43" />
+        <mark key="." line="83" column="42" />
+        <mark key="^" line="83" column="43" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/Playground.kt" timestamp="1600983131264">
         <mark key="[" line="12" column="19" />
@@ -210,12 +210,12 @@
         <mark key="." line="66" column="19" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" timestamp="1601047537179">
-        <mark key="'" line="192" column="92" />
-        <mark key="[" line="127" column="24" />
-        <mark key="]" line="127" column="52" />
-        <mark key="." line="127" column="51" />
-        <mark key="^" line="127" column="52" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" timestamp="1601047795979">
+        <mark key="'" line="86" column="50" />
+        <mark key="[" line="329" column="39" />
+        <mark key="]" line="329" column="39" />
+        <mark key="." line="329" column="38" />
+        <mark key="^" line="329" column="39" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/model/ClockInOutModels.kt" timestamp="1600983739854">
         <mark key="[" line="5" column="19" />
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListPresenterTest.kt" />
       <jump line="162" column="56" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListPresenterTest.kt" />
       <jump line="185" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListPresenterTest.kt" />
       <jump line="326" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/attendance/payroll/read/PayrollEmployeeListPresenterTest.kt" />
@@ -341,18 +340,19 @@
       <jump line="76" column="15" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" />
       <jump line="225" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" />
       <jump line="191" column="92" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" />
+      <jump line="86" column="50" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>savedState?.getLong(ClockInOutKeys.CLOCK_IN_USER_ID, -1) ?: -1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChzdGF0ZS5jbG9ja0luVXNlcklkICEpCg==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>savedState?.getLong(ClockInOutKeys.CLOCK_IN_USER_ID, -1) ?: -1</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaW5nbGVTaGlmdFNjaGVkdWxlZFw+</text>
@@ -361,34 +361,34 @@
         <text encoding="base64">ICBzdXNwZW5kIGZ1biBjbG9ja0luKHVzZXJJZDogTG9uZywKICAgICAgICAgICAgICAgICAgICAgIHNoaWZ0SWQ6IExvbmc/ID0gbnVsbCwKICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uSWQ6IExvbmc/ID0gbnVsbCwKICAgICAgICAgICAgICAgICAgICAgIHNpdGVJZDogTG9uZz8gPSBudWxsLAogICAgICAgICAgICAgICAgICAgICAgcG9zaXRpb25JZDogTG9uZz8gPSBudWxsLAogICAgICAgICAgICAgICAgICAgICAgY29vcmRpbmF0ZXM6IEFycmF5PEZsb2F0Pj8gPSBudWxsKTogQ2xvY2tJblJlc3BvbnNlVk0gewogICAgdmFsIGJ1aWxkZXIgPSBDbG9ja0luT3V0UXVlcnlNYXBCdWlsZGVyKCkKICAgIAogICAgYnVpbGRlci51c2VySWQodXNlcklkKQogICAgc2hpZnRJZD8ubGV0IHsgYnVpbGRlci5zaGlmdElkKGl0KSB9CiAgICBsb2NhdGlvbklkPy5sZXQgeyBidWlsZGVyLmxvY2F0aW9uSWQoaXQpIH0KICAgIHNpdGVJZD8ubGV0IHsgYnVpbGRlci5zaXRlSWQoaXQpIH0KICAgIHBvc2l0aW9uSWQ/LmxldCB7IGJ1aWxkZXIucG9zaXRpb25JZChpdCkgfQogICAgY29vcmRpbmF0ZXM/LmxldCB7IAogICAgICBpZiAoaXQuc2l6ZSA+PSAyKSB7CiAgICAgICAgdmFsIGxhdCA9IGl0WzBdCiAgICAgICAgdmFsIGxvbiA9IGl0WzFdCiAgICAgICAgYnVpbGRlci5jb29yZGluYXRlcyhsYXQsIGxvbikKICAgICAgfQogICAgfQogICAgCiAgICByZXR1cm4gY2xvY2tJbihidWlsZGVyKQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB0bXBDbG9ja0luVXNlcmlkID0gc2F2ZWRTdGF0ZT8uZ2V0TG9uZyhDbG9ja0luT3V0S2V5cy5LRVlfQ0xPQ0tfSU5fVVNFUl9JRCwgLTEpCg==</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0ZS5jbG9ja0luVXNlcklkICEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbnRlcm5hbCB2YWwgc2NvcGUgPSBDb3JvdXRpbmVTY29wZShjb3JvdXRpbmVDb250ZXh0UHJvdmlkZXIuSU8pCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0bXBDbG9ja0luVXNlcmlkID0gc2F2ZWRTdGF0ZT8uZ2V0TG9uZyhDbG9ja0luT3V0S2V5cy5LRVlfQ0xPQ0tfSU5fVVNFUl9JRCwgLTEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpbnRlcm5hbCB2YWwgc2NvcGUgPSBDb3JvdXRpbmVTY29wZShjb3JvdXRpbmVDb250ZXh0UHJvdmlkZXIuSU8pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBldmVudHVhbGx5IHRoaXMgd2lsbCBuZWVkIHRvIHN1cHBvcnQgY2xvY2tpbmcgaW4gYW5vdGhlciB1c2VyLCBidXQgdGhhdCdzIGFuIHVwY29taW5nIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBldmVudHVhbGx5IHRoaXMgd2lsbCBuZWVkIHRvIHN1cHBvcnQgY2xvY2tpbmcgaW4gYW5vdGhlciB1c2VyLCBidXQgdGhhdCdzIGFuIHVwY29taW5nIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdXNwZW5kIGZ1biBjbG9ja091dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFsdGl0dWRlOiBGbG9hdD8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICBzdXNwZW5kIGZ1biBjbG9ja091dAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjY3VyYWN5Py5sZXQgeyBidWlsZGVyLmxvY2F0aW9uSWQoaXQpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGFsdGl0dWRlOiBGbG9hdD8gPSBudWxsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsdGl0dWRlPy5sZXQgeyBidWlsZGVyLmFsdChpdCkgfQo=</text>
+        <text encoding="base64">ICAgIGFjY3VyYWN5Py5sZXQgeyBidWlsZGVyLmxvY2F0aW9uSWQoaXQpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>478</text>
