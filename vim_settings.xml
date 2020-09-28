@@ -164,12 +164,12 @@
         <mark key="^" line="453" column="44" />
         <mark key="." line="453" column="43" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/fragment/SingleShiftScheduledPresenterTest.kt" timestamp="1601314578028">
-        <mark key="'" line="124" column="84" />
-        <mark key="[" line="149" column="62" />
-        <mark key="]" line="149" column="62" />
-        <mark key="." line="149" column="62" />
-        <mark key="^" line="149" column="20" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/fragment/SingleShiftScheduledPresenterTest.kt" timestamp="1601314798840">
+        <mark key="'" line="126" column="84" />
+        <mark key="[" line="159" column="49" />
+        <mark key="]" line="159" column="51" />
+        <mark key="." line="159" column="50" />
+        <mark key="^" line="159" column="51" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/core/src/main/java/com/thisclicks/core/model/punches/PunchDataModels.kt" timestamp="1601301459495">
         <mark key="[" line="17" column="23" />
@@ -191,10 +191,10 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="92" column="52" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" timestamp="1601313996035">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" timestamp="1601314635031">
         <mark key="'" line="327" column="20" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="117" column="50" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="132" column="5" />
         <mark key="." line="345" column="108" />
         <mark key="^" line="345" column="109" />
       </file>
@@ -346,30 +346,28 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>punbcchStateRepository</text>
+        <text>punchStateRepository) { getPunchState(any()) }</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>punbcchStateRepository</text>
+        <text>punchStateRepository) { getPunchState(any()) }</text>
       </register>
       <register name="/" type="4">
         <text>postDelayed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByZXNlbnRlci52aWV3ID0gdmlldwogICAgcHJlc2VudGVyLnN0YXRlID0gQ2xvY2tJbk91dFZpZXdTdGF0ZS5GcmFnbWVudFN0YXRlLk5vU2hpZnRTY2hlZHVsZWQKICAgIC8vIGxhdW5jaCBhIGxvbmctcnVubmluZyBqb2IgaW4gdGhlIHByZXNlbnRlciBzY29wZSB0byB2ZXJpZnkgbGF0ZXIgdGhhdCBpdCBnb3QgY2FuY2VsZWQKICAgIHByZXNlbnRlci5zY29wZS5sYXVuY2ggeyBkZWxheSg1MDAwKSB9CgogICAgcHJlc2VudGVyLmRldGFjaFZpZXcoKQoKICAgIGFzc2VydFRoYXQocHJlc2VudGVyLnZpZXcpLmlzTnVsbCgpCiAgICBhc3NlcnRUaGF0KHByZXNlbnRlci5zY29wZS5pc0FjdGl2ZSkuaXNGYWxzZSgpCg==</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlci5hdHRhY2hWaWV3KHZpZXcsIG51bGwpCgogICAgdmVyaWZ5QmxvY2tpbmcocHVuY2hTdGF0ZVJlcG9zaXRvcnkpIHsgZ2V0UHVuY2hTdGF0ZShhbnkoKSkgfQogICAgaW5PcmRlcih2aWV3KSB7CiAgICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoYW55PENsb2NrSW5PdXRWaWV3U3RhdGUuTG9hZGluZ1N0YXRlPigpKQogICAgICB2ZXJpZnkodmlldykucmVuZGVyKGFueTxDbG9ja0luT3V0Vmlld1N0YXRlLkVycm9yU3RhdGU+KCkpCiAgICB9Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text>private
-private
-private</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGluT3JkZXIodmlldykgewovLyAgICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoYW55PENsb2NrSW5PdXRWaWV3U3RhdGUuTG9hZGluZ1N0YXRlPigpKQovLyAgICAgIHZlcmlmeSh2aWV3KS5yZW5kZXIoYW55PENsb2NrSW5PdXRWaWV3U3RhdGUuRXJyb3JTdGF0ZT4oKSkKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50VXNlcjogVXNlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAT3BlbkZvclRlc3RpbmcK</text>
+        <text encoding="base64">ICAgIHZhbCBidW5kbGU6IEJ1bmRsZSA9IG1vY2sgewogICAgICBvbiB7IGdldExvbmcoU2luZ2xlU2hpZnRTY2hlZHVsZWRLZXlzLlNISUZUX0lELCAtMSkgfSBkb1JldHVybiBzaGlmdElkCiAgICAgIG9uIHsgZ2V0TG9uZyhTaW5nbGVTaGlmdFNjaGVkdWxlZEtleXMuQ0xPQ0tfSU5fVVNFUl9JRCwgLTEpIH0gZG9SZXR1cm4gY3VycmVudFVzZXJJZAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -377,20 +375,22 @@ private</text>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text>private
+private
+private</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZGF0YVN0YXRlLmN1cnJlbnRVc2VyKS5pc0VxdWFsVG8oY3VycmVudFVzZXIpCiAgICBhc3NlcnRUaGF0KGRhdGFTdGF0ZS5hY2NvdW50KS5pc0VxdWFsVG8oYWNjb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50VXNlcjogVXNlcgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoZGF0YVN0YXRlLmlzMjRIb3VyRm9ybWF0KS5pc1RydWUoKQo=</text>
+        <text encoding="base64">ICBAT3BlbkZvclRlc3RpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
