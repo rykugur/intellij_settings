@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>edittext</entry>
-        <entry>55</entry>
         <entry>green</entry>
         <entry>50</entry>
         <entry encoding="base64">XDxub3RlVGV4dFdhdGNoZXJcPg==</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxnZXRQdW5jaFN0YXRlRm9yQ3VycmVudFVzZXJcPg==</entry>
         <entry>postDelayed</entry>
         <entry encoding="base64">XDxhY2NvdW50c1JlcG9zaXRvcnlcPg==</entry>
+        <entry>dagger</entry>
+        <entry>daggerversion</entry>
       </history-search>
       <history-cmd>
         <entry>221</entry>
@@ -124,12 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/model/ClockInOutViewModels.kt" timestamp="1601319170874">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/DatabaseModule.kt" timestamp="1601330770860">
         <mark key="[" line="307" column="0" />
         <mark key="]" line="307" column="0" />
@@ -191,6 +185,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/build.gradle" timestamp="1601390027349">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1601390020059">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/account/CurrentUserProvider.kt" timestamp="1601327734056">
         <mark key="[" line="27" column="9" />
         <mark key="]" line="27" column="20" />
@@ -222,10 +222,8 @@
       <file name="/fragment.java" timestamp="1601327393404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/util/ApiUtils.kt" timestamp="1601327028439" />
     </filemarks>
     <jumps>
-      <jump line="177" column="10" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/user/UsersActivity.java" />
       <jump line="178" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/user/UsersActivity.java" />
       <jump line="59" column="27" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/user/UsersActivity.java" />
       <jump line="127" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/user/UsersActivity.java" />
@@ -233,7 +231,6 @@
       <jump line="172" column="20" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/user/UsersActivity.java" />
       <jump line="43" column="57" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/AllEmployeePickerListFragment.kt" />
       <jump line="42" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/employee/picker/EmployeePickerActivity.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
       <jump line="7" column="11" filename="$USER_HOME$/code/android/gits/wheniwork-android/build.gradle" />
       <jump line="49" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/build.gradle" />
       <jump line="14" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/core/build.gradle" />
@@ -325,6 +322,8 @@
       <jump line="251" column="101" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/fragment/SingleShiftScheduledPresenterTest.kt" />
       <jump line="100" column="59" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/ApplicationModule.java" />
       <jump line="92" column="30" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/ui/login/LoginController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +338,7 @@
         <text>AuthScope</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NvdW50c1JlcG9zaXRvcnlcPg==</text>
+        <text>daggerversion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgTG9nZ2luZ1V0aWxzLmxvZ1RvVHJhY2UoIlVzZXJNb2R1bGUucHJvdmlkZXNDdXJyZW50VXNlcjogZ290IGN1cnJlbnRVc2VyIGZyb20gYXBpIiwgdG1wVXNlciwgbnVsbCwgbnVsbCk7Cg==</text>
@@ -381,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhY2NvdW50c1JlcG9zaXRvcnlcPg==</last-search>
+      <last-search>daggerversion</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NvdW50c1JlcG9zaXRvcnlcPg==</last-pattern>
+      <last-pattern>daggerversion</last-pattern>
       <last-replace encoding="base64">IHsgcmVuZGVy</last-replace>
       <last-substitute>.render</last-substitute>
       <last-dir>1</last-dir>
