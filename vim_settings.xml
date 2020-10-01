@@ -198,11 +198,10 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/AndroidManifest.xml" timestamp="1601497870030">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/androidTest/java/com/thisclicks/wiw/UserMigrationsTest.kt" timestamp="1601502712398">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="13" column="38" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/androidTest/java/com/thisclicks/wiw/UserMigrationsTest.kt" timestamp="1601561019942">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.3.0/506c97f735db13fda1943c4eb95f2ccfc7b457e0/runner-1.3.0-sources.jar!/androidx/test/runner/AndroidJUnit4.java" timestamp="1601502250062" />
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/data/user/UserMigrationsTest.kt" timestamp="1601502446436">
@@ -325,15 +324,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>testImplementation
-testImplementation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>testImplementation</text>
+        <text>MigrationDb::class.java.canonicalName,</text>
       </register>
       <register name="/" type="4">
         <text>sourcesets</text>
@@ -341,36 +339,36 @@ testImplementation</text>
       <register name="0" type="2">
         <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6cnVubmVyOjEuMy4wJwo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="8">
         <text>testImplementation
 testImplementation</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5yb29tOnJvb20tdGVzdGluZzokcm9vdFByb2plY3QuZXh0LnJvb21WZXJzaW9uIgogIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6cnVubmVyOjEuMy4wJwogIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6Y29yZToxLjMuMCcK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5yb29tOnJvb20tdGVzdGluZzokcm9vdFByb2plY3QuZXh0LnJvb21WZXJzaW9uIgogIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6cnVubmVyOjEuMy4wJwogIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6Y29yZToxLjMuMCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gImFuZHJvaWR4LnJvb206cm9vbS10ZXN0aW5nOiRyb290UHJvamVjdC5leHQucm9vbVZlcnNpb24iCiAgdGVzdEltcGxlbWVudGF0aW9uICdhbmRyb2lkeC50ZXN0OnJ1bm5lcjoxLjMuMCcKICB0ZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6Y29yZToxLjMuMCcK</text>
+        <text encoding="base64">ICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5yb29tOnJvb20tdGVzdGluZzokcm9vdFByb2plY3QuZXh0LnJvb21WZXJzaW9uIgogIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6cnVubmVyOjEuMy4wJwogIGFuZHJvaWRUZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6Y29yZToxLjMuMCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6cnVubmVyOjEuMy4wJwogIHRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdDpjb3JlOjEuMy4wJwo=</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gImFuZHJvaWR4LnJvb206cm9vbS10ZXN0aW5nOiRyb290UHJvamVjdC5leHQucm9vbVZlcnNpb24iCiAgdGVzdEltcGxlbWVudGF0aW9uICdhbmRyb2lkeC50ZXN0OnJ1bm5lcjoxLjMuMCcKICB0ZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6Y29yZToxLjMuMCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdDQK</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gJ2FuZHJvaWR4LnRlc3Q6cnVubmVyOjEuMy4wJwogIHRlc3RJbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHgudGVzdDpjb3JlOjEuMy4wJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gImFuZHJvaWR4LnJvb206cm9vbS10ZXN0aW5nOiRyb290UHJvamVjdC5leHQucm9vbVZlcnNpb24iCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdDQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhbmRyb2lkeC50ZXN0LmV4dDpqdW5pdDoK</text>
+        <text encoding="base64">ICB0ZXN0SW1wbGVtZW50YXRpb24gImFuZHJvaWR4LnJvb206cm9vbS10ZXN0aW5nOiRyb290UHJvamVjdC5leHQucm9vbVZlcnNpb24iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhbmRyb2lkeC50ZXN0LmV4dDpqdW5pdDoK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
