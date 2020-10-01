@@ -148,12 +148,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftClockInArchitecture.kt" timestamp="1601592207877">
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftClockInArchitecture.kt" timestamp="1601592315272">
         <mark key="'" line="202" column="28" />
-        <mark key="[" line="336" column="44" />
-        <mark key="]" line="338" column="4" />
-        <mark key="^" line="338" column="4" />
-        <mark key="." line="338" column="3" />
+        <mark key="[" line="337" column="56" />
+        <mark key="]" line="338" column="49" />
+        <mark key="." line="338" column="48" />
+        <mark key="^" line="338" column="49" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/res/layout/layout_shift_schedule.xml" timestamp="1601590014299">
         <mark key="'" line="49" column="58" />
@@ -333,13 +333,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCBzaG91bGRTaG93UG9zaXRpb25GaWVsZCA9IHBvc2l0aW9uICE9IG51bGwK</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>shiftId</text>
+        <text>shouldShowPositionField</text>
       </register>
       <register name="/" type="4">
         <text>clockinuserid</text>
@@ -348,26 +348,25 @@
         <text encoding="base64">ICBhbmRyb2lkOmZvcmVncm91bmQ9Ij9hbmRyb2lkOnNlbGVjdGFibGVJdGVtQmFja2dyb3VuZCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCBzaG91bGRTaG93UG9zaXRpb25GaWVsZCA9IHBvc2l0aW9uICE9IG51bGwK</text>
       </register>
-      <register name="2" type="4">
-        <text>tmpClockInUserId,
-            shiftId = shiftId</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBzZWxlY3RlZFBvc2l0aW9uID0gc2hpZnQucG9zaXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjYW5DbG9ja0luID0gcHVuY2hTdGF0ZS5jYW5DbG9ja0luKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdG1wQ2xvY2tJblVzZXJJZCA9IGlmIChjbG9ja0luVXNlcklkID4gMCkgewogICAgICAgICAgVGltYmVyLnRhZygiV0lXVFJBQ0UiKS5kKCJTaGlmdENsb2NrSW5QcmVzZW50ZXIuaGFuZGxlQ2xvY2tJbkNsaWNrZWQ6IGNsb2NraW5nIGluIGFub3RoZXIgdXNlcjsgY2xvY2tJblVzZXJJZD0kY2xvY2tJblVzZXJJZDsgdGhyZWFkPSR7VGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5uYW1lfSIpCiAgICAgICAgICBjbG9ja0luVXNlcklkCiAgICAgICAgfSBlbHNlIGN1cnJlbnRVc2VyLmlkCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzaG91bGRTaG93UG9zaXRpb25GaWVsZCA9IHNoaWZ0LnBvc2l0aW9uICE9IG51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -375,8 +374,9 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>tmpClockInUserId,
+            shiftId = shiftId</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
