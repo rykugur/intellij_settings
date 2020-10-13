@@ -43,4 +43,12 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="trace" value="timber.log.Timber.tag(&quot;WIWTRACE&quot;).d(&quot;$CLASS_NAME$.$METHOD_NAME$: $content$&quot;);" description="timber-&gt;&quot;TRACE&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
