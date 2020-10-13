@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>finish</entry>
-        <entry>ignor</entry>
         <entry encoding="base64">XDxmcmFnbWVudFN0YXRlXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVGcmFnbWVudFN0YXRlXD4=</entry>
         <entry>println</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxleHBlY3RlZENsc1w+</entry>
         <entry>placeholder</entry>
         <entry encoding="base64">XDxnZXRTaGlmdHNGb3JcPg==</entry>
+        <entry>Dispatchers</entry>
+        <entry>after</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -137,12 +137,12 @@
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftClockInPresenterTest.kt" timestamp="1602519958169">
         <mark key="'" line="59" column="25" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionArchitecture.kt" timestamp="1602539141700">
-        <mark key="'" line="114" column="25" />
-        <mark key="[" line="131" column="13" />
-        <mark key="]" line="131" column="13" />
-        <mark key="." line="131" column="13" />
-        <mark key="^" line="131" column="5" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionArchitecture.kt" timestamp="1602613318091">
+        <mark key="'" line="133" column="119" />
+        <mark key="[" line="134" column="12" />
+        <mark key="]" line="135" column="6" />
+        <mark key="^" line="135" column="6" />
+        <mark key="." line="135" column="5" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ShiftAssumptionLogicTest.kt" timestamp="1602537806776">
         <mark key="'" line="253" column="0" />
@@ -164,10 +164,12 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionPresenterTest.kt" timestamp="1602539271470">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionPresenterTest.kt" timestamp="1602613475650">
+        <mark key="'" line="124" column="105" />
+        <mark key="[" line="123" column="86" />
+        <mark key="]" line="124" column="106" />
+        <mark key="." line="124" column="105" />
+        <mark key="^" line="124" column="106" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/di/RepositoryModule.kt" timestamp="1602527818826">
         <mark key="[" line="208" column="35" />
@@ -182,9 +184,10 @@
         <mark key="." line="153" column="0" />
         <mark key="^" line="51" column="10" />
       </file>
-      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" timestamp="1602538701408">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
+      <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" timestamp="1602613232857">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="42" />
         <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" timestamp="1602519083953">
@@ -231,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/build.gradle" />
-      <jump line="16" column="0" filename="/build.gradle" />
       <jump line="437" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftClockInArchitecture.kt" />
       <jump line="98" column="44" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftClockInArchitecture.kt" />
       <jump line="439" column="8" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftClockInArchitecture.kt" />
@@ -267,7 +267,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" />
       <jump line="187" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" />
       <jump line="274" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutArchitecture.kt" />
-      <jump line="105" column="2" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" />
       <jump line="359" column="24" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" />
       <jump line="103" column="6" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" />
       <jump line="367" column="14" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" />
@@ -331,54 +330,58 @@
       <jump line="48" column="26" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutActivity.kt" />
       <jump line="133" column="22" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionArchitecture.kt" />
       <jump line="114" column="25" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionArchitecture.kt" />
+      <jump line="140" column="119" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/main/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionArchitecture.kt" />
+      <jump line="105" column="0" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" />
+      <jump line="26" column="17" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/ClockInOutPresenterTest.kt" />
+      <jump line="126" column="105" filename="$USER_HOME$/code/android/gits/wheniwork-android/WhenIWork/src/test/java/com/thisclicks/wiw/clockin/clockinout/fragment/ShiftListSelectionPresenterTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW55PFNoaWZ0TGlzdFNlbGVjdGlvbkRhdGFTdGF0ZT4oKQ==</text>
       </register>
       <register name="l" type="4">
         <text>Flag.LAUNCHDARKLY_POC_TEST.getKey(), Flag.LAUNCHDARKLY_POC_TEST.getDefaultValue())).thenReturn(true);</text>
       </register>
       <register name="-" type="4">
-        <text>fitChosen</text>
+        <text encoding="base64">YW55PFNoaWZ0TGlzdFNlbGVjdGlvbkRhdGFTdGF0ZT4oKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTaGlmdHNGb3JcPg==</text>
+        <text>after</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeUJsb2NraW5nKHB1bmNoU3RhdGVSZXBvc2l0b3J5KSB7IGdldFB1bmNoU3RhdGUoYW55KCkpIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBidW5kbGU6IEJ1bmRsZSA9IG1vY2sgewogICAgICBvbiB7IGdldExvbmdBcnJheShTaGlmdExpc3RTZWxlY3Rpb25LZXlzLlNISUZUX0lEUykgfSBkb1JldHVybiBsb25nQXJyYXlPZigxTCkKICAgICAgb24geyBnZXRMb25nKFNoaWZ0TGlzdFNlbGVjdGlvbktleXMuQ0xPQ0tfSU5fVVNFUl9JRCwgLTEpIH0gZG9SZXR1cm4gLTFMCiAgICB9CiAgICAKICAgIHByZXNlbnRlci5hdHRhY2hWaWV3KHZpZXcsIGJ1bmRsZSkKICAgIAogICAgdmVyaWZ5QmxvY2tpbmcoc2hpZnRzUmVwb3NpdG9yeSkgeyBnZXRTaGlmdEJ5SWQoMUwsIGZhbHNlKSB9CiAgICB2ZXJpZnkodmlldykucmVuZGVyKGFueTxTaGlmdExpc3RTZWxlY3Rpb25EYXRhU3RhdGU+KCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZlcmlmeSh2aWV3KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQocHJlc2VudGVyLnZpZXcpLmlzTm90RXF1YWxUbyhudWxsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oImluc2lkZSBhc3luYzsgaXQ9JGl0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJpbnNpZGUgbWFwOyBpdD0kaXQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCAK</text>
+        <text encoding="base64">CiAgICB0cnkgewogICAgICB2YWwgdG1wU2hpZnRzID0gc2hpZnRzLmF3YWl0KCkKICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICBwcmludGxuKCJleGNlcHRpb249JGUiKQogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5EaXNwYXRjaGVycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgcHJlc2VudGVyLmZyYWdtZW50U3RhdGUgPSBDbG9ja0luT3V0RnJhZ21lbnRTdGF0ZS5Ob1NoaWZ0U2NoZWR1bGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -387,9 +390,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRTaGlmdHNGb3JcPg==</last-search>
+      <last-search>after</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTaGlmdHNGb3JcPg==</last-pattern>
+      <last-pattern>after</last-pattern>
       <last-replace encoding="base64">IHsgcmVuZGVy</last-replace>
       <last-substitute encoding="base64">XDxnZXRTaGlmdHNGb3JcPg==</last-substitute>
       <last-dir>1</last-dir>
