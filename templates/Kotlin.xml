@@ -36,4 +36,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="intialpresenter" value="  internal var view: RenderableView? = null&#10;  internal var state: ViewState = ViewState.InitialState&#10;  &#10;  internal val scope = CoroutineScope(coroutineContextProvider.defaultContext)&#10;  private val errorHandler = CoroutineExceptionHandler{ _, error -&gt; &#10;    displayError(error)&#10;  }" description="Inserts some boilerplate presenter business" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
