@@ -1,5 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="visible" value="$END$visibility = View.VISIBLE" description="Inserts &quot;View.VISIBLE&quot; at cursor location" toReformat="false" toShortenFQNames="true">
+  <template name="visible" value="visibility = View.VISIBLE$END$" description="Inserts &quot;View.VISIBLE&quot; at cursor location" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_CLASS" value="false" />
@@ -10,7 +10,7 @@
       <option name="KOTLIN_TOPLEVEL" value="false" />
     </context>
   </template>
-  <template name="gone" value="$END$visibility = View.GONE" description="Inserts &quot;View.GONE&quot; at cursor location" toReformat="false" toShortenFQNames="true">
+  <template name="gone" value="visibility = View.GONE$END$" description="Inserts &quot;View.GONE&quot; at cursor location" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
       <option name="KOTLIN_CLASS" value="false" />
