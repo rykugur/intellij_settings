@@ -11,7 +11,6 @@
   <template name="logd" value="android.util.Log.d(LOGTAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Log.d(TAG, String)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="logderp" value="android.util.Log.d(&quot;DERP&quot;, &quot;$CLASS_NAME$.$METHOD_NAME$: $content$&quot;);" description="logderp" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
